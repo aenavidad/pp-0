@@ -1,3 +1,9 @@
 # pp-0
-private repo for paper work[^1]
-[^1]: init 23 dec 2024 in benque viejo, cy
+## abstract
+private repo for paper work
+## navigation
+- ``log`` is activity logs from 23 dec 2024
+## licence
+none
+## history
+init 23 dec 2024 in benque viejo, cy

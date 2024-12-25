@@ -11,7 +11,7 @@ imported and generated calendar data
 | `id` | c_ | unique identifier |
 | `cat_url` | https_ | PARES url |
 | `cod` | 0/1/^^^ | will record be coded?[^0 no, 1 yes] |
-| `cod_n` | _/^^^ | `codg` value notes |
+| `cod_n` | _/^^^ | `cod` value notes |
 | `stat` | 0/1/2/\-^-/^^^ | coding status[^0 not yet started, 1 started and ongoing, 2 completed] |
 | `stat_n` | _/^^^ | `stat` value notes |
 |  |  |  |

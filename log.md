@@ -14,7 +14,7 @@
 - [x] check events again for post-`v-1.4` work[^cartas next touched in `pre-git-hist/files/purp/1638 series *.tsv` on 9 jul 2022, then `purp/PARES-*.txt`, then `purp/1638 cartas *.tsv`, then `yell/data *.tsv` on 27 jul 2022 w last recorded mod on 3 aug 2022]
 - [x] check work in `work/*-22`
 - [x] check work in `work/*-23`
-- [ ] get latest data version in `txt` for `git`
+- [x] get latest data version in `txt` for `git`[^got in `tsv` and `json`]
 
 ## prior log
 * for `v-1.4`, first written by 7 sep 2021, last updated 24 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work\versioning\sheets varids.tsv`]

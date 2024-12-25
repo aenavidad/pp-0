@@ -15,6 +15,7 @@
 - [x] check work in `work/*-22`
 - [x] check work in `work/*-23`
 - [x] get latest data version in `txt` for `git`[^got in `tsv` and `json`]
+- [ ] split `list.json` for easier handling?
 
 ## prior log
 * for `v-1.4`, first written by 7 sep 2021, last updated 24 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work\versioning\sheets varids.tsv`]

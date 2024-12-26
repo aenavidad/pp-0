@@ -2,23 +2,10 @@
 ## abstract
 imported and generated calendar data
 ## navigation
-- `list.tsv` list of manuscripts calendared[^from `pre-git-hist/files/yell/data manuscripts agi 1.1-scrap*.tsv`]
-- `list.json` list of manuscripts calendared plus coding data[^from `data manuscripts agi 1.1-scrap*.tsv` and `data manuscripts agi 1.1-GTa*.tsv`]
-- `c*.txt` individual record[^from `data manuscripts agi 1.1-scrap*.tsv` and `data manuscripts agi 1.1-GTa*.tsv`]
+- ~~`list.tsv` list of manuscripts calendared[^from `pre-git-hist/files/yell/data manuscripts agi 1.1-scrap*.tsv`]~~
+- ~~`list.json` list of manuscripts calendared plus coding data[^from `data manuscripts agi 1.1-scrap*.tsv` and `data manuscripts agi 1.1-GTa*.tsv`]~~
+- `c*.json` individual record[^from `data manuscripts agi 1.1-scrap*.tsv` and `data manuscripts agi 1.1-GTa*.tsv`]
 ## dictionary
-### tsv
-| var | values | note |
-|:--|:--|:--|
-| `id` | c_ | unique identifier |
-| `cat_url` | https_ | PARES url |
-| `cod` | 0/1/^^^ | will record be coded?[^0 no, 1 yes] |
-| `cod_n` | _/^^^ | `cod` value notes |
-| `stat` | 0/1/2/\-^-/^^^ | coding status[^0 not yet started, 1 started and ongoing, 2 completed] |
-| `stat_n` | _/^^^ | `stat` value notes |
-
-- `^^^` is a null but applicable and retrievable value
-- `-^-` is a null and either not applicable or not retreivable value
-
 ### json
 | var | type | values | note |
 |:--|:--|:--|:--|
@@ -30,7 +17,7 @@ imported and generated calendar data
 #### work object
 | var | type | values | note |
 |:--|:--|:--|:--|
-| `cod` | boolean | - | will record be coded |
+| `cod` | boolean | - | will record be coded? |
 | `cod_n` | string | - | `cod` notes |
 | `stat` | number | - | coding status[^0 not yet started, 1 started and ongoing, 2 completed] |
 | `stat_n` | string | - | `stat` notes |

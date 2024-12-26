@@ -2,7 +2,8 @@
 ## abstract
 private repo for paper work
 ## navigation
-- ``log`` is activity logs from 23 dec 2024
+- ``log`` has activity logs from 23 dec 2024
+- `/cartas` has manuscript data
 ## licence
 none
 ## history

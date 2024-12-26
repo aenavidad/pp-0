@@ -16,7 +16,8 @@
 - [x] check work in `work/*-23`
 - [x] get latest data version in `txt` for `git`[^got in `tsv` and `json`]
 - [x] split `list.json` for easier handling?[^yes with ``for i in `seq 0 5239`; do jq ".[$i]" list.json > "c$i.json"; done``, plus remove `cartas/list.*` to keep only object files]
-- [ ] fix `cod` values[^must be `true` if any `data` value is not `null`]
+- [x] fix `cod` values[^must be `true` if any `data` value is not `null` - done but not rechecked]
+- [ ] mark `true` for null values of `cod` for cartas de Guat/Mex w/in 15 yrs of 1630[^up to 1619 (year done) on 21.20 of 25 dec]
 
 ## prior log
 * for `v-1.4`, first written by 7 sep 2021, last updated 24 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work\versioning\sheets varids.tsv`]

@@ -1,8 +1,8 @@
 {
   "id": "c99",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": true,
+    "cod_n": "is from Guat/Mex w/in 15 yrs of 1630",
     "stat": null,
     "stat_n": null
   },

@@ -1,0 +1,27 @@
+{
+  "id": "c2026",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362453",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., muertes del factor de Los Grillos y de otras personas al conducir los esclavos de su asiento de Veracruz a México. 2 fs. Anejo:1.- Testimonio de los autos hechos sobre lo sucedido en la venta de La Rinconada, en el motín y levantamiento de los negro bozales. México, 24-VII-1671. 42 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-07-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

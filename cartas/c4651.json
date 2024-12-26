@@ -1,0 +1,27 @@
+{
+  "id": "c4651",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369009",
+    "docs": 1,
+    "title": "Informaciones: Pedro de Estrada y Escobedo",
+    "scope": "Informaciones de oficio y parte: Pedro de Estrada y Escobedo, licenciado, clérigo presbítero, natural de Veracruz y vecino de México. Cuaderno con información y traslado de títulos",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

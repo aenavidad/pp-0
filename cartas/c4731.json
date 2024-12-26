@@ -1,0 +1,27 @@
+{
+  "id": "c4731",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361671",
+    "docs": 1,
+    "title": "Testimonio de la querella puesta por Sancho de Barahona",
+    "scope": "Testimonio de la querella puesta en la residencia del marqués de Cerralbo por Sancho de Barahona, escribano del crimen de la Audiencia de México, y de los autos e información que se hicieron.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-07-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

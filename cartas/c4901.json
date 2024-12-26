@@ -1,0 +1,27 @@
+{
+  "id": "c4901",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351962",
+    "docs": 2,
+    "title": "Informaciones: Pedro del Valle y Antillón",
+    "scope": "Informaciones de oficio y parte: Pedro del Valle y Antillón, relator de la Audiencia de Guatemala. Información contenida de 1633, con parecer de la Audiencia de 1636",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

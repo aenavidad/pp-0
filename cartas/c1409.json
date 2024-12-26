@@ -1,0 +1,27 @@
+{
+  "id": "c1409",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367236",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE BALLESTEROS CORTES",
+    "scope": "Expediente de Confirmación de los oficios de escribano público de Indias y escribano público de Tlaxcala a José Ballesteros Cortés. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675-01-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1793",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362602",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., orden de sacar 1.000 pesos de multa a los oficiales de la Real Hacienda. 2 fs. Anejo:1.- Testimonio de autos sobre sacar 1.000 pesos de multa a los oficiales de la Real Hacienda. México, 2-VII-1673. 24 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-06-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

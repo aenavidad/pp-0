@@ -1,0 +1,27 @@
+{
+  "id": "c4095",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361801",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "Carta del virrey conde de Salvatierra al rey sobre el estado en que halló la Nueva España y su Real Hacienda y el que hoy tiene. 29 folios. Anejos: 1.- Testimonio de las Ordenanzas mandadas hacer por el virrey marqués de Guadalcázar referente al oro y plata de rescate y otros géneros que no están quintados. México, 22-12-1644. 8 folios. 2.- Carta del virrey duque de Escalona a Juan de Palafox y Mendoza, visitador de la Nueva España, respondiéndole sobre lo que advierte acerca de los portugueses. 20-11-1641. 6 folios. 3.- Relación ajustada con los autos fulminados sobre lo tocante a las alcabalas de la ciudad de México y del estado en que las halló el virrey con la nueva disposición en que quedan al presente. México, 15-9-1643. 4 folios.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1645-02-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

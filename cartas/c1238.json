@@ -1,0 +1,27 @@
+{
+  "id": "c1238",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349195",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial y testimonios de autos del cabildo secular de Santiago de Guatemala, solicitando se hagan observar las cédulas concedidas a dicho cabildo por los anteriores monarcas, para el bien de la ciudad y sus naturales.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1678-09-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

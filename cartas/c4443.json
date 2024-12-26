@@ -1,0 +1,27 @@
+{
+  "id": "c4443",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350509",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: LAZARO DE BERGANZA",
+    "scope": "Expediente de Confirmación del oficio de escribano público de Acazabastlán, en Guatemala a Lázaro de Berganza. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1639-09-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

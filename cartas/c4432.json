@@ -1,0 +1,27 @@
+{
+  "id": "c4432",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351086",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE YAMAVAL, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Yamaval, Uluzuapa, Jocotan y Lenguaiquin en San Miguel a Matias Tejero. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1639-11-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

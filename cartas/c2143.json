@@ -1,0 +1,27 @@
+{
+  "id": "c2143",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350764",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO DE OSIO Y JAUREGUI",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de Sansonate y guarda mayor de Acajutla a Pedro de Osio y Jaúregui. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-10-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

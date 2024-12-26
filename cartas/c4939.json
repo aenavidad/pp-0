@@ -1,0 +1,27 @@
+{
+  "id": "c4939",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368987",
+    "docs": 2,
+    "title": "Informaciones: Cristóbal de Pedraza",
+    "scope": "Informaciones de oficio y parte: Cristóbal de Pedraza, licenciado, clérigo presbítero, cura beneficiado de la iglesia de San José en la ciudad de Los Angeles. Sólo traslado de títulos y provisiones, y extracto del Consejo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c3814",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369060",
+    "docs": 2,
+    "title": "Informaciones: Religiosos agustinos",
+    "scope": "Informaciones de oficio y parte: Hecha por la Audiencia de México para averiguar si los religiosos agustinos de la provincia de Michoacán, guardan la alternativa que por bula apostólica está asentada. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1649",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

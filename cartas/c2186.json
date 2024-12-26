@@ -1,0 +1,27 @@
+{
+  "id": "c2186",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367151",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN RUIZ DE ZAVALA Y LOIS",
+    "scope": "Expediente de Confirmación del oficio de maestre de campo de Nueva España a Juan Ruiz de Zavala y Lois. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-11-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

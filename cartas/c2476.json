@@ -1,0 +1,27 @@
+{
+  "id": "c2476",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362246",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey marqués de Mancera al rey sobre la remisión de 41.000 pesos procedidos del derecho de media anata. 2 fs. Anejo: 1.- Minuta de Real Cédula de la reina gobernadora al marqués de Mancera, virrey de méxico, informándole que los oficiales reales de México no han remitido los 41.000 pesos procedidos de la media annata. Madrid, 31-XII-1666. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1668-08-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

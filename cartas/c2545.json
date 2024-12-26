@@ -1,0 +1,27 @@
+{
+  "id": "c2545",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362193",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "Carta del virrey marqués de Mancera al rey sobre las partidas que el presidente de Guadalajara escribió que había remitido a la Caja de México. 2 fs. Anejo: 1.- Informe del virrey sobre la Real Cédula del 4.07.1644, que motivó la relación hecha al rey por el presidente de la Audiencia de Guadalajara. México, 24-XI-1665. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1667-06-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

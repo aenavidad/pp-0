@@ -1,0 +1,27 @@
+{
+  "id": "c2530",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362178",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., noticias de enemigos. Socorro al general de la flota de 2.500 libras de pólvora. 2 fs. Anejo:1.- Testimonio de lo discurrido acerca de las noticias de enemigos. México, 15-IV-1667. 8 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1667-04-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2502",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367079",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ANTONIO DE LANDA SALAZAR",
+    "scope": "Expediente de Confirmación del oficio de regidor de México a Antonio de Landa Salazar. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1667-02-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

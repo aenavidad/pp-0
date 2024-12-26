@@ -1,0 +1,27 @@
+{
+  "id": "c3482",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361922",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "Carta del virrey duque de Alburquerque dando cuenta de la información que hizo el arzobispo contra un oidor de México. 8 fs. Anejo: 1.- El arzobispo al virrey, y respuesta de éste, sobre que se había de guardar en las procesiones, en que concurriesen el virrey y arzobispo. 19-VI-1657. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1657-07-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

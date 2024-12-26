@@ -1,0 +1,27 @@
+{
+  "id": "c4530",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366633",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ANTONIO MONROY FIGUEROA",
+    "scope": "Expediente de Confirmación del oficio de regidor de México a Antonio Monroy Figueroa. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637-01-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

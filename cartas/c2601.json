@@ -1,0 +1,27 @@
+{
+  "id": "c2601",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349188",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Expediente sobre los gastos en las entradas de los nuevos presidentes de la Audiencia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1667-12-01.",
+    "upd": "1670-06-14."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

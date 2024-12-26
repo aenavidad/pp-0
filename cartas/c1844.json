@@ -1,0 +1,27 @@
+{
+  "id": "c1844",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349721",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Memorial e información de Luis de León Villegas, oficial mayor de la Real Contaduría de Guatemala, solicitando cédula de recomendación para que el presidente de Guatemala le de alguna ayuda de costa.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1673-03-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

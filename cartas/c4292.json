@@ -1,0 +1,27 @@
+{
+  "id": "c4292",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366679",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO ZARATE Y AGUERO",
+    "scope": "Expediente de Confirmación del oficio de escribano real de Indias a Francisco Zárate y Aguero. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642-05-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

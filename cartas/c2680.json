@@ -1,0 +1,27 @@
+{
+  "id": "c2680",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362142",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., remite memorial del Gobernador y caciques principales de Tlaxcala, representando la razón que tienen para que en las ocasiones que se escribiere a las ciudades de Nueva España, se escriba a aquella ciudad. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1666-08-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

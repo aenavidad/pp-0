@@ -1,0 +1,27 @@
+{
+  "id": "c2030",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362456",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey sobre la obra del Sagrario de la Catedral de México. 4 fs. Anejos: 1.- Informe del estado de la obra de la Catedral de México. México, 21-7-1671. 4 fs. 2.- Traslado de la consulta que hizo Jerónimo Pardo de Lago al virrey marqués de Mancera el 27 de julio de 1671 sobre la conveniencia de continuar la obra de la portada mayor. México, 29-7-1671. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-08-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

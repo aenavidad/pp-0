@@ -1,0 +1,27 @@
+{
+  "id": "c3150",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349687",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta cuenta de Agustín Matute del Castillo, tesorero y Damián de Ochaita, contador, remitiendo copia de la carta cuenta que envian a la Casa de Contratación.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1661-01-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

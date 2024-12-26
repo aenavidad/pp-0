@@ -1,0 +1,27 @@
+{
+  "id": "c787",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347837",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre la entrada en la costa del mar del sur de diferentes navíos con vinos del Perú.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-04-04.",
+    "upd": "1676-01-30."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

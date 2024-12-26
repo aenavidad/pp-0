@@ -1,0 +1,27 @@
+{
+  "id": "c1143",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349749",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero, informando del envio de caudales a la Casa de Contratación de Sevilla.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-05-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

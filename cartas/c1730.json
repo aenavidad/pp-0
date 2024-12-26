@@ -1,0 +1,27 @@
+{
+  "id": "c1730",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362606",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El virrey a S.M., sobre la orden de remitir a La Habana 6500 pesos para la obra de un cuartel de infantería. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-06-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

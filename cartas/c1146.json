@@ -1,0 +1,27 @@
+{
+  "id": "c1146",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367305",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: IGNACIO GOMEZ",
+    "scope": "Expediente de Confirmación de los oficios de capitan de guerra, alcaide y centinela del Puerto de Río de Lagartos a Ignacio Gómez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1678-01-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

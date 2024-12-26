@@ -1,0 +1,27 @@
+{
+  "id": "c2425",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367100",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: RODRIGO DEL CASTILLO VILLEGAS",
+    "scope": "Expediente de Confirmación del oficio de regidor de la Puebla de Los Angeles a Rodrigo del Castillo Villegas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1668-06-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

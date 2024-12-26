@@ -1,0 +1,27 @@
+{
+  "id": "c4163",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361785",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "Carta del conde de Salvatierra, dando cuenta de los resultados obtenidos en los experimentos que se han hecho para beneficiar la plata:azogue que se trajo desde Cartagena en las urcas del capitán Pedro Girón, que fue repartido entre los mineros, y experimentos de que se encargó Luis de Berrio, alcalde del crimen de la Audiencia de México, remitiéndose a lo que éste escribe.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1644-06-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

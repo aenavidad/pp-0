@@ -1,0 +1,27 @@
+{
+  "id": "c94",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347135",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Dos testimonios de autos sobre los pleitos y querellas que hay contra el fiscal Antonio Coello de Portugal.",
+    "desc": null,
+    "locn": "Santiago de Guatemala",
+    "lbd": "1618-06-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

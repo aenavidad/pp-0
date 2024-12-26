@@ -1,0 +1,27 @@
+{
+  "id": "c4603",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1481243",
+    "docs": 1,
+    "title": "Carta del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "Copia de capítulo de carta del Virrey al rey sobre dar negros a los mineros de Nueva Vizcaya, según informe del oidor Íñigo de Argüello.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637-07-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

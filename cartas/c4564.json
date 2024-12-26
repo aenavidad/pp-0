@@ -1,0 +1,27 @@
+{
+  "id": "c4564",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361662",
+    "docs": 1,
+    "title": "Diligencia sobre las comisiones de visitador y juez de residencia de Pedro de Quiroga y Moya",
+    "scope": "Diligencias sobre la entrega de los papeles referentes a las comisiones a cargo de Pedro de Quiroga y Moya, difunto, de visitador del puerto de Acapulco y de juez de residencia del virrey marqués de Cerralbo.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

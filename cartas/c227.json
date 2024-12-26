@@ -1,0 +1,27 @@
+{
+  "id": "c227",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347268",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de la Audiencia de Guatemala y de otras autoridades civiles y eclesiásticas en recomendación de los méritos de Pedro de Aguilar Laso de la Vega.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1631-08-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

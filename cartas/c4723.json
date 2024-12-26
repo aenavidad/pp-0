@@ -1,0 +1,27 @@
+{
+  "id": "c4723",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361667",
+    "docs": 1,
+    "title": "Traslado de escritura de concierto otorgada por Pedro Serrano",
+    "scope": "Traslado mandado por Pedro de Quiroga y Moya, juez de residencia de la Nueva España, de la escritura de concierto otorgada por Pedro Serrano en favor de Antonio de Vergara, tocante a las salinas del Peñol Blanco y Santa María.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-06-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

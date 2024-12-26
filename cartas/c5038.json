@@ -1,0 +1,27 @@
+{
+  "id": "c5038",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/21523",
+    "docs": 1,
+    "title": "Bosquejo del valle y cuenca de México, su sistema hidrológico y proyectos de desagüe de sus lagunas.",
+    "scope": "Orientado con soles con topónimos que indican el norte y el sur.   Presenta el valle de México y su sistema hidrológico. En el centro la cuenca lacustre alrededor de la ciudad de México, rodeada de una albarrada de la que parten tres calzadas, cerrada en tres de sus lados por sierras volcánicas, que hacen de divisorias de los ríos que vierten hacia el norte y hacia el sur. Muestra los proyectos de desagüe de Enrico Martínez y Simón Méndez, hacia el norte; de fray Cristóbal Diaz, hacia el este; y de fray Sebastián de Ygeribar [sic, probablemente por Garay] y Miguel Ruiz de Parada hacia el sur.   Mención de autoría y detallada explicación del proyecto en la documentación asociada: por Miguel Sánchez de Parada.   Amplia toponimia. Las poblaciones en alzado, de forma cúbica con puerta central y rematadas por tejado plano y cruz.   Tras las inundaciones de la ciudad de México de 1626, 1627 y 1629 se hizo más evidente la necesidad del desagüe de las lagunas de México. El proyecto de Enrico Martínez se dio por finalizado con su muerte en 1632 y tras ella fueron presentados numerosos proyectos de desagües parciales. El presentado por Miguel Ruiz de Parada en 1632, que proponía un desagüe general para todas las lagunas y al que corresponde este mapa, no fue aprobado.   Número de registro: 1030.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1632",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

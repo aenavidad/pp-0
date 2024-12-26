@@ -1,0 +1,27 @@
+{
+  "id": "c4056",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361823",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "El Virrey a S.M., da cuenta de la llegada de la flota y resolución que se tomó sobre manifestaciones. 2 fs. Anejo:1.- Traslado de la orden que dio el Virrey para la de la composición de las mercaderías que vinieran fuera de registro en la flota del general Don Lorenzo de Córdoba y Zúñiga. México, 12-X-1646. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1646-10-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

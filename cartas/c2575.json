@@ -1,0 +1,27 @@
+{
+  "id": "c2575",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362170",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey marqués de Mancera al rey sobre la libertad del regidor Francisco de Gatica, comprometiéndose éste a pagar lo que debe a la Real Hacienda y de embarcarse para España en la presente flota. 2 fs. Anejo: 1.- Testimonio de las condiciones y requisitos para dejar en libertad al regidor Francisco de Gatica. México, 30-III-1667. 15 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1667-03-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

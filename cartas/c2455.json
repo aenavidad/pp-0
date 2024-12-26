@@ -1,0 +1,27 @@
+{
+  "id": "c2455",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362224",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey marqués de Mancera al rey sobre el socorro para las islas Filipinas. 2 fs. Anejos: 1.- Real Cédula para que socorra las islas Filipinas. Madrid, 11-XI-1666. 2 fs. 2.- Relación de lo enviado a las islas Filipinas desde 1665 hasta la fecha. México, 28-V-1668. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1668-05-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

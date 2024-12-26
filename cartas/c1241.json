@@ -1,0 +1,27 @@
+{
+  "id": "c1241",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349936",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Carta de Juan de Casanova y Francisco Martínez de Eguiluz, oficiales reales de la provincia de Honduras, informando del recibo de reales cédulas prohibiendo el comercio de vino con Perú.",
+    "desc": null,
+    "locn": "Comayagua, (Honduras)",
+    "lbd": "1678-12-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

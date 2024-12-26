@@ -1,0 +1,27 @@
+{
+  "id": "c1258",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367300",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE PIEDRA CORTES",
+    "scope": "Expediente de Confirmación del oficio de escribano público de México a José Piedra Cortés. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-05-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

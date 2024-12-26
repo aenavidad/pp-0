@@ -1,0 +1,27 @@
+{
+  "id": "c1601",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362617",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Rivera",
+    "scope": "Carta del virrey Payo Enríquez de Rivera a S.M. informa que su primera actuación como virrey ha sido sobre la mejora del cobro de la Real Hacienda y y haber hecho el mayor envío que ha sido posible en la flota a cargo del general Pedro Corbete; asimismo que ha ordenado que no se pague nada sin su noticia y que los oficiales reales certifiquen las cantidades que hay en el presente en la Caja Real de México. 2 folios. Anejo: 1.- Testimonio del decreto y razón tomada por los oficiales reales para que no se pague ninguna cantidad durante el despacho de Filipinas y flota, de fecha 16-12-1673. México, 3-2-1674. 2 folios. 2.- Testimonio del decreto del virrey y certificación de los oficiales reales de las cantidades que se hallaban en la Caja Real en el tiempo en el virrey tomó posesión del gobierno. México, 3-2-1674. 2 folios.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1674-01-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

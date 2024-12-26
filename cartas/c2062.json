@@ -1,0 +1,27 @@
+{
+  "id": "c2062",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362487",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., cobranza y envío a España de 500 pesos en que fue condenado Don Nicolás Pérez de Azcárraga. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-11-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

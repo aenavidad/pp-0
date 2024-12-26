@@ -1,0 +1,27 @@
+{
+  "id": "c3889",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369057",
+    "docs": 7,
+    "title": "Informaciones: Francisco de Córdoba Villafranca",
+    "scope": "Informaciones de oficio y parte: Francisco de Córdoba Villafranca, capitán, corregidor de México. Con dos ejemplares de parecer de la Audiencia y otro ejemplar de la información. Con varios traslados y testimonios",
+    "desc": null,
+    "locn": null,
+    "lbd": "1648",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

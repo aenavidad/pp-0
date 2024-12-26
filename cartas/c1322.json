@@ -1,0 +1,27 @@
+{
+  "id": "c1322",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367263",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN DE LA CARRERA FIGUEROA",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de Teguacan a Juan de la Carrera Figueroa. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676-04-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c3741",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351993",
+    "docs": 9,
+    "title": "Informaciones: Matias de Aldana",
+    "scope": "Informaciones de oficio y parte: Matias de Aldana, vicario de Chiapa. No hay información solo documentación acreditativa de sus méritos. (1637-1650)",
+    "desc": null,
+    "locn": null,
+    "lbd": "1651",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

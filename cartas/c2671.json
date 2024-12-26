@@ -1,0 +1,27 @@
+{
+  "id": "c2671",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362106",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey marqués de Mancera al rey sobre la orden de los oficiales reales de Guadalajara sobre repartimientos de azogues en punto que parece ser da la jurisdicción del virrey. 2 fs. Anejos: 1.- Testimonio tocante al repartimiento de azogues de Guadalajara. México, 22-III-1666. 6 fs. 2.- Real Cédula al virrey que cuando enviare azogues a la provincia de Guadalajara avise al presidente de la cantidad que remite para que intervenga en su distribución. Madrid, 5-II-1664. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1666-02-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

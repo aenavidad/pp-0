@@ -1,0 +1,27 @@
+{
+  "id": "c4468",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369025",
+    "docs": 3,
+    "title": "Informaciones: Juan Cano",
+    "scope": "Informaciones de oficio y parte: Juan Cano, doctor, abogado mas antiguo de la Audiencia de México, rector de la Universidad de México, natural y vecino de México. Con información de oficio y parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

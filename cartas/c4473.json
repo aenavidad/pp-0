@@ -1,0 +1,27 @@
+{
+  "id": "c4473",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369038",
+    "docs": 1,
+    "title": "Informaciones: Blas Mejía de Paz",
+    "scope": "Informaciones de oficio y parte: Blas Mejía de Paz, bachiller, clérigo presbítero, vecino de México.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

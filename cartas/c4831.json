@@ -1,0 +1,27 @@
+{
+  "id": "c4831",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361663",
+    "docs": 1,
+    "title": "Traslado de escritura hecha por el Consulado de México",
+    "scope": "Traslado de la escritura de composición y concierto que se hizo por el Consulado y comercio de la ciudad de México, por los excesos cometidos en la contratación de Filipinas, a causa de la visita que hizo Pedro de Quiroga y Moya al puerto de Acapulco.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1635-12-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

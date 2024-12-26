@@ -1,0 +1,27 @@
+{
+  "id": "c4291",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366678",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: TOMAS SOLORZANO",
+    "scope": "Expediente de Confirmación del oficio de regidor de Colima a Tomás Solórzano. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642-05-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

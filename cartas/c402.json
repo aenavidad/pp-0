@@ -1,0 +1,27 @@
+{
+  "id": "c402",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347446",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre el descubrimiento y explotación de las minas de Tegucigalpa. (Con antecedentes de 1645-1651)",
+    "desc": null,
+    "locn": null,
+    "lbd": "1652-01-20.",
+    "upd": "1654-04-14."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

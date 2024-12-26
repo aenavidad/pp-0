@@ -1,0 +1,27 @@
+{
+  "id": "c4850",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366566",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: GABRIEL ARIAS DE PAZ",
+    "scope": "Expediente de Confirmación del oficio de escribano público de Tehuacan a Gabriel Arias de Paz. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634-02-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

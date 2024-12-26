@@ -1,0 +1,27 @@
+{
+  "id": "c945",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347997",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Lope de Sierra Osorio, presidente de la Audiencia de Guatemala, al secretario del Consejo José de Veitia Linaje.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1680-04-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c243",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347284",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Testimonio de Francisco de Carvajal de lo sucedido en el corredor de la Capilla donde escuchan misa el presidente y los oidores de la Audiencia.",
+    "desc": null,
+    "locn": "Santiago de Guatemala",
+    "lbd": "1636-07-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c41",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348775",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Baltasar de la Cruz, Gobernador de Honduras.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1645-03-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": "re memo de gob re pres de guat y su jurisdicción /v fol 1 img 1"
+  }
+}

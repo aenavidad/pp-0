@@ -1,0 +1,27 @@
+{
+  "id": "c3554",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349673",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Francisco de Montoya y Valencia, contador, y Agustín Matute del Castillo, tesorero, informando de la recaudación de la tercia parte de la vacante del Obispado de dicha ciudad por muerte de Bartolomé González Soltero. Con real cédula",
+    "desc": null,
+    "locn": null,
+    "lbd": "1655-06-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

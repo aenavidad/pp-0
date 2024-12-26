@@ -1,0 +1,27 @@
+{
+  "id": "c4570",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361684",
+    "docs": 1,
+    "title": "Traslado de Real Cédula prohibiendo prender al corregidor de México",
+    "scope": "Traslado de una Real Cédula por la que se prohibe prender al corregidor de la ciudad de México sin antes haberlo consultado y comunicado con el virrey. El Pardo, 26 de noviembre de 1563.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637-07-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

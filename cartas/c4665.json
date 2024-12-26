@@ -1,0 +1,27 @@
+{
+  "id": "c4665",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361629",
+    "docs": 1,
+    "title": "Carta del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "El Virrey a S.M., embargo de bienes de franceses. Embargo de escrituras. Duplicado del L.I.fs.238-240 3 fs. Anejos: 1.- Real Cédula dirigida al Virrey para que en represalia se embarguen todos los bienes y hacienda de todos lo franceses comprendidos en los términos de su gobierno. Madrid, 28-VI-1635. 2 fs. 2.- Certificación de los oficiales reales de Veracruz y San Juan de Ulúa sobre lo que esta caja ha entrado por cuenta de la represalia de hacienda de franceses. Veracruz, 4-IV-1636. 2 fs. 3.- Certificación del secretario de la junta de armada de Barlovento y contador de la represalia de bienes de franceses en Nueva España, sobre las cantidades de maravedís que se la han entregado por cuenta de dicha represalia. México, 15-IV-1636. 5 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-04-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4650",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369008",
+    "docs": 9,
+    "title": "Informaciones: Juan Ortíz de Oraa",
+    "scope": "Informaciones de oficio y parte: Juan Ortiz de Oraa, doctor, clérigo presbítero, juez ordinario del Santo Oficio y abogado de la Real Hacienda, vecino de México. Memorial con información, parecer del cabildo de la ciudad de México, testimonios de la Universidad y del Santo Oficio de 1634, testimonio de la cátedra de prima de 1636 y extractos del Consejo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

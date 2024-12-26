@@ -1,0 +1,27 @@
+{
+  "id": "c10",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348743",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de García Garabito de León y Mendoza, Gobernador de Honduras, y testimonio de autos sobre la toma de cuentas a los oficiales reales de Honduras de los años 1614, 1615 y 1616.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1617-11-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4525",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361710",
+    "docs": 1,
+    "title": "Decretos del Consejo de Indias",
+    "scope": "Relación hecha en el Consejo de Indias de los arbitrios que había que beneficiar señalados en la Instrucción que llevó el virrey marqués de Cadereyta, y lo decretado sobre ello.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1638-02-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

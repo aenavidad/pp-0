@@ -1,0 +1,27 @@
+{
+  "id": "c3580",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350672",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ALONSO PAZ ESCALANTE",
+    "scope": "Expediente de Confirmación del oficio de regidor y depositario general de Santísima Trinidad de Sonsonate a Alonso Paz Escalante. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1654-09-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

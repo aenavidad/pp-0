@@ -1,0 +1,27 @@
+{
+  "id": "c4074",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349646",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Juan Jiménez, tesorero, y Juan de Alcedo Serralta, contador informando de la residencia de Martín Alfonso de la Tovilla, Alcalde Mayor de la provincia de Zapotitlán, y sobre la renta de la encomienda de Francisco de Fuentes y Guzmán.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1646-03-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

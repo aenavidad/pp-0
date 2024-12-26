@@ -1,0 +1,27 @@
+{
+  "id": "c4110",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351124",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE TEGUCIGALPA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Tegucigalpa, Eramdique, Agalteca y San Pedro Tapoli en Honduras a Francisco Mazariegos Manso y de Contreras. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1645-02-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c3037",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367889",
+    "docs": 2,
+    "title": "Informaciones: Baltasar Díez de Angulo",
+    "scope": "Informaciones de oficio y parte: Baltasar Díez de Angulo, escribano, vecino de México. Información contenida de 1561. Incluye parecer de la Audiencia. Hay otro ejemplar de la información, con parecer",
+    "desc": null,
+    "locn": null,
+    "lbd": "1662",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

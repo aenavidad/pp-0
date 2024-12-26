@@ -1,0 +1,27 @@
+{
+  "id": "c1893",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362535",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., importe del tesoro que trae la flota. 2 fs. Anejo:1.- Carta cuenta de los oficiales reales de la Veracruz por donde consta lo que importa el tesoro que lleva la flota a la Casa de la Contratación de Sevilla. Veracruz, 28-V-1672. 14 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-05-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

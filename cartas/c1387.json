@@ -1,0 +1,27 @@
+{
+  "id": "c1387",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351240",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN FRANCISCO DE LOS MOYOS, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Francisco de los Moyos, Aguacetanango en Chiapa a Juan de Villafuerte y Tobilla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676-06-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

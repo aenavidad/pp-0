@@ -1,0 +1,27 @@
+{
+  "id": "c1948",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367173",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MARCOS DE PADILLA",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de las minas de Simapan a Marcos de Padilla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-09-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

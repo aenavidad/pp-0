@@ -1,0 +1,27 @@
+{
+  "id": "c2871",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367044",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ALFONSO MONSALVE",
+    "scope": "Expediente de Confirmación del oficio de tesorero de la Hacienda de Mérida del Yucatán a Alfonso Monsalve. Pendiente",
+    "desc": null,
+    "locn": null,
+    "lbd": "1664-11-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

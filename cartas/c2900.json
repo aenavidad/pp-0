@@ -1,0 +1,27 @@
+{
+  "id": "c2900",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362024",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey Obispo de Puebla a S.M., averiguación de excesos que cometió Don Alonso Ortiz de Oraa en el tiempo que fue gobernador del arzobispado. 16.VIII.1664. 4 fs. Anejo: 1.- Testimonio de una información hecha en virtud de real cédula sobre que Don Alonso Ortiz de Oraa, al tiempo que fue gobernador del arzobispado de México, en las visitas de los conventos se hacía recibir como prelado consagrado. México, 7-VIII-1664. 46 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1664-08-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

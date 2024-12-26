@@ -1,0 +1,27 @@
+{
+  "id": "c4410",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369031",
+    "docs": 9,
+    "title": "Informaciones: José Díaz de Herrera",
+    "scope": "Informaciones de oficio y parte: José Díaz de Herrera, bachiller, clérigo presbítero, natural de Los Angeles. Con información de oficio. Cuatro pareceres, una información hecha en 1640 y un extracto del. Consejo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1639",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

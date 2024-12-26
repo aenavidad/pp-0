@@ -1,0 +1,27 @@
+{
+  "id": "c2070",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362495",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., da cuenta de haberle pedido el Virrey del Perú socorro de 2.000 arcabuces y 1.000 mosquetes labrados en la ciudad de Puebla. 2 fs. Anejo:1.- Testimonio de los autos y diligencias hechas tocantes a las armas de fuego que pide el Virrey del Perú. México, 23-XII-1671. 27 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-12-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

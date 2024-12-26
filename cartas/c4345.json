@@ -1,0 +1,27 @@
+{
+  "id": "c4345",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351099",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE JALTEBA",
+    "scope": "Expediente de Confirmación de Encomienda de Jalteba en Nicaragua a Diego Caldera de Ovando. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1641-12-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

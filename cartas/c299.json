@@ -1,0 +1,27 @@
+{
+  "id": "c299",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347341",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Copia de las capitulaciones matrimoniales de Alvaro de Quiñones Osorio, presidente de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": "Panamá",
+    "lbd": "1646-10-31.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

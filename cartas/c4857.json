@@ -1,0 +1,27 @@
+{
+  "id": "c4857",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368994",
+    "docs": 2,
+    "title": "Informaciones: Juan Ruiz de Céspedes",
+    "scope": "Informaciones de oficio y parte: Juan Ruiz de Céspedes, portero de la sala del crimen. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

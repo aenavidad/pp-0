@@ -1,0 +1,27 @@
+{
+  "id": "c3488",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361928",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "Carta del virrey duque de Alburquerque al rey sobre lo realizado en la fábrica de la Catedral de México. 2 fs. Anejo: 1.- Certificación dada por el tesorero, mayordomo y pagador de la obra y fábrica de la Catedral de México sobre lo realizado y el estado en que se halla dicha fábrica. México, 15-IX-1657. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1657-10-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

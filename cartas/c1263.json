@@ -1,0 +1,27 @@
+{
+  "id": "c1263",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367283",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MARTIN DE POSADAS Y AGURTO",
+    "scope": "Expediente de Confirmación del oficio de notario de Indias a Martín de Posadas y Agurto. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-01-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

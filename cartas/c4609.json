@@ -1,0 +1,27 @@
+{
+  "id": "c4609",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361697",
+    "docs": 1,
+    "title": "Testimonio del valor y quilates de perlas que se envían",
+    "scope": "Testimonio de las perlas que sacó el Capitán Francisco Ortega de California, que se envían al rey, y de su valor y quilates.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

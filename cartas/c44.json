@@ -1,0 +1,27 @@
+{
+  "id": "c44",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348778",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre el nombramiento de maestre de campo que ha hecho el Presidente de la Audiencia de Guatemala y defensa de aquellos puertos.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1656-07-10.",
+    "upd": "1658-05-29."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "Inc re defence / 79 IMGS MAY NEED CLOSER READING 17 JUL 2022",
+    "mil_n": null
+  }
+}

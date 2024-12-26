@@ -1,0 +1,27 @@
+{
+  "id": "c4310",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351101",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN SEBASTIAN",
+    "scope": "Expediente de Confirmación de Encomienda de San Sebastián en Guatemala a Fernando Ruiz de Contreras. Denegado",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642-04-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

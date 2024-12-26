@@ -1,0 +1,27 @@
+{
+  "id": "c3356",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350693",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DOMINGO DE ARIBILLAGA",
+    "scope": "Expediente de Confirmación del oficio de capitán de infantería de la nación vascongada de Guatemala a Domingo de Aribillaga. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1659-09-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

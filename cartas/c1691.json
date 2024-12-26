@@ -1,0 +1,27 @@
+{
+  "id": "c1691",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350784",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ALONSO DE CONTRERAS",
+    "scope": "Expediente de Confirmación de los oficios de escribano público y del juzgado mayor de visitas de San Salvador, en Guatemala a Alonso de Contreras. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-12-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

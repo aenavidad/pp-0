@@ -1,0 +1,27 @@
+{
+  "id": "c5209",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350443",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DIEGO MARTINEZ DE AYALA",
+    "scope": "Expediente de Confirmación del oficio de alférez mayor de San Salvador a Diego Martínez de Ayala. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1630-10-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4874",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361735",
+    "docs": 1,
+    "title": "Cuaderno de cartas remitidas por el virrey Lope Díez de Armendáriz, marqués de Cadereyta",
+    "scope": "Cuaderno de todas las cartas que el virrey marqués de Cadereyta escribió al rey en 1637, papeles y recaudos que con ella vinieron y decretos del Consejo. Con índice. 385 fs",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634",
+    "upd": "1638"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4408",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369035",
+    "docs": 2,
+    "title": "Informaciones: Antonio de Avila",
+    "scope": "Informaciones de oficio y parte: Antonio de Avila, clérigo presbítero, cura del partido de Hocaba. Con parecer del Marqués de Santo Floro",
+    "desc": null,
+    "locn": null,
+    "lbd": "1639",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

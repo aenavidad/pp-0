@@ -1,0 +1,27 @@
+{
+  "id": "c1714",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367206",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ANTONIO ROBLES Y SAMANO",
+    "scope": "Expediente de Confirmación del oficio de escribano público de la ciudad de Puebla de Los Angeles a Antonio Robles y Samano. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1673-05-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

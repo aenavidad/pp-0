@@ -1,0 +1,27 @@
+{
+  "id": "c5195",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349391",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial de Ciudad Real de Chiapa, solicitando que el pago de ayudas de costa se realize en la misma ciudad y no en Santiago de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1630-12-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

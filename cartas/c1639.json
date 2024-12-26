@@ -1,0 +1,27 @@
+{
+  "id": "c1639",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362660",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Rivera",
+    "scope": "Carta del virrey Payo Enríquez de Rivera a S.M., sobre el envío de la carta cuenta correspondiente al ingreso en la Caja de Veracruz de 2.245.510 pesos, 1 tomín y 2 granos, de los cuales se han pagado todos los situados y rebajado otras cantidades distribuidas según orden real, por lo que el líquido que se remite en la flota es de 1.736.489 pesos, 2 tomines y 9 granos. 2 folios.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1674-05-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

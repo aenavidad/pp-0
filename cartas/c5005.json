@@ -1,0 +1,27 @@
+{
+  "id": "c5005",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361594",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., nueva de armada enemiga en Barlovento. Incendio en San Juan de Ulúa. Memorial del ayudante Francisco González. Queja del gobernador de La Habana. Bastimentos de la armada. Escuadra para Barlovento. Fuerza de Acapulco. Navíos enemigos en costas de Guadalajara. Gobernador de Filipinas. Fortificación de Campeche. Hay duplicado. 4 fs. Anejo:1.- El Gobernador de Campeche Don Fernando Centeno Maldonado al Virrey, sobre la fortificación de aquellos puertos. Campeche, 7-X-1632. Hay triplicado. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1632-10-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

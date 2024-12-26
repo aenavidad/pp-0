@@ -1,0 +1,27 @@
+{
+  "id": "c483",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347528",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Certificación de cómo el presidente Fernando Altamirano, ordenó a los oficiales reales diesen las cuentas del tiempo que actuaron como tales.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1655-06-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

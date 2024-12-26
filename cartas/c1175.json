@@ -1,0 +1,27 @@
+{
+  "id": "c1175",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362799",
+    "docs": 1,
+    "title": "Cartas del virrey Payo Enríquez de Ribera",
+    "scope": "El Virrey a S.M., restitución a la Hacienda por Don Pedro Velázquez de la Cadena, de 33.741 pesos, 1 tomín y 10 granos, por haberlos cobrado con el pretexto de diezmo, doctrina y fábrica de la encomienda que goza",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1678-02-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

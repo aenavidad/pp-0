@@ -1,0 +1,27 @@
+{
+  "id": "c4055",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361822",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "El Virrey a S.M., remite testimonio de la comisión que dió al alcalde del crimen Don Luis de Berrio para la fundación de unas minas de azogue. 2 fs. Anejo: 1.- Testimonio de la comisión que dio el Virrey al Licenciado Luis Berrio alcalde del crimen de México, para ir al puesto de Asuchitlán, donde son las minas de azogue que se manifestaron y haga su población y fundación ejecutando lo necesario. México, 28-II-1646. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1646-09-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

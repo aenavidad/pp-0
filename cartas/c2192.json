@@ -1,0 +1,27 @@
+{
+  "id": "c2192",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367118",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO MUÑEZ DE PRADO Y SOTOMAYOR",
+    "scope": "Expediente de Confirmación del oficio de escribano real de Indias a Francisco Nuñez de Prado y Sotomayor. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-03-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

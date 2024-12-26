@@ -1,0 +1,27 @@
+{
+  "id": "c2299",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351216",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE TAPALGUACA, ETC",
+    "scope": "Expediente de Confirmación de encomienda de Tapalguaca, Cachinameca y San Julián Caluta en El Salvador en Guatemala a Diego de Quiroga y Moya. Pendiente",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-05-05.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

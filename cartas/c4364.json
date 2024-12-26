@@ -1,0 +1,27 @@
+{
+  "id": "c4364",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366670",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO PEREZ DE CABEZAS",
+    "scope": "Expediente de Confirmación del oficio de regidor de Carrión, en el Valle de Atrisco a Pedro Pérez de Cabezas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1640-04-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

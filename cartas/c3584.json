@@ -1,0 +1,27 @@
+{
+  "id": "c3584",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349666",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Francisco de Montoya y Valencia, contador y Juan Méndez de Sotomayor, informando del envio de caudales y del acatamiento de la real cédula para el ahorro en el costo de los fletes. Con testimonio de autos",
+    "desc": null,
+    "locn": null,
+    "lbd": "1654-03-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

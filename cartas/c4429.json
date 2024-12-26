@@ -1,0 +1,27 @@
+{
+  "id": "c4429",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351083",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE HUEHUETENANGO, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Huehuetenango, Mazatenango, Santa Bárbara, San Sebastián, Santa Isabel, Chil y Chiantla en Guatemala a Tomás Cilieza Velasco. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1639-04-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

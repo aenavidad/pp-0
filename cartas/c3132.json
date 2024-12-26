@@ -1,0 +1,27 @@
+{
+  "id": "c3132",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361984",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Leyva de la Cerda, conde de Baños",
+    "scope": "El Virrey a S.M., da cuenta de haber muerto el chantre de México y propone persona para la vacante. 30.XI.1661. 2 fs. Anejo:1.- Relación que hace Don Simón Esteban Beltrán de Alzate, canónigo magistral de la iglesia de México, de los méritos de su persona, a quien el Virrey propone para la vacante de la chantría de dicha iglesia. 1661 [SUP]. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1661-11-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

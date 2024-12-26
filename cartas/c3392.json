@@ -1,0 +1,27 @@
+{
+  "id": "c3392",
+  "work": {
+    "cod": true,
+    "cod_n": "is carta de Yuc",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369651",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta de Francisco de Bazán, Gobernador de Yucatán.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1658-07-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4906",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349210",
+    "docs": 18,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Testimonios de autos hechos en Madrid y Santiago de Guatemala, correspondientes a la Ordenanza dada a ésta ciudad en 1614, sobre:comercio de regidores; fiel ejecutor; jurisdicción del Valle de Guatemala; visita y jurisdicción sobre indios del fiel ejecutor; concesión de agua al cabildo de Santiago; concesión del fruto del primer año de los repartimientos vacantes en segunda vida; pesca en la laguna de Amatitlán y Petapa; gastos de la celebración de las fiestas de la Pura y Limpia Concepción y San Nicolás -patrones de la ciudad-; para que en los potreros se pueda sacar piedra y segar hierba; conocimiento de causas de difuntos fuera del distrito; que las escrituras de alcabalas pasen ante los escribanos públicos; concesión de la mitad de las penas de cámara; concesión de la provincia de Soconusco al obispado de Chiapa; calle hecha al convento de Nuestra Señora de la Concepción; envio de jueces de comisión y ejecutores; jurisdicción de la ciudad, reparto y encomienda general de los pueblos de indios.",
+    "desc": null,
+    "locn": "Madrid y Santiago de Guatemala",
+    "lbd": "1634",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4565",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361654",
+    "docs": 1,
+    "title": "Carta de Andrés Gómez de Mora, fiscal de la Audiencia de México",
+    "scope": "El licenciado Andrés Gómez de Mora, fiscal de la Audiencia de México, al rey, sobre la residencia que Pedro de Quiroga y Moya tomó al Virrey marqués de Cerralbo, la recusación que se interpuso por éste y el estado en que se halla dicha residencia.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

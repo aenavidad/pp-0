@@ -1,0 +1,27 @@
+{
+  "id": "c4910",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/21524",
+    "docs": 1,
+    "title": "Diseño de dos baluartes defensivos de la ciudad de Veracruz.",
+    "scope": "Ocupa la mitad superior dos de los baluartes de la ciudad de Veracruz. La mitad inferior la ocupa una gran nota explicativa sobre las dimensiones y construcción de los mismos. Al final las datas tópica y crónica: En la Veracruz, en veinte del mes de diziembre de mil y seiscientos y treinta y cuatro años.   Mención de autoría en el dibujo: ABoot fecit [Adrian Boot].   El baluarte A, denominado de la Caleta [también llamado de Nuestra Señora de la Concepción] se sitúa al norte. Tiene forma de pentágono regular. Se accede s por medio de rampa hasta una plataforma con merlones para montar la artillería. En la plataforma una garita para el cuerpo de guardia. Dispone de una garita de vigilancia en el lado opuesto al acceso. El baluarte B, cuyo nombre no se especifica [posiblemente sea el de Santiago], al sur. Tiene forma de heptágono irregular. El acceso también se hace por medio de rampa hasta la plataforma con merlones para montar la artillería. En la plataforma una garita para el cuerpo de guardia. Dispone de tres garitas de vigilancia   Estos dos grandes baluartes fueron las piezas iniciales del sistema defensivo de Veracruz para protegerla de los ataques de piratas y corsarios. Su construcción se inició len 1634. Situados frente a la costa, ambos cruzaban fuegos con la fortaleza de San Juan de Ulúa para dar mayor seguridad a la entrada del puerto y el canal. Fueron diseñados por el ingeniero militar Adrián Boot.   Número de registro: 1031. ",
+    "desc": null,
+    "locn": "Veracruz",
+    "lbd": "1634-12-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

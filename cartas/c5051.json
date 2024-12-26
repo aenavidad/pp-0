@@ -1,0 +1,27 @@
+{
+  "id": "c5051",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366531",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO MIGUEL FERRERA DE FIGUEROA",
+    "scope": "Expediente de Confirmación del oficio de escribano público de Orizaba a Francisco Miguel Ferrera de Figueroa. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-05-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c3900",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361846",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "El Virrey a S.M., da cuenta de la intempestiva a México del obispo de Yucatán y de las medida que tomó para ocurrir a la quietud pública. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1648-04-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

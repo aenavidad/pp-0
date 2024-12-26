@@ -1,0 +1,27 @@
+{
+  "id": "c3210",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361966",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "El Virrey a S.M., llegada de la flota con el Virrey Conde de Baños, y retraso en el despacho de ella por haber enfermado la gente. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1660-11-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

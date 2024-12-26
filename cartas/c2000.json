@@ -1,0 +1,27 @@
+{
+  "id": "c2000",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362429",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey sobre la retirada del enemigo [Henry Morgan] de Panamá y la llegada de la armadilla de Cartagena a la boca de Chagre. 4 fs. Anejos: 1.- Traslado de carta del obispo de Guatemala al virrey de México de 24 de abril de 1671, informándole la retirada del enemigo de Panamá. México, 19-5-1671. 2 fs. 2.- Carta del virrey sobre la retirada de ingleses de la ciudad de Panamá. México, 8-5-1671. 2 fs. 3.- Traslado de varios capítulos de cartas de autoridades sobre la retirada del enemigo de Panamá. México, 8-5-1671. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-05-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

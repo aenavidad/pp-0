@@ -1,0 +1,27 @@
+{
+  "id": "c4355",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350525",
+    "docs": 1,
+    "title": "Confirmación de oficio: Antonio Falcón.",
+    "scope": "Expediente de confirmación del oficio de escribano mayor de minas y registros de la Caja de Comayagua, en Honduras a Antonio Falcón. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1641-03-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

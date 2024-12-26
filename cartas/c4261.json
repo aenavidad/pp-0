@@ -1,0 +1,27 @@
+{
+  "id": "c4261",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351111",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE GUATEMALA",
+    "scope": "Expediente de Confirmación de Encomienda de Guatemala a Mariana de Artaza Ydiaguez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643-05-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

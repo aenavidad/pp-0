@@ -1,0 +1,27 @@
+{
+  "id": "c2341",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362283",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Licenciado Don Gonzalo Suárez informa a S.M. que Fray Diego González, comendador de la Merced va a esos reinos sin Licencia del Virrey ni de su vicario. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1669-05-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

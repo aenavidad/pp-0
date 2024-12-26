@@ -1,0 +1,27 @@
+{
+  "id": "c2018",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362401",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., socorro hecho a Diego Luis de San Vítores, de la Compañia de Jesús, para la conversión de las islas Marianas. 4 fs. Anejos:1.- Testimonio de autos tocantes al Padre de San Vítores, de la Compañía de Jesús, en las Islas Marianas. México, 17-I-1671. 18 fs. 2.- Testimonio de autos referentes a la conversión de las islas Marianas. México, 15-I-1671. 21 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-01-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

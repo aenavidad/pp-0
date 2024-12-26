@@ -1,0 +1,27 @@
+{
+  "id": "c4807",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351777",
+    "docs": 1,
+    "title": "Informaciones: Juan de Guevara",
+    "scope": "Informaciones de oficio y parte: Juan de Guevara, escribano de Cabildo y público de Santiago de Guatemala. Información contenida de 1599",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

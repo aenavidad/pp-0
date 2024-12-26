@@ -1,0 +1,27 @@
+{
+  "id": "c4469",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369026",
+    "docs": 1,
+    "title": "Informaciones: Roque de Pastrana",
+    "scope": "Informaciones de oficio y parte: Roque de Pastrana, doctor, clérigo presbítero, y su hermano Baltasar de la Torre, bachiller y clérigo presbítero.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

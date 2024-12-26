@@ -1,0 +1,27 @@
+{
+  "id": "c4571",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361685",
+    "docs": 1,
+    "title": "Querella de Francisco López de Peralta y Gonzalo Gómez de Peralta",
+    "scope": "Testimonio de los autos seguidos en la querella de Francisco López de Peralta y Gonzalo Gómez de Cervantes, vecinos de la ciudad de México, contra unos autos que se hicieron por capitulares de la ciudad sobre el reparto de las cuadrillas para la fiesta de cañas de San Hipólito del año 1634.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

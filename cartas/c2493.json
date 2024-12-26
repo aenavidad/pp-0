@@ -1,0 +1,27 @@
+{
+  "id": "c2493",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351996",
+    "docs": 2,
+    "title": "Informaciones: Lucas de Ugarte",
+    "scope": "Informaciones de oficio y parte: Lucas de Ugarte, clérigo presbítero domiciliado del obispado de Nicaragua.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1668",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

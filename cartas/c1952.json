@@ -1,0 +1,27 @@
+{
+  "id": "c1952",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367177",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DIEGO FRANCO DE ROJAS",
+    "scope": "Expediente de Confirmación del oficio de oficial mayor de la contaduría de tributos de Nueva España a Diego Franco de Rojas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-10-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

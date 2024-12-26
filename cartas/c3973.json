@@ -1,0 +1,27 @@
+{
+  "id": "c3973",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366756",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: CLEMENTE HIDALGO AGUERO",
+    "scope": "Expediente de Confirmación de los oficios de escribano público y de cabildo de Colima a Clemente Hidalgo Aguero. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1647-10-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

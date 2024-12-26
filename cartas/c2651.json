@@ -1,0 +1,27 @@
+{
+  "id": "c2651",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362114",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., envío en la capitana de la flota del General Centeno, 2.000 pesos para beatificación del venerable Gregorio López. 4 fs. Anejos:1.- Testimonio de haber mandado, registrado, 2.000 pesos para la beatificación del padre Gregorio López. México, 23-III-1666. 2 fs. 2.- Don José Centeno a Don Alonso Fernández de Lorca, informándole que no tiene noticia de los 2.000 pesos que vienen de México para la beatificación del venerable Gregorio López. Cádiz, 20-IX-1666. 2 fs. 3.- La Casa de la Contratación dice entregará al tesorero del Consejo los 2.000 pesos para la beatificación del venerable Gregorio López. Sevilla, 21-IX-1666. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1666-03-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

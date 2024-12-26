@@ -1,0 +1,27 @@
+{
+  "id": "c5150",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369175",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE MUNA",
+    "scope": "Expediente de Confirmación de Encomienda de Muna en Yucatán a Sebastián Mendoza y María Magaña Pacheco y Montejo. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1630-10-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

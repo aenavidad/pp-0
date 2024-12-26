@@ -1,0 +1,27 @@
+{
+  "id": "c2128",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349190",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, aprobando al Doctor D. José de Baños, canónigo de la Iglesia Catedral de Guatemala y remitiendo el sermón que el mismo hizo por la fiesta del Arcángel San Miguel",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-06-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

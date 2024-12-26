@@ -1,0 +1,27 @@
+{
+  "id": "c5020",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351948",
+    "docs": 1,
+    "title": "Informaciones: Pedro de Bonilla Gil",
+    "scope": "Informaciones de oficio y parte: Pedro de Bonilla Gil, canónigo de la Catedral de Guatemala. No hay información sólo documentos justificativos de sus méritos (1610-1631)",
+    "desc": null,
+    "locn": null,
+    "lbd": "1632",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

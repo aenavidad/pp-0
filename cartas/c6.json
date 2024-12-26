@@ -1,0 +1,27 @@
+{
+  "id": "c6",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348740",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Testimonio de que el fiscal de la Audiencia de Guatemala pidió que un oidor fuese a la provincia de Honduras para tratar el asunto de los cuentos reales y otros aspectos.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1614-05-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

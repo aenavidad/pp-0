@@ -1,0 +1,27 @@
+{
+  "id": "c1191",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362778",
+    "docs": 1,
+    "title": "Cartas del virrey Payo Enríquez de Ribera",
+    "scope": "El Virrey a S.M., disposiciones tocantes a la tesorería en la Real Caja. 144 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1678-01-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

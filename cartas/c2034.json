@@ -1,0 +1,27 @@
+{
+  "id": "c2034",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362460",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., envío a España de un aviso, procurando que sea con poco gasto. 2 fs. Anejo:1.- Testimonio sobre el fletamiento del navío de aviso. México, 8-VIII-1671. 10 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-08-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

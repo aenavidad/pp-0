@@ -1,0 +1,27 @@
+{
+  "id": "c2193",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369337",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SIOCHAC",
+    "scope": "Expediente de Confirmación de Encomienda de Siochac en Mérida de Yucatán a Tiburcio Pérez de Arriga. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-04-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

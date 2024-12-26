@@ -1,0 +1,27 @@
+{
+  "id": "c5196",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349444",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta de poder del cabildo secular de la villa del Realejo a nombre de Sebastián Ramírez.",
+    "desc": null,
+    "locn": "El Realejo, Nicaragua",
+    "lbd": "1630-02-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

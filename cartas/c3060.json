@@ -1,0 +1,27 @@
+{
+  "id": "c3060",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362001",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Leyva de la Cerda, conde de Baños",
+    "scope": "Expediente sobre que se saque la artillería del galeón Santiago que se perdió en la costa de Campeche. 21.XII.1662 - 25.VI.1664. 106 fs. y 4 h.en 4º",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1662-12-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

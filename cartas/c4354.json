@@ -1,0 +1,27 @@
+{
+  "id": "c4354",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350524",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: BALTASAR DE CABRERA",
+    "scope": "Expediente de confirmación del oficio de escribano público de Totonicapán, en Guatemala a Baltasar de Cabrera. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1641-03-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

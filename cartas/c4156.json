@@ -1,0 +1,27 @@
+{
+  "id": "c4156",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369227",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE MEXICO",
+    "scope": "Expediente de Confirmación de Encomienda en el distrito de la Audiencia de México a María Peraza de Ayala. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1644-09-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

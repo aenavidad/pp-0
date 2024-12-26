@@ -1,0 +1,27 @@
+{
+  "id": "c2027",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362454",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., relevación de tributos de los soldados negros y mulatos libres de Veracruz. 4 fs. Anejo:1.- Testimonio de los autos hechos sobre la reserva de los mulatos y negros libres de las compañías de la ciudad de Veracruz. México, 28-VII-1671. 14 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-07-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

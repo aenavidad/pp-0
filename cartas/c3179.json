@@ -1,0 +1,27 @@
+{
+  "id": "c3179",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369266",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE ZEME",
+    "scope": "Expediente de Confirmación de Encomienda de Zeme en Mérida de Yucatán a Miguel Díaz del Valla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1660-03-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

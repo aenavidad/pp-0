@@ -1,0 +1,27 @@
+{
+  "id": "c3177",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369264",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN FRANCISCO HOPCHEN",
+    "scope": "Expediente de Confirmación de Encomienda de San Francisco Hopchen en Llodecitbalchen en Campeche de Yucatán a Pedro de Frias Salazar. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1660-03-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

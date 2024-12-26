@@ -1,0 +1,27 @@
+{
+  "id": "c4401",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366655",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: NICOLAS DE ROBLES",
+    "scope": "Expediente de Confirmación del oficio de procurador ordinario de Queretaro, en Nueva España a Nicolás de Robles. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1639-05-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

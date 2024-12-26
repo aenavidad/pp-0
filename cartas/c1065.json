@@ -1,0 +1,27 @@
+{
+  "id": "c1065",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362869",
+    "docs": 1,
+    "title": "CAPITULACIONES DE LA CONQUISTA DE CALIFORNIA",
+    "scope": "El Virrey a S.M., estado de la cobranza de lo que tocaba al convento de San Benito el Real de Valladolid",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1679-06-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

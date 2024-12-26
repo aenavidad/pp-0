@@ -1,0 +1,27 @@
+{
+  "id": "c3679",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348896",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta de Andrés de Arbierto, Gobernador de Nicaragua.",
+    "desc": null,
+    "locn": "Granada",
+    "lbd": "1652-10-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

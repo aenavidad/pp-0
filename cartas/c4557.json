@@ -1,0 +1,27 @@
+{
+  "id": "c4557",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351081",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE ZAMBO, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Zambo, Chuliman, San Gregorio en Zapotitlán, Santa Isabel y Coneta en Chiapa a Manuel de Carranza. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637-07-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4328",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19492",
+    "docs": 1,
+    "title": "Plano del camino que se proyectaba entre Puerto Caballos y la Bahía de Fonseca.",
+    "scope": "Número de registro: 1273.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642-09-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

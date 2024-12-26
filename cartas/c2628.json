@@ -1,0 +1,27 @@
+{
+  "id": "c2628",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367077",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO GOMEZ DE PRADO",
+    "scope": "Expediente de Confirmación del oficio de notario real de las Indias a Pedro Gomez de Prado. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-12-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

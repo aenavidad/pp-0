@@ -1,0 +1,27 @@
+{
+  "id": "c4567",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361659",
+    "docs": 1,
+    "title": "Carta Ginés Alonso, escribano y receptor en Veracruz",
+    "scope": "Ginés Alonso, escribano y receptor en Veracruz y San Juan de Ulúa en la comisión de visitador y juez de residencia de Pedro de Quiroga y Moya, sobre las averiguaciones que hizo referente a los excesos del virrey marqués de Cerralbo en aquellos puertos y Caja.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

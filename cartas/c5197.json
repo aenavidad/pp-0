@@ -1,0 +1,27 @@
+{
+  "id": "c5197",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349926",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Petición de Antonio de Urzuriaga, tesorero de la provincia de Honduras, en la que solicita efectuar el pago de la fianza en dicha provincia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1630-02-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4832",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361679",
+    "docs": 1,
+    "title": "Información de testigos en la pesquisa de la residencia del virrey [Rodrigo Pacheco y Osorio], marqués de Cerralbo.",
+    "scope": "Información de testigos seguida en la pesquisa secreta de la residencia que Pedro de Quiroga y Moya tomó al marqués de Cerralbo, sus criados y allegados. México, 26 de abril de 1636. - García de Legazpi, caballero de la Orden de Santiago, adelantado de las Filipinas. Fol 500. - Pedro Cano, vecino y relator de la Audiencia de México. Fol. 512. - Andrés Fernández Navarro, contador de alcabalas de México. Fol. 582v. - Pedro Torres y Sosa, factor de Acapulco. Fol. 623v. - Juan Ramírez de Arellano, contador de Acapulco. Fol. 646v. - Bartolomé Rey de Alarcón, tesorero de Acapulco. Fol. 671v. - Bachiller Diego Nieto de Orozco, presbítero y vecino de México. Fol. 678v.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1635-09-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

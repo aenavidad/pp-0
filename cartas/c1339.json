@@ -1,0 +1,27 @@
+{
+  "id": "c1339",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369356",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE POPOLA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Popola, Quehac y Itixmucuy en Yucatán a Francisco Fernández de la Cueva, duque de Alburquerque. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676-02-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1307",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349733",
+    "docs": 5,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero, con testimonios y certificaciones, informando de la actuación de Fernando Francisco de Escobedo, presidente de la Audiencia de Guatemala, y de Jacinto Roldán de la Cueva, oidor, sobre el reintegro del importe de los tres repartimientos de indios del Valle de Guatemala asignados a la defensa del castillo de Granada, Nicaragua.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-11-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

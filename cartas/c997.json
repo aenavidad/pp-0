@@ -1,0 +1,27 @@
+{
+  "id": "c997",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367316",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ANDRES DE ALMOGUERA",
+    "scope": "Expediente de Confirmación del oficio de escribano de provincia de México a Andrés de Almoguera. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-01-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

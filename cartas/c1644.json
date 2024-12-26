@@ -1,0 +1,27 @@
+{
+  "id": "c1644",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362666",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Rivera",
+    "scope": "Carta del virrey Payo Enríquez de Rivera a S.M., informando de la muerte del virrey marqués de Mancera en Tepeaca y de lo ejecutado en sus exequias en la Catedral de México. 2 folios.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1674-04-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

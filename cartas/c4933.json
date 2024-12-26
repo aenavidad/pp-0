@@ -1,0 +1,27 @@
+{
+  "id": "c4933",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366557",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: CRISTOBAL AGUIRRE NOCHEBUENA",
+    "scope": "Expediente de Confirmación del oficio de escribano a Cristobal Aguirre Nochebuena. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633-11-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

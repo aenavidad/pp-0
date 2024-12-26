@@ -1,0 +1,27 @@
+{
+  "id": "c4311",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351102",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN ANTONIO SUCHITEPEQUE, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Antonio Suchutepeque, Tetitlan, Quilco, San Jerónimo Motozinta, San Francisco Motozinta y Amatenango en Sapotitlan de Guatemala a Juan Nuño de Paz y Cortés. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642-05-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

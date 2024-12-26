@@ -1,0 +1,27 @@
+{
+  "id": "c4700",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351973",
+    "docs": 2,
+    "title": "Informaciones: Pedro de Cilieza Velasco",
+    "scope": "Informaciones de oficio y parte: Pedro de Cilieza Velasco, alcalde ordinario y regidor de Guatemala. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

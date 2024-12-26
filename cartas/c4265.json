@@ -1,0 +1,27 @@
+{
+  "id": "c4265",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351115",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE CERQUIL",
+    "scope": "Expediente de Confirmación de Encomienda de Cerquil y Ozelotlán en los Sacapulas a Jose Fuentes y de la Cerda. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643-08-31.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

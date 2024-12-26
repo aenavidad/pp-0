@@ -1,0 +1,27 @@
+{
+  "id": "c1554",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350792",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: NICOLAS DE LOS REYES",
+    "scope": "Expediente de Confirmación del oficio de procurador del número de Chiapa a Nicolás de los Reyes. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675-01-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

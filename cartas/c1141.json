@@ -1,0 +1,27 @@
+{
+  "id": "c1141",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349747",
+    "docs": 8,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero, y testimonios, sobre los cien ducados de ayuda de costa, consignados anualmente a su favor, por cédula de 24 de diciembre de 1677. Con carta de la Audiencia de Guatemala, de 12 de mayo; de Lope de Sierra Osorio, presidente de la Audiencia, de 15 de mayo; de Juan de Ortega Montañés, obispo de Guatemala y Verapaz, de 15 de junio de 1678 y 25 de abril de 1679; e informe de Juan Bautista de Urquiola, oidor de la Audiencia de Guatemala, y del Obispo, de 18 de febrero de 1679",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-05-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

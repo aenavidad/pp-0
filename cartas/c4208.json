@@ -1,0 +1,27 @@
+{
+  "id": "c4208",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366689",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: AGUSTIN RANGEL",
+    "scope": "Expediente de Confirmación del oficio de escribano de la cámara del crimen de la Audiencia de México a Agustín Rangel. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643-04-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

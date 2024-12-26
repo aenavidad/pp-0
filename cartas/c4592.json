@@ -1,0 +1,27 @@
+{
+  "id": "c4592",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361719",
+    "docs": 1,
+    "title": "Carta del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "Carta del virrey marqués de Cadereyta al rey sobre asuntos de Filipinas y de guerra: - Fallecimiento de Pedro de Quiroga y Moya, visitador del puerto de Acapulco y de las naos de Filipinas. - Sobre la determinación que ha tomado Sebastián Hurtado de Corcuera, gobernador de Filipinas, de que las naos venga cada dos años en vez de anualmente. - Sobre lo informado por Sebastián Cerezo, gobernador de Filipinas, sobre los derechos que se pierden en aquellas islas en la salida de la plata. - Cumplimiento de los ordenado por Real Cédula de 9 de octubre de 1636 sobre los envíos que se realizan desde Filipinas. - Gastos realizado en los navíos. - Fabricación de artillería en Filipinas para la Armada de Barlovento. - Asiento con Pedro Enríquez de Alemida para fabricar ocho navíos en Santo Domingo. - Sobre el concierto reealizado con Pedro de Quiroga. - Fallecimiento de Juan Alfonso Crestin de Castilla, castellano de San Juan de Ulúa y el mombramiento oara este puesto de Martín Duarte Fernández Cerón y Tavera. - Sobre que no se sigan las diligencias para que los caballeros de las tres Órdenes Militares sirvan el tiempo de dispensación de las galeras y en su defecto paguen un soldado de infantería. - Remitiendo los despachos que envía el gobernador de Filipinas.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

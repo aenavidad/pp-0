@@ -1,0 +1,27 @@
+{
+  "id": "c1133",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19502",
+    "docs": 1,
+    "title": "Mapa del Golfo Dulce.",
+    "scope": "Por Diego Gómez de Ocampo. Numerado como 1ª. Con sendas leyendas explicativas en las esquinas inferior izquierda y superior derecha. Número de registro: 1281.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

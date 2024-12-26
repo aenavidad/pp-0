@@ -1,0 +1,27 @@
+{
+  "id": "c4718",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361661",
+    "docs": 1,
+    "title": "Interrogatorio de la pesquisa secreta en la residencia del virrey [Rodrigo Pacheco y Osorio], marqués de Cerralbo.",
+    "scope": "Interrogatorio de la pesquisa secreta de la residencia que Pedro de Quiroga y Moya tomó al virrey marqués de Cerralbo, sus criados y allegados.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

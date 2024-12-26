@@ -1,0 +1,27 @@
+{
+  "id": "c3740",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351992",
+    "docs": 2,
+    "title": "Informaciones: Fernando de Galvés",
+    "scope": "Informaciones de oficio y parte: Fernando de Galvés, alférez teniente de la compañia de a caballo de la ciudad de Santiago de Guatemala, vecino Santiago de Guatemala. Información contenida de 1641, con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1651",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2528",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362176",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., razón de lo que importa el Real tesoro registrado en la flota del cargo del Conde de Villalcázar. 2 fs. y 2 ho. en 4º Anejo:1.- Importe del tesoro registrado en esta flota. Veracruz, 9-IV-1667. 11 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1667-04-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

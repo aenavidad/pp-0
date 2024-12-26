@@ -1,0 +1,27 @@
+{
+  "id": "c5054",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366534",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN MENDEZ DE JARA",
+    "scope": "Expediente de Confirmación del oficio de receptor de la Audiencia de México a Juan Méndez de Jara. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-11-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

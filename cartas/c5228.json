@@ -1,0 +1,27 @@
+{
+  "id": "c5228",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369582",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial sobre el nombramiento de Teniente de gobernador de Yucatán a favor de Juan Díaz y Flores.",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1623-11-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

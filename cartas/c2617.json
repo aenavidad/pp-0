@@ -1,0 +1,27 @@
+{
+  "id": "c2617",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349713",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Damián de Ochaita, tesorero y Gregorio Vezares de Ayala, contador, informando de un préstamo hecho a la Audiencia de lo procedente de los bienes de Diego de Zúñiga.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1667-02-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

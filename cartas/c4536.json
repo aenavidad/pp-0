@@ -1,0 +1,27 @@
+{
+  "id": "c4536",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368824",
+    "docs": 1,
+    "title": "Informaciones: Juan Alonso Dávila",
+    "scope": "Informaciones de oficio y parte: Juan Alonso Dávila, alcalde ordinario de México, alcalde mayor de Coatzacoalcos, alcalde mayor de Veracruz y alcalde mayor de las minas de Zultepeque [sic por Sultepec]. Información contenida de 1613",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

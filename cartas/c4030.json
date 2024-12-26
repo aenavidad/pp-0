@@ -1,0 +1,27 @@
+{
+  "id": "c4030",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349447",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Expediente instruido a instancia de memorial del cabildo secular del Realejo, solicitando la concesión de 16.000 ducados para la reedificación de la iglesia parroquial, destruida a causa de un huracán. Acompaña testimonio y se adjunta una carta del cabildo de la misma villa de 25 de junio de 1647",
+    "desc": null,
+    "locn": null,
+    "lbd": "1647-06-25.",
+    "upd": "1648-10-12."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

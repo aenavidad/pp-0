@@ -1,0 +1,27 @@
+{
+  "id": "c4940",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368988",
+    "docs": 2,
+    "title": "Informaciones: Francisco de Cárdenas Valencia",
+    "scope": "Informaciones de oficio y parte: Francisco de Cárdenas Valencia, licenciado, cura y vicario de la provincia de Zotuta. Con testimonio de 1639 de nombramientos y comisiones",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

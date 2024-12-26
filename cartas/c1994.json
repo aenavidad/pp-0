@@ -1,0 +1,27 @@
+{
+  "id": "c1994",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362424",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey informado sobre las noticias de haber llegado a las Indias una escuadra francesa de ocho bajeles, habiendo hecho escala primero en Canarias, de las consultas que le hizo el general de flota y de lo resuelto sobre este tema con el parecer de la Junta General. 2 fs. Anejos: 1.- Testimonio de autos sobre las últimas noticias que vinieron de La Habana sobre una armadilla francesa que se estaba aprestando de mantenimientos y agua en la isla Vaca con el fin de atacar algún puerto de Tierra Firme. México, 30-4-1671. 13 fs. 2.- Testimonio de autos sobre haber entrado en el puerto de Tenerife una escuadra de ocho fragatas de guerra francesas, y entre ellas la del almirante de Francia, el conde de Estrés, con derrota para Indias. México, 4-5-1671. 12 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-05-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5004",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361593",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., despacho de plata y reales y salida de la flota. Proceder del arzobispo. Administración del viático en los indios. Reparos contra la inundación. Gobierno de Guadalajara por muerte del presidente. Tratamiento de Don. 4 fs. Anejos: 1.- Testimonio de las declaraciones de la gente del navío que el enemigo cogió en la costa de Campeche. Veracruz, 11-V-1632. 4 fs. 2.- Mandamiento de ruego y encargo del Virrey para los prelados seculares y regulares de la Nueva España, para que en sus diócesis y provincias los ministros de ellas vayan a administrar los santos sacramentos a los indios enfermos en sus casas, sin que les obliguen a que vayan a la iglesia. México, 28-V-1632. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1632-05-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

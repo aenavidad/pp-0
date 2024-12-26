@@ -1,0 +1,27 @@
+{
+  "id": "c3490",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361930",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "El Virrey a S.M., dice de las peticiones que dio el fiscal en el acuerdo sobre los edictos que publicó el obispo y acompaña copia de ellos. 8 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1657-12-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

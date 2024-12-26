@@ -1,0 +1,27 @@
+{
+  "id": "c4893",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351813",
+    "docs": 1,
+    "title": "Informaciones: Frutos Gómez Casillas",
+    "scope": "Informaciones de oficio y parte: Frutos Gómez Casillas, chantre y deán de la catedral de Chiapas. Información contenida de 1605",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

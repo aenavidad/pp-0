@@ -1,0 +1,27 @@
+{
+  "id": "c1580",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367228",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN ELIGIO DE ARISA",
+    "scope": "Expediente de Confirmación de los oficios de receptor de la Real Audiencia de México y notario de Indias a Juan Eligio de Arisa. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-12-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

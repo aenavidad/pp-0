@@ -1,0 +1,27 @@
+{
+  "id": "c3890",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369058",
+    "docs": 1,
+    "title": "Informaciones: Lucas de Ubiedo Cerezo",
+    "scope": "Informaciones de oficio y parte: Lucas de Ubiedo Cerezo, bachiller, cura del Real de Santa Fe minas de Guanajuato, natural de Madrid.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1648",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

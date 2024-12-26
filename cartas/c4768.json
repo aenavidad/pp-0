@@ -1,0 +1,27 @@
+{
+  "id": "c4768",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366599",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO MONTERO",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de Veracruz a Pedro Montero. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635-08-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

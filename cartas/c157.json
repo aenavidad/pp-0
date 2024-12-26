@@ -1,0 +1,27 @@
+{
+  "id": "c157",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347198",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de la Audiencia de Guatemala. (En el documento la fecha es la de 1620, y en el dorso aparece 1622)",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1622-10-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

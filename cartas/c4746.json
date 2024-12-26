@@ -1,0 +1,27 @@
+{
+  "id": "c4746",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361653",
+    "docs": 1,
+    "title": "Carta del cabildo secular de México",
+    "scope": "La ciudad de México al rey, sobre la comisión de visitador del puerto de Acapulco que se dio a Pedro de Quiroga y Moya.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-05-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

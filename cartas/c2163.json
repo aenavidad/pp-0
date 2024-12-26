@@ -1,0 +1,27 @@
+{
+  "id": "c2163",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367130",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MELCHOR JIMENEZ",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de las minas de Zultepeque a Melchor Jimenez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-04-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

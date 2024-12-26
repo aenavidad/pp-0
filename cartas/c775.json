@@ -1,0 +1,27 @@
+{
+  "id": "c775",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347825",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Pedro de Carvajal y Vargas, fiscal de la Audiencia de Guatemala, al secretario del Consejo, Francisco Fernández de Madrigal.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1673-07-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

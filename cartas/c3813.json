@@ -1,0 +1,27 @@
+{
+  "id": "c3813",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369056",
+    "docs": 2,
+    "title": "Informaciones: Pedro Pérez de Posada",
+    "scope": "Informaciones de oficio y parte: Pedro Pérez de Posada, licenciado, clérigo presbítero, vecino de La Puebla de los Angeles. Información contenida de 1648. Con testimonio de títulos de 1649",
+    "desc": null,
+    "locn": null,
+    "lbd": "1649",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

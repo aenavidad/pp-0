@@ -1,0 +1,27 @@
+{
+  "id": "c4742",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361651",
+    "docs": 1,
+    "title": "Carta del cabildo secular de México.",
+    "scope": "La ciudad de México al virrey sobre la consulta que hizo sobre los medios y arbitrios en que ha de fundar su servicio de los 200.000 pesos de renta para ayuda a la Armada de Barlovento y seno mexicano, con el parecer de Pedro de Quiroga y Moya.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-07-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

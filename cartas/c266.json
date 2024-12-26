@@ -1,0 +1,27 @@
+{
+  "id": "c266",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347308",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Testimonio de autos sobre la defensa de Trujillo, provincia de Honduras.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1640-06-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": "cf C Amaya p 106",
+    "codg_n": "incl re defence",
+    "mil_n": null
+  }
+}

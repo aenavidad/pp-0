@@ -1,0 +1,27 @@
+{
+  "id": "c1884",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362526",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., orden de enviar gente y armas para resguardo de los jesuítas misioneros de las islas Marianas. 2 fs. Anejos:1.- Testimonio sobre poner presidio en las islas de los Ladrones. México, 12-V-1672. 6 fs. 2.- Cédula al Virrey aprobándole lo resuelto en una Junta que hizo sobre enviar 18 soldados que asistan a los jesuítas que están en las islas de los Ladrones contra los indios. Madrid, 10-VI-1672. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-04-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

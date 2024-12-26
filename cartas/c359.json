@@ -1,0 +1,27 @@
+{
+  "id": "c359",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347402",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente en razón de cómo han de distribuirse la renta de las encomiendas vacantes.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1651-06-01.",
+    "upd": "1652-03-06."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

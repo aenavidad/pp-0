@@ -1,0 +1,27 @@
+{
+  "id": "c2560",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362206",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "Carta del virrey marqués de Mancera al rey sobre el pago a la Casa de la Moneda de México del préstamo de 80.000 pesos. Nuevo préstamo de 70.000 en suplemento de la plata de Durango. 2 fs. Anejos: 1.- El virrey a S.M., restitución a la Casa de la Moneda de México de 80.000 pesos que tomó prestados para engrosar el envío de la flota de 1666. México, 19IV-1667. 2 fs. 2.- S.M. al virrey, sobre lo que ejecutó para el buen despacho de la flota y espera se restituya los 80.000 pesos que tomó prestado. Madrid, 30-X-1666. 2 fs. 3.- Certificación del préstamo de 80.000 pesos para engrosar el envío de la flota. México, 18-IV-1667. 2 fs. 4.- Certificación de haberse pagado los 80.000 pesos prestados. México, 29-XI-1667. Nota de la secretaría S.F. 2 fs. y 2 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1667-11-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

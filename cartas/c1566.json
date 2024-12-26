@@ -1,0 +1,27 @@
+{
+  "id": "c1566",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/21525",
+    "docs": 1,
+    "title": "Bosquejo de la costa de Campeche y Laguna de Términos y su sistema fluvial.",
+    "scope": "Muestra un diseño muy esquemático de la costa de Campeche desde Tabasco a Guatemala y región interior desde el Petén. El punto central del mismo es la red hidrológica costera formada forman los ríos Grijalva, San Pedro y San Pablo y la Laguna de Términos y su cuenca fluvial, formada por los ríos Usumacinta, Palizada, Noscu [Chumpán] e Izguizil [Candelaria].   Notas explicativas en el mapa. Indica villas y ciudades. Caminos y distancias. Se indican los reinos mayas del Petén: El Asica, el Taiza, el Lacandón   Durante el XVII los piratas descubrieron en las costas del golfo de México, especialmente en la Laguna de Términos, un negocio mucho más lucrativo que los asaltos: el robo y corte del palo de tinte. Cuando Jamaica pasó a ser británica en 1655 este comercio ilícito aumentó pues de ahí partían y regresaban los barcos y además empezaron a establecerse asentamientos, que los españoles focos piráticos que había que exterminar desalojando a los cortadores. El mapa corresponde al informe del gobernador de Yucatán Juan Francisco de Esquivel,   Número de registro: 1032.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

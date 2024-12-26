@@ -1,0 +1,27 @@
+{
+  "id": "c4969",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348891",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Alonso del Castillo y Guzmán, Gobernador de Nicaragua.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633-02-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "re non defence ie Gov personal household",
+    "mil_n": null
+  }
+}

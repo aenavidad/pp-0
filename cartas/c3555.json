@@ -1,0 +1,27 @@
+{
+  "id": "c3555",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349674",
+    "docs": 12,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente sobre la causa criminal que se sigue contra José de Ocampo, contador de cuentas en la provincia de Guatemala, sobre cuentas del papel sellado.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1655-06-08.",
+    "upd": "1656-02-16."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

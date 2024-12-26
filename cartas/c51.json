@@ -1,0 +1,27 @@
+{
+  "id": "c51",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348785",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Copia de Real cédula para que los Virreyes, Presidentes de Audiencia, Arzobispos y Obispos de las Indias, avisen de las vacantes que hay en sus distritos.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1673-10-05.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

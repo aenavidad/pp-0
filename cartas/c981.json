@@ -1,0 +1,27 @@
+{
+  "id": "c981",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349358",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial del cabildo secular de Trujillo, Honduras, solicitando no se nombre a nigún capitán, sino que el puesto lo ocupe el alcalde ordinario mas antiguo.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-05-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "Inc re defence, possibly",
+    "mil_n": null
+  }
+}

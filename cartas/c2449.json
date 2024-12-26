@@ -1,0 +1,27 @@
+{
+  "id": "c2449",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369777",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta de los curas de Yucatán contra Rodrigo Flores de Aldana, Gobernador de Yucatán.",
+    "desc": null,
+    "locn": "Mérida de Yucatán",
+    "lbd": "1668-09-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

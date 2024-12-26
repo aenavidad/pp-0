@@ -1,0 +1,27 @@
+{
+  "id": "c141",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347179",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente de Antonio Coello de Portugal, fiscal de la Audiencia de Guatemala, referente al pleito criminal contra Juan de Morales Garcés.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-05-27.",
+    "upd": "1620-09-04."
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1711",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367203",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: LUIS MALDONADO DE SILVA",
+    "scope": "Expediente de Confirmación del oficio de notario real de las Indias a Luis Maldonado de Silva. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1673-01-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

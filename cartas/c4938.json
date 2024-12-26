@@ -1,0 +1,27 @@
+{
+  "id": "c4938",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368986",
+    "docs": 2,
+    "title": "Informaciones: Luis de Castilleja y Puruata",
+    "scope": "Informaciones de oficio y parte: Luis de Castilleja y Puruata, juez gobernador de los naturales de la ciudad de Michoacán. Memorial y cuaderno con una información de filiación y traslado de otra hecha en 1566 sobre su abuela Beatriz de Castilleja",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

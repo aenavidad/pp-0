@@ -1,0 +1,27 @@
+{
+  "id": "c4774",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368997",
+    "docs": 1,
+    "title": "Informaciones: Juan de Medinilla",
+    "scope": "Informaciones de oficio y parte: Juan de Medinilla, vecino de Antequera de Oaxaca. Información contenida de 1629",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4728",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361669",
+    "docs": 1,
+    "title": "Testimonio de demandas puestas al virrey [Rodrigo Pacheco y Osorio], marqués de Cerralbo",
+    "scope": "Testimonio de las demandas puestas en la residencia que Pedro de Quiroga y Moya tomó al virrey Marqués de Cerralbo, y contra su privado Antonio de Vergara y otros criados suyos y allegados.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-07-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4889",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351052",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE XIQUIPULA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Xiquipula la Grande en Chiapa y Calpanzintin en Nicaragua a Juan de la Tuvilla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634-03-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

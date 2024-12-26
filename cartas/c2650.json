@@ -1,0 +1,27 @@
+{
+  "id": "c2650",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362113",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey marqués de Mancera al rey sobre la orden de desembargar los bienes del marqués de Leiva y de otras personas que Cristóbal de Calancha tenía embargados. 4 fs. Anejo: 1.- Testimonio de los autos sobre el desembargo de los bienes del conde de Baños. México, 12-III-1666. 25 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1666-03-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

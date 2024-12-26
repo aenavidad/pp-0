@@ -1,0 +1,27 @@
+{
+  "id": "c1398",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349728",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Damián de Ochaita, tesorero, y testimonios de autos informando de la administración de tributos de su cargo durante su ausencia de 1669 a 1673. Solicita la provisión de un oficio de justicia en aquellas provincias",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676-04-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

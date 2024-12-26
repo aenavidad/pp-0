@@ -1,0 +1,27 @@
+{
+  "id": "c4751",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361695",
+    "docs": 1,
+    "title": "Carta del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "Copia de un capítulo de carta del virrey al rey sobre haber dado para las minas de Zacatecas 103 negros que se habían descaminado en Veracruz.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-07-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

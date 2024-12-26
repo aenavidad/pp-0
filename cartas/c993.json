@@ -1,0 +1,27 @@
+{
+  "id": "c993",
+  "work": {
+    "cod": false,
+    "cod_n": "dated post-1680",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369805",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta de Antonio de Layseca, Gobernador de Yucatán.",
+    "desc": null,
+    "locn": "Mérida de Yucatán",
+    "lbd": "1681-12-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

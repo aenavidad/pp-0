@@ -1,0 +1,27 @@
+{
+  "id": "c2911",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364565",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Francisco de Montemayor de Cuenca, oidor de la Audiencia de México. (Nota: la carta 29bis no aparece)",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1664-05-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

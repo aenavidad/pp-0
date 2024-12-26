@@ -1,0 +1,27 @@
+{
+  "id": "c4591",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361718",
+    "docs": 1,
+    "title": "Mandamiento del virrey Lope Díez de Armendáriz, marqués de Cadereyta",
+    "scope": "Traslado de un sobremandamiento del Virrey para que se cumpla el inserto sobre que los oficiales reales de Veracruz hagan que se entreguen las pipas y botijas de vino que traen los galeones del marqués de Cardeñosa que consten ser de la gente de mar y guarda, y en lo demás guarden la orden del rey.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

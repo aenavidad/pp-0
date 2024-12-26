@@ -1,0 +1,27 @@
+{
+  "id": "c2641",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369327",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE LOS CAJONES",
+    "scope": "Expediente de confirmación de encomienda de Los Cajones en Villa Alta de San Ildefonso a Mariana Engracia Toledo y Portugal, marquesa de los Vélez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-09-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

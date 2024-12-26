@@ -1,0 +1,27 @@
+{
+  "id": "c4964",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351950",
+    "docs": 3,
+    "title": "Informaciones: Martín Diéguez",
+    "scope": "Informaciones de oficio y parte: Martín Dieguez, abogado de la Audiencia de Guatemala, alcalde ordinario de Guatemala y corregidor de Guatemala. Información contenida de 1632, con parecer de la Audiencia duplicado en 1647",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

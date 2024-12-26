@@ -1,0 +1,27 @@
+{
+  "id": "c4232",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369044",
+    "docs": 2,
+    "title": "Informaciones: Miguel de Zúñiga y Pedraza",
+    "scope": "Informaciones de oficio y parte: Miguel de Zúñiga y Pedraza, bachiller, clérigo presbítero, vecino de La Puebla de los Angeles. Cuaderno con información y traslado de títulos. Con extracto del Consejo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

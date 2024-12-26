@@ -1,0 +1,27 @@
+{
+  "id": "c99",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347139",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Decreto del Consejo sobre la pretensión de la iglesia de Guatemala y la de Arequipa sobre lo dejado por el obispo, fray Juan de las Cabezas.",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1618-09-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

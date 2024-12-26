@@ -1,0 +1,27 @@
+{
+  "id": "c4672",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361745",
+    "docs": 1,
+    "title": "Memorial de Francisco de Barreda",
+    "scope": "Memorial del licenciado Francisco Barreda, fiscal de lo civil de la Audiencia de México, en el pleito que sigue con el fiscal del Consejo de Indias, para que se vean ciertos autos que remite el juez de residencia del Marqués de Cerralbo sobre inducción de testigos falsos. 1 folio.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1636-10-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

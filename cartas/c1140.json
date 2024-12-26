@@ -1,0 +1,27 @@
+{
+  "id": "c1140",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349746",
+    "docs": 6,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de carta de la Audiencia de Guatemala, sobre el lugar que deben ocupar los oficiales reales en actos públicos, y en concreto en la Junta General de Hacienda. Con cartas de la Audiencia de 15 de enero de 1679 y de los oficiales reales de 16 de mayo del mismo año",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-05-12.",
+    "upd": "1680-09-09."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

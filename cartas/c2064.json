@@ -1,0 +1,27 @@
+{
+  "id": "c2064",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362489",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey informando haberse recibido oportunamente en Cartagena y Portobelo el socorro que se envió de pólvora, cuerda y bizcochos. 2 fs. Anejos: 1.- Notificación de la llegada de la fragata San José a Portobelo con el socorro enviado por el virrey. Portobelo, 24-10-1671. 2 fs. 2.- Notificación de la llegada a Cartagena de la fragata con el socorro enviado por el virrey. Cartagena, 30-10-1671. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-12-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

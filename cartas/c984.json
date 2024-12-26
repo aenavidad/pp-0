@@ -1,0 +1,27 @@
+{
+  "id": "c984",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349361",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Testimonio de autos sobre la entrada y robo hechos por los corsarios ingleses en la ciudad de Trujillo durante el mes de julio de 1643. Con dos duplicados",
+    "desc": null,
+    "locn": null,
+    "lbd": "1644-10-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": true,
+    "pir": null,
+    "def": null,
+    "lit_n": "cf C Amaya p 106",
+    "codg_n": null,
+    "mil_n": null
+  }
+}

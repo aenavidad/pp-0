@@ -1,0 +1,27 @@
+{
+  "id": "c1842",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20889",
+    "docs": 1,
+    "title": "Planta de como se ha e fortificar el castillo de San Juan de lúa",
+    "scope": "Presenta una vista de la fortaleza de San Juan de Ulúa con las modificaciones hechas al proyecto de amurallamiento de Fernando Solís y Mendoza. Los baluartes se sustituyen por una punta de flecha y dos medios baluartes muy aguzados. Se abre un foso y una estrada cubierta. Cartela explicativa con clave alfabética en filacteria sujeta con clavos. Fecha al final de la misma. Escala en la parte inferior. Al dorso, en vertical: castillo. Número de registro: 423",
+    "desc": null,
+    "locn": null,
+    "lbd": "1673",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

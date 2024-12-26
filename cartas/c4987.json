@@ -1,0 +1,27 @@
+{
+  "id": "c4987",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368985",
+    "docs": 3,
+    "title": "Informaciones: Francisco Ortíz de Saavedra",
+    "scope": "Informaciones de oficio y parte: Francisco Ortíz de Saavedra, bachiller, clérigo presbítero, vecino de México. Memorial con información contenida de 1631. Otro ejemplar de información traslado de 1633",
+    "desc": null,
+    "locn": null,
+    "lbd": "1632",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

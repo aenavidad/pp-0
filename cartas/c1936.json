@@ -1,0 +1,27 @@
+{
+  "id": "c1936",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367154",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DIEGO FERNANDEZ TERNERO",
+    "scope": "Expediente de Confirmación del oficio de receptor de la Audiencia de México a Diego Fernández Ternero. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-01-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

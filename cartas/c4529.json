@@ -1,0 +1,27 @@
+{
+  "id": "c4529",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349640",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Juan Jiménez, tesorero y Juan de Alcedo Serralta, contador, informando del recibo de reales cédulas sobre el valor del Obispado de Chiapa y cobro de mesadas y condenaciones.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638-07-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

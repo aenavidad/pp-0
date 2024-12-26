@@ -1,0 +1,27 @@
+{
+  "id": "c2533",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362181",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., orden de soltar de la cárcel al teniente de correo mayor. 2 fs. Anejo:1.- El Obispo de la Puebla al virrey sobre su retorno. Los Angeles, 18-IV-1667. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1667-04-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

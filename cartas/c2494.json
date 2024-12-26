@@ -1,0 +1,27 @@
+{
+  "id": "c2494",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349187",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial del cabildo secular de Santiago de Guatemala, solicitando real cédula para que ni los oidores ni alcaldes de corte pidan las cuentas a los mayordomos de propios y rentas de dicho cabildo.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1668-01-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

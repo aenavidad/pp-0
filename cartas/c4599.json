@@ -1,0 +1,27 @@
+{
+  "id": "c4599",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361727",
+    "docs": 1,
+    "title": "Carta del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "Carta del virrey marqués de Cadereyta sobre el remate del descamino de 103 negros en el puerto de Veracruz.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637-07-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

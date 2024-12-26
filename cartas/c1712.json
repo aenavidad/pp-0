@@ -1,0 +1,27 @@
+{
+  "id": "c1712",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367204",
+    "docs": 1,
+    "title": "Confirmación de oficio: Diego Serrano",
+    "scope": "Expediente de confirmación del oficio de regidor de México a Diego Serrano. Testimonio de autos sobre el oficio de regidor. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1673-01-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

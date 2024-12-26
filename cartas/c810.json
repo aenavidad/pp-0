@@ -1,0 +1,27 @@
+{
+  "id": "c810",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347860",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre el estado de las provincias y la entrada de los ingleses.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675-04-07.",
+    "upd": "1676-03-17."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

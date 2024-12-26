@@ -1,0 +1,27 @@
+{
+  "id": "c1777",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362586",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., recibo de despachos tocantes a la fortificación de la provincia de Yucatán. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-06-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5055",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368977",
+    "docs": 1,
+    "title": "Informaciones: Gabriel de Moscoso",
+    "scope": "Informaciones de oficio y parte: Gabriel de Moscoso, capitán, oficial de la Real Hacienda. Información contenida de 1630",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

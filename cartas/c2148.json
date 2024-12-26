@@ -1,0 +1,27 @@
+{
+  "id": "c2148",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349719",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Damián de Ochaita, tesorero, y copia de capítulo de carta de la Audiencia de Guatemala de 15 de marzo de 1671, solicitando el cambio de oficio.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-03-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

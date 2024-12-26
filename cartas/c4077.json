@@ -1,0 +1,27 @@
+{
+  "id": "c4077",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349649",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Juan Jiménez, tesorero, y Juan de Alcedo Serralta, contador, sobre el modo de hacer la venta de oficios. Con duplicado",
+    "desc": null,
+    "locn": null,
+    "lbd": "1646-10-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

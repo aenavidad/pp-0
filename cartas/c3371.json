@@ -1,0 +1,27 @@
+{
+  "id": "c3371",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366916",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JORGE ZERON ZAPATA",
+    "scope": "Expediente de Confirmación de los oficios de escribano del cabildo, diputación de la puebla de Los Angeles y notario de Indias a Jorge Zeron Zapata. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1658-03-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

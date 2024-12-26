@@ -1,0 +1,27 @@
+{
+  "id": "c5039",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349632",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Memorial de los oficiales reales de Guatemala, por el que solicitan una subida de salario. Dentro un decreto del Consejo de 29 de abril de 1636 sobre el mismo tema",
+    "desc": null,
+    "locn": null,
+    "lbd": "1632-04-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

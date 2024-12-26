@@ -1,0 +1,27 @@
+{
+  "id": "c5212",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369586",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de agrarios contra los gobernadores de los naturales de la provincia de Tabasco.",
+    "desc": null,
+    "locn": "Mérida de Yucatán",
+    "lbd": "1629-02-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

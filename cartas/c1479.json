@@ -1,0 +1,27 @@
+{
+  "id": "c1479",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362719",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Rivera",
+    "scope": "El Virrey a S.M., pago de las libranzas del general y demás cabos de la flota por excusar los intereses del 8 por ciento. 8 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1675-11-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

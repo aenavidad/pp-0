@@ -1,0 +1,27 @@
+{
+  "id": "c4544",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361747",
+    "docs": 1,
+    "title": "Memorial del marqués de Cerralbo",
+    "scope": "Memorial del virrey marqués de Cerralbo, suplicando que se manden juntar y entregar al relator del Consejo de Indias los papeles relativos a la recusación que tiene interpuesta a su juez de residencia, Pedro de Quiroga, para que se vea y determine. 1 folio",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1637-04-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

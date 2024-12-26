@@ -1,0 +1,27 @@
+{
+  "id": "c1695",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350788",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO DE DUEÑAS",
+    "scope": "Expediente de Confirmación del oficio de depositario general de Santísima Trinidad de Sonsonate, en Guatemala a Francisco de Dueñas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-12-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

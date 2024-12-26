@@ -1,0 +1,27 @@
+{
+  "id": "c4788",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361622",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., oficiales reales de Veracruz. 4 fs. Anejos:1.- Certificación del escribano mayor de gobernación de la Nueva España, de lo que pasó al Virrey con Don Juan Blázquez Mayoralgo, contador de Veracruz. México, 7-V-1635. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1635-05-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

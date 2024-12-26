@@ -1,0 +1,27 @@
+{
+  "id": "c2014",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362442",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey sobre el envío a España de 30.800 pesos para la fundición de la artillería de Sevilla en cumplimiento de la Real Cédula de 19 de noviembre de 1670. 2 fs. Anejo: 1.- Certificación de los oficiales reales de los envíos hechos para la fundición de la artillería de Sevilla. México, 10-7-1671. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-07-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

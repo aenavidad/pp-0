@@ -1,0 +1,27 @@
+{
+  "id": "c2120",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351218",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE CHILANGA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Chilanga y Yoloaiguin en San Miguel, Guascoran y Sapicre en Las Minas de Tegucigalpa a José Alvarez de la Fuente. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-04-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4602",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361730",
+    "docs": 1,
+    "title": "Pleito entre el Consulado de México y Pedro de Santillán",
+    "scope": "TRaslado del pleito entre el Consulado de México y Pedro de Santillán, sobre la venta y remate del oficio de escribano de dicho Consulado.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

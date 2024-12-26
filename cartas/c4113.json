@@ -1,0 +1,27 @@
+{
+  "id": "c4113",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351127",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE OROSI",
+    "scope": "Expediente de Confirmación de Encomienda de Orosi en Costa Rica a Isabel de Mendoza y Medrano. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1645-04-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

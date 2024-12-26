@@ -1,0 +1,27 @@
+{
+  "id": "c1971",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362497",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., socorros de Filipinas. Noticias de haberse descubierto una vela sobre el puerto de Zalagua. 2 fs. Anejos:1.- Informe de oficiales reales de México sobre remisión de géneros a las islas Filipinas. México, 15-XII-1671. 2 fs. 2.- Testimonio tocante a la salida del patache de Filipinas. México, 20-XII-1671. 2 fs. 3.- Nota de la Secretaría del Consejo sobre diferentes naos de Filipinas. 1671 [SUP]. 2 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-12-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

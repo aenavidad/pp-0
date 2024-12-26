@@ -1,0 +1,27 @@
+{
+  "id": "c1741",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362550",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., presentación del maestro Fray Diego de Aguilar para el Obispo del Santo Nombre de Jesús en Filipinas. Con testimonio. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-05-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

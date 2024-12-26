@@ -1,0 +1,27 @@
+{
+  "id": "c1500",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362740",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Rivera",
+    "scope": "El Virrey a S.M., mercedes gratuitas situadas en las Cajas de aquella ciudad. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1675-10-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

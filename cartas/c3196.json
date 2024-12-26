@@ -1,0 +1,27 @@
+{
+  "id": "c3196",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369279",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE QUINCHIL",
+    "scope": "Expediente de Confirmación de Encomienda de Quinchil en Mérida, Yucatán, a Pedro de Avilés y Valdés. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1660-03-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

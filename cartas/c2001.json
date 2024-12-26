@@ -1,0 +1,27 @@
+{
+  "id": "c2001",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362430",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., dilación de la salida de la flota de Veracruz. 2 fs. Anejos:1.- Testimonio de cartas del general de la flota al Virrey, informándole de la causa del retraso en la salida. México, 19-V-1671. 2 fs. 2.- El Virrey al general de la flota sobre el retraso de la salida de ésta. México, 19-V-1671. 2 fs. 3.- Traslado de la carta del general de la flota Don José Centeno y Ordóñez al Virrey de México, marqués de Mancera sobre la petición de los diputados del comercio de España de retrasar la salida de la flota. México, 19-V-1671. 2 fs. 4.- Traslado de la carta del general de la flota Don José Centeno y Ordóñez al Virrey de México, marqués de Mancera, sobre los preparativos para el apresto de la flota. México, 19-V-1671. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-05-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

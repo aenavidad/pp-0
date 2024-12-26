@@ -1,0 +1,27 @@
+{
+  "id": "c4697",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351970",
+    "docs": 7,
+    "title": "Informaciones: La ciudad de Trujillo y su provincia",
+    "scope": "Informaciones de oficio y parte: La ciudad de Trujillo y su provincia. Testimonio de autos sobre que los vecinos de la ciudad de Trujillo y de la provincia de Honduras tengan que acudir al puerto de Trujillo aún sin nuevas de enemigos",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

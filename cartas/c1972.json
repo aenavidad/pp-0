@@ -1,0 +1,27 @@
+{
+  "id": "c1972",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362498",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Licenciado Don Gonzalo Suárez informa a S.M. como queda ejecutado lo que se sirvió de mandar diferentes puntos en razón de los ministros del Tribunal de cuentas. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-12-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

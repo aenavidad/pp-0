@@ -1,0 +1,27 @@
+{
+  "id": "c2313",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349717",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Damián de Ochaita, tesorero y Alonso de Mesa, contador, informando sobre la intromisión de Martín de Rebollar, alcalde mayor de San Salvador, en el nombramiento de teniente de oficial real en la caja real de dicha provincia. Con duplicado de carta de 16 de marzo de 1671",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-08-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

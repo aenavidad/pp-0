@@ -1,0 +1,27 @@
+{
+  "id": "c5199",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349928",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Memorial de Diego de Vargas Zapata, contador interino de la provincia de Honduras, solicitando se le provea en algún oficio de Hacienda, Justicia y Guerra.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1630-04-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "re non defence ie royal revenue etc",
+    "mil_n": null
+  }
+}

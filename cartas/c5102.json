@@ -1,0 +1,27 @@
+{
+  "id": "c5102",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349247",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Expediente sobre el comercio del vino y cacao entre Perú y Nicaragua.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631",
+    "upd": "1632"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

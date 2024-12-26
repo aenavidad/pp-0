@@ -1,0 +1,27 @@
+{
+  "id": "c4054",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361821",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "El Virrey a S.M., da cuenta de que la armada de Barlovento sale luego a navegar a La Habana con un millon de cuenta de S.M. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1646-09-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

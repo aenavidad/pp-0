@@ -1,0 +1,27 @@
+{
+  "id": "c1772",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362581",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., envío de 18 soldados para guarda de los religiosos jesuítas, misioneros de las islas de los Ladrones. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-06-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

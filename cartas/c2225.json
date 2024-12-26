@@ -1,0 +1,27 @@
+{
+  "id": "c2225",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362348",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., orden sobre que el tasador y repartidor de pleitos no lleve derechos algunos y que haga las tasaciones por su misma persona. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1670-11-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

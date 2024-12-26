@@ -1,0 +1,27 @@
+{
+  "id": "c5217",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368975",
+    "docs": 1,
+    "title": "Informaciones: Diego de Guevara Altamirano",
+    "scope": "Informaciones de oficio y parte: Diego de Guevara Altamirano.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1629",
+    "upd": "1630"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

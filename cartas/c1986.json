@@ -1,0 +1,27 @@
+{
+  "id": "c1986",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362416",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey informando haber despachado la nao de Filipinas con el mayor socorro y anticipación que ha sido posible. 2 fs. Anejos: 1.- Carta cuenta del socorro que se ha hecho a las islas Filipinas. México, 10-4-1671. 5 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-04-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

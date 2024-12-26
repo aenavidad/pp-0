@@ -1,0 +1,27 @@
+{
+  "id": "c4535",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366638",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JERONIMO GUTIERREZ DE SALAS",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de Mérida, en Yucatán a Jerónimo Gutiérrez de Salas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637-12-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

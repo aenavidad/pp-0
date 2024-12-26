@@ -1,0 +1,27 @@
+{
+  "id": "c1310",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349736",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta y testimonio de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero, informando de la actuación de Benito de Novoa, juez de almonedas, en la almoneda del cacao y mantas de la provincia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-11-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

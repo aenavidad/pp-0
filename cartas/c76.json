@@ -1,0 +1,27 @@
+{
+  "id": "c76",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347115",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Certificación de los oficiales reales de que ni el conde de la Gomera ni sus criados deben nada a la Caja real de Guatemala.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1617-10-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

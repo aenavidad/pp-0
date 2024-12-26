@@ -1,0 +1,27 @@
+{
+  "id": "c4717",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361660",
+    "docs": 1,
+    "title": "Testimonio de carta de Pedro de Quiroga y Moya, visitador y juez de residencia",
+    "scope": "Pedro de Quiroga y Moya, visitador y juez de residencia de la Nueva España, a Sebastián Hurtado de Corcuera, gobernador de Filipinas, sobre la contratación con aquellas islas.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-05-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

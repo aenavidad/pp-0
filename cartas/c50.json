@@ -1,0 +1,27 @@
+{
+  "id": "c50",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348784",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre la residencia que el Gobernador de Honduras, Pedro de Godoy, hizo a su antecesor Juan Márquez Cabrera.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1672-08-30.",
+    "upd": "1677-01-18."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1324",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367265",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MIGUEL GUERRERO SALAMANCA",
+    "scope": "Expediente de Confirmación del oficio de notario de Indias a Miguel Guerrero Salamanca. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676-07-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

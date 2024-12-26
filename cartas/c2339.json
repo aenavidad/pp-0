@@ -1,0 +1,27 @@
+{
+  "id": "c2339",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362281",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., multa a los oficiales reales de Veracruz por no haber hecho el reconocimiento de los azogues de la flota de Adrián Pulido. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1669-04-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

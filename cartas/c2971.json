@@ -1,0 +1,27 @@
+{
+  "id": "c2971",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362005",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Leyva y de la Cerda, conde de Baños",
+    "scope": "El Virrey a S.M., estado de la fábrica de la catedral de México. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1663-01-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

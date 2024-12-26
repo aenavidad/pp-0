@@ -1,0 +1,27 @@
+{
+  "id": "c93",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347133",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Testimonio de autos sobre la queja presentada por Juan Pereira de Benavides con respecto a la actuación de Antonio Coello de Portugal, fiscal de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": "Santiago de Guatemala",
+    "lbd": "1618-06-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

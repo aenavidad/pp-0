@@ -1,0 +1,27 @@
+{
+  "id": "c1894",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362509",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., orden de practicar los capítulos de paz con los ingleses que llegaren a surgir en la Veracruz. 2 fs. Anejo:1.- Testimonio sobre lo que se ha de hacer en cuanto que lleguen navíos de ingleses, a Veracruz. México, 5-V-1672. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-03-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

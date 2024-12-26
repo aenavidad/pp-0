@@ -1,0 +1,27 @@
+{
+  "id": "c4612",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361700",
+    "docs": 1,
+    "title": "Informe de los oficiales reales de San Luis Potosí",
+    "scope": "Informe de los oficiales reales de las minas de San Luis Potosí al rey, sobre la conveniencia de que continúe la Caja Real en dicho asiento.",
+    "desc": null,
+    "locn": "San Luis Potosí",
+    "lbd": "1637-01-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

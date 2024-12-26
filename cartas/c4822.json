@@ -1,0 +1,27 @@
+{
+  "id": "c4822",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350477",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO RIVERA",
+    "scope": "Expediente de Confirmación del oficio de escribano público y de visitas de Loban en Verapaz a Francisco Rivera. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635-01-31.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c3428",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364497",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre el retraso que sufren ciertos pleitos tocantes al juzgado de bienes de difuntos.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1658-08-22.",
+    "upd": "1659-05-12."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

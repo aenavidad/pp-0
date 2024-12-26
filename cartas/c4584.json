@@ -1,0 +1,27 @@
+{
+  "id": "c4584",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361711",
+    "docs": 1,
+    "title": "Delación de Antonio Urrutia de Vergara",
+    "scope": "Testimonio sobre la delación que el maestre de campo Antonio Urrutia de Vergara presentó ante el virrey contra el doctor Andrés Gómez de Mora, fiscal de la Audiencia de México, por haberse casado éste en la provincia de Zacatecas con Ana de Zaldívar y Mendoza, hija del maestre de campo Vicente de Zaldívar, estando la Audiencia de Guadalajara bajo la jurisdicción de la de México.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-06-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

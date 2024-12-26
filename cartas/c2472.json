@@ -1,0 +1,27 @@
+{
+  "id": "c2472",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362242",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., represión y multa a los jueces que determinaron los autos del oficio de escribano de minas y registros de la villa de San Francisco de Campeche. 2 fs. Anejo:1.- Los oficiales reales certifican la carta cuenta de la multa hecha a los ministros de la Audiencia tocante al pleito de escribano de minas. México, 28-VII-1668. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1668-07-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

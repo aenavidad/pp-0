@@ -1,0 +1,27 @@
+{
+  "id": "c2758",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367055",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN DE CABUEÑAS",
+    "scope": "Expediente de Confirmación del oficio de tallador mayor de la Casa de la Moneda de México a Juan de Cabueñas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1665-06-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

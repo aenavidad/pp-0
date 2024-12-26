@@ -1,0 +1,27 @@
+{
+  "id": "c278",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347320",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Copia de Real Cédula concediendo el cargo de oidor a Pedro de Azaña Solís y Palacios.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1643-03-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5021",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351949",
+    "docs": 2,
+    "title": "Informaciones: Pedro de Estopiñán",
+    "scope": "Informaciones de oficio y parte: Pedro de Estopiñán, corregidor del Realejo. Información contenida de 1626, con parecer de la Audiencia de 1633",
+    "desc": null,
+    "locn": null,
+    "lbd": "1632",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1935",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349720",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Memorial de Damián de Ochaita, tesorero, solicitando licencia para venir a la península por cuatro años.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1672-06-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

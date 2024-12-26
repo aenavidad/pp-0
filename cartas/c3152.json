@@ -1,0 +1,27 @@
+{
+  "id": "c3152",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349689",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta y testimonios de autos de Agustín Matute del Castillo, tesorero, y Damián de Ochaita, contador, informando de los gastos hechos en el socorro de la nao Almiranta de Filipinas, desarbolada en el puerto de Guazacapán y de Amapal.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1661-02-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

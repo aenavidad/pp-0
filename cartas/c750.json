@@ -1,0 +1,27 @@
+{
+  "id": "c750",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347799",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre la falta de remesas de papel sellado, a su llegada a Veracruz.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1672-03-19.",
+    "upd": "1673-08-15."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

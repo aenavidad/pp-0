@@ -1,0 +1,27 @@
+{
+  "id": "c4871",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361613",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., unión de las armas. Reconocimiento de los puertos. Fuerza de Acapulco. Fábrica de la fuerza de San Juan de Ulúa. Nombramientos de castellanos. Castellano de Acapulco. Escuadra de áreas de la costa. Gobernador de Filipinas. Despacho de naos a Filipinas. Cobranza del 2% en Filipinas. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1634-12-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

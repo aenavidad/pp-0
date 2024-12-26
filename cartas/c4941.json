@@ -1,0 +1,27 @@
+{
+  "id": "c4941",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368989",
+    "docs": 3,
+    "title": "Informaciones: Benito de Ayala",
+    "scope": "Informaciones de oficio y parte: Benito de Ayala, bachiller, cura, maestro de ceremonias de la catedral, fué sacristán mayor, natural y vecino de México. Con parecer del arzobispo de México de 1634. Hay otro ejemplar del parecer",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633",
+    "upd": "1634"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

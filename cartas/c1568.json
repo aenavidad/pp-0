@@ -1,0 +1,27 @@
+{
+  "id": "c1568",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19142",
+    "docs": 1,
+    "title": "Castillo que se fabrica de horden de Su Magestad en el presidio de San Agustín de la Florida, a cargo de don Pablo de Hita y Salazar, su gobernador y capitán general. 1675",
+    "scope": "Subtítulo: Declaración de la planta y estado en que se halla la fábrica, en mayo de dicho año. Explicación en la parte superior, con referencias alfanuméricas en la planta. Nº de registro: 4239",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675-05-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

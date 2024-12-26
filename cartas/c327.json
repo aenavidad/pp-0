@@ -1,0 +1,27 @@
+{
+  "id": "c327",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347370",
+    "docs": 1,
+    "title": "Cartas de Audiencia",
+    "scope": "Expediente relativo a la petición de la ciudad de Guatemala sobre que se elimine el oficio de receptor de la Armada de Barlovento que desempeñaba Juan Bernal del Caño.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1648-03-20",
+    "upd": "1653-04-22"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

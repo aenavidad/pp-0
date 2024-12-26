@@ -1,0 +1,27 @@
+{
+  "id": "c4346",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351985",
+    "docs": 2,
+    "title": "Informaciones: Pedro Criado de Castilla",
+    "scope": "Informaciones de oficio y parte: Pedro Criado de Castilla, encomendero parciario de San Lucas, y en los pueblos de en Salvador vecino de Guatemala. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1641",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

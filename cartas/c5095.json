@@ -1,0 +1,27 @@
+{
+  "id": "c5095",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349239",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por Sebastián Ramirez, procurador general de la provincia de Nicaragua, solicitando se envien las cédulas libradas sobre la supresión de los juzgados de milpas, para el pleito que se sigue contra D. Felipe de Agüero Bracamonte, juez de milpas",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-06-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

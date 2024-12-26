@@ -1,0 +1,27 @@
+{
+  "id": "c4965",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351951",
+    "docs": 2,
+    "title": "Informaciones: Gaspar de Valcárcel",
+    "scope": "Informaciones de oficio y parte: Gaspar de Valcárcel, alcalde mayor de Sonsonate, regidor de Guatemala, vecino Guatemala. Información contenida de 1632, con parecer, incluye información de Marina de Vargas, su mujer y sus antepasados (1612-1618)",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

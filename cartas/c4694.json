@@ -1,0 +1,27 @@
+{
+  "id": "c4694",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351074",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE S. ANTONIO SUCHITEPEQUES, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Antonio Suchitepeques, Cuilco y Titan en Zapotitlán a Ignacio de Guzmán. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-10-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

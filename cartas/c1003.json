@@ -1,0 +1,27 @@
+{
+  "id": "c1003",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367322",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE SONI",
+    "scope": "Expediente de Confirmación del oficio de escribano y notario de Indias a José Soni. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-10-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

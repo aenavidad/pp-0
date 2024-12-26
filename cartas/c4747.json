@@ -1,0 +1,27 @@
+{
+  "id": "c4747",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361656",
+    "docs": 1,
+    "title": "Carta del doctor Francisco de Samaniego Tuesta",
+    "scope": "El doctor Francisco de Samaniego Tuesta al rey, sobre la recusación que interpuso el virrey marqués de Cerralbo a Pedro de Quiroga, juez de su residencia.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-06-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4103",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361813",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "El Virrey a S.M., azogues que se han dado al distrito de Guadalajara y mala correspondencia del presidente y audiencia en materia de hacienda. 2 fs. Anejos:1.- S.M. al Virrey en respuesta de lo que escribió acerca del azogue que se ha dado al distrito de Guadalajara y la mala correspondencia que en las materias de real hacienda tiene con el presidente y audiencia de dicho distrito. S.F. 1 f. 2.- S.M. al presidente y Audiencia de Guadalajara sobre lo que ha escrito el Virrey acerca del azogue y medios de la armada de Barlovento en aquel distrito, con el encargo de tener buena correspondencia con el Virrey. S.F. 2 fs. 3.- Certificación dada por el factor y veedor de la Nueva España sobre la cantidad de azogue que se ha dado par el distrito de Guadalajara. México, 1-IX-1645",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1645-09-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

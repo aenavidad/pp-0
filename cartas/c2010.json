@@ -1,0 +1,27 @@
+{
+  "id": "c2010",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362438",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., nombramiento de Juan de Alcayaga por tesorero de la Real caja de Acapulco en ínterin que se provea en propiedad. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-07-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1063",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362867",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY PAYO ENRIQUEZ DE RIVERA",
+    "scope": "El Virrey a S.M., da cuenta de la cantidad que por tesoro real trae la flota de Diego de Córdoba y las urcas de azogue del almirante Curucelaegui. (Este documento no es duplicado del nº 34). 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1679-06-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

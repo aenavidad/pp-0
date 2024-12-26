@@ -1,0 +1,27 @@
+{
+  "id": "c2122",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351220",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE AGUACATAN, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Aguacatán, Nebac y Chaul en Totonicapán, Sacatecoluca y San Juan Nunualco en San Salvador a Francisco de Godoy y Guzmán. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-04-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

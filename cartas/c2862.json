@@ -1,0 +1,27 @@
+{
+  "id": "c2862",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367035",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FLORIAN REY Y ALARCON",
+    "scope": "Expediente de Confirmación del oficio de contador de resultas del Tribunal de cuentas de México a Florian Rey y Alarcón. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1664-01-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

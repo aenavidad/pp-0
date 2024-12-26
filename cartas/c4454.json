@@ -1,0 +1,27 @@
+{
+  "id": "c4454",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366642",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: LUIS CANSINO DE RIOJA",
+    "scope": "Expediente de Confirmación de los oficios de escribano público y del cabildo de Tepeaca a Luis Cansino de Rioja. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638-01-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

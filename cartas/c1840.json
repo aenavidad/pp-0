@@ -1,0 +1,27 @@
+{
+  "id": "c1840",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/21554",
+    "docs": 1,
+    "title": "Perfiles del proyecto de fortificación del castillo de San Juan de Ulúa.",
+    "scope": "Sin título. Escala gráfica en la parte inferior derecha en filacteria.   Presenta dos perfiles del proyecto de fortificación de San Juan de Ulúa: de la ampliación de la media luna original frente al nuevo foso y de la muralla de circunvalación.   La explicación se encuentra en la documentación asociada, que incluye un extracto de lo actuado en San Juan de Ulúa desde 1669 hasta 1675.   En 1671 hubo un proyecto de cerrar la isla de San Juan de Ulúa con una muralla de circunvalación, que no se llevó a cabo. A principios de 1674 el virrey Pedro Nuño Colón de Portugal, duque de Veragua, reconoció la fortificación comprobando que la plaza seguía abierta con poca o ninguna defensa, y retomó la idea de fortificar la isla en su totalidad, encargando el proyecto al ingeniero Francisco Pozuelo Espinosa. Éste levantó tres planos, mostrando el presente dos perfiles de las nuevas defensas proyectadas.   Número de registro: 1061.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1673",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

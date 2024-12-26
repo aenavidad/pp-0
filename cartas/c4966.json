@@ -1,0 +1,27 @@
+{
+  "id": "c4966",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351952",
+    "docs": 4,
+    "title": "Informaciones: Jerónima de Peña",
+    "scope": "Informaciones de oficio y parte: Jerónima de Peña. Información contenida de 1615, con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633",
+    "upd": "1634"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

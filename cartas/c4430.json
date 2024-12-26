@@ -1,0 +1,27 @@
+{
+  "id": "c4430",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351084",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SANTIAGO PASSICIA",
+    "scope": "Expediente de Confirmación de Encomienda de Santiago Passicia en Guatemala a Andrés Criado de Castilla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1639-09-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1906",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362512",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., asistencia a los religiosos jesuítas de las islas Marianas. 2 fs. Anejo:1.- Memorial sobre socorrer los padres misioneros de las islas de los Ladrones. México, 12-V-1672. 14 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-03-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

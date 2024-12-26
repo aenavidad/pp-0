@@ -1,0 +1,27 @@
+{
+  "id": "c3329",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361965",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "El Virrey a S.M., sobre el alboroto en las cárceles de palacio, daño que hizo el fuego y gastos para su reparo. 2 fs. Anejo:1.- Daño producido en las cárceles de palacio por el fuego que dieron los presos para su fuga, dado por maestros de obra de la ciudad de México. México, [1659]. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1659-12-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

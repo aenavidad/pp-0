@@ -1,0 +1,27 @@
+{
+  "id": "c3762",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349663",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Juan de Alcedo Serralta, contador, y Juan de Olaso, tesorero, informando de la necesidad de reparos de la Iglesia Catedral de Santiago de Guatemala, y solicitando la renta de la vacante del Obispado o novenos.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1651-08-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

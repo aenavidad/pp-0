@@ -1,0 +1,27 @@
+{
+  "id": "c4814",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351966",
+    "docs": 11,
+    "title": "Informaciones: Martín García de Sagastizábal",
+    "scope": "Informaciones de oficio y parte: Martín de Sagastizábal, canónigo de la catedral de Guatemala. Con parecer de la Audiencia y documentación anexa",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635",
+    "upd": "1636"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

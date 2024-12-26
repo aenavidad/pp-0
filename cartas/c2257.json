@@ -1,0 +1,27 @@
+{
+  "id": "c2257",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362377",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey sobre la denegación a Diego del Río de la aprobación de alguacil ejecutor de las alcabalas de México. 2 fs. Anejo: 1.- Certificación de los oficiales reales de que no se le ha pagado nada a Diego del Río del tiempo que fue alguacil ejecutor de las alcabalas, por lo que no tiene nada que restituir. México, 1-12-1670. 2 f",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1670-12-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

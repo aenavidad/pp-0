@@ -1,0 +1,27 @@
+{
+  "id": "c5109",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350447",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PABLO DE CISNEROS",
+    "scope": "Expediente de Confirmación de los oficios de escribano público y del número del cabildo, registros y caja de Granada, en Nicaragua a Pablo de Cisneros. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-02-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

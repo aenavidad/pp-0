@@ -1,0 +1,27 @@
+{
+  "id": "c654",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347701",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre la residencia tomada a Sebastián Caballero de Medina, oidor de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1663-07-20.",
+    "upd": "1664-02-14."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

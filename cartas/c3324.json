@@ -1,0 +1,27 @@
+{
+  "id": "c3324",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361960",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "Carta del virrey duque de Alburquerque al rey sobre lo del cobro que se ha hecho del Consulado de la renta de la alcabala. 2 fs. Anejo: 1.- Certificación del juez contador y administrador general de las alcabalas en la Nueva España, sobre no haberse cobrado ni entera cantidad alguna de esta renta de la dicha por el Consulado de México. 27-XII-1658. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1659-05-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

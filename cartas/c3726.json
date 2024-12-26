@@ -1,0 +1,27 @@
+{
+  "id": "c3726",
+  "work": {
+    "cod": true,
+    "cod_n": "is carta de Yuc",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369639",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta del Conde de Peñalva, Gobernador de Yucatán.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1651-09-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

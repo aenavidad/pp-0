@@ -1,0 +1,27 @@
+{
+  "id": "c1248",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367291",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE MARTIN DE LA SIERRA",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de San Ildefonso a José Martín de la Sierra. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-02-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

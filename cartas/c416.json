@@ -1,0 +1,27 @@
+{
+  "id": "c416",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347460",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Decreto del Consejo sobre la actuación de Francisco López de Solís, oidor de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1652-02-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

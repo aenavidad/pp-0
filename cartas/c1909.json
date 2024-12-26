@@ -1,0 +1,27 @@
+{
+  "id": "c1909",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362515",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "Carta del virrey sobre los socorros al presidio de San Juan de Puerto Rico. 2 fs. Anejos: 1.- Real Cédula al virrey ordenándole socorro a las islas Filipinas. Madrid, 31-8-1671. 2 fs. 2.- Testimonio tocante al socorro de Puerto Rico. México, 11-5-1672. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-03-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

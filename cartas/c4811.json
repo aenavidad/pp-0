@@ -1,0 +1,27 @@
+{
+  "id": "c4811",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351963",
+    "docs": 4,
+    "title": "Informaciones: Alonso Romero de Hinojosa",
+    "scope": "Informaciones de oficio y parte: Alonso Romero de Hinojosa, cura del partido de San Pedro Zaluco (provincia de Guatemala). Con petición decretada en 1637",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

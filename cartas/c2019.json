@@ -1,0 +1,27 @@
+{
+  "id": "c2019",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362446",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey sobre haber concedido licencia dada a José de Castañeda, tesorero interino de la Caja de Zacatecas y haber puesto en su lugar a Francisco de Rada. 2 fs. Anejo: 1.- Traslado de un memorial sobre el nombramiento de tesorero de la Caja Real de Zacatecas, informe del fiscal y decretos. México, 4-4-1671. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-07-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

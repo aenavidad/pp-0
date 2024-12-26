@@ -1,0 +1,27 @@
+{
+  "id": "c4654",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369012",
+    "docs": 1,
+    "title": "Informaciones: Hospital de San Hipólito de México",
+    "scope": "Informaciones de oficio y parte: Hospital de San Hipólito de México.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

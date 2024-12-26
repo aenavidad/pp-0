@@ -1,0 +1,27 @@
+{
+  "id": "c3374",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366919",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN DE CASTRO",
+    "scope": "Expediente de Confirmación de los oficios de alguacil mayor y regidor de la Veracruz a Juan de Castro. Pendiente",
+    "desc": null,
+    "locn": null,
+    "lbd": "1658-04-05.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

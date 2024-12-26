@@ -1,0 +1,27 @@
+{
+  "id": "c4900",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351961",
+    "docs": 3,
+    "title": "Informaciones: García de Loaisa y Herrera",
+    "scope": "Informaciones de oficio y parte: García de Loaisa y Herrera, corregidor de Monimbo, alcalde ordinario de Santiago de Guatemala, corregidor de Acazabastlán y capitán general del partido de Acazabastlán, vecino de Santiago de Guatemala, María de Loaisa y Herrera, Beatriz de las Varillas y Ana de Carriedo y Herrera. Con petición y parecer de la Audiencia de 1635",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

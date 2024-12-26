@@ -1,0 +1,27 @@
+{
+  "id": "c2007",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362400",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey sobre los desórdenes que ha habido al votar las cátedras de la Universidad de México. 4 fs. Anejos: 1.- Copia de Real Cédula al virrey duque de Alburquerque sobre los inconvenientes que se siguen de que los estudiantes tengan voto en la provisión de las cátedras de la Universidad de México. Madrid, 17-3-1657. 2 fs. 2.- Traslado del auto de la Audiencia de México sobre lo que se ha de guardar y cumplir en razón de votar las cátedras que vaquen en la Universidad de México. México, 6-1-1671. 2 fs. 3.- Acuerdo del Consejo de que no se haga novedad en la provisión de cátedras de la Universidad de México. Madrid, 21-8-1671. 2 hojas en cuarto.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-01-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2994",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351995",
+    "docs": 12,
+    "title": "Informaciones: Pedro Fraso, fiscal de Guatemala",
+    "scope": "Informaciones de oficio y parte: Autos y cerificaciones de la visita del licenciado Pedro Fraso, fiscal de la Audiencia de Guatemala, visitador general de las provincias de Nicaragua, a los pueblos de dicha provincia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1663",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

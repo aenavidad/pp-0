@@ -1,0 +1,27 @@
+{
+  "id": "c4702",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351967",
+    "docs": 2,
+    "title": "Informaciones: Orden de la Merced",
+    "scope": "Informaciones de oficio y parte: Orden de la Merced de las provincias de Guatemala, Honduras y Nicaragua. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

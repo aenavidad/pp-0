@@ -1,0 +1,27 @@
+{
+  "id": "c3457",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349678",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Memorial y testimonios de autos de Agustín Matute del Castillo, tesorero, y Juan Bernal del Caño, receptor general del derecho de la armada de Barlovento, solicitando poder pertenecer al cabildo secular de la ciudad de Santiago de Guatemala, con el título de regidor.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1658-11-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

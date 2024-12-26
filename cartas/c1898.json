@@ -1,0 +1,27 @@
+{
+  "id": "c1898",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362539",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., nómina que hizo el Obispo de Puebla, de nueve sujetos para cuatro beneficios. 2 fs. Anejo:1.- Testimonio de la presentación en los primeros lugares a los sujetos nominados para dichos beneficios. México, 15-VIII-1672. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-08-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

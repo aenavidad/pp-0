@@ -1,0 +1,27 @@
+{
+  "id": "c2908",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362032",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M, lo que ha obrado para la breve salida de los navíos de azogue. San Juan de Ulúa, 6.IX.1664. 2 fs. Anejos: 1.- Certificación del escribano mayor de Minas y Registro de Veracruz, sobre haber llegado y entregado en esta ciudad la plata que se envía por la real caja de México. Veracruz, 1-IX-1664. 2 fs. 2.- Certificación del contador de los galeones de la armada de la guardia de las Indias, de haberse mandado por el Virrey para que en el término que señaló estuviese embarcada toda la gente de mar y guerra. Nueva Veracruz, 2-VIII-1664. 2 fs. 3.- Certificación dada por el contador de los galeones del azogue, de un bando que se publicó por el Virrey para que se embarque en ellos toda la gente de mar y guerra. Veracruz, 29-VIII-1664. 2 fs. 4.- El Virrey al contador de los galeones del azogue, y respuesta de éste, sobre el tiempo en que debe hacerse a la vela. San Juan de Ulúa, 31-VIII-1664. 2 fs. 5.- El Virrey al contador de los galeones del azogue, y respuesta de éste, sobre que en llegando la plata de México no conviene que se detenga más en el puerto. San Juan de Ulúa, 31-VIII-1664. 2 fs. 6.- El Virrey al contador de los galeones del azogue, y respuesta de éste, para que no demore más su salida del puerto. San Juan de Ulúa, 3-IX-1664. 2 fs",
+    "desc": null,
+    "locn": "San Juan de Ulúa",
+    "lbd": "1664-09-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5017",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351040",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE MOCINGA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Mocinga, Coapera y Langatique en San Miguel a Andrés Orozco de Ayala. Pendiente",
+    "desc": null,
+    "locn": null,
+    "lbd": "1632-05-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2210",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362334",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey sobre el estado de la fábrica de la Catedral de México. No se ha recibido respuesta en orden a la elección de sitio para el altar mayor. 2 fs. Anejos: 1.- Informe del estado de la obra de la Catedral de México por la parte exterior, ya que se ha dado fin a la parte interior. México, 29-7-1670. 2 fs. 2.- Nota de la Secretaría. [1670]. 1 hoja en cuarto.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1670-07-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

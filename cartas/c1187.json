@@ -1,0 +1,27 @@
+{
+  "id": "c1187",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362810",
+    "docs": 1,
+    "title": "Cartas del virrey Payo Enríquez de Ribera",
+    "scope": "El Virrey a S.M., diligencias para que el comercio haga algún servicio a imitación del del Perú, por la utilidad que tendrá con el nuevo asiento de negros. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1678-02-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

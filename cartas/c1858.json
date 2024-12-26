@@ -1,0 +1,27 @@
+{
+  "id": "c1858",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367197",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MANUEL LOZANO DE LA PEÑA",
+    "scope": "Expediente de Confirmación del oficio de escribano publico y del número de Mérida de Yucatán a Manuel Lozano de la Peña. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1672-11-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

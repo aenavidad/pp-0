@@ -1,0 +1,27 @@
+{
+  "id": "c4522",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350504",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ANTONIO JUAREZ",
+    "scope": "Expediente de Confirmación del oficio de regidor de San Salvador en Guatemala a Antonio Juarez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638-08-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

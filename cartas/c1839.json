@@ -1,0 +1,27 @@
+{
+  "id": "c1839",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/21553",
+    "docs": 1,
+    "title": "Planta de cómo se ha de fortificar el castillo de San Juan de Lúa",
+    "scope": "Título y fecha en cartela con forma de cortinaje en la esquina inferior derecha. Tras el título tabla explicativa de los puntos señalados en el plano en clave alfabética. Escala gráfica en la parte inferior central.   Presenta la isla de San Juan de Ulúa y con el proyecto de fortificación. En verde y gris se indican las edificaciones existentes y en carmín las modificaciones que se proponen que incluyen la circunvalación de todo el terreno de la isla además de un foso.   La explicación se encuentra en la documentación asociada, que incluye un extracto de lo actuado en San Juan de Ulúa desde 1669 hasta 1675.   En 1671 hubo un proyecto de cerrar la isla de San Juan de Ulúa con una muralla de circunvalación, que no se llevó a cabo. A principios de 1674, ante las carencias que presentaba la fortificación y la amenaza de ataques filibusteros, el virrey Pedro Nuño Colón de Portugal, duque de Veragua, de visita en Veracruz, ordenó al ingeniero Francisco Pozuelo Espinosa retomar la idea de fortificar la isla en su totalidad. Éste levantó tres planos, mostrando el presente las nuevas defensas proyectadas.   Número de registro: 1060.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1673",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

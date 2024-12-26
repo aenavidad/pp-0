@@ -1,0 +1,27 @@
+{
+  "id": "c2146",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/18013",
+    "docs": 1,
+    "title": "Armas de la ciudad de México en la Iglesia y Santuario de Nuestra Señora de los Remedios",
+    "scope": "null",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4467",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369022",
+    "docs": 2,
+    "title": "Informaciones: Gregorio de Aguinaga",
+    "scope": "Informaciones de oficio y parte: Gregorio de Aguinaga, capitán y sargento mayor, castellano de la fuerza del puerto de Acapulco. Información contenida de 1637. Con parecer de la Audiencia de 1638",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

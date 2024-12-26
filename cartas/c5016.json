@@ -1,0 +1,27 @@
+{
+  "id": "c5016",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351044",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN JUAN COZAL, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Juan Cozal y Santo Domingo Zacapula de Guatemala a Martín de Jibaja. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1632-10-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

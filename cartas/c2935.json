@@ -1,0 +1,27 @@
+{
+  "id": "c2935",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351183",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN JUAN YUPITEPEQUE, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Juan Yupitepeque en Chiquimula de la Sierra y San Juan de Linaca, en Lachaluteca a Nicolás de Barillas y Toledo. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1664-12-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

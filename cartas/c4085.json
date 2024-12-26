@@ -1,0 +1,27 @@
+{
+  "id": "c4085",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369043",
+    "docs": 1,
+    "title": "Informaciones: Martín de Pamplona",
+    "scope": "Informaciones de oficio y parte: Martín de Pamplona, capitán, fué teniente de capitán general y sirvió el oficio de alcalde mayor de las provincias de Colima y Teposcolula. Información contenida de 1642",
+    "desc": null,
+    "locn": null,
+    "lbd": "1645",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

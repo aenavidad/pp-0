@@ -1,0 +1,27 @@
+{
+  "id": "c1199",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362821",
+    "docs": 1,
+    "title": "Cartas del virrey Payo Enríquez de Ribera",
+    "scope": "El Virrey al secretario del Consejo, sobre abrirse o no los fardos en la Aduana de México. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1678-12-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

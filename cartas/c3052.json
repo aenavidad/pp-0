@@ -1,0 +1,27 @@
+{
+  "id": "c3052",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361991",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Leyva de la Cerda, conde de Baños",
+    "scope": "El Virrey a S.M., sobre la supresión del oficio de provincial de la Hermandad de la villa de Colima de Michoacán. 2 fs. Anejo: 1.- Testimonio sobre haberse consumido el oficio de provincial de la Santa Hermandad de la villa de Colima de Michoacán, que servía Pedro de Vitoria. México, 27-VII-1662. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1662-10-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

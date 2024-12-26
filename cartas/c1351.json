@@ -1,0 +1,27 @@
+{
+  "id": "c1351",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362766",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Ribera",
+    "scope": "El Virrey a S.M., despacho de la flota del cargo de Don Francisco Martínez de Granada. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1676-06-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

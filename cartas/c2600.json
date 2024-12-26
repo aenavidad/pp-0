@@ -1,0 +1,27 @@
+{
+  "id": "c2600",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349186",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, alabando la llegada D. Sebastián Alvarez Alfonso, Gobernador, Capitán General y Presidente de la Audiencia de Guatemala, en sucesión de D. Martín Carlos de Mencos",
+    "desc": null,
+    "locn": null,
+    "lbd": "1667-03-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

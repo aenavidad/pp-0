@@ -1,0 +1,27 @@
+{
+  "id": "c5235",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368852",
+    "docs": 2,
+    "title": "Informaciones: Gregorio Castellanos",
+    "scope": "Informaciones de oficio y parte: Gregorio Castellanos, cura beneficiado del partido de Atlatlauca, Obispado de Oaxaca. Con información de su padre Alonso Castellanos y de su abuelo Diego de Castellanos (1590-1606)",
+    "desc": null,
+    "locn": null,
+    "lbd": "1616",
+    "upd": "1630"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

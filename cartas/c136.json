@@ -1,0 +1,27 @@
+{
+  "id": "c136",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347176",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Certificación de como a los gobernadores, alcaldes mayores y oficiales reales nombrados por presidente de Guatemala, no se le da más de la mitad de su salario.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1620-05-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

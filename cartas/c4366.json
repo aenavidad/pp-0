@@ -1,0 +1,27 @@
+{
+  "id": "c4366",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369040",
+    "docs": 1,
+    "title": "Informaciones: Melchor de Tafoya",
+    "scope": "Informaciones de oficio y parte: Melchor de Tafoya, bachiller, clérigo presbítero, cura beneficiado del partido de Guaniqueo en la provincia de Michoacán.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1640",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4336",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351090",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE AGUACATAN, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Aguacatan, Nebac y Chaul en Totonicapan, Sacatecoluca y San Juan Nunualco en San Salvador a Juana de Benavides. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1641-02-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

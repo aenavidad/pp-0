@@ -1,0 +1,27 @@
+{
+  "id": "c5218",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349629",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de carta de Juan Jiménez, tesorero y Juan de Alcedo Serralta, contador, en la que informan del envio de caudales y solicitan jurisdicción para el alguacil de la Caja Real, y que la toma de cuentas se les haga en el Tribunal de Cuentas de México.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1629-07-05.",
+    "upd": "1633-06-16."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

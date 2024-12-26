@@ -1,0 +1,27 @@
+{
+  "id": "c3014",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349702",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Francisco de Montoya y Valencia, contador y Agustín Matute del Castillo, tesorero, informando del estado de la causa que se seguía contra Adán Díaz, por decomiso.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1663-03-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

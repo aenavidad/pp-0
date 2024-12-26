@@ -1,0 +1,27 @@
+{
+  "id": "c2745",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349711",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Damián de Ochaita, tesorero, informando sobre el importe de los tributos de los pueblos del Valle de la ciudad de Guatemala, y del lugar de residencia de los corregidores.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-03-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

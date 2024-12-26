@@ -1,0 +1,27 @@
+{
+  "id": "c3662",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366853",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE DE BOLAÑOS",
+    "scope": "Expediente de Confirmación del oficio de escribano del cabildo y entradas de Carrión a José de Bolaños. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1652-10-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

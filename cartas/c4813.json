@@ -1,0 +1,27 @@
+{
+  "id": "c4813",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351965",
+    "docs": 5,
+    "title": "Informaciones: Miguel de Santa Cruz y Salvatierra",
+    "scope": "Informaciones de oficio y parte: Miguel de Santa Cruz y Salvatierra, arcediano de la Iglesia de Honduras y tesorero de la iglesia de Honduras. No hay información, sólo documentación acreditativa de sus méritos",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635",
+    "upd": "1638"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c683",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347731",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre los fraudes a la Hacienda con motivo de la administración de las alcabalas y comercio en Perú. (Con antecedentes de 1656)",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-03-15.",
+    "upd": "1670-04-21."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

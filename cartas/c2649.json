@@ -1,0 +1,27 @@
+{
+  "id": "c2649",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362104",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey marqués de Mancera al rey sobre lo actuado referente a la Real Cédula de 25 de junio de 1665 por la que se le mandaba que diese las órdenes pertinentes para que los padres jesuitas franceses Dionisio Meslan, Antonio de Boislevert y Pedro de Pelleprat regresasen a su patris. Con testimonio. 8 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1666-02-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

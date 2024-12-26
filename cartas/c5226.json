@@ -1,0 +1,27 @@
+{
+  "id": "c5226",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369583",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Traslado de un Título de Andrada, Capitán de Guerra de las cortes de Yucatán.",
+    "desc": null,
+    "locn": "Mérida de Yucatán",
+    "lbd": "1624-10-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

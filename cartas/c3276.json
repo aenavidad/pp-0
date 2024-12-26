@@ -1,0 +1,27 @@
+{
+  "id": "c3276",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366965",
+    "docs": 1,
+    "title": "Confirmación de oficio: José Ros y Valle",
+    "scope": "Expediente de confirmación del oficio de alguacil mayor de la Caja de México a José Ros y Valle. Pendiente",
+    "desc": null,
+    "locn": null,
+    "lbd": "1659-11-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2471",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362241",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., sobre que el oidor Don Ginés de Morote se retire al pueblo de San Agustín de las Cuevas, y multa que se le ha de sacar. 2 fs. Anejo:1.- Los oficiales reales de México certifican la causa por la que no han cobrado la multa hecha a Don Ginés Morote, oidor de dicha ciudad. México, 28-VII-1668. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1668-07-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

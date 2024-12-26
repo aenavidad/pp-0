@@ -1,0 +1,27 @@
+{
+  "id": "c4776",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368999",
+    "docs": 5,
+    "title": "Informaciones: Bartolomé Ortiz de la Sonda",
+    "scope": "Informaciones de oficio y parte: Bartolomé Ortiz de la Sonda, bachiller, clérigo presbítero, secretario del cabildo y notario del Obispado. Con parecer del obispo de Yucatán de 1639, certificado y traslados de títulos de 1643",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

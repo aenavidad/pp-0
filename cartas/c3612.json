@@ -1,0 +1,27 @@
+{
+  "id": "c3612",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361887",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "El Virrey Conde de Alba a S.M., muerte del arzobispo y la comisión que tuvo para tomarle residencia. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1653-11-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

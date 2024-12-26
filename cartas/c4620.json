@@ -1,0 +1,27 @@
+{
+  "id": "c4620",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366610",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN ORTIZ DE CASTRO",
+    "scope": "Expediente de Confirmación del oficio de regidor de Los Angeles a Juan Ortiz de Castro. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-09-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

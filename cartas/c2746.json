@@ -1,0 +1,27 @@
+{
+  "id": "c2746",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349712",
+    "docs": 12,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de carta de los oficiales reales de 23 de julio de l666, sobre la retirada de moneda perulera y sencilla y su cambio por monedas de a ocho reales. Con carta de presidente de la Audiencia de 30 de julio del mismo año y testimonios",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-07-23.",
+    "upd": "1667-09-06."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

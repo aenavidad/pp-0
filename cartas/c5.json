@@ -1,0 +1,27 @@
+{
+  "id": "c5",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348739",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Testimonio de lo que envía el fiscal de las condenaciones de Rodrigo Ponce, Gobernador de Honduras y Martin de Soto Pachón, su teniente.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1614-05-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

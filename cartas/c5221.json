@@ -1,0 +1,27 @@
+{
+  "id": "c5221",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351933",
+    "docs": 5,
+    "title": "Informaciones: Andrés Delgado",
+    "scope": "Informaciones de oficio y parte: Andrés Degaldo, capitán de infanteria de la provincia de Guatemala y sargento mayor de la provincia de Guatemala. Con información de 1617, con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1628",
+    "upd": "1631"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

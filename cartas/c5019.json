@@ -1,0 +1,27 @@
+{
+  "id": "c5019",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351947",
+    "docs": 2,
+    "title": "Informaciones: Lope de Chavarría",
+    "scope": "Informaciones de oficio y parte: Lope de Chavarría, beneficiado de Cartago (Costa Rica), vicario del Realejo. Información contenida de 1626, con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1632",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

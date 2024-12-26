@@ -1,0 +1,27 @@
+{
+  "id": "c4911",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361701",
+    "docs": 1,
+    "title": "Carta de los oficiales reales de San Luis Potosí",
+    "scope": "Los oficiales de San Luis Potosí a al rey sobre la conveniencia que se mantenga la Caja Real en dicho asiento.",
+    "desc": null,
+    "locn": "San Luis Potosí",
+    "lbd": "1634-12-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1125",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348913",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre el estado del castillo del río San Juan y lo necesario para su mantenimiento.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-04-04.",
+    "upd": "1680-06-01."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

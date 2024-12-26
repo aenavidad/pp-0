@@ -1,0 +1,27 @@
+{
+  "id": "c1433",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362671",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Rivera",
+    "scope": "Carta de Payo Enríquez de Ribera, arzobispo virrey de México, informando haber obedecido la Cédula de 3 de julio de 1674 por la que se ordenaba que ingresase en la Caja Real de México 11.702 pesos que debía la Sala del Crimen de los alcaldes por un censo que estaba obligada a pagar por los portales de provincia de dicha ciudad. 38 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1675-07-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4978",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349633",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Memorial de Juan Jiménez, tesorero y Juan de Alcedo Serralta, contador, solicitando un aumento de salario. Con copia de real provisión",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633-01-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4898",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351958",
+    "docs": 7,
+    "title": "Informaciones: Pedro de Loaisa y Rueda",
+    "scope": "Informaciones de oficio y parte: Pedro de Loaisa y Rueda, subdiácono, vecino de Guatemala. Con parecer de la Audiencia duplicado en 1635, y certificación de 1637",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4739",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361675",
+    "docs": 1,
+    "title": "Testimonio de demandas, querellas y autos en la residencia del virrey [Rodrigo Pacheco y Osorio], marqués de Cerralbo.",
+    "scope": "Testimonio de demandas, querellas y autos que se siguieron en la residencia que Pedro de Quiroga y Moya tomó al virrey marqués de Cerralbo, sus criados y allegados, del tiempo que gobernó la Nueva España.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-07-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

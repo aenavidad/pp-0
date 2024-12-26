@@ -1,0 +1,27 @@
+{
+  "id": "c2004",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362433",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey sobre las noticias de la entrada del inglés con doce bajeles al mar del Sur por el estrecho del Maire y de su paso por el puerto de Valdivia. Estado de Tierra Firme. 2 fs. Anejos: 1.- Traslado de carta del virrey del Perú al virrey de México de 26 de enero de 1671 dando noticia de la entrada del enemigo inglés. Lima, 24-1-1671. 2 fs. 2.- Traslado de carta del obispo de Guatemala y Verapaz al virrey de México de 8 de mayo de 1671 sobre la noticia que había tenido de navíos ingleses en el puerto de Valdivia. Guatemala, 8-V-1671. 2 fs. 3.- Traslado de relación del estado de la provincia de Tierra Firme desde Guatemala. Guatemala, 10-5-1671. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-05-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

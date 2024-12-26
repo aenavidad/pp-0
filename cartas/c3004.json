@@ -1,0 +1,27 @@
+{
+  "id": "c3004",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20881",
+    "docs": 1,
+    "title": "Villa de Canpeche. Cómo se a de cortar y fortificar de nuebo",
+    "scope": "Título en la parte superior. Debajo del título la nota: tiene de largo 1560 varas / y de ancho - 670 v[ara]s. Traza urbana con estructura en cuadrícula con seis hileras de manzanas cuadradas, situada a orilla del mar, dentro de un recinto de planta rectangular con cuatro baluartes en los ángulos y una puerta en cada uno de los lados. La plaza en la primera hilera. Alrededor de ella la Audiencia y la Parroquia. Edificaciones en alzado con techo a dos aguas indicando la zona de población indígena. También en alzado y con más detalle se dibujan los edificios religiosos y militares. La población queda delimitada por el mar al sur y por serranías al norte, este y oeste. Una fila de árboles discurre en paralelo al muro de tierra adentro. El plano corresponde al proyecto para rodear Campeche según propuesta de Juan Francisco de Esquivel, gobernador interino de Yucatán. Número de registro: 415",
+    "desc": null,
+    "locn": null,
+    "lbd": "1663-07-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

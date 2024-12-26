@@ -1,0 +1,27 @@
+{
+  "id": "c443",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347487",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Copia de Real Cédula de 13-XI-1653 por lo que se prorroga a María Antonia de Velasco una ayuda de costa, que le otorgó el presidente de la Audiencia de Guatemala en las provincias de Honduras.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1653",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "Inc re defence, possibly",
+    "mil_n": null
+  }
+}

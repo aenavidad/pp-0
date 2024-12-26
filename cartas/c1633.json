@@ -1,0 +1,27 @@
+{
+  "id": "c1633",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362654",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Rivera",
+    "scope": "Carta del virrey Payo Enríquez de Rivera a S.M., informando de las noticias de la existencia de enemigos en las costas y laguna de Términos, en la provincia de Campeche y río de Coatzacoalcos, de los daños, insultos y robos que han hecho, de la Junta General que se formó el 27 de febrero de 1674 para tratar el tema y de las resoluciones tomadas en la misma. 3 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1674-05-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

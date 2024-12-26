@@ -1,0 +1,27 @@
+{
+  "id": "c990",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349318",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Gracias a Dios, informando sobre las diferencias entre D. Diego de Acuña, presidente de la Audiencia de Guatemala, y D. Francisco de Rivamontán Santander, gobernador de la provincia de Honduras",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634-08-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

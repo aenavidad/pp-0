@@ -1,0 +1,27 @@
+{
+  "id": "c2069",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362494",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey informando sobre la forma en que el arzobispo de México celebró la festividad del rey San Fernando, de lo que le consultó la Audiencia sobre la materia y respuesta dada por el virrey. 2 fs. Anejo: 1.- Testimonio de la consulta de la Real Audiencia de México al virrey sobre la celebración de la fiesta del rey San Fernando. México, 9-12-1671. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-12-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

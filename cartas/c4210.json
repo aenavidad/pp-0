@@ -1,0 +1,27 @@
+{
+  "id": "c4210",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366691",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE PICASO DE HINOJOSA",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de Texcoco a Jose Picaso de Hinojosa. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643-04-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

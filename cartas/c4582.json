@@ -1,0 +1,27 @@
+{
+  "id": "c4582",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361708",
+    "docs": 1,
+    "title": "Memorial del doctor Nicolás de la Torrre",
+    "scope": "Memorial del doctor Nicolás de Torres, presbítero, tesorero de la Catedral de Tlaxcala, al virrey, sobre las razones de su renuncia de la merced de la chantría de dicha Catedral.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

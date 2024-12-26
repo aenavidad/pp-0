@@ -1,0 +1,27 @@
+{
+  "id": "c4590",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361717",
+    "docs": 1,
+    "title": "Certificación de los oficiales reales",
+    "scope": "Certificación de los oficiales de la Caja de México de lo que importaron los envíos anuales que se han hecho a S.M. desde 1627 hasta 1634.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

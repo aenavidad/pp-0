@@ -1,0 +1,27 @@
+{
+  "id": "c1761",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362570",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., presentaciones de beneficios curados del arzobispado de México. Anejo:1.- El Virrey a S.M., desórdenes al servirse largo tiempo los beneficios curados por ministros internos. México, 30-V-1673. Nota de la Secretaría. S.F. 1 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-05-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

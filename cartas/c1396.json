@@ -1,0 +1,27 @@
+{
+  "id": "c1396",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19499",
+    "docs": 1,
+    "title": "Planta y Perfil de el fuerte de la Conçepción Río de S. Juan Provinçia de Nicaragua",
+    "scope": "Al dorso: Vino con carta, de Yngeniero D. Diego Gómez de Ocampo, de 12 de Abril de 1676.- Nº 3º. Y aparte: 2º. Número de registro: 1279.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676-01-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

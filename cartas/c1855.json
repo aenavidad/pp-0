@@ -1,0 +1,27 @@
+{
+  "id": "c1855",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367194",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DIEGO DE SALAZAR",
+    "scope": "Expediente de Confirmación del oficio de provincial de la Santa Hermandad de Valladolid, en Michoacan a Diego de Salazar. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1672-11-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

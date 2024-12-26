@@ -1,0 +1,27 @@
+{
+  "id": "c4152",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369223",
+    "docs": 1,
+    "title": "Confirmación de encomienda en Chichen Itzá y Cuncunul",
+    "scope": "Expediente de confirmación de encomienda de Chichen Itzá y Cuncunul, en Yucatán, a Juan Pérez de Mérida.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1644-03-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

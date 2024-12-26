@@ -1,0 +1,27 @@
+{
+  "id": "c5223",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369585",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Diego de Cárdenas, Gobernador de Yucatán sobre el empleo de oficial Real de Pedro Montero.",
+    "desc": null,
+    "locn": "Campeche",
+    "lbd": "1627-11-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

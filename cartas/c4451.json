@@ -1,0 +1,27 @@
+{
+  "id": "c4451",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366639",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: CRISTOBAL MATIAS DE ARELLANO",
+    "scope": "Expediente de Confirmación de los oficios de escribano público y del cabildo y registro, Santa María de la Vitoria, en Tabasco a Cristóbal Matías de Arellano. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638-01-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

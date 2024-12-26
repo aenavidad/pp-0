@@ -1,0 +1,27 @@
+{
+  "id": "c2300",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350741",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: CASTRO RODRIGUEZ",
+    "scope": "Expediente de Confirmación del oficio de depositario general de San Vicente de Austria, en San Salvador a Castro Rodríguez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-02-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

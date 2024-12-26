@@ -1,0 +1,27 @@
+{
+  "id": "c2118",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351228",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SANTO DOMINGO, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Santo Domingo Sinarnecayo y Santiago Losumaluapa en el Partido de Esquintepeque a Alonso de Estrada Altamirano. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-11-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

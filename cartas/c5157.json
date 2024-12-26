@@ -1,0 +1,27 @@
+{
+  "id": "c5157",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361568",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco y Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., llegada de aviso. Defensa de San Juan de Ulúa y flota. Batallón de milicia. General de la flota y general de tierra. Autoridad del Virrey. Seguridad de las flotas. La unión de las armas y la inundación de México. Armas que ha pedido a La Habana. Compañías de la Ciudad de México. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1630-01-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

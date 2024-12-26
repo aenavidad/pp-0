@@ -1,0 +1,27 @@
+{
+  "id": "c5103",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349392",
+    "docs": 4,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial y testimonios presentados por el cabildo de Ciudad Real de Chiapa, solicitando el cumplimiento de las reales cédulas que obligan a los encomenderos a residir en el lugar de sus encomiendas.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-01-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

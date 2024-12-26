@@ -1,0 +1,27 @@
+{
+  "id": "c15",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348745",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Garcia Garabito de León y mendoza, Gobernador de Honduras.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1625-05-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": "re memo de gob re personal household /v f 1 img 1"
+  }
+}

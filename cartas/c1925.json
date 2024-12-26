@@ -1,0 +1,27 @@
+{
+  "id": "c1925",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351232",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE GUATEMALA",
+    "scope": "Expediente de Confirmación de Encomienda en el distrito de la Audiencia de Guatemala a Francisco Zapata, conde de Casarrubias. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1672-08-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

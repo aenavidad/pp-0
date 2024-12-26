@@ -1,0 +1,27 @@
+{
+  "id": "c1872",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362504",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Capitán Baltasar de Resusta, vecino de México, habia hecho asiento para llevar armas desde Vizcaya a Portobelo, pero como no se aprobó en el Consejo, solicita se le dé certificación del decreto en que no hubo lugar dicha aprobación. 4 ho. en 4º",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1672-06-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

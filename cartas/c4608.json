@@ -1,0 +1,27 @@
+{
+  "id": "c4608",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361696",
+    "docs": 1,
+    "title": "Informe sobre el pleito entre Agustín de Valdés y Fernando Carrillo",
+    "scope": "Informe y relación hecha por el licenciado Fernando de Cepedadel, relator de la Audiencia de México, del pleito entre Agustín de Valdés y Sande y Fernando Carrillo sobre la postura del oficio de escribano de propios y rentas de la ciudad de México.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637-04-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

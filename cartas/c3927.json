@@ -1,0 +1,27 @@
+{
+  "id": "c3927",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351989",
+    "docs": 2,
+    "title": "Informaciones: Juan Francisco del Villar y Vivanco",
+    "scope": "Informaciones de oficio y parte: Juan Francisco del Villar y Vivanco, abogado de la Audiencia de Guatemala. Información contenida de 1646, con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1648",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

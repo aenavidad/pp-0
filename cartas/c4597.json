@@ -1,0 +1,27 @@
+{
+  "id": "c4597",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361725",
+    "docs": 1,
+    "title": "Diligencias sobre la entrega de los papeles de Pedro de Quiroga",
+    "scope": "Traslado de las diligencias hechas por mandado del virrey sobre la entrega e inventario de los papeles que al morir dejó el visitador y juez de residencia Pedro de Quiroga y Moya.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-06-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

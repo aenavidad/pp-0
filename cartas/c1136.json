@@ -1,0 +1,27 @@
+{
+  "id": "c1136",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349742",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero, y testimonio, informando del descuento de salario hecho a Fernando Francisco de Escobedo, presidente de la Audiencia de Guatemala, para pago de su condenación en el asunto del repartimiento de indios a labradores.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-01-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

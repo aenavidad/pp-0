@@ -1,0 +1,27 @@
+{
+  "id": "c377",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347420",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente relativo a la llegada del navío Santo Sacramento al puerto de Trujillo.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1651-07-02.",
+    "upd": "1652-04-20."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "Inc re defence, possibly",
+    "mil_n": null
+  }
+}

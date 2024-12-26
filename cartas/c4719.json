@@ -1,0 +1,27 @@
+{
+  "id": "c4719",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361664",
+    "docs": 1,
+    "title": "Certificación de los oficiales reales",
+    "scope": "Certificación de los oficiales reales de Nueva España de lo que se ha remitido a los oficiales de Veracruz de ciertas partidas ingresadas en la caja de México por orden de Pedro Quiroga y Moya, visitador del puerto de Acapulco. Nota: Hay duplicado en el fol. 39.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-04-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

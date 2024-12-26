@@ -1,0 +1,27 @@
+{
+  "id": "c2724",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351186",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN GABRIEL, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Gabriel, Mazatenango, San Andrés Villaseca, Santa Catalina, Tabua en Suchitepeques, de Guatemala, a Gregorio de la Serna Bravo. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-01-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

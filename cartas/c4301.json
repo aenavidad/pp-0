@@ -1,0 +1,27 @@
+{
+  "id": "c4301",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369042",
+    "docs": 1,
+    "title": "Informaciones: Bartolomé Flores",
+    "scope": "Informaciones de oficio y parte: Bartolomé Flores, fué alférez en el presidio de Veracruz, natural y vecino de México.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

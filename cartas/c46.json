@@ -1,0 +1,27 @@
+{
+  "id": "c46",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348780",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Juan Márquez Cabrera, gobernador de Honduras.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1664-09-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "11 IMGS MAY NEED CLOSER RDG 17 JUL 2022",
+    "mil_n": "re memo de gob supp.la a V Mag.d se sirva hazerle mrd. de honorarle con titulo de sargento mayor /v f 1 img 1"
+  }
+}

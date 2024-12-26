@@ -1,0 +1,27 @@
+{
+  "id": "c459",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347504",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Fernando Altamirano de Velasco, presidente de la Audiencia de Guatemala al secretario, Gregorio de Leguia.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1655-03-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

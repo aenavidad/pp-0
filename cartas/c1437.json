@@ -1,0 +1,27 @@
+{
+  "id": "c1437",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362683",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Rivera",
+    "scope": "El Virrey a S.M., muerte de Don Perafán de Rivera, contador de alcabalas. Nombramiento de Don Juan de Cerecedo. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1675-07-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5105",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349394",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial del cabildo de Ciudad Real de Chiapa, solicitando la confirmación de las ordenanzas municipales. Acompaña testimonio de dichas ordenanzas y de una prórroga por cuatro años",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-02-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

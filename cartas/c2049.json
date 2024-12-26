@@ -1,0 +1,27 @@
+{
+  "id": "c2049",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362404",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Don Frutos Delgado, oidor de México, a Don Francisco Fernández Madrigal, informando remite al Consejo de la residencia tomada a Don Rodrigo Flores, Gobernador que fue de Yucatán. 2 fs",
+    "desc": null,
+    "locn": "Veracruz",
+    "lbd": "1671-03-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

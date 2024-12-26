@@ -1,0 +1,27 @@
+{
+  "id": "c1708",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349725",
+    "docs": 37,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente formado con las cartas de Alonso de Mesa, contador, de 22 de abril y 2 y 4 de mayo de 1674, en las que se tratan diversos asuntos relativos a la Real Hacienda y de los procedimientos de Francisco Fernando de Escobedo, presidente de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-04-22.",
+    "upd": "1675-03-18."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

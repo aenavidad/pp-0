@@ -1,0 +1,27 @@
+{
+  "id": "c217",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347258",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Diego de Acuña, presidente de la Audiencia de Guatemala. (Incompleta)",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1628-10-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": true,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "Inc re defence, possibly, in img 1 / Not complete",
+    "mil_n": null
+  }
+}

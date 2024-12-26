@@ -1,0 +1,27 @@
+{
+  "id": "c4865",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361607",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., capítulo de la orden de San Francisco. 2 fs. Anejo: 1.- Orden del Virrey en que tiene por bien que por esta vez se proceda a la elección de guardianes de la orden de San Francisco de esta provincia del santo evangelio para votar en el capítulo para cada convento. México, 15-III-1634. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1634-03-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

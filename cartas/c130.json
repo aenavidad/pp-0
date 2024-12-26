@@ -1,0 +1,27 @@
+{
+  "id": "c130",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347168",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente de Juan Maldonado de Paz, oidor de la Audiencia de Guatemala, sobre sus méritos y servicios.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-02-22.",
+    "upd": "1620-05-12."
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

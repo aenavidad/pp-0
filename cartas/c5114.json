@@ -1,0 +1,27 @@
+{
+  "id": "c5114",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366498",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO CARRASCO",
+    "scope": "Expediente de Confirmación del oficio de contador del juzgado de bienes de difuntos de Nueva España a Francisco Carrasco. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1630-01-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2052",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362478",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey sobre las diligencias hechas para cobrar el alcance que resulta contra el contador Francisco de Córdoba por la administración de los naipes. 2 folios y una hoja en cuarto. Anejo: 1.- Testimonio de la consulta al virrey de oficiales reales referente a las cuentas de naipes del contador Francisco de Córdoba. México, 20-11-1671. 10 folios",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-11-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4296",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366673",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: TOMAS PEREA DE CASTRO",
+    "scope": "Expediente de Confirmación del oficio de regidor de San Francisco de Campeche, en Yucatán a Tomás Perea de Castro. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642-01-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2509",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367086",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: NICOLAS BOTELLO",
+    "scope": "Expediente de Confirmación del oficio de escribano publico y del cabildo de San Andrés de Salvatierra a Nicolás Botello. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1667-06-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

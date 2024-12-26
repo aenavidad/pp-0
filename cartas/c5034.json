@@ -1,0 +1,27 @@
+{
+  "id": "c5034",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350461",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DIEGO LOPEZ DE RIEGO",
+    "scope": "Expediente de Confirmación del oficio de regidor de San Salvador a Diego López del Riego. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1632-09-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4726",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361643",
+    "docs": 1,
+    "title": "Memoria del virrey [Rodrigo Pacheco y Osorio], marqués de Cerralbo",
+    "scope": "Memoria del virrey marqués de Cerralbo sobre las personas que pueden entender en su residencia, de que había sido juez Pedro de Quiroga y Moya, y de los puntos que quedaron pendientes.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

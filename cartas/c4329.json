@@ -1,0 +1,27 @@
+{
+  "id": "c4329",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366672",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO BOLIVAR",
+    "scope": "Expediente de Confirmación del oficio de escribano público y de cabildo, minas y registros de Valladolid, en Yucatán a Pedro Bolivar. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1641-09-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4004",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361835",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "Carta del virrey conde de Salvatierra al rey sobre que ha mandado poner cobro en los papeles del subdelegado del obispo visitador por su fallecimiento, y de los de la visita por ausencia del obispo. Hay duplicado. 2 fs. Anejo: 1.- Testimonio de los autos seguidos por mandado del virrey para poner en cobro los papeles que lleguen a la ciudad de [Puebla de] los Angeles al obispo visitador, por causa de su ausencia. México, 1-8-1647. 27 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1647-08-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

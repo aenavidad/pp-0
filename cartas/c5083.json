@@ -1,0 +1,27 @@
+{
+  "id": "c5083",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351944",
+    "docs": 4,
+    "title": "Informaciones: Pedro Santiago de la Maza",
+    "scope": "Informaciones de oficio y parte: Pedro Santiago de la Maza, regidor de Guatemala, vecina de Guatemala. Con información de fray Pedro de Angulo, obispo de la Verapaz (1597), con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

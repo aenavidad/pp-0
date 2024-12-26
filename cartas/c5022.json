@@ -1,0 +1,27 @@
+{
+  "id": "c5022",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351942",
+    "docs": 2,
+    "title": "Informaciones: Convento de la Encarnación de Chiapa",
+    "scope": "Informaciones de oficio y parte: Convento de la Encarnación de Chiapa. Información contenida de 1631, con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1632",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

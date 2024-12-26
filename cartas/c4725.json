@@ -1,0 +1,27 @@
+{
+  "id": "c4725",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361642",
+    "docs": 1,
+    "title": "Proposiciones del virrey sobre Antonio de Vergara",
+    "scope": "Proposiciones del virrey marqués de Cerralbo sobre las partes y condiciones de Antonio de Vergara Urrutia para no tenerle entre las personas incluidas en su residencia. Hay duplicado.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

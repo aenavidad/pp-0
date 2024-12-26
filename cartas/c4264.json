@@ -1,0 +1,27 @@
+{
+  "id": "c4264",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351114",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE TECOACO",
+    "scope": "Expediente de Confirmación de Encomienda de Tecoaco en Guatemala a Fernando de Avila Monrroy. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643-08-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

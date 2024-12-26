@@ -1,0 +1,27 @@
+{
+  "id": "c2857",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349706",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Francisco Montoya de Valencia, contador y Damián de Ochaita, tesorero, informando de la venta del oficio de Alguacil Mayor de la provincia de Soconusco, y la subasta de otros oficios vacos. Con copia de real cédula",
+    "desc": null,
+    "locn": null,
+    "lbd": "1665-07-03.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

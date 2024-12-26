@@ -1,0 +1,27 @@
+{
+  "id": "c5084",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351945",
+    "docs": 4,
+    "title": "Informaciones: Juan García Matamoros",
+    "scope": "Informaciones de oficio y parte: Juan García Matamoros, beneficiado y rector de Aguachapa comisario de la Santa Cruzada de la Santísima Trinidad. Informaación contenida de 1574, 1577 y 1622, con petición",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

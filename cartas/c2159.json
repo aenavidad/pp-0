@@ -1,0 +1,27 @@
+{
+  "id": "c2159",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367127",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN DE OCAMPO Y ULLOA",
+    "scope": "Expediente de Confirmación del oficio de notario real de Indias a Juan de Ocampo y Ulloa. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-04-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

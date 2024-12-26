@@ -1,0 +1,27 @@
+{
+  "id": "c1946",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367172",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO HURTADO JIMENEZ",
+    "scope": "Expediente de Confirmación del oficio de escribano real de las Indias a Francisco Hurtado Jiménez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-09-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

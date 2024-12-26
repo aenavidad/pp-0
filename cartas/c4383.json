@@ -1,0 +1,27 @@
+{
+  "id": "c4383",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351984",
+    "docs": 2,
+    "title": "Informaciones: Diego Ramírez Grimaldo",
+    "scope": "Informaciones de oficio y parte: Diego Ramírez Grimaldo, visitador general de Chiapa, provisor y vicario de la ciudad y obispado de Chiapa. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1640",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

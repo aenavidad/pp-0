@@ -1,0 +1,27 @@
+{
+  "id": "c1951",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367176",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: IGNACIO ORTUÑO DE CARRIEDO",
+    "scope": "Expediente de Confirmación del oficio de escribano real de las Indias a Ignacio Ortuño de Carriedo. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-10-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

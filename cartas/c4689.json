@@ -1,0 +1,27 @@
+{
+  "id": "c4689",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351069",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE DIRIA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Diria, Turrialba, Orosi y Corrosi a Jose de Sandoval. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-09-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

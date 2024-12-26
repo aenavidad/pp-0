@@ -1,0 +1,27 @@
+{
+  "id": "c2058",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362484",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., intento de sacar la artillería de dos galeones que se perdieron en la isla de Zarpana Grande y en la de Buenavista. 2 fs. Anejo:1.- Testimonio de la artillería que está en las islas islas Marianas y cómo se podría sacar de los galeones hundidos. México, 20-XII-1671. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-11-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

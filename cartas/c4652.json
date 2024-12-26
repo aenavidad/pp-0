@@ -1,0 +1,27 @@
+{
+  "id": "c4652",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369010",
+    "docs": 2,
+    "title": "Informaciones: Bernabé Ruiz Benegas",
+    "scope": "Informaciones de oficio y parte: Bernabé Ruiz Benegas, bachiller, clérigo presbítero, beneficiado de las minas de Cimapan. Información de 1636 incluyendo otra información de 1620 hecha por su hermano Damián de Benegas, y otra de 1635. Con extracto del Consejo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

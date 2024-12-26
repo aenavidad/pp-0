@@ -1,0 +1,27 @@
+{
+  "id": "c1879",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362522",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "Carta del virrey dando cuenta del nuevo crecimiento de tributarios que se ha conseguido en aquel reino, en beneficio de la Real Hacienda. 2 fs. Anejo: 1.- Segunda certificación dada por la Contaduría de Tributos de Nueva España de las nuevas tasaciones que han tenido diferentes pueblos de esta gobernación desde el 1 de abril de 1671. México, 9-4-1672. 12 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-04-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

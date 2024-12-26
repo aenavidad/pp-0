@@ -1,0 +1,27 @@
+{
+  "id": "c914",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347966",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre la comisión que se le adjudicó al fiscal Diego Ibáñez de Faria, en razón de averiguar el fraude del navío San Lorenzo.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-01-10.",
+    "upd": "1679-10-13."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

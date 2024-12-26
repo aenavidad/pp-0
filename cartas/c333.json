@@ -1,0 +1,27 @@
+{
+  "id": "c333",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347376",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre que el fiscal Pedro Vázquez de Velasco se fuese a Lima sin haber pagado la media annata que debía de la comisión que había tenido.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1649-02-28.",
+    "upd": "1652-04-20."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

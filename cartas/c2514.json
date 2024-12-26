@@ -1,0 +1,27 @@
+{
+  "id": "c2514",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369063",
+    "docs": 8,
+    "title": "Informaciones: Pedro Vidal de Fuentes",
+    "scope": "Informaciones de oficio y parte: Pedro Vidal de Fuentes, contador, vecino de México. Dos memoriales con información y varios testimonios, así como dos informaciones sobre los sucesos de Felipe de Estrada y Francisco Castejón",
+    "desc": null,
+    "locn": null,
+    "lbd": "1667",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

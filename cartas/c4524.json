@@ -1,0 +1,27 @@
+{
+  "id": "c4524",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361704",
+    "docs": 1,
+    "title": "Decretos del Consejo relativos a la Armada de Barlovento",
+    "scope": "Documentos del Consejo de Indias relativos a los oficios y cosas que se pueden beneficiar en México para la Armada de Barlovento y lo que decretó acerca de cada punto.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638-02-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

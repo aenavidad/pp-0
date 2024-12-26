@@ -1,0 +1,27 @@
+{
+  "id": "c1627",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362647",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Rivera",
+    "scope": "Carta del virrey Payo Enríquez de Rivera a S.M., acusando el recibo de los despachos que se citan en el índice que adjunta. 2 folios. Anejo: 1.- Índice de los despachos que se recibieron en el navío de aviso que llegó al puerto de San Juan de Ulúa el 18 de mayo de 1674. México, 23-5-1674. 1 folio.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1674-05-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5229",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351909",
+    "docs": 3,
+    "title": "Informaciones: Sebastián Ocón y Trillo",
+    "scope": "Informaciones de oficio y parte: Sebastián Ocón y Trillo, maestre de campo y cabo de mar y tierra de la gente que se hizo para Talamanca. Con petición",
+    "desc": null,
+    "locn": null,
+    "lbd": "1623",
+    "upd": "1633"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

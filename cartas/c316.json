@@ -1,0 +1,27 @@
+{
+  "id": "c316",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347358",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente relativo a quien debe tener comisión para la visita del Tribunal de la Santa Cruzada, en la provincia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1647-06-28.",
+    "upd": "1648-09-26."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

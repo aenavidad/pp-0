@@ -1,0 +1,27 @@
+{
+  "id": "c4771",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366602",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO DE SANTO DOMINGO CAMPOS",
+    "scope": "Expediente de Confirmación de los oficios de escribano público del número de cabildo de San Francisco, en Campeche, en Yucatán a Pedro de Santo Domingo Campos. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635-10-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

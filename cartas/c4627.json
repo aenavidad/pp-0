@@ -1,0 +1,27 @@
+{
+  "id": "c4627",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366617",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: HERNANDO CENTENO",
+    "scope": "Expediente de Confirmación del oficio de regidor de San Francisco, en Campeche, en Yucatán a Hernando Centeno. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-09-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c980",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349357",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial de Alonso Nieto Dorantes, agente de negocios en nombre del cabildo de Trujillo, Honduras, sobre la compra de material de artillería para la defensa del puerto.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619-07-03.",
+    "upd": null
+  },
+  "data": {
+    "mil": true,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

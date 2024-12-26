@@ -1,0 +1,27 @@
+{
+  "id": "c4527",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361721",
+    "docs": 1,
+    "title": "Decreto del Consejo de Indias",
+    "scope": "Decreto del Consejo de Indias sobre lo que escribió el virrey acerca de los grandes gastos que se hacían con los situados y lo que propone para aliviarlos.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638-02-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4569",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361683",
+    "docs": 1,
+    "title": "Traslado de la causa contra Matías de Frigola",
+    "scope": "Traslado de la causa criminal de oficio seguida por mandato del virrey contra Matías Frigola, implicado en el desacato y resistencia que se hizo a Juan de Miranda Gordejuela, l alcalde de corte de la Audeincia de México.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

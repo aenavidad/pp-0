@@ -1,0 +1,27 @@
+{
+  "id": "c2821",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362091",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., sobre el envío a España de dos regidores de la ciudad de México, con testimonio de haber ordenado a Antonio Monroy y Figueroa su embarque. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1665-11-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

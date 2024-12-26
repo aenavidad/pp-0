@@ -1,0 +1,27 @@
+{
+  "id": "c2024",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362451",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., noticias de haberse reducido un bajel inglés que estaba sobre Valdivia y de haberse retirado el enemigo de Tierra Firme. 2 fs. Anejos:1.- Testimonio de lo que escribió el Conde de Lemos, Virrey del Perú, al Virrey de México, sobre el enemigo inglés. México, 7-VIII-1671. 14 fs. 2.- Testimonio de lo que escribió el Presidente de Panamá al Virrey sobre el enemigo inglés. México, 8-VIII-1671. 16 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-07-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

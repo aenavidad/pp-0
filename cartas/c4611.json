@@ -1,0 +1,27 @@
+{
+  "id": "c4611",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361699",
+    "docs": 1,
+    "title": "Testimonio sobre venta de oficios de provincial de la Santa Hermandad",
+    "scope": "Testimonio de la Real Cédula, dada en Madrid en 7 de octubre de 1636, para que los oficios de provincial de la Santa Hermandad que se vendan en las Indias, no se les señale más salario que el correspondiente al precio en que se beneficien.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637-07-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

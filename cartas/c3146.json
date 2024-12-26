@@ -1,0 +1,27 @@
+{
+  "id": "c3146",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350165",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN DE GUEVARA",
+    "scope": "Expediente de Confirmación del oficio de escribano público y del cabildo de Santiago de Guatemala a Juan de Guevara. Resolución sin fecha",
+    "desc": null,
+    "locn": null,
+    "lbd": "1661-07-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

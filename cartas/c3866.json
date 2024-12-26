@@ -1,0 +1,27 @@
+{
+  "id": "c3866",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366767",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN GONZALEZ DE LA FUENTE",
+    "scope": "Expediente de Confirmación del oficio de regidor de Mérida de Yucatán a Juan González de la Fuente. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1648-01-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

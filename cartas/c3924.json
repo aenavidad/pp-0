@@ -1,0 +1,27 @@
+{
+  "id": "c3924",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351141",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE ARACUTLA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Acajutla, Comottan, Santiago, Xocotan y Chalchitan a Juan Bautista de Carranza y Medinilla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1648-10-03.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

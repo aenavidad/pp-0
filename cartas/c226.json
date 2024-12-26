@@ -1,0 +1,27 @@
+{
+  "id": "c226",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347267",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Memorial de Luis de las Infantas y Mendoza, oidor de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-05-05.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "re non defence ie Pres personal household",
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1389",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351242",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN PABLO, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Pablo en Suchitepeques, Tecpancoapa en Chiapa, San Pedro Zocopila, Chaxul, Cunen en las Sacapulas en la Verapaz, San Antonio Mezapa, Gualan, Osumatan en Acasaguastlan y Lezutla en Guasacapan a Antonio de Mesa y Ayala. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676-08-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

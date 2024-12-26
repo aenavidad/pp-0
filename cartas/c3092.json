@@ -1,0 +1,27 @@
+{
+  "id": "c3092",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366981",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN FERNANDEZ CHAVIDA",
+    "scope": "Expediente de Confirmación del oficio de tesorero, juez oficial de la Hacienda y caja de México a Juan Fernández Chavida. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1661-06-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

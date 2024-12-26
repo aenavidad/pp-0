@@ -1,0 +1,27 @@
+{
+  "id": "c2688",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362149",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., paga que se ha de hacer al Marqués de Arica de los corridos de una encomienda de 2.000 ducados de que está hecha merced. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1666-10-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

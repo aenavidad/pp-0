@@ -1,0 +1,27 @@
+{
+  "id": "c5121",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366505",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MELCHOR FERNANDEZ",
+    "scope": "Expediente de Confirmación del oficio de regidor de Carrión a Melchor Fernández. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1630-09-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

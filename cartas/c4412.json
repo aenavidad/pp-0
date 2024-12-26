@@ -1,0 +1,27 @@
+{
+  "id": "c4412",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369033",
+    "docs": 9,
+    "title": "Informaciones: Juan de Escalante y Turcios",
+    "scope": "Informaciones de oficio y parte: Juan de Escalante y Turcios, bachiller, clérigo presbítero, comisario del Santo Oficio, natural de Valladolid (Honduras). Con parecer del Obispo de Honduras de 1645, carta de poder de 1645 y traslado de certificaciones de 1626. Acompañan dos ejemplares de la información traslados de 1647 y dos cartas de poder de ese año",
+    "desc": null,
+    "locn": null,
+    "lbd": "1639",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

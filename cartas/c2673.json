@@ -1,0 +1,27 @@
+{
+  "id": "c2673",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362134",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., motivos que tuvo para despachar a La Habana, en alcance de la flota, la misma tartana que trajo a Veracruz los reales pliegos de S.M. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1666-05-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

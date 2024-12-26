@@ -1,0 +1,27 @@
+{
+  "id": "c3419",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361945",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "El Virrey a S.M., avisa de haber salido de Veracruz Don Diego de Ibarra con capitana y almiranta. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1658-11-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

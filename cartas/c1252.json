@@ -1,0 +1,27 @@
+{
+  "id": "c1252",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367295",
+    "docs": 1,
+    "title": "Confirmación de oficio de regidor: Luis Ramírez de Aguilar.",
+    "scope": "Expediente de confirmación del oficio de regidor de Antequera en Oaxaca a Luis Ramírez de Aguilar. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-03-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

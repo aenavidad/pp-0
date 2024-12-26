@@ -1,0 +1,27 @@
+{
+  "id": "c1992",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362422",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., da cuenta de la consulta que le hizo el castellano de San Juan de Ulúa sobre la forma de actuar si llegaban navíos ingleses. 2 fs. Anejo:1.- Testimonio del parecer de la junta general sobre la forma en que debe gobernarse el castellano de San Juan de Ulúa, llegando a aquel puerto navíos ingleses. México, 24-IV-1671. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-04-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

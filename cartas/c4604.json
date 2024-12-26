@@ -1,0 +1,27 @@
+{
+  "id": "c4604",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361731",
+    "docs": 1,
+    "title": "Carta del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "Carta del virrey marqués de Cadereyta al rey sobre la alteración que ha introducido el gobernador de Filipinas, Sebastián Hurtado de Corcuera, en la navegación con aquellas islas.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4576",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361703",
+    "docs": 1,
+    "title": "Memorial del cabildo secular de México",
+    "scope": "Memorial de Álvaro Carreño, procurador del cabildo de México, suplicando que se vean las escrituras de obligación que hicieron sobre el servicio de dicha ciudad para la Armada de Barlovento y mercedes que por ello recibiría.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

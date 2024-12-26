@@ -1,0 +1,27 @@
+{
+  "id": "c2705",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362110",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., asentamiento en los libros de las Reales Cajas de la Cédula del 8.09.1664, para que no se pueda distribuir cosa alguna de la Real Hacienda sin que haya entrado primero en ellas, con testimonio. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1666-03-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4086",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369045",
+    "docs": 2,
+    "title": "Informaciones: Agustín de Mendiola",
+    "scope": "Informaciones de oficio y parte: Agustín de Mendiola, doctor, cura beneficiado del partido y minas de Mustepeque y Pilcaya. Información contenida de 1644. Con parecer de la Audiencia de esa misma fecha",
+    "desc": null,
+    "locn": null,
+    "lbd": "1645",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

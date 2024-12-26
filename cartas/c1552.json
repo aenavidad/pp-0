@@ -1,0 +1,27 @@
+{
+  "id": "c1552",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348841",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre el estado que tiene la provincia de Costa Rica y los gastos de guerra que deben hacerse para su defensa.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675-03-06.",
+    "upd": "1678-06-23."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

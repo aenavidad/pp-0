@@ -1,0 +1,27 @@
+{
+  "id": "c3995",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361826",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "El Virrey a S.M., da cuenta de la resolución del General Juan de Urbina en irse a España con la armada de Barlovento, y lo que se ha dispuesto con los tres navíos que dejó en La Habana. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1647-05-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

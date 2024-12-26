@@ -1,0 +1,27 @@
+{
+  "id": "c4748",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361657",
+    "docs": 1,
+    "title": "Carta de los oficiales reales de Veracruz",
+    "scope": "Los oficiales reales de Veracruz al rey, sobre los daños que les causó el virrey marqués de Cerralbo por haberles suspendido de sus oficios y mandarlos a prisión. Veracruz",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-03-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

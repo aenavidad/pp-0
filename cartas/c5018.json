@@ -1,0 +1,27 @@
+{
+  "id": "c5018",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351922",
+    "docs": 1,
+    "title": "Informaciones: Juan Nuño Paz y Engracia Estrada y Medinilla",
+    "scope": "Informaciones de oficio y parte: Juan Nuño de Paz, Engracia Estrada y Medinilla, vecino de Chiapa.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1632",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

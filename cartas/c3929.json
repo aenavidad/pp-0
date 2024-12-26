@@ -1,0 +1,27 @@
+{
+  "id": "c3929",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349158",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por Francisco Justiniano Chavarri, procurador general del cabildo secular de Santiago de Guatemala, solicitando la apertura al comercio de los puertos de Sonsonate y El Realejo, para los navios que mantienen comercio con Perú.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1648-09-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

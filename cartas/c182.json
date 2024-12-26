@@ -1,0 +1,27 @@
+{
+  "id": "c182",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347223",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Testimonio de los autos hechos en razón de los extranjeros que hay en la provincia de Guatemala, y sospecha que se tiene de algunos.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1624-10-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "Inc re foreigners",
+    "mil_n": null
+  }
+}

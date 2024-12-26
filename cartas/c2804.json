@@ -1,0 +1,27 @@
+{
+  "id": "c2804",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362075",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., beneméritos de Antequera. 3 fs. Anejos: 1.- Testimonio de los oficios de justicia que el Virrey proveyó en personas beneméritas y vecinas de la ciudad de Oaxaca. México, 22-IX-1665. 2 fs. 2.- Real Cédula al Virrey para que se guarden las Cédulas insertas sobre que provea a los vecinos y naturales del Obispado de Oaxaca en los oficios de aquel distrito. Madrid, 2-IV-1664. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1665-10-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

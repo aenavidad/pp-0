@@ -1,0 +1,27 @@
+{
+  "id": "c4242",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361780",
+    "docs": 1,
+    "title": "Decretos del Consejo de Indias",
+    "scope": "Decretos del Consejo de Indias a las cartas que ha escrito el virrey marqués de Cadereyta al rey en 28 de marzo de 1643. Madrid, 8-6-1643. 4 fs",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1643-06-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

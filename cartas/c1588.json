@@ -1,0 +1,27 @@
+{
+  "id": "c1588",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367218",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MIGUEL DE VERA",
+    "scope": "Expediente de Confirmación de los oficios de escribano mayor del cabildo, regimiento, notario de Indias y México a Miguel de Vera. La concesión de la notaría es posterior. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-02-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

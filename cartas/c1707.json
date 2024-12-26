@@ -1,0 +1,27 @@
+{
+  "id": "c1707",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349724",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador, informando de la remisión de caudales pertenecientes al producto de los situados y mesadas eclesiásticas, de los años 1672 a 1674.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-04-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

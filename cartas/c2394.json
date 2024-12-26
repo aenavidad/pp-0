@@ -1,0 +1,27 @@
+{
+  "id": "c2394",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351205",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE TECPATLAN, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Tecpatlan en los Zoques en Chiapa a Teresa de Jauregui. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1669-02-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

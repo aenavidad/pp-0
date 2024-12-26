@@ -1,0 +1,27 @@
+{
+  "id": "c4750",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361694",
+    "docs": 1,
+    "title": "Carta del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "Copia de un capítulo de carta del virrey al rey sobre el asiento tomado con los mineros de Zacatecas de 500 negros al año para las minas.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-05-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

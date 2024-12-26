@@ -1,0 +1,27 @@
+{
+  "id": "c4810",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351957",
+    "docs": 2,
+    "title": "Informaciones: María de Betancur",
+    "scope": "Informaciones de oficio y parte: María de Betancur, vecina de Santiago de Guatemala. Información contenida de 1634, con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1017",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367336",
+    "docs": 1,
+    "title": "Confirmación de oficio: Juan Díaz de Niebla",
+    "scope": "Expediente de confirmación del oficio de alguacil mayor de la minas de Maravatio a Juan Díaz de Niebla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-12-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

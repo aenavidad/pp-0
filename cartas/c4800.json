@@ -1,0 +1,27 @@
+{
+  "id": "c4800",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351058",
+    "docs": 1,
+    "title": "PETICICON DE DIEGO CARDENAS",
+    "scope": "Petición de Diego Cardenas de una cédula para que los oficiales reales puedan vender y rematar los frutos de sus encomiendas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635-07-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5234",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369578",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memoriales de Francisco Ramírez Bricerio, Gobernador de Yucatán para que le den licencias para llevar familia, criados, armas, etc.",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1616-07-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

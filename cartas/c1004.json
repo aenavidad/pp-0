@@ -1,0 +1,27 @@
+{
+  "id": "c1004",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367323",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE DE ANAYA",
+    "scope": "Expediente de Confirmación del oficio de escribano de provincia de México a José de Anaya. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-11-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

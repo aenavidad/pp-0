@@ -1,0 +1,27 @@
+{
+  "id": "c2860",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349709",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta y testimonios de autos de Francisco de Montoya y Valencia, contador y Damián de Ochaita, tesorero, informando del valor del maiz en la provincia de Guatemala, y del pago de tributos en dinero y en especie. Con copia de real cédula",
+    "desc": null,
+    "locn": null,
+    "lbd": "1665-07-03.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

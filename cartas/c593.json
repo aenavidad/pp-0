@@ -1,0 +1,27 @@
+{
+  "id": "c593",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347639",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre el estado de las cuentas del tiempo que ejerció el oficio de contador Francisco Montoya y Valencia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1660-07-30.",
+    "upd": "1662-07-17."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c30",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348767",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Pedro Carrillo de Zayas, Gobernador de Honduras.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634-10-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": "re memo de gob re personal household /v f 1 img 1"
+  }
+}

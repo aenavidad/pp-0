@@ -1,0 +1,27 @@
+{
+  "id": "c1400",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349730",
+    "docs": 4,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de carta de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero de 21 de abril de 1676, sobre el impago de la media annata de los oficiales de milicias nombrados por Fernando Francisco de Escobedo, presidente de la Audiencia de Guatemala. Solicitan que los despachos a ellos dirigidos vayan cerrados",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676-04-21.",
+    "upd": "1677-07-29."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

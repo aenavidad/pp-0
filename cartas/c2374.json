@@ -1,0 +1,27 @@
+{
+  "id": "c2374",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362311",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey sobre remisión de 12.000 pesos de los efectos de la Armada de Barlovento para la fábrica de galeones a cargo del Consulado de Sevilla. 2 fs. Anejo: 1.- Testimonio de lo obrado con ocasión de la carta que escribió al virrey el Consulado de Sevilla, con copia de una Real Cédula, sobre 12.000 pesos que pide. México, 13-2-1669. 14 fs.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1669-02-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

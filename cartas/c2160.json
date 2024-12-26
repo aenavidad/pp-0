@@ -1,0 +1,27 @@
+{
+  "id": "c2160",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367128",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: NICOLAS FERRERA DE FIGUEROA",
+    "scope": "Expediente de Confirmación de los oficios de notario de Indias y escribano público de Orizaba y San Antonio Guatusco a Nicolás Ferrera de Figueroa. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-04-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

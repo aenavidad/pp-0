@@ -1,0 +1,27 @@
+{
+  "id": "c396",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347439",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Relación hecha en el consejo sobre los temas tratados por Juan Francisco de Esquivel y Larraza, en las cartas de [1651].",
+    "desc": null,
+    "locn": null,
+    "lbd": "1651",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "Inc re defence, possibly",
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2635",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367067",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO DE SALAZAR MENDEZMONTE",
+    "scope": "Expediente de Confirmación del oficio de alférez mayor de la Puebla de Los Angeles a Francisco de Salazar Mendezmonte. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-10-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

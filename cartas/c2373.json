@@ -1,0 +1,27 @@
+{
+  "id": "c2373",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362268",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., sobre delincuentes condenados a Filipinas. 2 fs. Anejo:1.- Testimonio de lo obrado y parecer del acuedo sobre la Real cédula tocante a delincuentes que se condenan a Filipinas. México, 13-III-1669. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1669-03-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

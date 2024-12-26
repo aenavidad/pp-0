@@ -1,0 +1,27 @@
+{
+  "id": "c3212",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361968",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Leyva de la Cerda, conde de Baños",
+    "scope": "El Virrey a S.M., sobre echar de la tierra a clérigo de mal ejemplo. Hay duplicado. 2 fs. Anejos: 1.- Testimonio de las Cédulas y de haberse hecho notorias por el Virrey al Arzobispo de México, tocantes a los clérigos que dieren mal ejemplo. 2-X-1660. 10 fs. 2.- Testimonio de Reales Cédulas al Arzobispo y de sus respuestas relativas a diversos asuntos. México, 17-III-1661. 8 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1660-11-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

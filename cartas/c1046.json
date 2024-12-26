@@ -1,0 +1,27 @@
+{
+  "id": "c1046",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362834",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY PAYO ENRIQUEZ DE RIVERA",
+    "scope": "El Virrey a S.M., cuidado con que queda de llamar a esta ciudad a Don José de Murueta Otalora, contador de la Caja de Veracruz. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1679-01-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1742",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362551",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "Carta del virrey sobre las naos para Filipinas y el socorro enviado en ellas. 2 fs. Anejos: 1.- Certificación de la carta cuenta del socorro enviado a las Filipinas. 10-5-1673. 6 fs. 2.- Testimonio de los nombramientos de cabos que el gobernador de Filipinas despachó para en caso que faltase el general Pedro Durán. México, 30-6-1673. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-05-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2630",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367062",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DIEGO DE BARRIOS",
+    "scope": "Expediente de Confirmación del oficio de escribano público de San Juan de los Llanos, en La Puebla de Los Angeles a Diego de Barrios. Solicita la facultad de servir este oficio como teniente. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-06-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

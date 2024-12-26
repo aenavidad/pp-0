@@ -1,0 +1,27 @@
+{
+  "id": "c4623",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366613",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DIEGO MARDONES BARAHONA",
+    "scope": "Expediente de Confirmación del oficio de regidor de México a Diego Mardones Barahona. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-09-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

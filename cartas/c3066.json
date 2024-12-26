@@ -1,0 +1,27 @@
+{
+  "id": "c3066",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361990",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Leyva de la Cerda, conde de Baños",
+    "scope": "El Virrey a S.M., cumplimiento de la Real Cédula sobre el envío de infantes al presidio de Florida y lo que se ha pagado de aquel situado, con testimonio y certificaciones. 34 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1662-10-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

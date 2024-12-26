@@ -1,0 +1,27 @@
+{
+  "id": "c203",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347244",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Copia de Real Cédula de 2 de mayo de 1574, facultando a los oficiales reales de Guatemala para cobrar tributos, rentas y demás cosas de hacienda.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4365",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366671",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE CARLOS EGUILUZ",
+    "scope": "Expediente de Confirmación del oficio de contador de Yucatán a Jose Carlos Eguiluz. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1640-05-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

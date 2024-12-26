@@ -1,0 +1,27 @@
+{
+  "id": "c3886",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366787",
+    "docs": 1,
+    "title": "Confirmación de oficio: Francisco de Goicoechea",
+    "scope": "Expediente de confirmación del oficio de escribano público de Tulantzingo a Francisco Goicoechea. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1648-11-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1956",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367181",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: BARTOLOME RUIZ",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de Antequera en Oaxaca a Bartolomé Ruiz. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-12-05.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

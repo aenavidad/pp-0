@@ -1,0 +1,27 @@
+{
+  "id": "c3940",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349283",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de San Salvador, aprobando el nombramiento de Juan Martínez Téllez, alcalde mayor de dicha provincia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1648-01-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

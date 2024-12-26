@@ -1,0 +1,27 @@
+{
+  "id": "c1869",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369346",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE KINMILA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Kinmila y Pixila en Campeche de Yucatán a Castellano de Aguilar. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1672-11-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

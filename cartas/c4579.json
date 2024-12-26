@@ -1,0 +1,27 @@
+{
+  "id": "c4579",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361706",
+    "docs": 1,
+    "title": "Mandamiento del virrey sobre cobro de mesadas eclesiásticas",
+    "scope": "Traslado de un mandamiento del virrey marqués de Cadereyta para que los oficiales reales de México cumplan la Real Cédula inserta, dada en Madrid en 5 de mayo de 1629, para la cobranza de las mesadas de todas las capellanías y beneficios eclesiásticos que administren tanto clérigos seculares como los regulares. Se da el mismo mandamiento para los oficiales reales de Zacatecas, Guadalajara y Guadiana.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-05-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

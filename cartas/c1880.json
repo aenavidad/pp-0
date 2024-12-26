@@ -1,0 +1,27 @@
+{
+  "id": "c1880",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362523",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "Carta del virrey sobre la pretensión del prior de la Ermita de Nuestra Señora de Monserrat de México, de que se le conceda la limosna de vino y aceite. 2 fs. Anejo: 1.- Memorial de fray José Cortés, de la Orden de San Benito, y prior de la ermita de Nuestra Señora de Monserrat, solicitando la limosna de vino y aceite. México, 12-4-1672. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-04-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2187",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367152",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FERNANDO ORTIZ DE SEPULVEDA",
+    "scope": "Expediente de Confirmación del oficio de escribano real de Indias a Fernando Ortiz de Sepulveda. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-11-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

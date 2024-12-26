@@ -1,0 +1,27 @@
+{
+  "id": "c3470",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361910",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "El Virrey a S.M., dice del modo que tuvo el arzobispo en pedir el auxilio con lo que el Virrey propuso en el acuerdo y lo que pasó con el fiscal Luis de Mendoza. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1657-03-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

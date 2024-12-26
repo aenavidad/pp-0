@@ -1,0 +1,27 @@
+{
+  "id": "c2127",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349189",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, y oficio de remisión, dando cuenta de tener noticias sobre la invasión hecha por el pirata del reino de Tierra Firme, y en concreto la ocupación de la ciudad de Panamá.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-03-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c16",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348752",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Pedro de Rosal, Gobernador de Honduras.",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1625-06-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": "re ordenanzas de aud no convenientes /v f 1 img 1"
+  }
+}

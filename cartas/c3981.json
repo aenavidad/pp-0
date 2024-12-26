@@ -1,0 +1,27 @@
+{
+  "id": "c3981",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366764",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN DE CARDENAS",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de Santiago de los Valles de Juan de Cardenas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1647-12-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5227",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369584",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Traslado de una Real Cédula de esta fecha, sobre que se interrumpa la pacificación de los indios Taysasis, Lacoindones y otros, dirigida al Gobernador de Yucatán.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1624-11-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

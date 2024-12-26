@@ -1,0 +1,27 @@
+{
+  "id": "c2591",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351197",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN ANDRES ISAPA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Andrés Isapa en el Valle de Chiapa, San Juan Iscos y San Pedro Soloma en Totonicapán y Quesalcoatitán en Sonsonate a José Fernández Guerrero y Nicolasa Ybarra. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1667-03-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

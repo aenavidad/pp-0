@@ -1,0 +1,27 @@
+{
+  "id": "c4580",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361707",
+    "docs": 1,
+    "title": "Mandamiento del virrey marqués de Cadereyta",
+    "scope": "Traslado del mandamiento del virrey marqués de Cadereyta para el gobernador del arzobispado de México en razón de la cobranza de las mesadas de las capellanías, beneficios curado o simples y otro cualquier beneficio eclesiástico, tanto regular como secular, según se manda por Real Cédula inserta dada en Madrid en 1 de diciembre de 1636. Se despachó el mismo mandamiento para los obispos de Tlaxcala, Michoacán, Guadalajara, Guadiana, sede vacante de Oaxaca y prelados de las religiones.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-05-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

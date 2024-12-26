@@ -1,0 +1,27 @@
+{
+  "id": "c1571",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20891",
+    "docs": 1,
+    "title": "Plano del castillo que se fabrica de horden de S.M. en el Presidio de San Agustin de la Florida á cargo de Don Pablo de hita y Salazar su Gobernador y Capitan Gral. y estado en que se halla la fabrica en Mayo de 1675.",
+    "scope": "Con explicación",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

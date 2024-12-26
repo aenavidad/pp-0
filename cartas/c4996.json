@@ -1,0 +1,27 @@
+{
+  "id": "c4996",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361589",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., fortificaciones de San Juan, Veracruz y Acapulco. Muerte del castellano de Acapulco. Reconocimiento de puertos de las costas. Naos de Filipinas. Hay duplicado. 2 fs. Anejo:1.- Orden del Virrey para que el despacho de dos fragatas de Veracruz que se han de enviar a reconocer todos los puertos de la costa del Mar del Norte. México, 5-V-1632. Hay duplicado. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1632-05-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

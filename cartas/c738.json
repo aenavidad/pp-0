@@ -1,0 +1,27 @@
+{
+  "id": "c738",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347787",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre la comisión de Juan Bautista de Urquiola, fiscal de la Audiencia de Guatemala, para averiguar los fraudes cometidos en las entradas de los navíos Santa Elena y San Nicolás de Tolentino.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-03-20.",
+    "upd": "1674-05-26."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1343",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369788",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memoriales y oficios sobre el nombramiento de Antonio de Layseca como Gobernador de Yucatán.",
+    "desc": null,
+    "locn": "Cámara de Indias",
+    "lbd": "1676-10-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

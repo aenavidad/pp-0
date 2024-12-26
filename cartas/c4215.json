@@ -1,0 +1,27 @@
+{
+  "id": "c4215",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366696",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: LUIS GOMEZ DE ESCOBAR",
+    "scope": "Expediente de Confirmación del oficio de receptor del número de la Audiencia de México a Luis Gómez de Escobar. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643-05-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

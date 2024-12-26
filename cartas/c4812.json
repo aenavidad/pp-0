@@ -1,0 +1,27 @@
+{
+  "id": "c4812",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351964",
+    "docs": 2,
+    "title": "Informaciones: Juan Ruiz de Villela",
+    "scope": "Informaciones de oficio y parte: Juan Ruiz de Villela, alcalde de la Hermandad de San Salvador, alcalde ordinario de San Salvador, regidor de San Salvador. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

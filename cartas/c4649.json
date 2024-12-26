@@ -1,0 +1,27 @@
+{
+  "id": "c4649",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369007",
+    "docs": 2,
+    "title": "Informaciones: Francisco Galcerán de Santa Cruz",
+    "scope": "Informaciones de oficio y parte: Francisco Galcerán de Santa Cruz, regidor de San Francisco de Campeche, vecino de San Francisco de Campeche. Con traslado de 1636 de una información de 1606, incluyendo dos informaciones de 1627 y 1628",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c3552",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349671",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Francisco de Montoya y Valencia, contador, Agustín Matute del Castillo, tesorero, y Juan Bernal del Caño, receptor general de los impuestos para la Armada de Barlovento, solicitando estar presentes cuando se abran y cierren los cajones de correspondencia. Con minuta de real cédula",
+    "desc": null,
+    "locn": null,
+    "lbd": "1655-06-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4641",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366631",
+    "docs": 1,
+    "title": "Confirmación de oficio: Diego Osorio Carrillo",
+    "scope": "Expediente de confirmación de los oficios de escribano público y del Cabildo y Diputación de Guadalcázar en Tehuantepec. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-12-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

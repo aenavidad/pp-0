@@ -1,0 +1,27 @@
+{
+  "id": "c1717",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367209",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ALONSO BAYANO DE PERALTA",
+    "scope": "Expediente de Confirmación del oficio de notario de las Indias a Alonso Bayano de Peralta. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1673-06-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

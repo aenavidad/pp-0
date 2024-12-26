@@ -1,0 +1,27 @@
+{
+  "id": "c2340",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362282",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey informando sobre las doctrinas que se quitaron a la provincia del Santo Evangelio de los franciscanos de México. 4 fs. Anejos: 1.- Relación hecha al virrey por el relator de la Audiencia sobre las doctrinas que se quitaron a los franciscanos. México, 24-4-1669. 21 fs. 2.- Testimonio de peticiones de naturales y vecinos para que no se les quiten las doctrinas a los franciscanos. México, 29-4-1669. 57 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1669-04-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

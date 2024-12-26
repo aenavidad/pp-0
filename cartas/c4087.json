@@ -1,0 +1,27 @@
+{
+  "id": "c4087",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369046",
+    "docs": 2,
+    "title": "Informaciones: Antonio de Alire y Rozales",
+    "scope": "Informaciones de oficio y parte: Antonio de Alire y Rozales, bachiller, abogado de la Audiencia de México. Información contenida de 1644. Con parecer de la Audiencia del mismo año",
+    "desc": null,
+    "locn": null,
+    "lbd": "1645",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

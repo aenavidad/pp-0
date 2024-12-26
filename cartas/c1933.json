@@ -1,0 +1,27 @@
+{
+  "id": "c1933",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350772",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: LORENZO DE MONTUFAR",
+    "scope": "Expediente de Confirmación de los oficios de escribano real y notario de Indias, de cámara de la Audiencia de Guatemala a Lorenzo de Montufar. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1672-10-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

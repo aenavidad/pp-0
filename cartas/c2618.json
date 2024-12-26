@@ -1,0 +1,27 @@
+{
+  "id": "c2618",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349714",
+    "docs": 9,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente formado a instancia de memorial de Damián de Ochaita, tesorero, solicitando se le dote de dos oficiales reales y se le conceda aumento de salario. Con cartas de la Audiencia de 8 de marzo de 1667 y de Damián de Ochaita de 10 de marzo de dicho año y testimonios de autos",
+    "desc": null,
+    "locn": null,
+    "lbd": "1667-03-08.",
+    "upd": "1668-08-08."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

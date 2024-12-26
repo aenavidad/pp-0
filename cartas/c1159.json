@@ -1,0 +1,27 @@
+{
+  "id": "c1159",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362784",
+    "docs": 1,
+    "title": "Cartas del virrey Payo Enríquez de Ribera",
+    "scope": "El Virrey al Presidente del Consejo. Causa contra Gerónimo de la Reguera por deuda a Juan Bautista de Zabala. 6 fs. y 2 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1678-02-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

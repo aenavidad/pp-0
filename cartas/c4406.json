@@ -1,0 +1,27 @@
+{
+  "id": "c4406",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366660",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: TOMAS GUTIERREZ DE PARAMO",
+    "scope": "Expediente de Confirmación de los oficios de escribano público, del cabildo, minas y registros de Valladolid de Yucatán a Tomás Gutiérrez de Páramo. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1639-08-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

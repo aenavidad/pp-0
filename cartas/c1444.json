@@ -1,0 +1,27 @@
+{
+  "id": "c1444",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362672",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Rivera",
+    "scope": "El Virrey a S.M., recomendación del Licenciado Don Antonio de Acosta Mendiola para administrador del hospital de indios de México. 22 fs. y 2 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1675-07-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5081",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351941",
+    "docs": 2,
+    "title": "Informaciones: Ana de Artaza e Idiáguez y José de Albisua",
+    "scope": "Informaciones de oficio y parte: Ana de Artaza e Idiáguez y José de Albisua. Información contenida de 1630, con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

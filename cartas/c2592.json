@@ -1,0 +1,27 @@
+{
+  "id": "c2592",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351198",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE S. ANDRES DE ZAYAPUITILA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Andrés de Zayapuitila en los Llanos de Chiapa y Santo Domingo del Palenque en los Zendales de Chiapa a Juan de Castellanos y de las Barillas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1667-03-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

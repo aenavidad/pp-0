@@ -1,0 +1,27 @@
+{
+  "id": "c3006",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349694",
+    "docs": 7,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de carta de Francisco de Montoya y Valencia, contador y Agustín Matute del Castillo, tesorero, sobre la restitución a los derechos de Barlovento las cantidades gastadas en el sustento del Fuerte de San Felipe, en Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1663-03-12.",
+    "upd": "1664-11-27."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

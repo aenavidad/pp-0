@@ -1,0 +1,27 @@
+{
+  "id": "c2423",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367098",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MIGUEL DE UBILLA",
+    "scope": "Expediente de Confirmación del oficio de tesorero juez oficial de la caja de las minas de Pachuca a Miguel de Ubilla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1668-05-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

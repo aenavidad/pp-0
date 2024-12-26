@@ -1,0 +1,27 @@
+{
+  "id": "c4637",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366627",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO SARMIENTO DE MIRUEÑAS",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de Avalos a Pedro Sarmiento de Mirueñas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-10-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

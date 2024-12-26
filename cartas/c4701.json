@@ -1,0 +1,27 @@
+{
+  "id": "c4701",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351974",
+    "docs": 1,
+    "title": "Informaciones: Alvaro de Quiñones Osorio presidente",
+    "scope": "Informaciones de oficio y parte: Autos e información hecha por el presidente de la Audiencia de Guatemala, Alvaro de Quiñones Osorio, en razón de los daños que siguen a los indios de ocuparlos en la labor de la tinta añil.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

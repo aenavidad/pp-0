@@ -1,0 +1,27 @@
+{
+  "id": "c1988",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362418",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey informando sobre lo que escribió el general José Centeno relativo a su viaje. 2 fs. Anejos: 1.- El general de la flota sobre las noticias de enemigos. México, 10-4-1671. 4 fs. 2.- Parecer del virrey y de los ministros sobre cómo se había de comportar en su viaje el general José Centeno. México, 14-4-1671. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-04-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

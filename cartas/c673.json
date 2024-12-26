@@ -1,0 +1,27 @@
+{
+  "id": "c673",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347720",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre como deben hacerse las renunciaciones de los oficios vendibles.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1665-07-08.",
+    "upd": "1666-11-03."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

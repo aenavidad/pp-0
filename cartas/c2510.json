@@ -1,0 +1,27 @@
+{
+  "id": "c2510",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367087",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: GONZALO SERRANO DE ROSALES",
+    "scope": "Expediente de Confirmación del oficio de escribano de la Cámara del crimen de la Audiencia de México a Gonzalo Serrano de Rosales. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1667-07-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

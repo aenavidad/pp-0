@@ -1,0 +1,27 @@
+{
+  "id": "c1795",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362604",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., sobre prohibir que en Acapulco desembarquen los soldados y delincuentes de las Filipinas sin licencia. 2 f",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-06-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

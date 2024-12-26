@@ -1,0 +1,27 @@
+{
+  "id": "c393",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347436",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente en razón de la antigüedad de los oidores Francisco López de Solís y Juan González Manjarres.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1651-11-06.",
+    "upd": "1652-05-13."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

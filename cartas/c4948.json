@@ -1,0 +1,27 @@
+{
+  "id": "c4948",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369188",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE NABALAN",
+    "scope": "Expediente de Confirmación de Encomienda de Nabalán en Valladolid a Gerónimo López de Ricalde. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633-09-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4072",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350587",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: LAZARO VELEZ DE LANDA",
+    "scope": "Expediente de Confirmación del oficio de regidor de Granada, en Nicaragua a Lázaro Vélez de Landa. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1646-04-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

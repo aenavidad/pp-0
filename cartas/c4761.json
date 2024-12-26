@@ -1,0 +1,27 @@
+{
+  "id": "c4761",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366592",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FELIPE MORAN DE LA CERDA",
+    "scope": "Expediente de Confirmación del oficio de regidor de México a Felipe Moran de la Cerda. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635-03-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1067",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362837",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY PAYO ENRIQUEZ DE RIVERA",
+    "scope": "El Virrey a S.M., envío del real tesoro en la flota del general Don Diego de Córdoba. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1679-01-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

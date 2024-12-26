@@ -1,0 +1,27 @@
+{
+  "id": "c481",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347526",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre la causa contra el capitán Diego de Padilla.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1655-06-03.",
+    "upd": "1658-07-10."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

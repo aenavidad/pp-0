@@ -1,0 +1,27 @@
+{
+  "id": "c3453",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20876",
+    "docs": 1,
+    "title": "Planta de la villa de San Francisco de Campeche",
+    "scope": "Tabla explicativa con clave alfabética en hoja aparte, donde figura el título.   Presenta la traza urbana de Campeche, con eje longitudinal, paralela a la costa y estructurada en cuadrícula con dos hileras manzanas cuadradas a partir de la plaza central sobre la costa y una tercera hilera a medio construir. Alrededor de la plaza la iglesia mayor y la fuerza principal [de San Francisco].   Se representan otras fortificaciones. A la derecha, las de San Román, Santo Cristo y Santa Cruz; a la izquierda, el fortín de San Bartolomé.   Se indican también otras iglesias y hospitales.   A las afueras, en asentamiento disperso, los barrios de indios de San Francisco y San Román, con las casas reales de los indios del Campechuelo, Santa Lucía, Yatziquín y Santa Ana, comunicados por medio de caminos.   En el mar indicación de brazas de profundidad. Se indica el canal de entrada y un banco de arena. Dibujo de cuatro barcos.    Número de registro: 410",
+    "desc": null,
+    "locn": "Campeche",
+    "lbd": "1658-05-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4802",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351060",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE CHAPA LA REAL",
+    "scope": "Expediente de Confirmación de Encomienda de Chapa la Real a Convento de la Encarnación. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635-08-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

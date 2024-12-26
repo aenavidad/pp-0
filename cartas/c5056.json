@@ -1,0 +1,27 @@
+{
+  "id": "c5056",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368983",
+    "docs": 1,
+    "title": "Informaciones: Pedro de Luna",
+    "scope": "Informaciones de oficio y parte: Pedro de Luna, vecino de San Francisco de Campeche. Información de 1628 sobre Pedro de Luna casado con Antonia Melo de Santa Cruz. Además informaciones hecha en 1630 y 1604 sobre Mateo de Aguilar, marido de la abuela de Antonia Melo; así como una información de Juan de Aguilar, conquistador de 1566",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

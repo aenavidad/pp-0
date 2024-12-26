@@ -1,0 +1,27 @@
+{
+  "id": "c4317",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351986",
+    "docs": 2,
+    "title": "Informaciones: José de Lira y Cárcamo",
+    "scope": "Informaciones de oficio y parte: José de Lira y Cárcamo, presbítero. Información contenida de 1641, con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

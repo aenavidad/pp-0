@@ -1,0 +1,27 @@
+{
+  "id": "c2063",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362488",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey sobre el precio de los esclavos de Alonso de Alavés. 2 fs. Anejos: 1.- real Cédula al virrey para que haga remitir los 600 pesos en que se vendieron unos esclavos que quedaron por muerte de Alonso de Alavés. Madrid, 15-6-1671. 2 fs. 2.- Testimonio del decreto sobre el obedecimiento de la Cédula que ordena enviar a España los 600 pesos procedentes de la venta de esclavos. México, 3-11-1671. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-11-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1792",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362601",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., fallecimiento del Dr. Don Andrés de Ortega Valdivia, deán de la iglesia de Michoacán. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-06-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c83",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347123",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Real Cédula para que ni oidores, alcaldes ni fiscales de las Audiencias de las Indias, usen poderes de nadie en razón de la cobranza de deudas.",
+    "desc": null,
+    "locn": "El Pardo",
+    "lbd": "1618-02-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

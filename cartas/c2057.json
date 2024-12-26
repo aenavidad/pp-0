@@ -1,0 +1,27 @@
+{
+  "id": "c2057",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362483",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., misiones y conversiones de la provincia de Yucatán. 2 fs. Anejos:1.- Expediente sobre la asistencia y conversión de los indios de Campeche. México, 28-XI-1671. 18 fs. 2.- Testimonio de los autos tocantes a la conversión de los indios de la provincia de Campeche. México, 25-XI-1671. 53 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-11-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

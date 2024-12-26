@@ -1,0 +1,27 @@
+{
+  "id": "c4734",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361647",
+    "docs": 1,
+    "title": "Testimonio de autos contra el general Antonio de la Plaza",
+    "scope": "Testimonio de los autos hechos por el visitador del puerto de Acapulco y contratación de Filipinas y Perú, y juez de residencia del marqués de Cerralbo contra Antonio de la Plaza, general de las naos de Filipinas. Nota: Hay duplicado en los folios 177-178",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-04-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

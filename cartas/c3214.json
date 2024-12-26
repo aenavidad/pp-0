@@ -1,0 +1,27 @@
+{
+  "id": "c3214",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361970",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Leyva de la Cerda, conde de Baños",
+    "scope": "El Virrey a S.M., da cuenta de tres plazas de oidores de México que están vacas, y propone se acrecienten. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1660-12-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

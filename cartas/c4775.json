@@ -1,0 +1,27 @@
+{
+  "id": "c4775",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368998",
+    "docs": 1,
+    "title": "Informaciones: Bartolomé de Ibarra",
+    "scope": "Informaciones de oficio y parte: Bartolomé de Ibarra, contador, capitán en Nueva Vizcaya, tesorero de la Santa Cruzada en el puerto de Veracruz.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

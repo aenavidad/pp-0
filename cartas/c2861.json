@@ -1,0 +1,27 @@
+{
+  "id": "c2861",
+  "work": {
+    "cod": false,
+    "cod_n": "is registro de oficio o partes",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/372541",
+    "docs": 1,
+    "title": "Registros de oficio y partes: Nueva España",
+    "scope": "Registros de oficio y partes: Reales cédulas y provisiones, cartas acordadas, etc., conteniendo disposiciones de gobierno y gracia para autoridades seculares y eclesiásticas y particulares del distrito del Virreinato de Nueva España. Libro C 33",
+    "desc": "339 folios. (porción 1).,Indice: 5 folios (porción 2). 339 Hoja(s)",
+    "locn": null,
+    "lbd": "1664-11-14.",
+    "upd": "1669-07-09."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

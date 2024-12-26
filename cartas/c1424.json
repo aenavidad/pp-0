@@ -1,0 +1,27 @@
+{
+  "id": "c1424",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367251",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: NICOLAS GARCIA BOTELLO",
+    "scope": "Expediente de Confirmación del oficio de provincial de la Santa Hermandad de San Andrés de Salvatierra a Nicolás García Botello. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675-05-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

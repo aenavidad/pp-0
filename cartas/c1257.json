@@ -1,0 +1,27 @@
+{
+  "id": "c1257",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367282",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE DE LAS HERAS",
+    "scope": "Expediente de Confirmación del oficio de notario de Indias a José de las Heras. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-01-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

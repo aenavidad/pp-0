@@ -1,0 +1,27 @@
+{
+  "id": "c1841",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19495",
+    "docs": 1,
+    "title": "Plano del puerto de El Realejo.",
+    "scope": "Por Martín de Andújar. Con leyenda explicativa en la esquina superior derecha. Número de registro: 1275.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1673",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

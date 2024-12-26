@@ -1,0 +1,27 @@
+{
+  "id": "c1399",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349729",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero, informando del pago de tributos por parte del Alcalde Mayor de la provincia de San Salvador y San Miguel, y de otras justicias. Informa asimismo de las actividades de la Audiencia. Con testimonio y carta de 30 de septiembre de 1676 de Jerónimo de Viga, oidor de la Audiencia de Guatemala",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676-04-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

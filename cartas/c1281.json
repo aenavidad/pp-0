@@ -1,0 +1,27 @@
+{
+  "id": "c1281",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364846",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "CArta de Juan Sáenz Moreno, alcalde del crimen de México y Visitador de la Real Hacienda.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1677-02-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

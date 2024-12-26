@@ -1,0 +1,27 @@
+{
+  "id": "c2744",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349710",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Damián de Ochaita, tesorero, dando cuenta del importe de la media annata de las mercedes situadas en aquella caja el año 1662 y 1664. Con relación de las mercedes pagadas en dicha caja",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-02-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

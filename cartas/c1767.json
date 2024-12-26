@@ -1,0 +1,27 @@
+{
+  "id": "c1767",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362576",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "Carta del virrey informando del cumplimiento de la Real Cédula de 17 de junio de 1672 sobre el envío al gobernador de Santo Domingo de 300 infantes pagados por un año. 2 fs. Anejo: 1.- Testimonio de lo resuelto en Junta general sobre el socorro a Santo Domingo con 300 infantes. México, 1-7-1673. 8 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-06-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

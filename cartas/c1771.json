@@ -1,0 +1,27 @@
+{
+  "id": "c1771",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362580",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., cobranza del alcance contra la Sala del crimen por la obligación que hizo de pagar 200 pesos cada año. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-06-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4546",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361742",
+    "docs": 1,
+    "title": "Memorial de Francisco de la Torre",
+    "scope": "Memorial de Francisco de la Torre suplicando que se mande ver los autos presentados en la acusación que tiene puesta contra el marqués de Cerralbo sobre la calumnia que le levantó siendo virrey. 1 folio",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1637-08-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

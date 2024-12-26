@@ -1,0 +1,27 @@
+{
+  "id": "c4111",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351125",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE CHAPELTIQUE, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Chapeltique, Tocorrostique, Porolox y Guataxiao en San Miguel a Isabel Castro y de la Cerda y Marina de Mendoza y Garabito. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1645-03-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

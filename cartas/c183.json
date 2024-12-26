@@ -1,0 +1,27 @@
+{
+  "id": "c183",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347224",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Decreto de la Junta de Guerra sobre el cuidado que deben tener al navegar hacia el puerto de Santo Tomás de Castilla.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625-01-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "Inc re defence",
+    "mil_n": null
+  }
+}

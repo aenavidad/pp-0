@@ -1,0 +1,27 @@
+{
+  "id": "c1204",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362825",
+    "docs": 1,
+    "title": "Cartas del virrey Payo Enríquez de Ribera",
+    "scope": "Expediente sobre lo que se ha obrado con el papel sellado antiguo. 20 fs. y 13 ho. en 4º",
+    "desc": null,
+    "locn": null,
+    "lbd": "1678-02-17.",
+    "upd": "1678-09-06."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

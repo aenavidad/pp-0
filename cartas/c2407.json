@@ -1,0 +1,27 @@
+{
+  "id": "c2407",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349442",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Cartago, informando favorablemente del gobierno de Juan López de la Flor y de la invasiones de ingleses y franceses. Con duplicado",
+    "desc": null,
+    "locn": null,
+    "lbd": "1669-04-03.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

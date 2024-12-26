@@ -1,0 +1,27 @@
+{
+  "id": "c1610",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362630",
+    "docs": 1,
+    "title": "Carta del virrey Payo Enríquez de Rivera",
+    "scope": "Carta del virrey Payo Enríquez de Rivera a S.M., informando que dará pronta ejecución a la instrucción que se dió al virrey duque de Veragua para la mejor gobernación de aquel reino. 2 folios.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1674-02-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

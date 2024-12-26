@@ -1,0 +1,27 @@
+{
+  "id": "c3429",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364498",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre haberse dado en la Audiencia de Manila 273.133 pesos en decomiso",
+    "desc": null,
+    "locn": null,
+    "lbd": "1658-08-24.",
+    "upd": "1659-05-31."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

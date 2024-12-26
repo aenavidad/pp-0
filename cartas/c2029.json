@@ -1,0 +1,27 @@
+{
+  "id": "c2029",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362402",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey sobre el saqueo de Santa Marta por el enemigo. 2 fs. Anejo: 1.- Traslado de un capítulo de carta de los oficiales reales de Veracruz al virrey del 31 de diciembre de 1670 sobre el enemigo inglés que saqueó Santa Marta y que en Jamaica se aprestaba una armadilla para atacar Caracas. México, 17-01-1671. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-01-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

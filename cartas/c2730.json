@@ -1,0 +1,27 @@
+{
+  "id": "c2730",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351192",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE OCOSINGO, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Ocosingo, Guaquitepeque, Ocotenango, Tecpatlán, Zoyatitlán en Chiapa a Francisco de la Tobilla y Velasco. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-12-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

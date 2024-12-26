@@ -1,0 +1,27 @@
+{
+  "id": "c1512",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364786",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Gonzalo Suárez de San Martín, oidor de Audiencia de México y Visitador de la Real Hacienda.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1675-04-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

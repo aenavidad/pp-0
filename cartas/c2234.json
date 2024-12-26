@@ -1,0 +1,27 @@
+{
+  "id": "c2234",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362356",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., orden de embarcarse para España a Don Antonio Rusco. 2 fs. Anejo:1.- Real Cédula ordenando embarque para España Don Antonio Rusco. Obedecimiento y notificación. México, 13-XI-1670. 2 f",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1670-11-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

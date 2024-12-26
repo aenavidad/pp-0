@@ -1,0 +1,27 @@
+{
+  "id": "c2179",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367145",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: RODRIGO MEJIA ALTAMIRANO",
+    "scope": "Expediente de Confirmación del oficio de guarda mayor de la Casa de la Moneda de México a Rodrigo Mejía Altamirano. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-06-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

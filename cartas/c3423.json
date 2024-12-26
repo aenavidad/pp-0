@@ -1,0 +1,27 @@
+{
+  "id": "c3423",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361949",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "El Virrey a S.M., da cuenta del fuego que se prendió en los cajones que estaban en la plaza junto a las casas reales. 6 fs. Anejo: 1.- Certificación dada por el cabildo de la ciudad de México sobre los cajones de jardín y loza que se quemaron en el incendio de la plaza que está junto a las casas reales. México, 17-XI-1658. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1658-11-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

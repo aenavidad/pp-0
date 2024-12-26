@@ -1,0 +1,27 @@
+{
+  "id": "c5239",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369574",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta de Carlos de Luna y Arellano, Gobernador de Yucatán.",
+    "desc": null,
+    "locn": "Mérida de Yucatán /",
+    "lbd": "1610-02-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "77 IMGS MAY NEED CLOSER RDG 17 JUL 2022",
+    "mil_n": "re algunos Indios ynquietos en Tecax / con testimonio del proçeso [contra indios] que ba con esta /v f 1 img 1"
+  }
+}

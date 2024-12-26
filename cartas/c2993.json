@@ -1,0 +1,27 @@
+{
+  "id": "c2993",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351179",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE MATAGALPA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Matagalpa, Portega y Abangasquilla en Nicaragua a Marquesa de Cortés. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1663-10-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

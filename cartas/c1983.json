@@ -1,0 +1,27 @@
+{
+  "id": "c1983",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362414",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., devuelve el pliego que se le remitió para que gobernase en ínterin la Audiencia de Guadalajara, el Oidor Don Manuel de Escalante y Mendoza. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-04-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

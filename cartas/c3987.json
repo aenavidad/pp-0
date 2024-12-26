@@ -1,0 +1,27 @@
+{
+  "id": "c3987",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369052",
+    "docs": 1,
+    "title": "Informaciones: Juan Muñoz de Molina",
+    "scope": "Informaciones de oficio y parte: Juan Muñoz de Molina, doctor, maestre escuela de la catedral de Mérida. Sólo testimonio de títulos",
+    "desc": null,
+    "locn": null,
+    "lbd": "1647",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

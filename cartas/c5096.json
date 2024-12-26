@@ -1,0 +1,27 @@
+{
+  "id": "c5096",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349240",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por la provincia de Nicaragua, solicitando duplicado de las reales cédulas por las que se suprimieron los jueces de milpas.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-07-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

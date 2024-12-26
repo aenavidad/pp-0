@@ -1,0 +1,27 @@
+{
+  "id": "c4610",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361698",
+    "docs": 1,
+    "title": "Testimonio sobre la paga de los situados",
+    "scope": "Testimonio de la relación de lo que se resolvió en el acuerdo general de hacienda de México respecto a la paga de los situados.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

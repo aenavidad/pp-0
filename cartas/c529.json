@@ -1,0 +1,27 @@
+{
+  "id": "c529",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347575",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Tres cartas de Martín Carlos de Mencos, escritas desde Panamá en septiembre-octubre de 1658.",
+    "desc": null,
+    "locn": "Panamá",
+    "lbd": "1658-09-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2893",
+  "work": {
+    "cod": true,
+    "cod_n": "is carta de Yuc",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369734",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta de Francisco de Esquivel, Gobernador de Yucatán.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1664-11-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4638",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366628",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN MARTEL SOLORZANO",
+    "scope": "Expediente de Confirmación del oficio de regidor de Colima a Juan Martel Solórzano. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-10-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

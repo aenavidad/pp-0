@@ -1,0 +1,27 @@
+{
+  "id": "c4049",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369039",
+    "docs": 5,
+    "title": "Informaciones: Miguel de Ibarra",
+    "scope": "Informaciones de oficio y parte: Miguel de Ibarra, doctor, clérigo presbítero, natural de México. Memorial, con traslado de 1646 de información de 1638. Con tres testimonio de 1647",
+    "desc": null,
+    "locn": null,
+    "lbd": "1646",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

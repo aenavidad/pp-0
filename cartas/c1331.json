@@ -1,0 +1,27 @@
+{
+  "id": "c1331",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367272",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MATIAS GARCIA DE CISNEROS",
+    "scope": "Expediente de Confirmación del oficio de procurador del número de la Audiencia de México a Matías García de Cisneros. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676-10-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1874",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362517",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "Carta del virrey sobre la consulta de los oficiales reales de Guadalajara referente a dar las certificaciones que pide el fiscal para el cobro de la Real Hacienda. 2 fs. Anejos: 1.- Real Cédula a los oficiales de la Real Hacienda de Guadalajara para que den al fiscal de la Audiencia las certificaciones que les pidiere. Madrid, 24-10-1671. 2 fs. 2.- Los oficiales reales al Virrey sobre si dan las certificaciones que pide el fiscal de la Audiencia. México, 13-3-1672. 8 fs. 3.- El contador de la Caja Real de Guadalajara remite a S.M. copia de una cédula de 1616 en que se dispuso que esté a cargo del virrey la administración de la Real Hacienda de aquella provincia. Guadalajara, 14-4-1672. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-03-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

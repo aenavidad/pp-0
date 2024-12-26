@@ -1,0 +1,27 @@
+{
+  "id": "c20",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348754",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Francisco Martinez de Ribamontán, Gobernador de Honduras.",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1629-12-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": true,
+    "pir": null,
+    "def": null,
+    "lit_n": "cf C Amaya p 106",
+    "codg_n": null,
+    "mil_n": "q. esta Truxillo y su castillo sin asistir nadie en el y [gob se] esfuerça en poner [siquiera] un Indio mulato o negro que haga posto sin aver otra ning.a persona con que esta la dha ciudad y castillo muy sujeta a que la tome el enemigo aunque llegue con sola una lancha pues no Tendra quen se lo ympida y a este peligro esta mas espuesta en la ocasion presente q. Tan ynfestadas son todas las costas de las Indias de cosarios como es notorio, y por que al serv.o de V. M.d conbiene poner Remedio en cosa tan Ynportante /v f 1 img 1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4297",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366674",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MARCOS MARTINEZ DE ARRI",
+    "scope": "Expediente de Confirmación del oficio de escribano público y del cabildo de Cholula a Marcos Martínez de Arri. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642-02-05.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1605",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362621",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "Carta del virrey marqués de Mancera a S.M., informando haberse concluido antes del tiempo de la obligación la obra del sagrario y altar mayor de la Catedral de México, exceptuando los veintisiete bultos de que se compone. 3 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1674-01-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

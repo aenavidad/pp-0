@@ -1,0 +1,27 @@
+{
+  "id": "c2003",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362432",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey sobre el envío de una carta del Virrey del Perú sobre los azogues de aquel reino. 2 fs. Anejos: 1.- El virrey del Perú al virrey de Nueva España, sobre el socorro de azogues de aquel reino. Lima, 24-1-1671. 2 fs. 2.- Real Cédula en respuesta a tres cartas del virrey sobre los azogues que le envió el virrey del Perú y los que fueron en la flota que llevó José Centeno. Madrid, 6-6-1671. 2 fs. 3.- Real Cédula en respuesta al Virrey sobre la remisión de azogues de las provincias del Perú. Madrid, 3-10-1671. 2 fs. 4.- Real Cédula en respuesta de lo que escribió el virrey del Perú sobre la remisión del costo de los azogues que envió a Nueva España. Madrid, 22-9-1671. 2 fs. y 2 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-05-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

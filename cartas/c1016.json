@@ -1,0 +1,27 @@
+{
+  "id": "c1016",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367335",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ALONSO TIRADO",
+    "scope": "Expediente de Confirmación de los oficios de escribano público de Xalacinco y notario de Indias a Alonso Tirado. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-12-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

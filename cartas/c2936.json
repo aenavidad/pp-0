@@ -1,0 +1,27 @@
+{
+  "id": "c2936",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349183",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Expediente instruido a instancia de memorial presentado por Agustín Ponce de León, procurador general del cabildo secular de Santiago de Guatemala, por el que solicita que se extienda al Puerto de Honduras la posibilidad de llegada de los navios de Domingo Grillo y Ambrosio Lomelín, asentistas de esclavos para coger añil.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1664-09-23.",
+    "upd": "1664-10-16."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

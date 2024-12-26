@@ -1,0 +1,27 @@
+{
+  "id": "c4376",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364421",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Relación de los méritos de Francisco Antonio Cuervo y Valdés, factor, veedor, juez oficial real de la Caja de Nuestra Señora de Zacatecas.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1640-11-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4001",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361832",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "El Virrey a S.M., sobre las causas que tuvo para dar a Don Nicolás de Bonilla el oficio de Potosí. 2 fs. Anejos: 1.- Real Cédula para que el Virrey provea en Don Martín del Pozo la alcaldía de San Luis Potosí. Madrid, 21-VIII-1625. 1 f. 2.- Memoria hecha sobre la provisión y estado del oficio de alcalde mayor de las minas de San Luis Potosí. 1647 [SUP] 2 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1647-05-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

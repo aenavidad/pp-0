@@ -1,0 +1,27 @@
+{
+  "id": "c3480",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361920",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "Carta del virrey duque de Alburquerque al rey dando cuenta de lo ocurrido con el arzobispo sobre el sacar hachas en el Corpus, sus pajes y los del virrey. 4 fs. Anejo: 1.- El arzobispo al virrey, sobre que sacasen hachas en la procesión del Corpues sus pajes y los del virrey, lo que él respondió y lo que pasó a su secretario cuando llevó la respuesta al arzobispo. México, 30-V-1657. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1657-06-05.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

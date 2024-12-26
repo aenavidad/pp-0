@@ -1,0 +1,27 @@
+{
+  "id": "c4749",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361658",
+    "docs": 1,
+    "title": "Petición de los oficiales reales de Veracruz",
+    "scope": "Petición de los oficiales reales de Veracruz ante Pedro de Quiroga y Moya, juez de residencia del virrey marqués de Cerralbo, sobre los daños que les causó dicho virrey, solicitando testimonio de la sentencia pronunciada en esta causa.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-04-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

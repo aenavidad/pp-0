@@ -1,0 +1,27 @@
+{
+  "id": "c38",
+  "work": {
+    "cod": true,
+    "cod_n": "is carta de Hon",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348773",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta de Melchor Alonso de Tamayo, Gobernador de Honduras acerca de los puertos de Caballos y Bahía Fonseca y su comunicación.",
+    "desc": null,
+    "locn": "Trujillo",
+    "lbd": "1642-09-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": true,
+    "pir": null,
+    "def": null,
+    "lit_n": "cf C Amaya p 106",
+    "codg_n": null,
+    "mil_n": "Ha procurado en execuçion de la orden que tiene de la Aud.a de Guatimala despoblar las yslas de la Guanaja, maça i Ruatan por los incombenientes que resultan del abrigo i comodidad que alli tiene el Enemigo, y lo consiguio sacando con industria Los yndios que estavan alli poblados, y tratava de señalarles avitaçion en parte aproposito, y de que se fuesen enseñando en las cosas de n.a Santa fe catolica, de que se allaban remotos /v covering fol img 4"
+  }
+}

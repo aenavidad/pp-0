@@ -1,0 +1,27 @@
+{
+  "id": "c5100",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349244",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por Sebastián Ramirez, procurador general de la provincia de Nicaragua, solicitando real cédula para que el gobernador y presidente de la Audiencia, provean las encomiendas vacantes en hijos y descendientes de conquistadores y pobladores.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-10-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

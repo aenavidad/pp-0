@@ -1,0 +1,27 @@
+{
+  "id": "c989",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349317",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Valladolid de Comayagua, informando sobre las diferencias entre D. Diego de Acuña, presidente de la Audiencia de Guatemala, y D. Francisco de Rivamontán Santander, gobernador de Honduras",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634-07-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": "cf C Amaya p 106",
+    "codg_n": null,
+    "mil_n": null
+  }
+}

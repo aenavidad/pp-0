@@ -1,0 +1,27 @@
+{
+  "id": "c2298",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351215",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE TEOPISCA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Teopisca, Aguacatenango y los Moyos en Chiapa a José Dávila Monroy. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-03-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c247",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347288",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Memorial de Pedro Vázquez de Velasco, fiscal de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637-11-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

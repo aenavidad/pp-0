@@ -1,0 +1,27 @@
+{
+  "id": "c5091",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348888",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta de Francisco Fernández de Azagra y Vargas, Gobernador de Nicaragua.",
+    "desc": null,
+    "locn": "Granada",
+    "lbd": "1631-05-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "re non defence ie Prince's birth",
+    "mil_n": null
+  }
+}

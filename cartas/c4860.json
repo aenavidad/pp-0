@@ -1,0 +1,27 @@
+{
+  "id": "c4860",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368990",
+    "docs": 1,
+    "title": "Informaciones: Pedro Bravo",
+    "scope": "Informaciones de oficio y parte: Pedro Bravo, licenciado, abogado de la Real Hacienda, natural y vecino de Puebla de Guadalupe. Traslado de 1634 de una información de 1613-1629 y otra de filiación de. 1604",
+    "desc": null,
+    "locn": null,
+    "lbd": "1613",
+    "upd": "1629"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

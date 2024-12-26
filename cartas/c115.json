@@ -1,0 +1,27 @@
+{
+  "id": "c115",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347155",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente de Pedro Marín de Solórzano, receptor general de penas de cámara, sobre la buena administración y cobranza de las mismas.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619-06-25.",
+    "upd": "1619-09-19."
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

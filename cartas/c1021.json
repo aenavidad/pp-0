@@ -1,0 +1,27 @@
+{
+  "id": "c1021",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369064",
+    "docs": 2,
+    "title": "Informaciones: Juan de Mur Soldevilla",
+    "scope": "Informaciones de oficio y parte: Juan de Mur Soldevilla. Información contenida de 1678 Incluyendo otra información de 1675 Con parecer del cabildo de la ciudad de México de 1679",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c522",
+  "work": {
+    "cod": false,
+    "cod_n": "deteriorated",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347567",
+    "docs": 1,
+    "title": "PAPELES VARIOS",
+    "scope": "Papeles varios incompletos de la Secretaría del Consejo de Indias. (Deteriorados)",
+    "desc": null,
+    "locn": null,
+    "lbd": null,
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "Inc re defence, possibly / Damaged",
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1386",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351239",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN MARTIN GILOTEPEQUE",
+    "scope": "Expediente de Confirmación de Encomienda de San Martin Gilotepeque en Guatemala a Pedro Núñez de Guzmán, Conde de Villaumbrosa y Antonia de Estrada y Azpeitia. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676-03-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

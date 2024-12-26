@@ -1,0 +1,27 @@
+{
+  "id": "c3456",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349677",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Agustín Matute del Castillo, tesorero y Damián de Ochayta, contador, acatando la real cédula para hacer almoneda de los oficios de depositario y alférez real de la Ciudad Real de Chiapa.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1658-05-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

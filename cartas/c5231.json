@@ -1,0 +1,27 @@
+{
+  "id": "c5231",
+  "work": {
+    "cod": true,
+    "cod_n": "is carta de Yuc",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369581",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta de Diego de cárdenas, Gobernador de Yucatán/.",
+    "desc": null,
+    "locn": "Mérida de Yucatán",
+    "lbd": "1622-11-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "60 IMGS BLURRY TEXT MAY NEED CLOSER RDG 17 JUL 2022",
+    "mil_n": "re los negoçios del servici.o de Su Mag.d /v f 1 img 1"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2570",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362215",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., embargo y represalia de bienes de franceses. 2 fs. Anejos:1.- Testimonio del despacho y diligencias hechas para el embargo y represalia de bienes de franceses. México, 26-XI-1667. 10 fs. 2.- Minuta de Real Cédula al marqués de Mancera sobre el embargo y represalia de los bienes de los franceses. S.F. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1667-11-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

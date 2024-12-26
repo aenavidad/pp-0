@@ -1,0 +1,27 @@
+{
+  "id": "c1990",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362420",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., remite un informe que ha hecho Don Antonio Alvarez de Castro y suplica se manden averiguar los puntos que le tocan, y castigar al autor por lo que le ha faltado a la verdad. 2 fs. Anejo:1.- Informe impreso por el Licenciado Don Antonio Alvarez de Castro, Presidente de la Audiencia de Guadalajara, y Gobernador de la Nueva Galicia para que sean castigados los oidores y fiscal que escribieron contra él. 1671 [SUP]. 22 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-04-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

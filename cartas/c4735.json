@@ -1,0 +1,27 @@
+{
+  "id": "c4735",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361673",
+    "docs": 1,
+    "title": "Testimonio de un auto proveído por Pedro de Quiroga y Moya",
+    "scope": "Testimonio de un auto del Pedro de Quiroga y Moya, juez de residencia del marqués de Cerralbo, sobre averiguar acerca de la información que hacía el marqués contra el mencionado juez.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-04-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

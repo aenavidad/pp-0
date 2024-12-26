@@ -1,0 +1,27 @@
+{
+  "id": "c4098",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361804",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "Carta del virrey marqués de Cadereyta al rey sobre azogue de Filipinas. Nombramiento de general y almirante para naos de Filipinas. Juicio contra el Almirante Lorenzo de Ugalde. Reparo de la fueza de Veracruz. 2 fs. Anejo: 1.- Traslado de mandamiento del Virrey para que el castellano de Acapulco sustancie la causa que ha empezado contra Lorenzo de Ugalde, almirante de Filipinas, y la remita en estado de sentencia, enviando al preso a la Cárcel de Corte de México. México, 11-2-1644. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1645-02-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

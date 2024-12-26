@@ -1,0 +1,27 @@
+{
+  "id": "c1569",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349726",
+    "docs": 19,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador y José Fernández de Córdoba, tesorero, informando sobre diferentes asuntos de gobierno.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675-04-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

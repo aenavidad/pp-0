@@ -1,0 +1,27 @@
+{
+  "id": "c1754",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362563",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., recibo de la noticia de que en Londres se preparaban tres bajeles para que Enrique Morgan pase con ellos a las Indias. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-05-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

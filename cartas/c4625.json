@@ -1,0 +1,27 @@
+{
+  "id": "c4625",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366615",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO YAÑEZ",
+    "scope": "Expediente de Confirmación del oficio de escribano público de San Miguel y San Felipe a Pedro Yañez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-09-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

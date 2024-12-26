@@ -1,0 +1,27 @@
+{
+  "id": "c3676",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351152",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE MITA",
+    "scope": "Expediente de Confirmación de Encomienda de Mita a Gertrudis de Vega y Galvez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1652-08-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

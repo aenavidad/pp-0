@@ -1,0 +1,27 @@
+{
+  "id": "c1907",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362513",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., orden de enviar el ingeniero de Veracruz a fortificar la boca del río de San Juan en la provincia de Guatemala. 2 f. Anejo:1.- Informe a Don Francisco Fernández de Madrigal de que no hay en España ningún ingeniero disponible. Madrid, 14-XII-1672. 2 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-03-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

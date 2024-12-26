@@ -1,0 +1,27 @@
+{
+  "id": "c1586",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367216",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN LEONARDO DE SEVILLA",
+    "scope": "Expediente de Confirmación del oficio de procurador de la Real Audiencia de México a Juan Leonardo de Sevilla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-01-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

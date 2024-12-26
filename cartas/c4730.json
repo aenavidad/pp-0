@@ -1,0 +1,27 @@
+{
+  "id": "c4730",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361670",
+    "docs": 1,
+    "title": "Testimonio de los pleitos puestos en la residencia del virrey [Rodrigo Pacheco y Osorio], marqués de Cerralbo.",
+    "scope": "Testimonio de los pleitos que se han puesto en la residencia que Pedro de Quiroga y Moya toma al marqués de Cerralbo, sus criados y allegados.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-04-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4194",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350564",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: TOMAS CALVO",
+    "scope": "Expediente de Confirmación del oficio de depositario general de Cartago, en Costa Rica a Tomás Calvo. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1644-04-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

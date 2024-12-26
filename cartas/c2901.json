@@ -1,0 +1,27 @@
+{
+  "id": "c2901",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362025",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey Obispo de Puebla a S.M., sobre el estilo que ha habido de cerrar las Reales Cajas al tiempo de la salida de las flotas. 2 fs. Anejo: 1.- Real Cédula al Virrey para que informe sobre lo que hay en lo de las pagas de las libranzas que se dan en las Cajas de México en tiempo que están para salir las flotas para España y otras cosas que se dicen. Madrid, 29-VII-1663. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1664-08-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5112",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350451",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: LUIS BARRETO DE AGUILAR",
+    "scope": "Expediente de Confirmación del oficio de escribano propietario de Quetzaltenango a Luis Barreto de Aguilar. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-12-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

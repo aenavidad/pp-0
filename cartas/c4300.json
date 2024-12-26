@@ -1,0 +1,27 @@
+{
+  "id": "c4300",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369041",
+    "docs": 1,
+    "title": "Informaciones: Bartolomé de Aquaio",
+    "scope": "Informaciones de oficio y parte: Bartolomé de Aquaio, bachiller, clérigo presbítero, vecino de La Puebla de los Angeles. Información contenida de 1640",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

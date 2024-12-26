@@ -1,0 +1,27 @@
+{
+  "id": "c2102",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364703",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre la remisión a España de los extranjeros que pasaron a Indias sin licencia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-12-02.",
+    "upd": "1674-01-17."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

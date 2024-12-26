@@ -1,0 +1,27 @@
+{
+  "id": "c4385",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349146",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por Juan Martínez Téllez, procurador general del cabildo secular de Santiago de Guatemala, solicitando una real cédula para que los oficiales reales no defrauden en la paga de alcabalas.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1640-05-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

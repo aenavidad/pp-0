@@ -1,0 +1,27 @@
+{
+  "id": "c3151",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349688",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Agustín Matute del Castillo, tesorero y Damián de Ochaita, contador, y testimonio de autos sobre el cobro del fruto de las encomiendas dadas a Francisco de Estrada Medinilla.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1661-02-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

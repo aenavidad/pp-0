@@ -1,0 +1,27 @@
+{
+  "id": "c1705",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349722",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador y carta-cuenta informando del producto de la media annata correspondiente a los años 1672 a 1674, remitidos a la Casa de Contratación de Sevilla.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-03-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c3709",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366830",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MELCHOR RIVERA Y AVENDAÑO",
+    "scope": "Expediente de Confirmación del oficio de regidor de México a Melchor Rivera y Avendaño. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1651-06-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c888",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347940",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre el nombramiento que hizo el presidente Fernando Francisco de Escobedo, en Lorenzo Ramírez de Guzmán, de juez de comisiones de Costa Rica.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1678-05-13.",
+    "upd": "1680-06-14."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

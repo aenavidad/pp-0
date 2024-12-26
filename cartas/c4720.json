@@ -1,0 +1,27 @@
+{
+  "id": "c4720",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361665",
+    "docs": 1,
+    "title": "Testimonio de un auto proveído por Pedro de Quiroga y Moya, visitador del puerto de Acapulco",
+    "scope": "Testimonio del auto proveído por Pedro de Quiroga y Moya, visitador del puerto de Acapulco y de su contratación, para averiguar el trato que se hace entre el Perú y los puertos de Guatemala y el Realejo.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-01-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

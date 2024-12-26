@@ -1,0 +1,27 @@
+{
+  "id": "c4858",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368995",
+    "docs": 2,
+    "title": "Informaciones: Francisco Díez Bracho",
+    "scope": "Informaciones de oficio y parte: Francisco Díez Bracho, bachiller, clérigo presbítero, vecino de México. Con extracto del Consejo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

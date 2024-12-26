@@ -1,0 +1,27 @@
+{
+  "id": "c2211",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362335",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey informando que el enemigo se ha alejado de Yucatán y de haber llegado los socorros enviados al gobernador de aquella provincia. 2 fs. Anejo: 1.- Testimonio sobre socorros para Campeche. México, 29-7-1670. 13 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1670-07-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

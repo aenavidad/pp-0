@@ -1,0 +1,27 @@
+{
+  "id": "c2755",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367052",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN ENRIQUEZ DELGADO, ETC",
+    "scope": "Expediente de Confirmación de los oficios de depositario general de San Luis de Potosí y regidor de San Luis de Potosí a Juan Enriquez Delgado y Miguel de Santibañez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1665-06-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

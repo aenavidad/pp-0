@@ -1,0 +1,27 @@
+{
+  "id": "c1891",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362533",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., orden de pagar los libranzas principales a los cabos de la flota. Dificultades que se ofrecieron sobre su ejecución. 2 fs. Anejo:1.- Testimonio de lo resuelto con parecer de los ministros de Hacienda, sobre pagar las libranzas principales a los cabos de lo flota. México, 21-V-1672. 10 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-05-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

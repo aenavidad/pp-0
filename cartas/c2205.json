@@ -1,0 +1,27 @@
+{
+  "id": "c2205",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362312",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Testimonio de las tres Reales provisiones que se han despachado a Fray Payo de Rivera, Arzobispo electo de México sobre que dé collación y canónica institución a los religiosos doctrineros del orden de San Agustín. Era anejo de carta del Virrey de 9-III-1670. 380 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1670",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

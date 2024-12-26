@@ -1,0 +1,27 @@
+{
+  "id": "c2131",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350752",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: BERNABE ROJEL",
+    "scope": "Expediente de Confirmación del oficio de escribano público del número de Santiago en Guatemala a Bernabé Rojel. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-04-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

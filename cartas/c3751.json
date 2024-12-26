@@ -1,0 +1,27 @@
+{
+  "id": "c3751",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350633",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ANTONIO DE VARGAS",
+    "scope": "Expediente de Confirmación del oficio de regidor de Granada, en Nicaragua a Antonio de Vargas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1651-03-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

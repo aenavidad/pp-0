@@ -1,0 +1,27 @@
+{
+  "id": "c4118",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350571",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FERNANDO RODRIGUEZ",
+    "scope": "Expediente de Confirmación del oficio de alcalde provincial de la Hermandad de San Miguel, en Guatemala a Fernando Rodríguez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1645-01-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2620",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367069",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE DE LA CERDA MORAN",
+    "scope": "Expediente de Confirmación de los oficios de escribano mayor de la Gobernación y guerra de Nueva España y regidor perpetuo de México a José de la Cerda Morán. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-11-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

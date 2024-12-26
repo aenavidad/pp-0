@@ -1,0 +1,27 @@
+{
+  "id": "c2208",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362332",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., informa haberse reintegrado la Real hacienda de los 10.000 pesos suplidos para la limpieza de las acequias de México. 2 fs. Anejo:1.- Certificación de haberse ingresado en la Caja los 10.000 pesos que se había sacado de ella para la limpieza de las acequias. México, 28-VII-1670. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1670-07-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

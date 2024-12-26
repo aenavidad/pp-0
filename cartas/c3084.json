@@ -1,0 +1,27 @@
+{
+  "id": "c3084",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349692",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Francisco de Montoya y Valencia, tesorero y Damián de Ochaita, contador, informando de la remisión de caudales y de un &apos;barretoncillo&apos; de oro.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1662-05-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

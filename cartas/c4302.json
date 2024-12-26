@@ -1,0 +1,27 @@
+{
+  "id": "c4302",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369193",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE TISBALATAN",
+    "scope": "Expediente de Confirmación de Encomienda de Tisbalatan en Yucatán a José de Argaez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642-01-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

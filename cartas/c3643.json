@@ -1,0 +1,27 @@
+{
+  "id": "c3643",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349664",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta cuenta presentada por Francisco de Montoya y Valencia, contador y Juan Méndez de Sotomayor, tesorero interino, oficiales reales de la Caja Real de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1653-04-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

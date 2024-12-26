@@ -1,0 +1,27 @@
+{
+  "id": "c3359",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350696",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO ABARCA DE LA RIVA",
+    "scope": "Expediente de Confirmación del oficio de alférez mayor de Santiago, en Nicaragua a Pedro Abarca de la Riva. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1659-12-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4703",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351968",
+    "docs": 2,
+    "title": "Informaciones: Andrés de Escobal",
+    "scope": "Informaciones de oficio y parte: Andrñes de Escobal, escribano de cámara de la Audiencia de Guatemala y mayor de Gobernación. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

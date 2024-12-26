@@ -1,0 +1,27 @@
+{
+  "id": "c1131",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350822",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO RAMIREZ RODADO",
+    "scope": "Expediente de Confirmación del oficio de escribano público, del juzgado mayor y visitas de la alcaldía mayor de Zapotitlán, en Guatemala a Francisco Ramírez Rodado. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-12-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

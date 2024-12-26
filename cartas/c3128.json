@@ -1,0 +1,27 @@
+{
+  "id": "c3128",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361980",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Leyva de la Cerda, conde de Baños",
+    "scope": "El Virrey a S.M., sobre querer estorbar el Gobernador de La Habana el navío de aviso que despachó a España. 2 fs. Anejo:1.- Información sobre el estorbo que el Gobernador de La Habana quiso poner al navío de aviso que el Virrey envió a España. México, 9-IX-1661. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1661-09-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

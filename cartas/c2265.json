@@ -1,0 +1,27 @@
+{
+  "id": "c2265",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362384",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey acusando recibo de la Real Cédula de 6 de marzo de 1670 sobre la multa que se mandó sacar al licenciado Juan Francisco Esquivel, gobernador interino de la provincia de Yucatán. 2 fs. Anejo: 1.- Certificación de los oficiales reales de México del cargo que se hizo en de la multa de 300 pesos mandada sacar a Juan Francisco Esquivel y Larrasa, fiscal de la Audiencia de México. 10-121-1670. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1670-12-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

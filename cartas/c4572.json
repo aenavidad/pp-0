@@ -1,0 +1,27 @@
+{
+  "id": "c4572",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361686",
+    "docs": 1,
+    "title": "Pleito entre Juan Francisco de Vertiz con el capitán Pedro de Vértiz",
+    "scope": "Testimonio de los autos seguidos en el pleito que trata Juan Francisco de Vértiz, vecino y regidor de México, contra el capitán Pedro de Vértiz, su tío, vecino y alférez mayor de Veracruz, sobre el cobro de 12.700 ducados pagó como fiador de Melchor Pérez de Baráez, de la Orden de Santiago, alcalde mayor que fue de la provincia de Istlahuaca y Metepec, en que fue condenado en la residencia que se le tomó del ejercicio de dicho oficio.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

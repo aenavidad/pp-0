@@ -1,0 +1,27 @@
+{
+  "id": "c2740",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350713",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: SEBASTIAN CABALLERO DE MEDINA",
+    "scope": "Expediente de Confirmación del oficio de oidor de la Audiencia de Guatemala a Sebastián Caballero de Medina. Pide ser relevado de su oficio. Pendiente",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-10-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

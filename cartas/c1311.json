@@ -1,0 +1,27 @@
+{
+  "id": "c1311",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349737",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta y testimonio de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero, informando de la utilización por la Audiencia del situado de ayudas de costa para el salario de Jacinto Jaime Moreno, fiscal interino de dicha Audiencia. Con carta de Juan de Ortega Montañés, obispo de Guatemala y Verapaz de 23 de noviembre de 1677",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-11-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

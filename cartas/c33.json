@@ -1,0 +1,27 @@
+{
+  "id": "c33",
+  "work": {
+    "cod": true,
+    "cod_n": "is carta de Hon",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348769",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta de Pedro Carrillo de Zayas, Gobernador de Honduras.",
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1636-09-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": false,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": "re gob and obpo feud /v f 1 img 1 / re un motin el dia de año nuebo de 633 /v f 1 img 1 / pido y suplico VM haga Mr.d de manderme sacar deste gobierno Porque no me hallo con fuerzas de resister estas cossas [re obpo] /v ff 1-2 img 1-2"
+  }
+}

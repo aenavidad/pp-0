@@ -1,0 +1,27 @@
+{
+  "id": "c4514",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349144",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial del cabildo secular de Santiago de Guatemala, solicitando un duplicado de la real cédula en la que se confirmaron las ordenanzas de dicha ciudad.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638-03-03.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

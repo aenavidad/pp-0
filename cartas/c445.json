@@ -1,0 +1,27 @@
+{
+  "id": "c445",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347489",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Decreto del Consejo sobre una carta anónima relativa a la actuación del fiscal de la Audiencia de Guatemala, Juan Francisco de Esquivel y Larraza.",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1654-01-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

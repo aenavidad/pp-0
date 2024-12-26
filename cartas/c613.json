@@ -1,0 +1,27 @@
+{
+  "id": "c613",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347659",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre el pleito que se sigue contra Nicolás Justiniano.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1661-06-13.",
+    "upd": "1663-02-17."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

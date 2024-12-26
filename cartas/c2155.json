@@ -1,0 +1,27 @@
+{
+  "id": "c2155",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367123",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: SEBASTIAN LOPEZ DE ERENCHUN",
+    "scope": "Expediente de Confirmación del oficio de balanzario de la Casa de la Moneda de México a Sebastián López de Erenchum. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-03-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

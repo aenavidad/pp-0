@@ -1,0 +1,27 @@
+{
+  "id": "c2245",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362366",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., arribada de Don Andrés de Rivera con el navío Santa Catalina a Veracruz. 2 fs. Anejo:1.- Autos sobre la arribada del navío del Capitán Andrés de Rivera. México, 28-XI-1670. 196 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1670-11-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

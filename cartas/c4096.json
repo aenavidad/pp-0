@@ -1,0 +1,27 @@
+{
+  "id": "c4096",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361802",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "El Virrey a S.M., da razón de los efectos de la armada de Barlovento. 2 fs. Anejo: 1.- Certificación de la armada de Barlovento y sus efectos de lo que importa la composición de tierras y aguas hechas por el Virrey hasta el dia 16 del presente mes. México, 17-II-1645. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1645-02-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

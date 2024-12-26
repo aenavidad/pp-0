@@ -1,0 +1,27 @@
+{
+  "id": "c4688",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351068",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE PARAGUA",
+    "scope": "Expediente de Confirmación de Encomienda de Paragua en Costa Rica a Juan de Alarcón Ravaneda. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636-06-26.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

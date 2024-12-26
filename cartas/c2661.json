@@ -1,0 +1,27 @@
+{
+  "id": "c2661",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362123",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., da cuenta de haberse conmutado los gastos de su entrada en 16.000 pesos, que dice envía reducidos a 3.500 doblones en un cofrecillo de filigrana de oro. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1666-03-31.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

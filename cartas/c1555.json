@@ -1,0 +1,27 @@
+{
+  "id": "c1555",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350801",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: GERONIMO ABARCA PANIAGUA",
+    "scope": "Expediente de Confirmación de los oficios de receptor y depositario general de las condenaciones de penas de cámara y gastos de justicia de la Audiencia de Guatemala a Gerónimo Abarca Paniagua. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675-05-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

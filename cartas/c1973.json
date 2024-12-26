@@ -1,0 +1,27 @@
+{
+  "id": "c1973",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362499",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Licenciado Don Gonzalo Suárez refiere a S.M. los buenos efectos que va produciendo la visita de su cargo y cuán diferente estado tiene la administración de la Real hacienda. 6 fs. Anejo:1.- Razón de las resultas que se han sacado en esta visita procedidas de la revisión de las cuentas de los oficiales reales de México. 1671 [SUP]. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-12-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

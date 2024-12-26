@@ -1,0 +1,27 @@
+{
+  "id": "c1422",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367249",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN DE CARMONA",
+    "scope": "Expediente de Confirmación de los oficios de ensayador y balanzario de la Casa de la Moneda de San Luis de Potosí a Juan de Carmona. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675-04-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

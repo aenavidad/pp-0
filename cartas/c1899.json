@@ -1,0 +1,27 @@
+{
+  "id": "c1899",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362540",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., consulta sobre puntos de jurisdicción. 2 fs. Anejos:1.- Testimonio sobre las diferencias que se ofrecieron entre los oidores de la Audiencia de México y la Sala del crimen sobre jurisdicción. México, 25-VIII-1672. 23 fs. 2.- Respuesta al fiscal en las diferencias de la sala del crimen son los oidores de México. Madrid, 6-VI-1673. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-08-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

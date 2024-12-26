@@ -1,0 +1,27 @@
+{
+  "id": "c2561",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362207",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "Carta del virrey marqués de Mancera al rey sobre poner cobro en el oficio de alguacil mayor de Tepeaca. 2 fs. Anejo: 1.- Autos y diligencias hechas por el doctor Andrés Sánchez de Ocampo en razón de la averiguación de los fraudes habidos en la venta del oficio de alguacil mayor de Tepeaca. 1666-1667. 61 folios",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1667-11-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

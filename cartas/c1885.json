@@ -1,0 +1,27 @@
+{
+  "id": "c1885",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362527",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., socorro al presidio de La Habana. Correspondencia con su gobernador. 4 fs. Anejo:1.- El gobernador de La Habana al Virrey sobre noticias de enemigos y socorros que se le han hecho. México, 11-V-1672. 24 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-04-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

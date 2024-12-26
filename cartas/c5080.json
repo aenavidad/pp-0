@@ -1,0 +1,27 @@
+{
+  "id": "c5080",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351939",
+    "docs": 2,
+    "title": "Informaciones: Antonio de Fonseca",
+    "scope": "Informaciones de oficio y parte: Antonio de Fonseca, vicario provincial de Granada y vicario provincial de Cartago (Costa Rica). Información contenida de 1630, con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

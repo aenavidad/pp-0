@@ -1,0 +1,27 @@
+{
+  "id": "c4992",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361597",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., encomienda vacante aplicada a casas de los del Consejo. 2 fs. Anejo: 1.- Relación de los pueblos que están vacos por muerte de sus encomenderos, en el distrito de la Nueva España, y de los tributarios que tienen según sus últimas tasaciones sacadas de la contaduría de tributos. México, 27-V-1632. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1632-11-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

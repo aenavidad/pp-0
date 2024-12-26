@@ -1,0 +1,27 @@
+{
+  "id": "c3953",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350607",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: NICOLAS JUSTINIANO ECHEVARRI",
+    "scope": "Expediente de Confirmación del oficio de regidor de Santiago de Guatemala a Nicolás Justiniano Echevarri. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1648-09-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

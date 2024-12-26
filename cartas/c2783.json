@@ -1,0 +1,27 @@
+{
+  "id": "c2783",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362056",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., fallecimiento de Alonso de Cuevas Dávalos, Arzobispo electo de México, con certificación de haberse reunido con el cabildo eclesiástico. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1665-09-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

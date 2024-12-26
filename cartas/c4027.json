@@ -1,0 +1,27 @@
+{
+  "id": "c4027",
+  "work": {
+    "cod": false,
+    "cod_n": "is registro de oficio o partes",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/345097",
+    "docs": 1,
+    "title": "Registro: Guatemala",
+    "scope": "Registro de oficio: Reales Disposiciones (Reales Cédulas, Reales Provisiones, etc) dirigidas a las autoridades del distrito de la Audiencia de Guatemala. (Libro Q 4)",
+    "desc": "338 folios, foliación original, 339 en total.,Observaciones: Folio 98 duplicado, salvado con bis. 338 Hoja(s)",
+    "locn": null,
+    "lbd": "1647-06-27.",
+    "upd": "1658-10-04."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4339",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351093",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE OCOTITLAN, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Ocotitlan, La Magdalena, Cuscaguatlan, San Pedro Gueyteypan, Olita y San Pedro Chenalo en Chiapa a Pedro de Santiago de la Masa. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1641-03-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

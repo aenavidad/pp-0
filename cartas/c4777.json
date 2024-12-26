@@ -1,0 +1,27 @@
+{
+  "id": "c4777",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369002",
+    "docs": 3,
+    "title": "Informaciones: Pedro Fernández Cabrera",
+    "scope": "Informaciones de oficio y parte: Pedro Fernández Cabrera, clérigo presbítero, cura y vicario del partido de los Ríos de Osumacitla en la provincia de Tabasco, natural de Santa María la Real de Nieba. Con otro ejemplar de información y extracto del Consejo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

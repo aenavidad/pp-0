@@ -1,0 +1,27 @@
+{
+  "id": "c4643",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368982",
+    "docs": 3,
+    "title": "Informaciones: Cristóbal de Haro y Velasco",
+    "scope": "Informaciones de oficio y parte: Cristóbal de Haro y Velasco, bachiller, clérigo presbítero, capellán de la Audiencia de México, natural de Villa Carrillo y vecino de México.&#xb4; Información contenida de 1631 Con parecer de la Audiencia de esa fecha y traslado de 1637 del nombramiento de capellán, hecho en 1631",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

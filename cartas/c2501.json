@@ -1,0 +1,27 @@
+{
+  "id": "c2501",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367078",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO LEONARDO Y SEVILLA",
+    "scope": "Expediente de Confirmación del oficio de notario real de las Indias a Pedro Leonardo y Sevilla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1667-01-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

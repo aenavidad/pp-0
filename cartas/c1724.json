@@ -1,0 +1,27 @@
+{
+  "id": "c1724",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369352",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE MEXICO",
+    "scope": "Expediente de Confirmación de Encomienda en el distrito de la Audiencia de México a Francisco de Palafox, marqués de Ariza. Denegado",
+    "desc": null,
+    "locn": null,
+    "lbd": "1673-09-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

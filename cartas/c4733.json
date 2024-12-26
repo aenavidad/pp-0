@@ -1,0 +1,27 @@
+{
+  "id": "c4733",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361672",
+    "docs": 1,
+    "title": "Testimonio de autos hechos por Pedro de Quiroga contra el virrey [Rodrigo Pacheco y Osorio], marqués de Cerralbo",
+    "scope": "Testimonio de los autos hechos por el juez de residencia Pedro de Quiroga y Moya contra el marqués de Cerralbo y su privado Antonio de Vergara, sobre inducir éstos a ciertos testigos a deponer falsamente, para probar algunas causas de la recusación que le tienen puesta a dicho juez.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-07-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

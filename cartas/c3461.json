@@ -1,0 +1,27 @@
+{
+  "id": "c3461",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369204",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE MESTITLAN, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Mestitlan y Tlapa a Lorenzo Ramírez de Prado. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1657-09-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

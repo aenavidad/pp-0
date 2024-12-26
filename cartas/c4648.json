@@ -1,0 +1,27 @@
+{
+  "id": "c4648",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369004",
+    "docs": 18,
+    "title": "Informaciones: Tomás Gutiérrez de Mesa",
+    "scope": "Informaciones de oficio y parte: Tomás Gutiérrez de Mesa, bachiller, clérigo presbítero. Memorial con información hecha en 1635, traslado de 1636 y varios pareceres y certificaciones. Acompaña una información de parte y otra de oficio de 1630, y su extracto del Consejo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

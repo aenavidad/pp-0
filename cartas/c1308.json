@@ -1,0 +1,27 @@
+{
+  "id": "c1308",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349734",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero y testimonio de autos, informando de sus relaciones con Fernando Francisco de Escobedo, presidente de la Audiencia de Guatemala, en el pago de libranzas y consignaciones.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-11-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

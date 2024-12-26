@@ -1,0 +1,27 @@
+{
+  "id": "c1572",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20892",
+    "docs": 1,
+    "title": "Plano del Castillo que se fabrica de horden de S.N. en el Presidio de San Agustin de la Florida y de las cortaduras y defensa hechas por Don Pablo de hita y Salazar Gobernador y Capitan Gral. de San Agustin de la Florida. año 1675",
+    "scope": "Con explicación",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

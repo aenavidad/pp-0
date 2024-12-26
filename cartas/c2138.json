@@ -1,0 +1,27 @@
+{
+  "id": "c2138",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350759",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE DE PAREDES",
+    "scope": "Expediente de Confirmación del oficio de guarda mayor de Santo Tomás de Castilla, en Honduras a José de Paredes. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-09-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

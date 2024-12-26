@@ -1,0 +1,27 @@
+{
+  "id": "c1928",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349192",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, solicitando real cédula para que los presidentes de la Audiencia no se entrometan en la elección de los alcaldes ordinarios ni en la de los de hermandad, e informando de lo ocurrido ese mismo año.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1672-03-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

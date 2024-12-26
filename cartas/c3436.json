@@ -1,0 +1,27 @@
+{
+  "id": "c3436",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364505",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Traslado de auto sobre descamino que hizo don Diego de Ibarra, gobernador de la Armada de la Guarda de las Indias.",
+    "desc": null,
+    "locn": "Veracruz",
+    "lbd": "1658-09-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

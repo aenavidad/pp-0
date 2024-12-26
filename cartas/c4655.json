@@ -1,0 +1,27 @@
+{
+  "id": "c4655",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369013",
+    "docs": 9,
+    "title": "Informaciones: Cristóbal Sánchez de Guevara",
+    "scope": "Informaciones de oficio y parte: Cristóbal Sánchez de Guevara, doctor, clérigo presbítero, abogado de la Audiencia de México y abogado del Santo Oficio, fué rector de la Universidad de México. Sólo memorial con certificaciones de 1634 y 1636, y parecer del cabildo de la ciudad de México de 1637",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

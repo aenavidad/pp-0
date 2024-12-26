@@ -1,0 +1,27 @@
+{
+  "id": "c1704",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20890",
+    "docs": 1,
+    "title": "Planta de cómo se alla oy el castillo de San Juan de lúa, año 1674",
+    "scope": "Presenta una vista de la fortaleza de San Juan de Ulúa y las defensas existentes.   Formadas por un recinto en el que se incluyen la torre del homenaje (letra A), batería (letra B), la plaza de armas (letra D), un revellín (letra Z) y la cortina donde amarran los navíos (letra C). Más allá los cuarteles de la infantería (letra H). Se representa por donde debe discurrir la nueva fortificación de la isla, indicada por la letra O.   Fecha al final del título. Cartela explicativa con clave alfabética en filacteria sujeta con clavos. Escala en la parte inferior.    Número de registro: 424",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

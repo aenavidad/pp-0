@@ -1,0 +1,27 @@
+{
+  "id": "c4144",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366725",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO SOLIS Y VARRASA",
+    "scope": "Expediente de Confirmación del oficio de regidor de México a Francisco Solis y Varrasa. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1644-06-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

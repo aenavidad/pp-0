@@ -1,0 +1,27 @@
+{
+  "id": "c57",
+  "work": {
+    "cod": false,
+    "cod_n": "dated post-1680",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348791",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre la necesidad de fortificar el puerto de Caballos.",
+    "desc": null,
+    "locn": "Comayagua",
+    "lbd": "1683-01-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "Inc re defence",
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4927",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366551",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: LUIS DE LA CAMARA ANDANA",
+    "scope": "Expediente de Confirmación del oficio de regidor de Mérida a Luis de la Cámara Andana. En pleito con Manuel López Curado. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633-08-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

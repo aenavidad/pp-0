@@ -1,0 +1,27 @@
+{
+  "id": "c2997",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350700",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: LORENZO VALLE CORRAL",
+    "scope": "Expediente de Confirmación del oficio de notario de Indias a Lorenzo Valle Corral. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1663-12-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

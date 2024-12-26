@@ -1,0 +1,27 @@
+{
+  "id": "c1731",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362607",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., sobre la provisión de castellano de Acapulco en ínterin. 2 fs. Anejo:1.- Testimonio del nombramiento de Don Diego de Nocedal para castellano interino del puerto de Acapulco. México, 30-VI-1673. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-06-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

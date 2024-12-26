@@ -1,0 +1,27 @@
+{
+  "id": "c421",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347465",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente en razón del pleito que siguen los escribanos de cámara de la Audiencia de Guatemala, sobre que se le paguen ciertos derechos.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1652-06-06.",
+    "upd": "1653-04-30."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c40",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348774",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre que se le de sobrecédula al Gobernador de Honduras, Francisco Dávila y Lugo, para poder desempeñar sus funciones.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643-02-26.",
+    "upd": "1645-03-30."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "82 IMGS MAY NEED CLOSER READING 17 JUL 2022",
+    "mil_n": null
+  }
+}

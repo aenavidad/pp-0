@@ -1,0 +1,27 @@
+{
+  "id": "c2500",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349715",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Damián de Ochaita, tesorero y Gregorio Vezares de Ayala, contador, y relación jurada sobre el importe del derecho de la media annata pertenecientes a 1667.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1668-03-05.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2866",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367039",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JACINTO PARDO DELAGO",
+    "scope": "Expediente de Confirmación del oficio de alférez mayor de Antequera, en Oaxaca a Jacinto Pardo Delago. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1664-03-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

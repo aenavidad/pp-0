@@ -1,0 +1,27 @@
+{
+  "id": "c4142",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366723",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: TORIBIO DE CEBRIAN",
+    "scope": "Expediente de Confirmación del oficio de escribano real de Indias a Toribio de Cebrian. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1644-05-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

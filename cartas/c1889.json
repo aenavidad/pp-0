@@ -1,0 +1,27 @@
+{
+  "id": "c1889",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362531",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., pago de 30.800 pesos consignados en las Cajas de México para la fundición de la artillería de Sevilla. 2 fs. Anejos:1.- Certificación del pago de 30.800 pesos para la fundición de la artillería. México, 11-V-1672. 2 fs. 2.- Orden de informar al Virrey de que han llegado los 30.800 pesos con destino a la fundición de la artillería de Sevilla. Consejo, 1-X-1672. 2 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-05-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

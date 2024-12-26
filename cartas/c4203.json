@@ -1,0 +1,27 @@
+{
+  "id": "c4203",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366684",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO NUÑEZ MELIAN",
+    "scope": "Expediente de Confirmación del oficio de teniente general en Yucatán a Francisco Núñez Melian. Solicta cédula para que los oficiales reales paguen al teniente general que el nombre. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643-03-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

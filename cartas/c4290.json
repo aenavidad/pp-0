@@ -1,0 +1,27 @@
+{
+  "id": "c4290",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366677",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: LAZARO BIRVES IZQUIERDO",
+    "scope": "Expediente de Confirmación del oficio de escribano real de Indias a Lázaro Birves Izquierdo. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1642-04-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

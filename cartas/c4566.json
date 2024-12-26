@@ -1,0 +1,27 @@
+{
+  "id": "c4566",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361655",
+    "docs": 1,
+    "title": "Carta de Miguel Romero, escribano",
+    "scope": "Miguel Romero, escribano de las comisiones que llevó a Nueva España Pedro de Quiroga y Moya, al rey, sobre lo sucedido en ellas y el estado en que se hallan.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

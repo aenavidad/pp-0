@@ -1,0 +1,27 @@
+{
+  "id": "c414",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347458",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre lo actuado por Antonio de Lara Mogrovejo, oidor de la Audiencia de Guatemala, con respecto a la visita que se hizo al contador Juan de Alcedo Serralta.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1652-02-23.",
+    "upd": "1652-10-05."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

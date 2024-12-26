@@ -1,0 +1,27 @@
+{
+  "id": "c3241",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349685",
+    "docs": 24,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente sobre el alcance y prisión de Francisco de Montoya y Valencia, contador de la Caja Real de Guatemala, por el alcance en que incurrió siendo contador de la de Castrovirreina.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1660",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

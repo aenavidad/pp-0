@@ -1,0 +1,27 @@
+{
+  "id": "c525",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347571",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre la actuación del fiscal Juan Francisco de Esquivel y del oidor Francisco López de Solis, con motivo de la llegada a los puertos de la provincia de la nao almiranta de las Filipinas.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1657-06-10.",
+    "upd": "1659-11-27."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c3418",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361944",
+    "docs": 1,
+    "title": "Carta del virrey Francisco Fernández de la Cueva, duque de Alburquerque",
+    "scope": "El Virrey a S.M., da cuenta con los documentos que acompaña de que fue a reconocer la obra del desagüe de la ciudad de México. 12 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1658-11-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

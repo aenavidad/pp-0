@@ -1,0 +1,27 @@
+{
+  "id": "c3125",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361977",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Leyva de la Cerda, conde de Baños",
+    "scope": "El Virrey a S.M., falta de naos de Filipinas y el socorro que tenía hecho a estas islas. 2 fs. Anejo: 1.- Testimonio de los autos hechos en razón de no haber llegado al puerto de Acapulco navíos de Filipinas y de la falta que hay de naos para enviar el socorro a quellas islas. México, 20-X-1660. 8 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1661-04-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

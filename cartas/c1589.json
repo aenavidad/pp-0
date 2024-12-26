@@ -1,0 +1,27 @@
+{
+  "id": "c1589",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367219",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN BAUTISTA SALAYSES",
+    "scope": "Expediente de Confirmación del oficio de regidor de Puebla de los Angeles a Juan Bautista Salayses. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-03-03.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

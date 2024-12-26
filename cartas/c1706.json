@@ -1,0 +1,27 @@
+{
+  "id": "c1706",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349723",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador informando de la ausencia del tesorero, Damián de Ochaita, y del envio de caudales a la Casa de Contratación. Solicita se le aumente el salario para dotar a la caja con más oficiales reales",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-03-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

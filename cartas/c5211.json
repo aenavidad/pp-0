@@ -1,0 +1,27 @@
+{
+  "id": "c5211",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349630",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Memorial de Juan de Alcedo Serralta, contador, solicitando alojamiento en las casas reales donde se encuentra la Caja Real.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1630-11-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

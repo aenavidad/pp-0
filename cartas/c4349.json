@@ -1,0 +1,27 @@
+{
+  "id": "c4349",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349151",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial y testimonio del cabildo secular de Santiago de Guatemala, solicitando confirmación del encabezamiento de las alcabalas.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1641-05-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

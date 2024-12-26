@@ -1,0 +1,27 @@
+{
+  "id": "c1139",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349745",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta y testimonio de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero, informando del envio de caudales.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-04-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c5216",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368972",
+    "docs": 3,
+    "title": "Informaciones: Miguel Chumacero y Abendaño",
+    "scope": "Informaciones de oficio y parte: Miguel Chumacero y Abendaño, bachiller, clérigo presbítero. Con parecer de la Audiencia de 1630 Hay otro ejemplar de la información, traslado de 1636",
+    "desc": null,
+    "locn": null,
+    "lbd": "1629",
+    "upd": "1630"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

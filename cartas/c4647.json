@@ -1,0 +1,27 @@
+{
+  "id": "c4647",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369003",
+    "docs": 3,
+    "title": "Informaciones: Cristóbal de Medina",
+    "scope": "Informaciones de oficio y parte: Cristóbal de Medina, doctor, clérigo presbítero del Obispado de Tlaxcala, cura y vicario del partido de Misanola y Orizaba, natural de Los Angeles. Dos memoriales y cuaderno con varias informaciones de 1623, 1540 y 1635 sobre sus ascendientes",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4411",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369032",
+    "docs": 2,
+    "title": "Informaciones: Juan de Cepeda Luján",
+    "scope": "Informaciones de oficio y parte: Juan de Cepeda Luján, clérigo presbítero, natural de Antequera de Oaxaca. Información de 1639 incluyendo otra de 1615, y extracto del Consejo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1639",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

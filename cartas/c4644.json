@@ -1,0 +1,27 @@
+{
+  "id": "c4644",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368991",
+    "docs": 2,
+    "title": "Informaciones: Juan de Bolívar",
+    "scope": "Informaciones de oficio y parte: Juan de Bolívar [y Cruz], licenciado, relator de la Audiencia de México, natural de Lucena. Información contenida de 1634. Con parecer de la Audiencia de 1635. Nota: Véase también MEXICO,237,N.21",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

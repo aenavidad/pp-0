@@ -1,0 +1,27 @@
+{
+  "id": "c1984",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362415",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey informando de lo resuelto en la Junta General a petición de los padres misioneros de la Compañía de Jesús en las islas Marianas. 2 fs. Anejos: 1.- Testimonio del memorial presentado por el padre José Vidal, de la Compañia de Jesús, procurador de la misión en las islas Marianas. México, 17-4-1671. 2 fs. 2.- Resumen de lo que contienen los papeles que se remiten sobre las misiones de las islas Marianas que tienen a su cargo los religiosos de la Compañia de Jesús. [1671]. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-04-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

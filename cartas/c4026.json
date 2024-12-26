@@ -1,0 +1,27 @@
+{
+  "id": "c4026",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351987",
+    "docs": 2,
+    "title": "Informaciones: Juan de Segura y Rojas",
+    "scope": "Informaciones de oficio y parte: Juan de Segura y Rojas, abogado y relator de la Audiencia de Guatemala. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1647",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

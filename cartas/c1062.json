@@ -1,0 +1,27 @@
+{
+  "id": "c1062",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362866",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY PAYO ENRIQUEZ DE RIVERA",
+    "scope": "El Virrey a S.M., nombramiento de Don Gonzalo Suárez de San Martín, recaudador de las limosnas para la beatificación del venerable Gregorio López. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1679-06-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2154",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367122",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: CRISTOBAL GARCIA DE LA CARRERA",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de Tlaxcala a Cristóbal Garcia de la Carrera. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1670-03-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

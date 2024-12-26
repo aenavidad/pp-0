@@ -1,0 +1,27 @@
+{
+  "id": "c3887",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369054",
+    "docs": 2,
+    "title": "Informaciones: Juan de Landa",
+    "scope": "Informaciones de oficio y parte: Juan de Landa, bachiller, clérigo presbítero, cura beneficiado del partido de Axaxuchitlan. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1648",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

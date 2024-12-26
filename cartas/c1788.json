@@ -1,0 +1,27 @@
+{
+  "id": "c1788",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362597",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "Carta del virrey sobre las misiones y conversiones de la Orden de San Francisco en la provincia de Yucatán. 2 fs. Anejo: 1.- Testimonio del informe hecho por fray Francisco Treviño, comisario general de la Orden de San Francisco en Nueva España, referente a las misiones y conversiones de los indios de Campeche. México, 12-6-1673. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-06-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

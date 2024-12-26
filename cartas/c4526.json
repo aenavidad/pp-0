@@ -1,0 +1,27 @@
+{
+  "id": "c4526",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361713",
+    "docs": 1,
+    "title": "Minuta de Real Cédula a Andrés Gómez de Mora",
+    "scope": "Minuta de Real Cédula al doctor Andrés Gómez de Mora, fiscal de la Audiencia de México, acusando recibo de su carta de 15 de julio de 1637 sobre su casamiento con Ana de Zaldívar y Mendoza, hija del maestre de campo Vicente de Zaldívar y María de Oñate Cortés, vecinos de Zacatecas, advirtiéndosele que su caso no está comprendido en la prohibición",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

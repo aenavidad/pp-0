@@ -1,0 +1,27 @@
+{
+  "id": "c4770",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366601",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO DIAZ DEL CAMPO",
+    "scope": "Expediente de Confirmación de los oficios de escribano público, minas y registro, cabildo y diputación de San Luis de Potosí en Nueva España a Pedro Díaz del Campo. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1635-09-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

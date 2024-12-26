@@ -1,0 +1,27 @@
+{
+  "id": "c3343",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348898",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Oficios del Secretario del Consejo sobre averiguar que el Gobernador de Nicaragua, Diego de Castro, no debe nada en las Cajas reales y ha pagado la media anata.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1659",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

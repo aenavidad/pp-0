@@ -1,0 +1,27 @@
+{
+  "id": "c3685",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350654",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MARCOS DAVALOS Y RIVERA",
+    "scope": "Expediente de Confirmación del oficio de depositario general de Guatemala a Marcos Dávalos y Rivera. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1652-09-05.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4581",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361692",
+    "docs": 1,
+    "title": "Mandamiento del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "Traslado de un mandamiento del virrey marqués de Cadereyta para que los oficiales reales de México cesen en las diligencias que les estaban encomendadas sobre que los caballeros de las Órdenes Militares vayan a servir a las galeras o paguen un soldado de infantería, como se manda por Real Cédula inserta dada en Madrid a 28 de febrero de 1637.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

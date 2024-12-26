@@ -1,0 +1,27 @@
+{
+  "id": "c4084",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369049",
+    "docs": 1,
+    "title": "Informaciones: Fray Andrés de Arteaga",
+    "scope": "Informaciones de oficio y parte: Fray Andrés de Arteaga. Sólo traslado de títulos",
+    "desc": null,
+    "locn": null,
+    "lbd": "1645",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

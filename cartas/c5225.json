@@ -1,0 +1,27 @@
+{
+  "id": "c5225",
+  "work": {
+    "cod": false,
+    "cod_n": "is registro de oficio o partes",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/345529",
+    "docs": 1,
+    "title": "Registro: Guatemala",
+    "scope": "Registro de partes: Reales Disposiciones (Reales Cédulas, Reales Provisiones, Cartas Acordadas, etc.), dirigidas a autoridades y particulares del distrito de la Audiencia de Guatemala. (Libro R 10)",
+    "desc": "296 folios, foliación original, más 13. Total 305 folios.,Observaciones: Error en foliación, salto de folio número 84 a 89. 296 Hoja(s)",
+    "locn": null,
+    "lbd": "1625-06-20.",
+    "upd": "1633-06-22."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4288",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349641",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Nota de carta de los oficiales reales de Guatemala, de 31 de enero de 1643, remitida a la Contaduría del Consejo, donde informaban de la cuenta de la venta de juros.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643-01-31.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

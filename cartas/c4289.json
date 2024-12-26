@@ -1,0 +1,27 @@
+{
+  "id": "c4289",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349642",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Juan Jiménez, tesorero, y Juan de Alcedo Serralta, contador, informando del cobro de las rentas de las encomiendas de Francisco de Jérez Serrano, y de Francisco Castellanos.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643-10-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

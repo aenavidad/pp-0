@@ -1,0 +1,27 @@
+{
+  "id": "c910",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347962",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre Benito Noboa Salgado, su expulsión de Guatemala y reclamaciones ante el consejo. (Con antecedentes de 1676-1678)",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-01-19.",
+    "upd": "1680-03-11."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

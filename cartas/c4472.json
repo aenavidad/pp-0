@@ -1,0 +1,27 @@
+{
+  "id": "c4472",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369029",
+    "docs": 3,
+    "title": "Informaciones: Miguel de Ibarra",
+    "scope": "Informaciones de oficio y parte: Miguel de Ibarra, bachiller, clérigo presbítero, vecino de México. Memorial con información de parte y información de oficio",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

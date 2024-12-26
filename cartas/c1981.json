@@ -1,0 +1,27 @@
+{
+  "id": "c1981",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362412",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey sobre el aumento del envío y anticipación del despacho de la flota. 2 fs. Anejo: 1.- Testimonio de haber avisado a José Centeno, capitán general de la armada, de que ya estaba allí la plata y la podía cargar en sus navíos. Veracruz, 3-4-1671. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-04-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

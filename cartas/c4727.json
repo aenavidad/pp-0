@@ -1,0 +1,27 @@
+{
+  "id": "c4727",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361644",
+    "docs": 1,
+    "title": "Apuntamientos sobre el proceder de Pedro de Quiroga",
+    "scope": "Apuntamientos sobre el injusto proceder de Pedro de Quiroga, en la residencia que tomó al marqués de Cerralbo y de sus criados y allegados.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1636",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

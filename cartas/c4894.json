@@ -1,0 +1,27 @@
+{
+  "id": "c4894",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351928",
+    "docs": 1,
+    "title": "Informaciones: Lorenzo Sanz y Escobar",
+    "scope": "Informaciones de oficio y parte: Lorenzo Sanz y Escobar, capellán de la Audiencia de Guatemala. Información contenida de 1627",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

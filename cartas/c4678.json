@@ -1,0 +1,27 @@
+{
+  "id": "c4678",
+  "work": {
+    "cod": true,
+    "cod_n": "is carta de Yuc",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369611",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta del Marqués de Santo Floro, Gobernador de Yucatán.",
+    "desc": null,
+    "locn": "Mérida de Yucatán",
+    "lbd": "1636-07-27.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "62 IMGS MAY NEED CLOSER RDG 18 JUL 2022",
+    "mil_n": "re remite a VMg.d las çertificaciones de la publicaçion de su R.l çedula de las encomiendas /v f 1 img 1"
+  }
+}

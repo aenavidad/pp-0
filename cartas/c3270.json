@@ -1,0 +1,27 @@
+{
+  "id": "c3270",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366959",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE DELGADO DE ARTEAGA",
+    "scope": "Expediente de Confirmación del oficio de regidor de Antequera en Oaxaca a José Delgado de Arteaga. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1659-08-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

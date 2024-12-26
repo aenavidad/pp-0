@@ -1,0 +1,27 @@
+{
+  "id": "c2021",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362448",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey sobre la orden de cesar a Juan de Zavala en el uso y ejercecio de maestre de campo de las milicias. 4 fs. Anejo: 1.- Testimonio del mandamiento y autos sobre que cese en el ejercicio de maestre de campo Juan de Zavala. México, 30-6-1671. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-07-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

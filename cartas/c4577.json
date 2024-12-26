@@ -1,0 +1,27 @@
+{
+  "id": "c4577",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361691",
+    "docs": 1,
+    "title": "Mandamiento del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "Traslado de un mandamiento del virrey marqués de Cadereyta sobre dar cumplimiento a la Real Cédula dada en Madrid en 4 de noviembre de 1636, para que en los casos en que haya duda o discordia de los contadores de los Tribunales de Cuentas en América en los negocios que ante pasan ante ellos, intervenga el oidor más antiguo de la Audiencia de México.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

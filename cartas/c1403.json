@@ -1,0 +1,27 @@
+{
+  "id": "c1403",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20893",
+    "docs": 1,
+    "title": "Descripsion del fuerte Real que se fabrica en este Presidio de San Agustin de la florida por orden de S.M. á cargo del Sargento mayor Don Pablo de Hita Salazar su Gobernador y Capitan General. Año de 1676, que lo está continuando en 8 de Mayo de 1676",
+    "scope": ".",
+    "desc": null,
+    "locn": null,
+    "lbd": "1676",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

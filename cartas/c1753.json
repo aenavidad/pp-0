@@ -1,0 +1,27 @@
+{
+  "id": "c1753",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362562",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., socorro al gobernador de Puerto Rico con 8.000 pesos, además de los 12.000 que se le habían remitido. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-05-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

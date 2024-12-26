@@ -1,0 +1,27 @@
+{
+  "id": "c4131",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349645",
+    "docs": 5,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de memorial de Juan de Olaso, en el que solicita la concesión de la futura sucesión de uno de los oficios de la Caja Real de Guatemala, tesorero o contador.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1645-04-17.",
+    "upd": "1645-04-28."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c1415",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367242",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JERONIMO BRAVO DE AGUILAR",
+    "scope": "Expediente de Confirmación del oficio de notario de Indias a Jerónimo Bravo de Aguilar. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1675-01-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

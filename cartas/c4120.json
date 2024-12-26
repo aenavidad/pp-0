@@ -1,0 +1,27 @@
+{
+  "id": "c4120",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350573",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: GREGORIO MARTINEZ PORTA",
+    "scope": "Expediente de Confirmación del oficio de escribano de gobernación y visitas de Nicaragua a Gregorio Martínez Porta. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1645-02-04.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

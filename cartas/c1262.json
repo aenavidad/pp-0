@@ -1,0 +1,27 @@
+{
+  "id": "c1262",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367304",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MIGUEL DE ORTEGA BONILLA",
+    "scope": "Expediente de Confirmación de los oficios de escribano público, de cabildo y Gobernación en Tlaxcala a Miguel de Ortega Bonilla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-10-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c992",
+  "work": {
+    "cod": false,
+    "cod_n": "dated post-1680",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349320",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Valladolid de Comayagua, recomendando a D. José de Echavarría, prebendado interino de la Iglesia Catedral de Honduras",
+    "desc": null,
+    "locn": null,
+    "lbd": "1687-12-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

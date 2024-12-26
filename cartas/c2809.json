@@ -1,0 +1,27 @@
+{
+  "id": "c2809",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362080",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., con testimonio del alivio que reciben los indios del estado de Oaxaca. 6 fs. Anejo: 1.- Real Cédula a la Audiencia de México, remitiéndole copia de un memorial que se ha dado por parte de los indios del obispado de Oaxaca sobre vejaciones que les hizo el oidor Montemayor en las retasas. Madrid, 22-V-1665. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1665-10-29.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

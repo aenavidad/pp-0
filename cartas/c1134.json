@@ -1,0 +1,27 @@
+{
+  "id": "c1134",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19504",
+    "docs": 1,
+    "title": "Planta del Castillo de San Felipe del Golfo Dulce (Nicaragua).",
+    "scope": "Por Diego Gómez de Ocampo. Número de registro: 1283.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

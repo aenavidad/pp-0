@@ -1,0 +1,27 @@
+{
+  "id": "c5047",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366527",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN LOPEZ",
+    "scope": "Expediente de Confirmación del oficio de escribano de provincia de la Audiencia de México a Juan Lopez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-04-09.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2119",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351217",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE ISLA DE CONCHAGUA",
+    "scope": "Expediente de Confirmación de Encomienda de Isla de Conchagua en San Miguel a Gregorio Alvarez de la Fuente. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-03-03.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

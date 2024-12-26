@@ -1,0 +1,27 @@
+{
+  "id": "c1701",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19946",
+    "docs": 1,
+    "title": "Planta de lo que se ha de fortificar en el sitio que llaman Raudal de santa Cruz, en el Río de San Juan de Nicaragua",
+    "scope": "Es duplicado de MP,Guatemala,291.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1674-04-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

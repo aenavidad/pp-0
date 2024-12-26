@@ -1,0 +1,27 @@
+{
+  "id": "c498",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347543",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente de Francisco López de Solís, oidor de la Audiencia de Guatemala, sobre querer profesar y que se le de plaza en la Iglesia de México.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1656-06-16.",
+    "upd": "1658-04-04."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

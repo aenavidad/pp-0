@@ -1,0 +1,27 @@
+{
+  "id": "c1985",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362398",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey informando haber llegado dos naos de Filipinas, aunque no habían entrado en el puerto de Acapulco. 2 fs. Anejos: 1.- Carta del virrey al rey sobre el socorro a las islas Filipinas. México, 21-11-1670. 2 fs. 2.- Testimonio de autos relativos al cabo del patache de Filipinas al virrey sobre el socorro de dichas islas. México, 15-1-1671. 17 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-01-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

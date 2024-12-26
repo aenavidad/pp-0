@@ -1,0 +1,27 @@
+{
+  "id": "c4207",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366688",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DIEGO MANUEL DE LA ROCHA",
+    "scope": "Expediente de Confirmación del oficio de escribano del juzgado del prior y cónsules de la universidad de Mercaderes de México a Diego Manuel de la Rocha. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1643-04-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

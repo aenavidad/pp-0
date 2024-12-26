@@ -1,0 +1,27 @@
+{
+  "id": "c4752",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361690",
+    "docs": 1,
+    "title": "Consulta de la ciudad de México al virrey Lope Díez de Armendáriz.",
+    "scope": "Consulta de la ciudad de México al virrey Lope Díez de Armendáriz, marqués de Cadereyta, sobre cuatro puntos que miran a la conservación de Nueva España. Se incluyen los decretos del virrey en cada uno de ellos: - Inundaciones de la ciudad de México y gastos hechos en su desagüe por Huehuetoca. - Estado de los indios y necesidad de tomar medidas para su conservación debido a su disminución por enfermedad, mala alimentación, trabajo excesivo. - Problemas para beneficiar las minas por falta de indios y propuesta de traer negros para su explotación y otros puntos a este respecto. - Decaimiento de las haciendas de pan por la falta de indios.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-05-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

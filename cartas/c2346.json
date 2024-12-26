@@ -1,0 +1,27 @@
+{
+  "id": "c2346",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362288",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey acusando recibo de la Cédula sobre lo que ha de ejecutar con fray Alonso Quijano y fray Juan de Borja, religiosos agustinos. 2 fs. Anejo: 1.- Real Cédula al virrey sobre lo que ha de ejecutar con fray Alonso Quijano y fray Juan de Borja. Madrid, 28-1-1669. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1669-05-22.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

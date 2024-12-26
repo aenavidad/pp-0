@@ -1,0 +1,27 @@
+{
+  "id": "c1999",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362428",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey sobre la innovación que hizo el arzobispo de México en el estilo practicado por sus antecesores celebrando de pontifical. 2 fs. Anejos: 1.- Parecer del acuerdo sobre la falta hecha por el arzobispo de México en la ceremonia de pontifical. México, 12-5-1671. 2 fs. 2.- Resumen que se sacó de la carta de 12 de mayo de 1671 para enviar al presidente en conformidad del Decreto del Consejo. 1 folio.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-05-12.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

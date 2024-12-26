@@ -1,0 +1,27 @@
+{
+  "id": "c4981",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349636",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Memorial de Juan Jiménez, tesorero y Juan de Alcedo Serralta, contador, solicitando se les permita nombrar a cada uno de ellos un oficial mayor.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633-02-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

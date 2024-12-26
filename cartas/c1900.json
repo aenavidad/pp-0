@@ -1,0 +1,27 @@
+{
+  "id": "c1900",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362541",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., da cuenta de las prevenciones hechas para la defensa del puerto y castillo del Mar del Sur, con ocasión de la noticia de enemigos. 2 fs. Anejo:1.- Testimonio de autos tocantes a noticias de enemigos que se han visto por las costas del Mar del Sur y puerto de Acapulco. México, 5-IX-1672. 340 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1672-09-02.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

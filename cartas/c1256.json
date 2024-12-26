@@ -1,0 +1,27 @@
+{
+  "id": "c1256",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367299",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: NICOLAS VARELA",
+    "scope": "Expediente de Confirmación del oficio de notario de Indias a Nicolás Varela. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-05-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

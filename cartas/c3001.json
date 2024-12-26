@@ -1,0 +1,27 @@
+{
+  "id": "c3001",
+  "work": {
+    "cod": false,
+    "cod_n": "not geogr relevant",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20878",
+    "docs": 1,
+    "title": "Planta de la nueva civ[dad] de la Vera Cruz en la forma que por la acelerada nueba de haver ocupado el enemigo el puerto de S[an] Fran[cis]co de Campeche, la puso su Gov[ernad]or el the[nien]te de maestre de campo g[ene]ral don Fern[an]do de Solís y Mendoza, donde se ven los reparos y prevenciones que hizo en su cerca para su prompta y primera defensa en el interin que se toma resolución de fortificarla a todo costo",
+    "scope": "Título en la parte superior central. Tabla explicativa con clave alfabética en el ángulo inferior izquierdo. Firma del autor al final de la misma: don Marcos Lucio / yng[eniero] de su [Mag[esta]d. Rúbrica.   Muestra la ciudad de Veracruz en la costa y su línea defensiva de tierra formada por siete baluartes unidos por un muro. A su derecha el río de las Aguadas.   Al dorso, en horizontal: Planta de las fortifica[cion]es que a hecho D[on] Fer[nan]do Solis Correji[d]or de la Vera[cruz] [cruz].   El proyecto de mejora de las defensas de la ciudad de Veracruz se realizó tras el asalto inglés al puerto de Campeche en 1663, a instancias del corregidor de la ciudad, Fernando de Solís y Mendoza.    Número de registro: 412",
+    "desc": null,
+    "locn": null,
+    "lbd": "1663-10-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

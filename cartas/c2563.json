@@ -1,0 +1,27 @@
+{
+  "id": "c2563",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362209",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., sobre que se reintegre a la Real hacienda las cantidades pagadas a Don Martín de Zabala y las suplidas para la limpieza de las acequias de México. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1667-11-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

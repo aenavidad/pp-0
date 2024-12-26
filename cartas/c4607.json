@@ -1,0 +1,27 @@
+{
+  "id": "c4607",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361734",
+    "docs": 1,
+    "title": "Carta del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "Memoria de los capítulos contra el virrey marqués de Cadereyta puestos ante el Consejo de Indias y la respuesta del virrey a cada uno de ellos.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

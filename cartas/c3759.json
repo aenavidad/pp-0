@@ -1,0 +1,27 @@
+{
+  "id": "c3759",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349660",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Juan de Alcedo Serralta, contador y Juan de Olaso, tesorero, informando del envio de los caudales cobrados a los religiosos de la Orden de la Merced, por el importe de la limosna de vino y aceite.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1651-04-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

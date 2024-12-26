@@ -1,0 +1,27 @@
+{
+  "id": "c4510",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351979",
+    "docs": 5,
+    "title": "Informaciones: Francisco Ramírez de Valdés",
+    "scope": "Informaciones de oficio y parte: Francisco Ramírez de Valdés, comisario del Santo Oficio, beneficiado del partido Ozolozalco, gobernación de Soconusco. Información contenida de 1637, con documentación anexa de 1616, 1626 y 1635, con pareceres de la Audiencia de Guatemala, obispo de Chiapa y Gobernador de Soconusco",
+    "desc": null,
+    "locn": null,
+    "lbd": "1638",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

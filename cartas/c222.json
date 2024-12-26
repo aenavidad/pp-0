@@ -1,0 +1,27 @@
+{
+  "id": "c222",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347263",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Diego de Acuña, presidente de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1630-01-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": true,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "re state of defence in Hond ports etc",
+    "mil_n": "[start img 1] que los Puertos desta Provi.a estan prebenidos y que combendra se desp.he çedula p.a gastar en la fortificaçion de los de Santo Thomas de castilla y truxillo. [sideline continues]"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c2254",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362374",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey sobre el asiento de las alcabalas de México. 2 fs. Anejos: 1.- Testimonio de los autos sobre las alcabalas de México. México, 27-11-1670. 2 fs. 2.- Traslado de la Real Cédula tocante al asiento de las alcabalas de México. México, 2-12-1670. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1670-12-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

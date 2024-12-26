@@ -1,0 +1,27 @@
+{
+  "id": "c4606",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361733",
+    "docs": 1,
+    "title": "Carta del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "Carta del virrey marqués de Cadereyta a Gabriel de Ocaña y Alarcón, secretario [de Nueva España] del Consejo de Indias respondiendo sobre las acusaciones que se le han hecho.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1637-07-25.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

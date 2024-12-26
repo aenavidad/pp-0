@@ -1,0 +1,27 @@
+{
+  "id": "c4058",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361816",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "El Virrey a S.M., quietud en que queda el reino y disposiciones que toma para que la plata pueda tomar a tiempo los galeones en La Habana. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1646-05-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

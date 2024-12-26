@@ -1,0 +1,27 @@
+{
+  "id": "c2634",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367066",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: NICOLAS GUTIERREZ",
+    "scope": "Expediente de Confirmación del oficio de notario real de las Indias a Nicolás Gutierrez. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1666-10-06.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

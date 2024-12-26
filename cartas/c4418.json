@@ -1,0 +1,27 @@
+{
+  "id": "c4418",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361760",
+    "docs": 1,
+    "title": "Carta del virrey Lope Díez de Armendáriz, marqués de Cadereyta.",
+    "scope": "Testimonio de autos seguidos por el Virrey en cumplimiento de la real cédula sobre beneficiar y vender algunos oficios en la Nueva España, para aplicar lo procedido a la armada de Barlovento. 8 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1639-02-28.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

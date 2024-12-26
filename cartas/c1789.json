@@ -1,0 +1,27 @@
+{
+  "id": "c1789",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362598",
+    "docs": 1,
+    "title": "Carta del virrey marqués de Mancera",
+    "scope": "El Virrey a S.M., orden de que los oficios reales de Guadalajara den al fiscal de la Audiencia las certificaciones que les pidiere. 2 fs. Anejo:1.- Los oficiales reales al Virrey, diciendo darán al fiscal las certificaciones que les pidiere. México, 24-VI-1673. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1673-06-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

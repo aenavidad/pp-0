@@ -1,0 +1,27 @@
+{
+  "id": "c499",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347544",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre el funcionamiento de las Cajas Reales de Guatemala y del estado de los juros.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1656-06-16.",
+    "upd": "1658-12-30."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

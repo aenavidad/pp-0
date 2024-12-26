@@ -1,0 +1,27 @@
+{
+  "id": "c5104",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349393",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por la Ciudad Real de Chiapa, solicitando que las encomiendas vacantes se provean en vecinos de la provincia de Chiapa, hijos, nietos y descendientes de conquistadores.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1631-01-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

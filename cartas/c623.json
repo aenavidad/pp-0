@@ -1,0 +1,27 @@
+{
+  "id": "c623",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347669",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre el alcance que hicieron a los Oficiales Reales, Francisco Montoya y Juan Méndez, y la actuación del obispo de Honduras.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1661-12-22.",
+    "upd": "1663-04-13."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

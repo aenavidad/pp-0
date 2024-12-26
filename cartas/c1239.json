@@ -1,0 +1,27 @@
+{
+  "id": "c1239",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349263",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Instrucción de la ciudad de León de Nicaragua.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1678",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c3864",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349655",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Juan de Alcedo Serralta, contador y Juan de Olaso, tesorero, informando del importe de la media annata antigua y moderna. Con testimonio de la relación de partidas",
+    "desc": null,
+    "locn": null,
+    "lbd": "1649-02-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

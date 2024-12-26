@@ -1,0 +1,27 @@
+{
+  "id": "c2854",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351185",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN LORENZO MAZATENANGO, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Lorenzo Mazatenango y Chil en Huehuetenango, Totonicapán, San Juan Nagualapa en Zapotitlán, Sacchin en Ocotenango en los Zendales de Chiapa a Garcia Aguilar y de la Cueva. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1665-10-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

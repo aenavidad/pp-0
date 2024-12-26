@@ -1,0 +1,27 @@
+{
+  "id": "c293",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347335",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Nota de la secretaría sobre el donativo que ha pedido el fiscal de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1645-02-16.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

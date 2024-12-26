@@ -1,0 +1,27 @@
+{
+  "id": "c4601",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361729",
+    "docs": 1,
+    "title": "Memorial del Consulado de México",
+    "scope": "Memorial del Consulado de México al rey sobre el nombramiento que ha hecho el virrey de Pedro de Santillán, vecino de México, como escribano de dicho Consulado.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637-12-23.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

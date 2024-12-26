@@ -1,0 +1,27 @@
+{
+  "id": "c1260",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367302",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MIGUEL VAZQUEZ MELLADO",
+    "scope": "Expediente de Confirmación del oficio de regidor de Puebla de los Angeles a Miguell Vázquez Mellado. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1677-06-19.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

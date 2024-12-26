@@ -1,0 +1,27 @@
+{
+  "id": "c1190",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362813",
+    "docs": 1,
+    "title": "Cartas del virrey Payo Enríquez de Ribera",
+    "scope": "El Virrey a S.M., licencia para pasar a estas provincias al maestro Fray Félix Pasqualuchi, de la orden de los menores conventuales de San Francisco. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1678-08-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4970",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349150",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Expediente a instancia del cabildo secular de Santiago de Guatemala, sobre la forma que ha de tener la correspondencia entre la ciudad y el rey y sus ministros.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633-12-14.",
+    "upd": "1641-04-08."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

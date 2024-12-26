@@ -1,0 +1,27 @@
+{
+  "id": "c3336",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351172",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN JUAN DE ALOTEQUE, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Juan de Aloteque, Santa Lucía, Cosumaluapa, en Esquintepeque, y San Juan Alotenango a Francisco Antonio de Aguilar y de la Cueva. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1659-10-07.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

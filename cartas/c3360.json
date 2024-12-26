@@ -1,0 +1,27 @@
+{
+  "id": "c3360",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349679",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Agustín Matute del Castillo, tesorero y Damián de Ochayta, contador, solicitando poder nombrar tenientes en Chiapa. Con sobrecédula",
+    "desc": null,
+    "locn": null,
+    "lbd": "1659-05-03.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4009",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361840",
+    "docs": 1,
+    "title": "Carta del virrey García Sarmiento de Sotomayor, conde de Salvatierra",
+    "scope": "El Virrey a Don Juan Bautista Sáenz Navarrete, avisa del recibo de despachos de partes y de haberlos aceptado los interesados. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1647-12-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

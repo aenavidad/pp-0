@@ -1,0 +1,27 @@
+{
+  "id": "c1010",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367329",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO DE PASTRANA",
+    "scope": "Expediente de Confirmación de los oficios de escribano público, del cabildo y notario de Indias de Santa Cruz de Potosí a Francisco de Pastrana. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1679-11-24.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

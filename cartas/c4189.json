@@ -1,0 +1,27 @@
+{
+  "id": "c4189",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349154",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Expediente instruido a instancia del cabildo secular de Santiago de Guatemala, sobre los productos que pueden ser objeto de comercio.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1644-02-24.",
+    "upd": "1644-06-07."
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

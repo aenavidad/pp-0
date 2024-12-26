@@ -1,0 +1,27 @@
+{
+  "id": "c295",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347337",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Petición de Francisco de la Barreda, sobre ser restituido en su cargo de oidor de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1645-09-14.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

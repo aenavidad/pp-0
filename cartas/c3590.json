@@ -1,0 +1,27 @@
+{
+  "id": "c3590",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366859",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JOSE VAZQUEZ MELLADO",
+    "scope": "Expediente de Confirmación del oficio de regidor de Los Angeles a José Vázquez Mellado. Pendiente",
+    "desc": null,
+    "locn": null,
+    "lbd": "1653-03-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

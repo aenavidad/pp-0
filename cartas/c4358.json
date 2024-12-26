@@ -1,0 +1,27 @@
+{
+  "id": "c4358",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350528",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: NICOLAS MARIN",
+    "scope": "Expediente de Confirmación del oficio de escribano público y del número del juzgado mayor y visitas de San Salvador, en Guatemala a Nicolás Marín. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1641-08-11.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

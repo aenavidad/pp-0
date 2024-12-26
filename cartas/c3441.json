@@ -1,0 +1,27 @@
+{
+  "id": "c3441",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de encomienda",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351168",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SANTA BARBARA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Santa Barbara, San Sebastián Aguacatán y Santa Isabel en Totonicapán a Andrés Méndez de Sotomayor. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1658-06-13.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

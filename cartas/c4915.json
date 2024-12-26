@@ -1,0 +1,27 @@
+{
+  "id": "c4915",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366539",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: BARTOLOME ROMERO DE CORDOBA",
+    "scope": "Expediente de Confirmación del oficio de regidor de Los Angeles a Bartolomé Romero de Córdoba. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1633-02-18.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

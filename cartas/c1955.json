@@ -1,0 +1,27 @@
+{
+  "id": "c1955",
+  "work": {
+    "cod": false,
+    "cod_n": "is conf de oficio",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367180",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN DE TORRES MORENO",
+    "scope": "Expediente de Confirmación del oficio de protomédico de la Nueva España a Juan de Torres Moreno. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1671-11-03.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

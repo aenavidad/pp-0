@@ -1,0 +1,27 @@
+{
+  "id": "c3016",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349704",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Francisco de Montoya y Valencia, contador y Agustín Matute del Castillo, tesorero, y decreto del Consejo, informando de lo gastado por los oficiales reales de Honduras procedente de los derechos de mesadas eclesiásticas y tributos vacos.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1663-12-01.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c4896",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351955",
+    "docs": 2,
+    "title": "Informaciones: Martín Alonso de la Tovilla",
+    "scope": "Informaciones de oficio y parte: Martín Alonso de Tovilla, alcalde mayor de la Verapaz y teniente, capitán general de la Verapaz. Con parecer de la Audiencia de 1635",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

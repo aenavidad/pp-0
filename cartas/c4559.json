@@ -1,0 +1,27 @@
+{
+  "id": "c4559",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351975",
+    "docs": 2,
+    "title": "Informaciones: Alonso del Carpio Aragonés",
+    "scope": "Informaciones de oficio y parte: Alonso del Carpio Aragonés, regidor de Santiago de Guatemala, vecino de Guatemala. Información contenida de 1636 con parecer de la Audiencia de Guatemala",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

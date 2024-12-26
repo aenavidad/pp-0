@@ -1,0 +1,27 @@
+{
+  "id": "c1989",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362419",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "El Virrey a S.M., sobre la paga de los réditos de las libranzas presentadas por el general y cabos de la flota. 2 fs. Anejos:1.- Testimonio sobre las determinaciones adoptadas referentes a las libranzas del general y cabos de la flota. México, 15-IV-1671. 4 fs. 2.- Testimonio sobre las libranzas del general y cabos de la flota. México, 18-IV-1671. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1671-04-15.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

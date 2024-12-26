@@ -1,0 +1,27 @@
+{
+  "id": "c4736",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361674",
+    "docs": 1,
+    "title": "Testimonio de un auto proveído por Pedro de Quiroga y Moya",
+    "scope": "Testimonio de un auto proveído por Pedro de Quiroga y Moya, juez de residencia del marqués de Cerralbo, contra dicho marqués y su privado Antonio de Vergara, por inducir a testigos a declarar falsamente en la causa de la recusación que le han interpuesto.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-04-21.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

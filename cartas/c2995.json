@@ -1,0 +1,27 @@
+{
+  "id": "c2995",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349450",
+    "docs": 13,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Expediente instruido a instancia de memorial de la ciudad de Nueva Segovia, Guatemala, solicitando que los alcaldes ordinarios de dicha ciudad sean nombrados corregidores de los pueblos de su entorno sin sueldo.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1663",
+    "upd": "1675"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

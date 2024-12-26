@@ -1,0 +1,27 @@
+{
+  "id": "c5193",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349389",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial de Ciudad Real de Chiapa, solicitando la provisión de corregimientos y oficios en conquistadores y pobladores. Con testimonio",
+    "desc": null,
+    "locn": null,
+    "lbd": "1630-10-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

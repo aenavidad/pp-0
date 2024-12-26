@@ -1,0 +1,27 @@
+{
+  "id": "c4538",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369017",
+    "docs": 2,
+    "title": "Informaciones: Francisco Mariano de Espinosa",
+    "scope": "Informaciones de oficio y parte: Francisco Mariano de Espinosa, capitán. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1637",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

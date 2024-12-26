@@ -1,0 +1,27 @@
+{
+  "id": "c5009",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369599",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Nombramientos y memoriales de Jerónimo del Guero, gobernador de Yucatán/.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1632-11-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "30 IMGS MAY NEED CLOSER RDG 17 JUL 2022",
+    "mil_n": null
+  }
+}

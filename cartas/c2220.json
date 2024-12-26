@@ -1,0 +1,27 @@
+{
+  "id": "c2220",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362343",
+    "docs": 1,
+    "title": "Carta del virrey Antonio Sebastián de Toledo, marqués de Mancera",
+    "scope": "Carta del virrey al rey sobre la orden de que el escribano de aquella Caja cumpla con la obligación de su oficio. 2 fs. Anejo: 1.- Real Cédula que se despachó por la escribanía de cámara del Consejo de Indias para que el escribano de la Caja de México cumpla con la obligación de su oficio. Madrid, 27-6-1670. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1670-10-30.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

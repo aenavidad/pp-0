@@ -1,0 +1,27 @@
+{
+  "id": "c772",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347822",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Testimonio de autos hechos en el viaje que hizo Fernando Francisco de Escobedo, presidente a la ciudad de Granada, Río de San Juan, Puerto de Caballos y Castillo de San Felipe. (Santiago de Guatemala 17-10-1672 - 19-06-1673). Con mapas y planos del río de San Juan, el Puerto del Realejo y el fuerte que se había de levantar para la defensa del Río San Juan.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1673-07-08.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "Inc re defence",
+    "mil_n": null
+  }
+}

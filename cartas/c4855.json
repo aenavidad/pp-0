@@ -1,0 +1,27 @@
+{
+  "id": "c4855",
+  "work": {
+    "cod": false,
+    "cod_n": "is info de oficio y parte",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368992",
+    "docs": 4,
+    "title": "Informaciones: Diego de Arizmendi Gogorrón",
+    "scope": "Informaciones de oficio y parte: Diego de Arizmendi Gogorrón, licenciado, clérigo presbítero, vicario de San Luis de Potosí. Información contenida de 1632. Hay otra información hecha en 1634 y dos extractos del Consejo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1634",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

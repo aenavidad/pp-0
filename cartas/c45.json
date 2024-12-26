@@ -1,0 +1,27 @@
+{
+  "id": "c45",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348779",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Francisco de Valdés y Tovar, Gobernador de La Trinidad de Sansonate.(Provincia de Guatemala)",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1662-08-17.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": "NOT FM GOB HON 17 JUL 2022",
+    "mil_n": null
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "c911",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347963",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Juan Palacios de la Bastida, oidor interino de la Audiencia de Guatemala al secretario del consejo, José de Veitia Linaje.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1679-01-10.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

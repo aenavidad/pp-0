@@ -1,0 +1,27 @@
+{
+  "id": "c5232",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369579",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memoriales de Diego de Cárdenas, Gobernador de Yucatán, solicitando permiso para llevar familia, séquito, etc.",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1620-12-20.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

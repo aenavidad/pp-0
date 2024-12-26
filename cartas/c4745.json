@@ -1,0 +1,27 @@
+{
+  "id": "c4745",
+  "work": {
+    "cod": false,
+    "cod_n": "not digitised",
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361652",
+    "docs": 1,
+    "title": "Carta del corregidor de México",
+    "scope": "El corregidor de México al rey, sobre los medios y arbitrios de dicha ciudad para ayuda a formar la Armada de Barlovento y seno mexicano.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1636-03-03.",
+    "upd": null
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

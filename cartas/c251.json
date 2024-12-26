@@ -1,8 +1,8 @@
 {
   "id": "c251",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": true,
+    "cod_n": "is carta de Gt/Mx close to 1630",
     "stat": null,
     "stat_n": null
   },

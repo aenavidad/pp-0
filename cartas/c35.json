@@ -1,8 +1,8 @@
 {
   "id": "c35",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": true,
+    "cod_n": "is carta de Hon",
     "stat": null,
     "stat_n": null
   },

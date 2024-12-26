@@ -1,8 +1,8 @@
 {
   "id": "c4474",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": true,
+    "cod_n": "is carta de Gt/Mx close to 1630",
     "stat": null,
     "stat_n": null
   },
@@ -18,11 +18,11 @@
     "ref": "MEXICO,34,N.1"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "cat scope was complete",
     "mil_n": null
   }
 }

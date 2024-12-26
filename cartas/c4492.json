@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.5,N.23"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Quejase del Virrey, y pide se lea esta carta enel conss.o, porque toda trata de la materia /v img 8"
   }
 }

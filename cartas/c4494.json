@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.5,N.25"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "rremite aqui un testim.o de cosa tocante al patronazgo R.l de aquellas Provincias /v img 1"
   }
 }

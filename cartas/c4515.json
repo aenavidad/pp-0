@@ -1,7 +1,7 @@
 {
   "id": "c4515",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,49,N.89"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "re Sto Thomas smuggling w/ Sp ships /v img 1 / Sobre su presion y remite autos /v img 6"
   }
 }

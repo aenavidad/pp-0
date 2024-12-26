@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.5,N.26"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "havisa con esta certificacion de los officiales Reales, la moneda que se rremite este año a VM /v img 1"
   }
 }

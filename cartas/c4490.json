@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.5,N.21"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "re las prevenciones que temprano esta año hizo en la Villa y puerto de Camp.e por las declaraciones que el pasado embio a VM sobre que el enemigo havia de venir sobre la dha Villa /v img 1 / con la paz que aqui se á Vivido y los pocos enemigos que havia asta agora quatro años que se Juntaro algunos que saqueraron la dicha Villa /v img 2"
   }
 }

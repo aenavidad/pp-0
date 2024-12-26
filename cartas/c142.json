@@ -1,8 +1,8 @@
 {
   "id": "c142",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": true,
+    "cod_n": "is carta de Gt/Mx close to 1630",
     "stat": null,
     "stat_n": null
   },
@@ -14,7 +14,8 @@
     "desc": null,
     "locn": "Guatemala",
     "lbd": "1620-10-01.",
-    "upd": null
+    "upd": null,
+    "ref": "GUATEMALA,14,R.3,N.59"
   },
   "data": {
     "mil": null,

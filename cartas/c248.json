@@ -1,8 +1,8 @@
 {
   "id": "c248",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": true,
+    "cod_n": "is carta de Gt/Mx close to 1630",
     "stat": null,
     "stat_n": null
   },
@@ -14,14 +14,15 @@
     "desc": null,
     "locn": "Guatemala",
     "lbd": "1638-03-01.",
-    "upd": null
+    "upd": null,
+    "ref": "GUATEMALA,15,R.17,N.96"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre los agravios que represento Don Su.o de Alvarado encomendero de los Pueblos de Macatenango, contra el P.e Borsabe de Sora su benefiçiado /v cvg fol img 4"
   }
 }

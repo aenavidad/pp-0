@@ -1,8 +1,8 @@
 {
   "id": "c250",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": true,
+    "cod_n": "is carta de Gt/Mx close to 1630",
     "stat": null,
     "stat_n": null
   },
@@ -14,14 +14,15 @@
     "desc": null,
     "locn": "Guatemala",
     "lbd": "1638-05-26.",
-    "upd": null
+    "upd": null,
+    "ref": "GUATEMALA,15,R.17,N.98"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da qu.ta de qu.to Ynfestan las costa del norte los corsario /v img 1"
   }
 }

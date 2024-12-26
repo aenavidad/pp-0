@@ -1,4 +1,3 @@
-
 {
   "id": "c1008",
   "work": {
@@ -15,7 +14,8 @@
     "desc": null,
     "locn": null,
     "lbd": "1679-11-11.",
-    "upd": null
+    "upd": null,
+    "ref": "MEXICO,195,N.47"
   },
   "data": {
     "mil": null,

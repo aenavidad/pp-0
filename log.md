@@ -15,7 +15,7 @@
 - [x] check work in `work/*-22`
 - [x] check work in `work/*-23`
 - [x] get latest data version in `txt` for `git`[^got in `tsv` and `json`]
-- [ ] split `list.json` for easier handling?
+- [ ] split `list.json` for easier handling?[^yes with ``for i in `seq 0 5239`; do jq ".[$i]" list.json > "c$i.json"; done``, plus remove `cartas/list.*` to keep only object files]
 
 ## prior log
 * for `v-1.4`, first written by 7 sep 2021, last updated 24 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work\versioning\sheets varids.tsv`]

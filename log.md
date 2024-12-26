@@ -19,7 +19,8 @@
 - [x] fix `cod` values[^must be `true` if any `data` value is not `null` - done but not rechecked]
 - [x] ~~mark `true` for null values of `cod` for cartas de Guat/Mex w/in 15 yrs of 1630[^abort at 1620 as can just navigate by `lbd` value]~~
 - [x] add `ref` values to `cat` for easier navigation[^via eg `jq '.cat += {"ref" : "GUATEMALA,39,R.14,N.93"}' c0.json > tmp && mv tmp c0.json`]
-- [x] coded 1638 dated records
+- [x] coded 1638 dated records[^checked for thoroughness but not accuracy too]
+- [ ] code cartas de gobernadores de Hon/Yuc first?
 
 ## prior log
 * for `v-1.4`, first written by 7 sep 2021, last updated 24 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work\versioning\sheets varids.tsv`]

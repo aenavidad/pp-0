@@ -1,7 +1,7 @@
 {
   "id": "c4503",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,75,R.8,N.40"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "En materias tocantes a la haz.da R.l [..] y tambien trata de otras materias fiscales /v img 10"
   }
 }

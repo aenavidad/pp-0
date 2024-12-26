@@ -1,7 +1,7 @@
 {
   "id": "c4500",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,75,R.8,N.37"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre Venta del ofiçio [...] y cobranças de condenaçiones y otras cosas (incl Armada de Barlovento) /v img 4"
   }
 }

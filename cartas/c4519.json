@@ -1,7 +1,7 @@
 {
   "id": "c4519",
   "work": {
-    "cod": false,
+    "cod": true,
     "cod_n": "is conf de oficio",
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,85,N.15"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "to img 4, then skimmed",
     "mil_n": null
   }
 }

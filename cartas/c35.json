@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,39,R.18,N.123"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "cat scope seems complete to img 3",
     "mil_n": null
   }
 }

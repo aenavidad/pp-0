@@ -1,7 +1,7 @@
 {
   "id": "c4507",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,75,R.8,N.44"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "long pp (img 1-8) plus four pp re diversas materias, Reales tributos, minas, dotrinas, dela ymbernada de la flota en S. Juan de Ulua /v img 1 / sobre las esperas, que por reçagos y alcances de Reales tributos pretenden los Indios /v img 4",
     "mil_n": null
   }
 }

@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.17,N.99"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re defence but not defence-against-pirates specifically, but ports mentioned",
+    "mil_n": "Esttan desarmadas las provinçias del guattemala. Pide Mill. Armas de fuego. y Dise el Modo conque su costa No sera dela Real Haçienda /v img 1 / En diversas ocasiones e Representtado a VMg.d la falta de Armas que ay enestas provinçias, con puerttos al Mar Del nortte y Al del sur, /v img 1"
   }
 }

@@ -20,7 +20,10 @@
 - [x] ~~mark `true` for null values of `cod` for cartas de Guat/Mex w/in 15 yrs of 1630[^abort at 1620 as can just navigate by `lbd` value]~~
 - [x] add `ref` values to `cat` for easier navigation[^via eg `jq '.cat += {"ref" : "GUATEMALA,39,R.14,N.93"}' c0.json > tmp && mv tmp c0.json`]
 - [x] coded 1638 dated records[^checked for thoroughness but not accuracy too - all such files now have non-null `cod` and data in `data` if appropriate, but pre-existing data in `data` not reviewed ie only `false cod` should have null `data`, but `true cod` may have inaccurate or incomplete pre-existing `data`]
-- [ ] code cartas de gobernadores de Hon/Yuc first?
+- [x] ~~code cartas de gobernadores de Hon/Yuc first?~~
+- [x] ~~coded 1639 records~~
+- [x] further ensure each 1638 record is calendared w/ summary/extract, either via `cat` or added in `data`[^except records w/c seem irrelevant from `cat` eg geographically irrelevant, and non-digitised records]
+- [ ] code 1639 records[^fill in any null `cod`, fill in null `mil` for `true cod`, and add record summary in `data` if one in `cat` is weak (for relevant records)]
 
 ## prior log
 * for `v-1.4`, first written by 7 sep 2021, last updated 24 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work\versioning\sheets varids.tsv`]

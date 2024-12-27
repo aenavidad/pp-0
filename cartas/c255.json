@@ -1,7 +1,7 @@
 {
   "id": "c255",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.1,N.2"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Ynforma sobre los inconbenienttes que ay en los pueblos de Indios con los scrivanos y alguaciles /v img 1"
   }
 }

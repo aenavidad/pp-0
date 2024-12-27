@@ -19,7 +19,7 @@
 - [x] fix `cod` values[^must be `true` if any `data` value is not `null` - done but not rechecked]
 - [x] ~~mark `true` for null values of `cod` for cartas de Guat/Mex w/in 15 yrs of 1630[^abort at 1620 as can just navigate by `lbd` value]~~
 - [x] add `ref` values to `cat` for easier navigation[^via eg `jq '.cat += {"ref" : "GUATEMALA,39,R.14,N.93"}' c0.json > tmp && mv tmp c0.json`]
-- [x] coded 1638 dated records[^checked for thoroughness but not accuracy too]
+- [x] coded 1638 dated records[^checked for thoroughness but not accuracy too - all such files now have non-null `cod` and data in `data` if appropriate, but pre-existing data in `data` not reviewed ie only `false cod` should have null `data`, but `true cod` may have inaccurate or incomplete pre-existing `data`]
 - [ ] code cartas de gobernadores de Hon/Yuc first?
 
 ## prior log

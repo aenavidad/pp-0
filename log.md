@@ -23,7 +23,7 @@
 - [x] ~~code cartas de gobernadores de Hon/Yuc first?~~
 - [x] ~~coded 1639 records~~
 - [x] further ensure each 1638 record is calendared w/ summary/extract, either via `cat` or added in `data`[^except records w/c seem irrelevant from `cat` eg geographically irrelevant, and non-digitised records]
-- [ ] code 1639 records[^fill in any null `cod`, fill in null `mil` for `true cod`, and add record summary in `data` if one in `cat` is weak (for relevant records)]
+- [x] code 1639 records[^fill in any null `cod`, fill in null `mil` for `true cod`, and add record summary in `data` if one in `cat` is weak (for relevant records)]
 
 ## prior log
 * for `v-1.4`, first written by 7 sep 2021, last updated 24 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work\versioning\sheets varids.tsv`]

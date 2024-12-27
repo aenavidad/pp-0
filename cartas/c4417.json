@@ -18,11 +18,11 @@
     "ref": "MEXICO,35,N.12"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "re enemigos en Havana /v img 9 / re encuentro galeones con enemigo (in s.n Ju.o de Vlua) /v img 33"
   }
 }

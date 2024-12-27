@@ -1,7 +1,7 @@
 {
   "id": "c263",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.1,N.10"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre las arribadas de Navios y los que Van de Registro a los puertos de Guatimala cargados de vino del Piru /v img 1 / re mar del Sur /v img 1"
   }
 }

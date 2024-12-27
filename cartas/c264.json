@@ -1,7 +1,7 @@
 {
   "id": "c264",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.1,N.11"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Remite el pleyto que se ha seguido con Tomas de hiçieça sobre la Vara de Alguaçil /v img 4"
   }
 }

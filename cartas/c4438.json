@@ -1,7 +1,7 @@
 {
   "id": "c4438",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,42,N.33"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly re smuggling",
+    "mil_n": "dos memoriales del Procurador g.l de Guatemala, Y delos informes dela cassa y consulado de Sevilla, sobra la pretension de que solos los Vez.os de aquella Prov.a comerçien la tinta a estos Rey.os y no se de liçen.a a nao estrangera para aquellos puertos ni cargue a ellos El que no fuere natural de estos Rey.os /v img 4"
   }
 }

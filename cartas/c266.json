@@ -18,7 +18,7 @@
     "ref": "GUATEMALA,16,R.2,N.13"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": "cf C Amaya p 106",

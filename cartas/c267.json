@@ -1,7 +1,7 @@
 {
   "id": "c267",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.2,N.14"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dase q.ta de como entro el enemigo en Trujillo y lo que escribio sobre ello D fran.co davila /v img 1"
   }
 }

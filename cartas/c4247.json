@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.5,N.33"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta de haver saqueado en aquella Provinçia el enemigo la Villa de Salamanca de Vacalar, de que remite testimonio con relaçion dello, y de la arrivada de un navio de registro que iba ala Provinçia de Honduras /v img 4"
   }
 }

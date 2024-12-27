@@ -1,7 +1,7 @@
 {
   "id": "c4250",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,75,R.12,N.57"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta de haver tomado la posesion de su plaza de oydor y Dize la Justificacion con que caminava en la residençia del Dueque de escalona, la graviedad della y supp.ca a su Mag.d se aprueve lo avisado en este caso [etc] /v img 27"
   }
 }

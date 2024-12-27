@@ -1,7 +1,7 @@
 {
   "id": "c4249",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,75,R.12,N.56"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Que la Vnibersidad le nombro por retor della Supp.ca se de çedula para que en aquella Vnibersidad se guarden los mismos estatutos que en la de Lima /v img 4"
   }
 }

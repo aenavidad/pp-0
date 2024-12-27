@@ -1,7 +1,7 @@
 {
   "id": "c282",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.4,N.29"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Que el enemigo tomo a Trujillo, y asistiendo alli algunos dias escaparon milagrosamente los navios que iban de españa, i se pasaron ala Vera cruz, i se entendio havian de Volver el año siguiente a penetrar la tierra por los puertos de Trujillo i Santo Tomas, y que asi combendra fortificarlos /v img 4"
   }
 }

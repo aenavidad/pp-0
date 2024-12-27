@@ -1,7 +1,7 @@
 {
   "id": "c280",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.4,N.27"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere la continuaçion conque el enemigo infesta aquellas costas y entrada que hizo en Trujillo. y las prevençiones que dispuso para resistirle y defender la provinçia, y la mucha falta que tiene de Vocas de fuego. Remite testim.o de lo averiguado çerca delos disiños del Enemigo i notiçias que del se tenian y tambien de una junta que hizo sobre fortificar el puerto de Trujillo /v img 12"
   }
 }

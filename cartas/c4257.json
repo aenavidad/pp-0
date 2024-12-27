@@ -1,7 +1,7 @@
 {
   "id": "c4257",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,75,R.12,N.64"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Supp.ca a VM.d le mande dar liçençia para que pueda hzar su viaje en la primera flota que partiese para aquellas Provinçias /v img 1"
   }
 }

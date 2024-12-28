@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.5,N.19"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl re Campeche defence",
+    "mil_n": "da quenta de haver Salido a la Vissita Gen.l [...] La Villa y puerto de Camp.e no da Con particularidad quenta de todo por estar Diaz hà malo en la Cama lo hara con los primeros Galeones o flota /v img 1"
   }
 }

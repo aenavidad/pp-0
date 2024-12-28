@@ -1,7 +1,7 @@
 {
   "id": "c247",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.16,N.95"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Supp.ca a VMag le mande dar licencia para ir a servir la dha plaza /v img 1"
   }
 }

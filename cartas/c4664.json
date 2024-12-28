@@ -1,7 +1,7 @@
 {
   "id": "c4664",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,31,N.43"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "nothing particular on E Yuc found",
+    "mil_n": "Jusgando por su mano alcanzaria las noticias que hemenester delas cossas de la guerra de aquella Provincia [de Yuc] lo precisso que piden los Puertos que puede Imbadir el enemigo /v img 7"
   }
 }

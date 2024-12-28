@@ -36,7 +36,8 @@
 - [x] code 1649 records
 - [x] code 1650 records
 - [x] code 1637 records
-- [ ] code 1636 records
+- [x] code 1636 records
+- [ ] code 1635 records
 
 ## prior log
 * for `v-1.4`, first written by 7 sep 2021, last updated 24 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work\versioning\sheets varids.tsv`]

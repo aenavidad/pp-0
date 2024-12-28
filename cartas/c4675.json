@@ -18,7 +18,7 @@
     "ref": "MEXICO,360,R.4,N.15"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,

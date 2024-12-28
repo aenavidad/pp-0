@@ -1,7 +1,7 @@
 {
   "id": "c4683",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,75,R.6,N.31"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "sobre quando y Como se puedan embiar Comisarios por los oidores /v img 9 / de quan rretardadas y dificultossas estas las cobrancas que perteneçen a Vienes de difuntos /v img 1"
   }
 }

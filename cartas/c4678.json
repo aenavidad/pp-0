@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.5,N.18"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "62 IMGS MAY NEED CLOSER RDG 18 JUL 2022",
+    "codg_n": null,
     "mil_n": "re remite a VMg.d las çertificaciones de la publicaçion de su R.l çedula de las encomiendas /v f 1 img 1"
   }
 }

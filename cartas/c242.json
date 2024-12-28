@@ -1,7 +1,7 @@
 {
   "id": "c242",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.15,N.90"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "no summ nor marginal notes",
+    "mil_n": "Vino dela Aud.a de Panama a ser Presidente en esta Don Alvaro de Quiñones ossorio /v img 3 / Y pareçiendole al Pres.te que aun estas, y otras demostraçiones no bastaban para amedrentar los subditos /v img 6 / El dia siguiente Jueves 21. fuimos todos por la manana ala Aud.a y ala tarde al Acuerdo /v img 11"
   }
 }

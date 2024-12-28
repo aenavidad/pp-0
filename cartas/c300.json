@@ -1,7 +1,7 @@
 {
   "id": "c300",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.7,N.47"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "de lo que conviene que en el puerto de Sonsonate aya offiçial real propietario /v img 4"
   }
 }

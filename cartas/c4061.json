@@ -1,7 +1,7 @@
 {
   "id": "c4061",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.3,N.13"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "de haver recivido diferentes despachos de su Mag. y de otras cosas tocantes al buen govi.o de aq.l Rey.o y sobre armas que traen los esclabos q. suceden muchas muertes /v img 4"
   }
 }

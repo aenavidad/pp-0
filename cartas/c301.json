@@ -1,7 +1,7 @@
 {
   "id": "c301",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.7,N.48"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta del reimo de diferentes z.las y de otras cosas tocantes a su execuçion; y Govierno de aquellas prov.as sobre q. remite autos /v img 8 / Ynforma Con la audiençia en razon del Puerto que conbendra fortificar en las costas de honduras= /v img 2"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c302",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.7,N.49"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Contiene lo mis.o que otra q. escrivjo en 30 de Julio /v img 4 / siendo aquel lugar el de la mas mala agua [...] de que se Causaban grandes enfermedades /v img 1 / estando apoderado diaguillo elmulato y confederado con setesientas almas de indios dela Isla de la guanaja /v img 2"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c303",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.7,N.49BIS"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dupp.da de 30 de otubre de 1645 /v img 1 / la falta de jueses de milpas [etc] /v img 1"
   }
 }

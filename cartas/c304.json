@@ -1,7 +1,7 @@
 {
   "id": "c304",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.7,N.50"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Viene en el legajo de la junta p.a el punto del puerto que se a de fortificar en Honduras /v img 12 / el Puerto de S.to Thomas de Castilla es el mayor Para fortificarse /v img 2"
   }
 }

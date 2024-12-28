@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.7,N.35"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "el cuidado que pone en que se reintreguen las reales cajas [etc] /v img 4"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c305",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.7,N.50BIS"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "con la rresolusion que se a tomado que bino en esta armada de Barlovento proseden [los oidores] con mucha paz y me asisten /v img 1"
   }
 }

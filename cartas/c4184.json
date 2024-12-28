@@ -1,7 +1,7 @@
 {
   "id": "c4184",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.1,N.6"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Repressenta lo que combiene se provea generalmente para ocurrir ala fraude que se haçe en no despacharse laspartes en quien se renunçian los offis.o /v img 1 / sobre la Venta de los ofiçios renunçiables /v img 4"
   }
 }

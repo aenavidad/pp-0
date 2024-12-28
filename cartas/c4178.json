@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.6,N.34"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly noted Hon smuggling",
+    "mil_n": "Da quenta de como se alla Governando aquella Provincia /v img 4 / No doy quenta a VM del estado destas Provinçias por el poco tiempo que en ellas ressido /v img 1 / se quedan sacando los autos que se hizieron en la arribada de Vn navio que yba a Honduras /v img 2"
   }
 }

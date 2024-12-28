@@ -1,7 +1,7 @@
 {
   "id": "c4164",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,35,N.29"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "no particulars on Yuc seen",
     "mil_n": null
   }
 }

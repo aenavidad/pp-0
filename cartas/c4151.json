@@ -1,7 +1,7 @@
 {
   "id": "c4151",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,242B,N.64"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "from Valladolid, Yuc / no indidents/details found to img 5",
     "mil_n": null
   }
 }

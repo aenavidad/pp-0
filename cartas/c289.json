@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.5,N.36"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "Inc 13 Oct 1643 letter",
-    "mil_n": null
+    "codg_n": "possibly incl re Hon smuggling / Inc 13 Oct 1643 letter",
+    "mil_n": "de los autos que proveyo en el comisso de çerca de çinco mil votixas de Vino del piru [etc] /v img 1 / remite a VM testimonios por donde consta no aber pedido liçençia para descargar vna nao de yslas que llego al puerto de truxillo /v img 8"
   }
 }

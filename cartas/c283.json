@@ -1,7 +1,7 @@
 {
   "id": "c283",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.5,N.30"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly re Hon smuggling",
+    "mil_n": "De todas las comissiones que VMag.d a sido servido se me remitan e dado en otras quenta del estado de que oy corro con ellas /v img 1 / Estos enconos van creçiendo y ehando muchas Rayzes por esta confederaçion /v img 1 / y llega a tanto que estando delatado Don fran.co de Avila Alcalde Mayor de chiapa que por sus ynquietudes fue preçisso mudarle a el gobierno de Comayague donde usando de su natural ynquietud rebolbio tambien aquella ziudad y sin estar acabada De Substancias la causa de haber tratado y contractado con el enemigo olandes siendo gobernador le dieron p[ill] libre siendo assi que yo le tome la confession y le hise en ella sesenta y tres preguntas y repreguntas y dellas y del processo resultan tan vrgentes yndiçios contra el suso dicho que no [ill] puede poner a question de tormento sino [...] que no solo a sido en este Nabio de Negros Sino de otros muchos que an aRibado en el puerto de Truxillo en tiempo del fiscal desta Aud.a de que yo tengo assentados mis Votos [img 2] En el libro del acuerdo y en otras /v img 2-3"
   }
 }

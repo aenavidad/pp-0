@@ -1,7 +1,7 @@
 {
   "id": "c290",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.5,N.37"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl Hon defence",
+    "mil_n": "prebençiones [de guerra] que desde que entro en el govierno a hecho /v img 1 / el enemigo entro en trujillo /v img 5 / este enemigo es yngles y Vino dela barbada /v img 10 / lo que conviene fortificar a santo thomas de castilla y a truxillo /v img 10"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c347",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.2,N.29"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "informa las causas por que los Pressidentes dan alos oidores q Van a comiss.es Titulos de tenientes /v img 4"
   }
 }

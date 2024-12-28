@@ -1,7 +1,7 @@
 {
   "id": "c3825",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.6,N.28"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "ss.e deferintes puntos de Inportançia que van sacados /v img 11 / Muerte del obispo Governador [etc] /v img 1"
   }
 }

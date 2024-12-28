@@ -1,7 +1,7 @@
 {
   "id": "c331",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.2,N.13"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "las materias de guerra [in Nic] /v img 1 / de los enemigos que an andado en aquellas costas y las Imbasiones que an procurado hacer /v img 14 / llegaron dos fragatas y quatro Piraguas del enemigo [...] y entraron en las vodegas [img 2] del golfo [etc] /v img 2-3"
   }
 }

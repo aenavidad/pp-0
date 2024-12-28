@@ -1,7 +1,7 @@
 {
   "id": "c324",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.1,N.6"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "diferentes puntos q Van sacados a la margen /v img 4 / Volvio el fiscal del Viaje del Golfo [donde] allo Camino nuebo para traficar las Mercadurias [...] sin Peligro del enemigo disponiendose en s.to tomas de Castilla la fortificacion que se a de hacer que en vno y otro puso el desvelo que Pedi[ill] materia de tanta Importancia /v img 2"
   }
 }

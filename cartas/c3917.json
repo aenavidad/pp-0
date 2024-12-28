@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.7,N.43"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "no specific mention of E Yuc coast found",
+    "mil_n": "Diçe las Raçones que le obligaron a Armar los Indios que avitan elos arravales de aquella çiudad /v img 4 / respecto de las ymbasiones que cada dia la amenazan [a esta provinçia] por los puertos Y sus costas /v img 1"
   }
 }

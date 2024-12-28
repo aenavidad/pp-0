@@ -1,7 +1,7 @@
 {
   "id": "c322",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.1,N.4"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "seems like crew mutinied",
+    "mil_n": "que hasta aora no tube noticia que supe que vnos piratas françeses y Otros olandeses estavan mucho tiempo A aloxados en dicha ysla [rruatan] saliendo de alli a ynfestar las costas de Honduras y vacalar y Voluiendose Como a su misma Cassa= /v img 3"
   }
 }

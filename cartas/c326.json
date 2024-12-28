@@ -1,7 +1,7 @@
 {
   "id": "c326",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.1,N.8"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl Hon smuggling",
+    "mil_n": "Sobrecobrar de algunos ministros la media Anata [etc] /v img 6 / Auto que se a dado a[ill] a d fran.co de avila en la causa s.e aver contratado con el enemigo /v img 6"
   }
 }

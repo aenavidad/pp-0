@@ -1,7 +1,7 @@
 {
   "id": "c320",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.1,N.2"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Reçivo de despachos, diligençias q Hizo para Recoxer a [ill] breves de de q Remita el testim.o Incluso /v img 4"
   }
 }

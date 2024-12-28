@@ -1,7 +1,7 @@
 {
   "id": "c328",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.1,N.10"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que Murio el oydor d Al.o de castro Y dela Zerda y otras cossas /v img 4"
   }
 }

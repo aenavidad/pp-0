@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.7,N.40"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Representa los Inconvinientes que Resulta de que los Alcaldes de aquella ciu.d y delade Campeche subcedan enel gov.o de aquella Prov.a enlas Vacantes /v img 4"
   }
 }

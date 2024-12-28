@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.7,N.42"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice que tiene dado quenta dela forma de proçedimientos del obpo de aquella Prov.a [etc] /v img 4"
   }
 }

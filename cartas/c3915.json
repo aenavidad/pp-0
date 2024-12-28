@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.7,N.41"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice la poca Vnion i comform.d entre los prevendados de aquella Yglesia [etc] /v img 4"
   }
 }

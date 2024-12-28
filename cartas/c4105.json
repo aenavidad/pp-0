@@ -1,7 +1,7 @@
 {
   "id": "c4105",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.2,N.10"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que a procurado enterarse de los mas esençial dela costa de Campache y que a reconocido muy poca defensa en ella y mucha façilidad en entrarla los enemigos y apoderarse de lo mas prinçipal /v img 4"
   }
 }

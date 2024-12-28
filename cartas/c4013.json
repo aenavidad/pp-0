@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.7,N.38"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Avisa de haverse celebrado las honrras del Principe mor[ill] /v img 6"
   }
 }

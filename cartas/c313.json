@@ -1,7 +1,7 @@
 {
   "id": "c313",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.8,N.57"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "dupp.da de 2 de m.o del 647 /v img 1 / la tersia parte de encomiendas de barlovento [etc] /v img 1 / en rason del puerto que combendra fortificar en las costas de honduras /v img 2"
   }
 }

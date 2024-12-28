@@ -1,7 +1,7 @@
 {
   "id": "c318",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.8,N.62"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "echo mr.d de Una plaza en la aud.a de [ill] a los Aragones y propone con esta ocasion p.a plaza a don P.o del Valle /v img 4"
   }
 }

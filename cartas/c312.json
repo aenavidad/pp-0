@@ -1,7 +1,7 @@
 {
   "id": "c312",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.8,N.56"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "de los abisos que a tenido del governador de Honduras de algunos cosarios que entraron en trujillo /v img 1"
   }
 }

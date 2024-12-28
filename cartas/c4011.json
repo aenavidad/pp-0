@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.7,N.36"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "los danos que resultan de [ill] por los officiales reales la distribucion delas pagas consignadas en los tributos del Adelantado Montejo y lo que combendra hazer /v img 10"
   }
 }

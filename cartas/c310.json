@@ -1,7 +1,7 @@
 {
   "id": "c310",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.8,N.54"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre la venta y remate del officio de tess.ro, del papel sellado y remision del dinero de su valor /v img 4"
   }
 }

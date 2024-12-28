@@ -1,7 +1,7 @@
 {
   "id": "c317",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,16,R.8,N.61"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "en Materia de fortificasi.n y otras cosas /v img 4 / saliese a rreconocer la disposicion del de Amatique /v img 1"
   }
 }

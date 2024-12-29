@@ -1,7 +1,7 @@
 {
   "id": "c5179",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,74,R.11,N.132"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "de q. las personas aquien el virrey nombrava para af.os nose residençiavan con la Justificaçion q. convenia /v img 4"
   }
 }

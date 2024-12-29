@@ -1,7 +1,7 @@
 {
   "id": "c224",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,7 +18,7 @@
     "ref": "GUATEMALA,15,R.9,N.72"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,

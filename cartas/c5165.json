@@ -18,7 +18,7 @@
     "ref": "MEXICO,359,R.13,N.79"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,

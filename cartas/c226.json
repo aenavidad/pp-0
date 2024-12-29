@@ -18,7 +18,7 @@
     "ref": "GUATEMALA,15,R.10,N.74"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,

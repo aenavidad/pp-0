@@ -1,7 +1,7 @@
 {
   "id": "c5062",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,30,N.36"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "nothing on E Yuc",
+    "mil_n": "Los abisos q VM me embia de enemigos enesta ocas.on nome obligan amas cuydado que el que yo metengo y creo que VM puede perderle del pu.to de s.n Ju.o de Vlua /v img 7"
   }
 }

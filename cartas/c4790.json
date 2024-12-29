@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.1,N.5"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": "re prior servicios y méritos del gob /v f 1 img 1"
+    "mil_n": "re prior servicios y méritos del gob /v f 1 img 1 / fui rezebido a lod dhos ofiçios en seis de Julio pasado deste año y asta agora mi ocupaçion a sido tratar de que el henemigo no aga daño en los puertos desta probincia por Tener sus costas muy ynfestadas [img 2] y aber rrobado y saqueado algunas fragatas y bajeles del trato y aberse bisto quatro nabios en el puerto de canpeche y para fortificaçion del y defensa de los demas y seguridad desta çiudad doy quenta a vmag.d en carta aparte /v img 2-3"
   }
 }

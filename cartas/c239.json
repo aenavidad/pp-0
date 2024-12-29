@@ -1,7 +1,7 @@
 {
   "id": "c239",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.14,N.87"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "supp.ca a VMd mande despacharle çedula para que [...] sea rreçivido a la dha Plaça /v img 1"
   }
 }

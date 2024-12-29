@@ -1,7 +1,7 @@
 {
   "id": "c4996",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,31,N.4"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "cedula in img 9 / no coastal survey found / no E Yuc particulars found",
+    "mil_n": "VM mando por zedula de 8 de Mayo de 1629 q se reconociesen los puertos destas costas /v img 1 / [dos pilotos] alos que les a de dar orden e ynstrucsion para que reconoscan los puertos queay en estas dhas costas asi a barlo Vento como a sotabento delde San Ju.o de Vlua /v img 9"
   }
 }

@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.2,N.6"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "30 IMGS MAY NEED CLOSER RDG 17 JUL 2022",
-    "mil_n": null
+    "codg_n": "found no E Yuc particulars",
+    "mil_n": "que los beçinos españoles delos lugares de dicha provinçia estan faltos de armas de fuego para su defensa, y de aquellos puertos, en qualquiera ocasion, de enemigos, que se ofrezcan [etc] /v img 17"
   }
 }

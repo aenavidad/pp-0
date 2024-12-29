@@ -18,11 +18,11 @@
     "ref": "MEXICO,31,N.50"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "seems restricted to near Merida / found no E Yuc particulars",
+    "mil_n": "s.e el Alcamiento de algunos Indios los quales ha puesto ya en paz y obediencia como pareçe por la informaçion inclusa /v img 4 / sino me hubiera sido forzoso bolber aesta cuidad ala defense della y delos puertos desta probinçia por aberse bisto desde ellos vrcas y nabios de henemigos olandeses y agora quelos nortes los echaron destas costas tornan a salir [...] /v img 2"
   }
 }

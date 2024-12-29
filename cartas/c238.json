@@ -1,7 +1,7 @@
 {
   "id": "c238",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.13,N.86"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "llego a esta aud.a y tomo poss.on de su placa de oydor della el D.r Don P.o Melian [...] salio a bisitar la prov.a de chiapa [...] de las q.tas R.s dela caxa de Comaiagua se estan Rebiendo por toda la aud.a /v img 1"
   }
 }

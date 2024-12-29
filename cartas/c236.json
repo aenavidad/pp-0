@@ -1,7 +1,7 @@
 {
   "id": "c236",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.13,N.84"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "no particulars on Hon found",
+    "mil_n": "Despues de grandes peligros del mar y los cosarios llegue a esta ciud a 29 de Mayo y a 31 tome la possession en esta Rl Audiençia /v img 1"
   }
 }

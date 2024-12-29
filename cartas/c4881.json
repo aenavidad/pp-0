@@ -1,7 +1,7 @@
 {
   "id": "c4881",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,75,R.4,N.15"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "y algunos despues Administrado sacramentos en conpañia de un benefiçiado en el pueblo principal de su dotrina quarenta leguas desta Corta /v img 1"
   }
 }

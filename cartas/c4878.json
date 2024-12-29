@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.2,N.8"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": "re Avisa del robo que el enemigo olandes hizo en el puerto dis.[ill] [ill]o de Canpeche /v covering fol img 6"
+    "mil_n": "re Avisa del robo que el enemigo olandes hizo en el puerto dis.[ill] [ill]o de Canpeche /v covering fol img 6 / Enemigos olandeses que despues de aver ganado y saqueado la ziu.d y Puerto de trugillo En la costa de onduras Continuada y Proxima a esta Vinieron ynfestandolas y ganaron y saquearon la villa de san f.co de Campeche /v img 1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c4880",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,75,R.4,N.14"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "q se rremite esta causa ala aud.a de mexico para que la prosiga y acabe y castigue los culpados habiendo justiçia /v img 1"
   }
 }

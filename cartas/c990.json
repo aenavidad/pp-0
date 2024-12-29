@@ -1,7 +1,7 @@
 {
   "id": "c990",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,43,N.107"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "estara V.ra mag.d bien ynformado y dela inportançia que su [Hon Gov's] Personal y asistençia ene l puerto de truxillo esta governacion teniendole paltrechado Polvora municios armas y gente que avia conduçido de todo su govierno Para su defença contra El enemigo olandes que por aberle llevado pusso [img 1] Por mandado de la Real aud.a de guat.a Proveyendo su ofiçio en el capp.an Ju.o de misandeu [etc] /v img 1-2"
   }
 }

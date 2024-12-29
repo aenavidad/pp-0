@@ -1,7 +1,7 @@
 {
   "id": "c4957",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,75,R.3,N.13"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "no E Yuc particulars found",
+    "mil_n": "que no obedeçio Las Çedulas R.s [...] que estubo amançebado cassi todo el tiempo de su govierno con vna muger soltera [etc] /v img 3"
   }
 }

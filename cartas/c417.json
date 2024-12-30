@@ -1,7 +1,7 @@
 {
   "id": "c417",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.1,N.21"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "se da q.ta de todo sacados los puntos al margen /v img 4 / Las naos de onduras llegaron ala Abana [de truxillo] sin encontrar al enemigo /v img 2"
   }
 }

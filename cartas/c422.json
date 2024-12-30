@@ -1,7 +1,7 @@
 {
   "id": "c422",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.1,N.26"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "sobre una diferençia q tubo dentro dela misma Aud.a con el oydor Don fran.co lopez de solis /v img 3"
   }
 }

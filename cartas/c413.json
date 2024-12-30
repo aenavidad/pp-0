@@ -1,7 +1,7 @@
 {
   "id": "c413",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.1,N.17"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "de q la Real haz.da estaba defraudada en mas de çien mill pesos dela parte q toca al derecho de Barlovento y alcavalas de esta ciu.d /v img 1"
   }
 }

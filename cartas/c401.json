@@ -1,7 +1,7 @@
 {
   "id": "c401",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.1,N.5"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl Hon smuggling",
+    "mil_n": "de cosas tocantes ala caxa R.l de Honduras y de como tiene pedido su remedio y se a enviado a executarle /v img 1 / avia grandes lerros [?] dolosos Contra la haz.da de VM en las q.tas q los oficiales R.s de dha prov.a de Honduras avian dado los años anteçedentes [..], Y que avian vsurpadola en la administraçion delos puertos de mar Y derechos de Almosarifasgos de los navios Y Vajeles /v img 1"
   }
 }

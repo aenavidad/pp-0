@@ -1,7 +1,7 @@
 {
   "id": "c415",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.1,N.19"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que por fallezim.to de ambos jueçes oficiales R.s sin averdado las quentas del año de cinq.ta y cinquenta y vno, etc /v img 1"
   }
 }

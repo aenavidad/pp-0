@@ -1,7 +1,7 @@
 {
   "id": "c207",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.5,N.55"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "daquenta de aver visitado tres provincias y hecho ordenansas que inbia [etc] /v img 1"
   }
 }

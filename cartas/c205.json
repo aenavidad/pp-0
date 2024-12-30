@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.5,N.53"
   },
   "data": {
-    "mil": true,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly implies Hon piracy",
+    "mil_n": "de las nuevas de enemigos /v img 2 / Por las nueuas de enemigos que el General dela flotta de Nueua españa tuvo hordeno al cavo delas naos desta provincia saliera con ellas Por todo mayo Por el cavo de cotoche Ala Veracruz Para que de alli fueran con las Naos dela dicha flotta ala havana, en el qual teimpo no tenian las naos desta provinçia carga, y quando las tuvieran heran muy mayores los Riesgos asi de mar como de enemigos que llevavan en yr Ala Veracruz que ala havana. tube cartta del cabo destas naos en que me avissa sele huieron los marineros y ofiçiales temiendo el riesgo y no me espanto señor Porque los pilotos que bienen a esta provinçia no son Praticos del biaje della ala nueva españa demas de que los cargadores y aberia tenian echo mucho gasto y Recivido Poca carga en las naos que saldran por el por el san juan que es lo hordinario para la havana y yran cajas y prevenidas pa defenderse delos enemigos tengolo por mas açertado que Por aquel Tiempo nose atreven a estar enel Camino Recelando los Galeones de tierra firme [img 2] y Sera Dio sservido que lleguen en salvo /v img 2-3"
   }
 }

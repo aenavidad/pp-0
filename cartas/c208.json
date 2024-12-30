@@ -1,7 +1,7 @@
 {
   "id": "c208",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.5,N.56"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl Hon smuggling",
+    "mil_n": "en Materias de haz.da /v img 4 / Alcanze liquido alos officiales reales de comayagua /v img 1"
   }
 }

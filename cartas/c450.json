@@ -1,7 +1,7 @@
 {
   "id": "c450",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.3,N.54"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "delos Pleitos en que se halla Don Gabriel osorio de Ribadeneira Gov.or de la Prov.a de Soconusto /v img 1"
   }
 }

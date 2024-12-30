@@ -1,7 +1,7 @@
 {
   "id": "c449",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.3,N.53"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "pareçe averse sacado los tributos tocantes al año dela vacante, y que se an aplicado alos efectos destinados por VM en sus R.s çedulas /v img 1"
   }
 }

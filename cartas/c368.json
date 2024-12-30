@@ -1,7 +1,7 @@
 {
   "id": "c368",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.4,N.50"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "cobran derechos dela R.l caxa delas quenatas de indios dela R.l corona dase q.ta a VM /v img 1"
   }
 }

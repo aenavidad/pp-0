@@ -1,7 +1,7 @@
 {
   "id": "c386",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.4,N.68"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Pres.to en el R.l Acuerdo Vna cedula de VM que Alcanco siendo seglar y Abogado de Mex.co /v img 1"
   }
 }

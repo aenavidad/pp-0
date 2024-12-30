@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.4,N.78"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "Inc re defence, possibly",
-    "mil_n": null
+    "codg_n": "possibly incl Hon smuggling",
+    "mil_n": "el fiscal de guatemala daquenta de los siguiente -De haver tomado possession de su plaza [etc] /v img 1 / -Del arribada de Un navio aestas provinçias y que los auttos della sustanciados ban Ala cassa de la Contratazion -De la dadiba que apedim.to del fiscal quando llego alpuerto de Truxillo an ofrezido dar los bezinos que eran de dha ziudad para q se reedifique la fuerza Antigua y aga un redutto: y delo ymportante que es hazerla y que los Vezinos que estan retirados a unos valles de miedo del enemigo buelban apoblar esta ziudad -De un fuertezillo que se a reedificado en el rio que llaman el golfo /v img 3"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c385",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.4,N.67"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "en conformidad de la R.s cedulas Pidio D Mig.l de esquibel havilitacion Por decir no ser Comprendido en ellas /v img 1"
   }
 }

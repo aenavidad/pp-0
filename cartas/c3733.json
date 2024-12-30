@@ -1,7 +1,7 @@
 {
   "id": "c3733",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.8,N.46"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "los motivos que tuvo en el tiempo que governo el reyno, para la demostraçion que hiço con los Portugueses /v img 1"
   }
 }

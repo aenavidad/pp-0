@@ -1,7 +1,7 @@
 {
   "id": "c378",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.4,N.60"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "del nuebo asiento y encabezonam.to q esta Ciu.d ha hecho por quatro años para las alcavalas /v img 1"
   }
 }

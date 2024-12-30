@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.4,N.59"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "Inc re defence, possibly",
-    "mil_n": null
+    "codg_n": "possibly incl Hon smuggling",
+    "mil_n": "dela arribada de vn navio a estas provi.as y q los autos de ella ban ala Casa de la Contratazion /v img 1"
   }
 }

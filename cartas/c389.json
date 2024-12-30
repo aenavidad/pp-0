@@ -1,7 +1,7 @@
 {
   "id": "c389",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.4,N.71"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "sobre difer.tes Puntos q se an de Ver /v img 6 / el fuerte que se a echo en el Golfo Para guardar las Mercadurias y defensa dela tierra /v img 3"
   }
 }

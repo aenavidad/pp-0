@@ -1,7 +1,7 @@
 {
   "id": "c391",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.4,N.73"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Conformidad entre los ministros [etc] /v img 1 / Sobre el fuerte que se a echo en el golfo para guardar las Mercadurias /v img 2"
   }
 }

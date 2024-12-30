@@ -1,7 +1,7 @@
 {
   "id": "c370",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.4,N.52"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que por seguir vna causa criminal contra vn hombre llamado Don Di.o de Padilla sobre cosas que refiere aqui, el oidor don f.co de solis lo maltrato /v img 1"
   }
 }

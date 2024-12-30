@@ -1,7 +1,7 @@
 {
   "id": "c3731",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.8,N.44"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "ss.e la cobranza de las condenaz.es del cap.n Xpoval Palero /v img 4"
   }
 }

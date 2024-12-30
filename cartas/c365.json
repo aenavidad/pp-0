@@ -1,7 +1,7 @@
 {
   "id": "c365",
   "work": {
-    "cod": null,
+    "cod": false,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.4,N.47"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "ss.e enbargo de Navios de los puertos del mar del sur que pidio el birey /v img 4"
   }
 }

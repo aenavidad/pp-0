@@ -1,7 +1,7 @@
 {
   "id": "c3728",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.8,N.41"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da cuenta a VM de el estado de las cosas en general, y en particular de algunas tocantes a hacienda R.l /v img 1"
   }
 }

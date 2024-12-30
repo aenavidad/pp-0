@@ -1,7 +1,7 @@
 {
   "id": "c373",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.4,N.55"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "delo Vtil q sera hazer m.d Al Cap.n Ju.o Beral del Caño /v img 1"
   }
 }

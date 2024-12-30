@@ -1,7 +1,7 @@
 {
   "id": "c216",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.7,N.64"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "refiere los excesos y mal modo de proçeder del liçen.do Justo Gomez relator de aquella Audiençia /v img 16"
   }
 }

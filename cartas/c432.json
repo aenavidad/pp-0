@@ -1,7 +1,7 @@
 {
   "id": "c432",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.2,N.36"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "delo que respondio al informe que hizo Don Joseph de ocampo contador de quentas de esta Caja a VM /v img 1"
   }
 }

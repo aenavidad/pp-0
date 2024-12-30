@@ -1,7 +1,7 @@
 {
   "id": "c440",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.2,N.44"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl Hon smuggling",
+    "mil_n": "Paz y quietud dela aud.a y ministros della [etc] /v img 1 / Dize quan necesario es que bayan Naos a aquellas provinçias /v img 2"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c428",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.2,N.32"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl Hon smuggling",
+    "mil_n": "de Cosas tocantes ala Caja R.l de Honduras, y de Como tiene pedido por lo que le escribio el Cap.n Ju.o de Zuaça [?] Gov.or que fue de aquella prov.a su remedio /v img 1"
   }
 }

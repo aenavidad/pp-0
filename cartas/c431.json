@@ -1,7 +1,7 @@
 {
   "id": "c431",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.2,N.35"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "dela pretension de los Relijiosos de s. fran.co de que selespague a Cinq.ta mill m.s por Cada dotrina /v img 1"
   }
 }

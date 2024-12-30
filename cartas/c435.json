@@ -1,7 +1,7 @@
 {
   "id": "c435",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.2,N.39"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "de la Causa que se fulmino de ofio Contra el Contador Ju.o de alçedo serralta, por las notiçias que dio Nicolas de Maeda /v img 1"
   }
 }

@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.10,N.48"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "nothing on E Yuc found",
+    "mil_n": "sobre diferentes puntos de haz.da y otros q van Notados /v img 13 / y que dejo de haçerlo [el remitir thesoro en un Bajel a la Vera cruz] porlos nortes y por los enemigos /v img 6"
   }
 }

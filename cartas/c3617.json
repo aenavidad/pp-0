@@ -1,7 +1,7 @@
 {
   "id": "c3617",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,38,N.1"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "nothing on E Yuc found",
+    "mil_n": "y que es mas dilatada y mas peligrosa la navegaçion desde Campeche a Caracas que desde Cadiz, pues sin entrar en la vera [img 24] + [cruz] ni en la Havana con buen viaje tardi setentayocho dias, y desde Cadiz a Caracas es viaje de teinteyseis a quarenta dias /v img 24-25"
   }
 }

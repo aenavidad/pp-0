@@ -1,7 +1,7 @@
 {
   "id": "c433",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,18,R.2,N.37"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "responde a la zedula en que VM le manda siga y fenezca el pleito sobre que los ofiçiales Reales de nicaragua paguen la quarta delos diezmos de costarrica /v img 1"
   }
 }

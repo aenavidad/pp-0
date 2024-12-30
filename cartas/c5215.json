@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.13,N.77"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "E Yuc not specified",
     "mil_n": "re q. con Don Ju.o de Molina que trajo los pliegos de la N.a Spaña dio quenta de su arnicada Huyendo del enemigo y del socorro que se le dio - y respecto de las Contradiçiones que en ello hecho de parte de los off.s R.s pide se le de orden de lo que a de hazer en semejantes cassos /v covering fol img 3"
   }
 }

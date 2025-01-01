@@ -1,7 +1,7 @@
 {
   "id": "c460",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.1,N.6"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "de haverle rreçivido en el rreal Acuerdo, y Informa del estado enque hallo las cosas dela audiençia y sus ministros /v img 1 / Dase quenta delos Indios Alzados en la Verapaz y Redujidos nuevam.te, algunos fundadoles Iglesia y pro.a /v img 9"
   }
 }

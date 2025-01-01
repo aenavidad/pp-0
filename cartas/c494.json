@@ -1,7 +1,7 @@
 {
   "id": "c494",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.1,N.40"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "de que mediante la Contradiçion que hiço ala probision delas rentas asta que Viniera el presidente por la paz publica [etc] /v img 1"
   }
 }

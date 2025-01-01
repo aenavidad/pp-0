@@ -1,7 +1,7 @@
 {
   "id": "c474",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.1,N.20"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre la forma que han de tener y guardar enestas partes los relijiosos del Orden de San Juan de Dios en la administraçion delos Hispitales /v img 1"
   }
 }

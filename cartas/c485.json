@@ -1,7 +1,7 @@
 {
   "id": "c485",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.1,N.31"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "en orden a correjir los procedim.tos de D.n fran.co de Montoya Cont.or de aquella caja /v img 4"
   }
 }

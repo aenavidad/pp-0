@@ -1,7 +1,7 @@
 {
   "id": "c487",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.1,N.33"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly re Hon smuggling",
+    "mil_n": "para que imbiase un oydor a visitar la Tierra, nombro a d.n Ju.o [ill] Manjarres /v img 4 / me manda VM enbie Vn oydor a bisitar la tierra y en especial la probincia de comayagua - de onduras y otras que el fiscal de esta audiençia Abia rrepresentado ser conbeniente su bisita /v img 1"
   }
 }

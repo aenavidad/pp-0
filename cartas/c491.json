@@ -1,7 +1,7 @@
 {
   "id": "c491",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.1,N.37"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Carta general sacados los puntos ala margen /v img 4 / Abisase dela reduccion de unos indios idos atras en la probincia dela vera paz /v img 2 / llegada al puerto delos dos naos de honduras /v img 3"
   }
 }

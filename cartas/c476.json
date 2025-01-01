@@ -1,7 +1,7 @@
 {
   "id": "c476",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.1,N.22"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "del estado q tiene la Causa y visita q se hiço Contra los oficiales difuntos dela R.l Caxa /v img 1"
   }
 }

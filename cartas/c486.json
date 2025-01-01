@@ -1,7 +1,7 @@
 {
   "id": "c486",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.1,N.32"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Informa como sele mando sobre si convendra a que buelban a introducirse el que vayan dos Naos cada año a aquellas Provincias /v img 16 / y ponderando las convenienzias, o inconvenientes, que puede tener, volver a introduçir la navegaz.on= y des pacho destas naos= la vtilidad, o Daño que se siguira ala real haçienda, y a los naturales esta provinzia=enque forma sera mas convenientte que baian y conque fuerza y ssiguridad, y lo queesto montara=y si lo [img 1] procedido Delos derechos delas mercadurias seran suficientes para todo el gastto ola parte que faltara; [etc] /v img 1-2 / el año de seiscientos y Veinteyseis VM fue servido mirando por la Conserbazion de estas provinzias y sus basallos; hordenar como ordeno ala cassa dela contratazion de sevilla, el que las dos naos viniessen Con mas fuerza, y seguridad, quelos años anteçedentes /v img 3 / Y en esta forma vinieron Las dos naos los años de veinte y seis, y veinte y siete, y beinte y ocho, y el de treinta, que fue El ultimo que vinieron; y porque venian y voluian en compania y conserba dela flota de nueba España /v img 4"
   }
 }

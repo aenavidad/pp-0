@@ -1,7 +1,7 @@
 {
   "id": "c184",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.4,N.32"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "fue dios servido que a quinze de set.e a el amanez.r le diese [a Don f.do de castilla] Vn mal de apopleja o ayres /v img 1"
   }
 }

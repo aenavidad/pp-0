@@ -1,7 +1,7 @@
 {
   "id": "c196",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.4,N.44"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Y abra ocho meses que dios n.ro s.or fue servuido de darle una enfermedad grave [al licen.do Don fer.do de castilla y rribera] /v img 1"
   }
 }

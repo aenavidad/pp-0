@@ -1,7 +1,7 @@
 {
   "id": "c200",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.4,N.48"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Avisa dela Muerte del acasescuela [?] de chiapas p.re Merlos /v img 3"
   }
 }

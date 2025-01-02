@@ -1,7 +1,7 @@
 {
   "id": "c167",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.2,N.15"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "diçe que a venido a su notiçia que demas del ofiçio de alguaçil mayor dela Real audia de guatemala estan bacos /v img 1"
   }
 }

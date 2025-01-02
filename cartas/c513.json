@@ -1,7 +1,7 @@
 {
   "id": "c513",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.2,N.59"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da qq.ta dela prevençion que a hecho sobre El despacho y salida de las dos Naos, que deste Reyno fueron aquella Provinçia por las nuevas que tubo de enemigos /v img 1"
   }
 }

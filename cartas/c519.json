@@ -1,7 +1,7 @@
 {
   "id": "c519",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.2,N.65"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Carta Gen.l del estado de aquel gov.o /v img 4 / y Tanbien [A procedido bien] D. Bar.me flores Alc.de m.or dela Vera Paz /v img 2"
   }
 }

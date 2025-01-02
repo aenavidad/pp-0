@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.51"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "nothing on E Yuc found",
+    "mil_n": "Trata delos socorros q hara ala florida o a la Havana en caso de imbass.on de enemigos y dice la defensa en que tiene aquella Povj.a de Jucatan /v img 4"
   }
 }

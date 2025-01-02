@@ -1,7 +1,7 @@
 {
   "id": "c517",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.2,N.63"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "cerca de vna competencia que ha avido entre el s.r Pres.te Conde de San Diego y la audiencia en raçon de una apelacion que se presento en ellas /v img 1"
   }
 }

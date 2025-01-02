@@ -1,7 +1,7 @@
 {
   "id": "c502",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.2,N.48"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "de aver pedido y executado lo que convenia alos yndios de esta provinçia en Virtud delas çedulas en que m.da VM no seles obligue a mas que recojer sus tributos en los pueblos /v img 1"
   }
 }

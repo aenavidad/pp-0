@@ -1,7 +1,7 @@
 {
   "id": "c516",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.2,N.62"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "de que las quentas que aqui dan los ofiçiales R.s del R.l haver desu cargo y se remiten al tribunal de quentas de la ciu.d de mexico /v img 1"
   }
 }

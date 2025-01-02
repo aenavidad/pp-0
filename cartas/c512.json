@@ -1,7 +1,7 @@
 {
   "id": "c512",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.2,N.58"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "yo no abia tenido orden para inbiar la rracon q [img 1] Por carta de VM que bino por mano del Virrey de mex.co se me pide En el segundo de abiso y luego le rremito la rraçon que a esto toca y ba con esta otro tanto que procurare en todo no ser peresosso /v img 1-2"
   }
 }

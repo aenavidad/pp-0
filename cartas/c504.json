@@ -1,7 +1,7 @@
 {
   "id": "c504",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,19,R.2,N.50"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "azerca de que enel nombrar los Jueçes de residençia, y defensores delos yndios para las quentas, se guarden las leyes reales /v img 1"
   }
 }

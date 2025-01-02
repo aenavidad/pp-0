@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.54"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre la satisfacçion q el Comis.rio Gn.l de s. fr.co de N.a sp.a ha dado de el delito q en el Conv.to de Campeche se cometio contra su theniente de Gov.or /v img 3"
   }
 }

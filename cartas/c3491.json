@@ -1,7 +1,7 @@
 {
   "id": "c3491",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.12,N.59"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dias pasados siendo como a las diez v onze dela noche se me dio noticia de que en el conbento de monjas de sancta ynes desta Ciudad /v img 1"
   }
 }

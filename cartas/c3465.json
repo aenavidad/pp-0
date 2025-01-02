@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.53"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere por menor las demostraziones q fr. Ju.o dela Torre Comiss.o G.ral dela N.a sp.a del orden de s.r fr.co ha hecho con los Relijiosos q en el Convento de Campeche cometieran el desacato con su theniente /v img 4"
   }
 }

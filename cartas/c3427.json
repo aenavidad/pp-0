@@ -1,7 +1,7 @@
 {
   "id": "c3427",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.13,N.61"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Pide lic.a P.a benir a españa- y que sele acomode enestos rey.os /v img 4"
   }
 }

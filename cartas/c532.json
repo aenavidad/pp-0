@@ -1,7 +1,7 @@
 {
   "id": "c532",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.2,N.9"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl Guat smuggling in Pacific",
+    "mil_n": "da quenta a VM con testimonio de las Informaçiones reçividas çerca de aber mucho numero de vajeles en estas [ill]tas y el fin para que lo aviso al Presidente de Panama y Virreyes de Lima y Mexico /v img 1 / que podia ser çierto el numero de Vajeles que tantas afirmaçiones y testificaçiones Juradas enesta çiudad y en las costas de san Antonio Suchitepequez por su Alcalde maior y por el dela villa de son sonate en su puerto repetidamente nos instaban /v img 1"
   }
 }

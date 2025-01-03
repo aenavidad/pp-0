@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.61"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Responde sobre lo que VM se sirvio de mandar Por su cedula de 8 de junio de 1657 sobre el afiancar los oficiales Reales y Propone lo que su[ill] sobre como deven dar estas fiancas /v img 6"
   }
 }

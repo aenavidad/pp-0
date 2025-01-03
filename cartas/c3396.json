@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.62"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Representa a VM las muchas partes de letras del D.or don Ju.o munoz de molina chantre desta su Iglesia y Provesor deste ovispado y cuan digno es de que [ill] le honre en mayores ascensos /v img 4"
   }
 }

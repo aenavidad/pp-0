@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.70"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Representa a VM la diferencia que se ofreçe sobre [ill] el cavildo eclesiastico sede vacante la canonica Institucio a los ministros de [ill] que tienen dotrinas en esta provincia de la orden de s.to fr.co con todo lo actuado sobre este punto /v img 8"
   }
 }

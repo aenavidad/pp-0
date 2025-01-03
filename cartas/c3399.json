@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.65"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Representa a VM las racones que se le ofrecen para suspender la cedula dela retencion del año cuyas encomiendas Para Parte de paga delas tasas de aposento del cons.o /v img 4"
   }
 }

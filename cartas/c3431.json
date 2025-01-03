@@ -1,7 +1,7 @@
 {
   "id": "c3431",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.13,N.65"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Avisan el R.vo del despacho del feliz naçim.to del sser.mo Principe n.ro señor y q selebro con devido Reconoçim.to /v img 3"
   }
 }

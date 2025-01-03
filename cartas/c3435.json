@@ -1,7 +1,7 @@
 {
   "id": "c3435",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.13,N.69"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "ss.e el R.vo de algunos despachos q reçivio y estado que tenia su cumplim.to y otros puntos q ban notados Al margen y açerca de ellos remitte çinco Testimonios /v img 7"
   }
 }

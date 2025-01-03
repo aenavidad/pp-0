@@ -1,7 +1,7 @@
 {
   "id": "c530",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.2,N.7"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice haver rezivido el titulo de oydor y pazado la m.a n.a pide lizenzia por quatro años para Venis a estos Reynos con retenz.on de su Plaza, o q sele de una de la Casa dela Contrataz.on /v img 4"
   }
 }

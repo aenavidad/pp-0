@@ -1,7 +1,7 @@
 {
   "id": "c3436",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.13,N.70"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre el descamino q yço d. diego de Ibarra de 3996 p.s en dinero de contrabando en la bera crus el año de 1658 /v img 4"
   }
 }

@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.57"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "de la reducion que se a echo de 23u338 indios sacados de los montes Ranchos ingenios de azucar y milperias /v img 10"
   }
 }

@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.69"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere haverles ofrezido a los Gov.res dela florida y la Havana q siempre q huvieren menester Mayz y gallinas selas remitira en qualquiera ocass.on q se ofrezca de Imbass.on de enemigos /v img 3"
   }
 }

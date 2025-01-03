@@ -1,7 +1,7 @@
 {
   "id": "c3430",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.13,N.64"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "ss.e la Ayuda de Costa q. dio el Virey al d.or D. P.o de galvez para venir a estos reynos /v img 3"
   }
 }

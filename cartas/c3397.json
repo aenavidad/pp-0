@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.63"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Propone cuan del s.o de VM sera la persona del sarjento maior don gaspar Pacheco de ayala y que de qualquier empleo en que se le pusiese dara q.ta con gran satisfacion /v img 4"
   }
 }

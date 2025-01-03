@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.59"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da quenta a VM como ala unica conservazion desta Provenzia conviene que no se encomiende en los indios bacos della a quien no sea descendiente de conquistador /v img 6"
   }
 }

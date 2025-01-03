@@ -1,7 +1,7 @@
 {
   "id": "c156",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,15,R.1,N.4"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dize que el esta en el piru Y que en benir a guatimala a de hazer muy gran gasto Y supp.ca asento a ello sele haga mr.d /v img 1"
   }
 }

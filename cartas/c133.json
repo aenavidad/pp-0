@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,14,R.3,N.50"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Hazienda Real [etc] /v img 1"
   }
 }

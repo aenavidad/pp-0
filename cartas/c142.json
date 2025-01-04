@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,14,R.3,N.59"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice que en quanto ala cobranza del aver R.l ay notado lo que a pedido para que se entere la caja Real /v img 4"
   }
 }

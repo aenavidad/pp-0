@@ -1,7 +1,7 @@
 {
   "id": "c152",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,14,R.4,N.71"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Rescibio esta audiencia [...] dos çedulas Reales [...] en que VM se sirbio avisar dela muerte del Rey [etc] /v img 1"
   }
 }

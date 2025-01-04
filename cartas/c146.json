@@ -1,7 +1,7 @@
 {
   "id": "c146",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,14,R.4,N.65"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sup.ca se cometan las cossas de su Visita a p.as seglar jurista y Representa los agrabios que dice sele an hecho por medio de baltasar pinto y Mano del obpo de chiapa /v img 4"
   }
 }

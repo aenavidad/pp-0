@@ -1,7 +1,7 @@
 {
   "id": "c147",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,14,R.4,N.66"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Don Gaspar de cuñiga Informa de sus servi.s Y sup.ca a V s.a le haga mr.d en las Ocassiones /v img 3"
   }
 }

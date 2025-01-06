@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,14,R.2,N.42"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice q acude alas obligac.es de su off.o con el cuidado que puede /v img 3"
   }
 }

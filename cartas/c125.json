@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,14,R.2,N.45"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "avisa del estado en que queda la cobranca dela R.l hacienda y los que a pedido para que los off.es R.s den sus q.tas del ano de 618 /v img 4"
   }
 }

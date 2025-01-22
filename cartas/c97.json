@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,14,R.1,N.16"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "damaged",
+    "mil_n": "avisa el estado del descubrimiento dela isla y tesoro manifestado enla audiencia de guatimala con autos que imbia: y pide sele mande dar a costa de su salario lo necesario hasta [ill] al viage /v img 1 / sin embargo deque asisti al despacho delas causas hasta cinco de Abril ala noche, que (despues de salid[ill] del acuardo) parti para el golfo[ dulce] adonde avian de estar dos fragatas, que tenia fletadas para principio de Abril, y alos dos del semedio n oticia en un pueblo de indios, que esta en medio del camino, como alaboca del dho golfo y puerto de s.to thomasa [ill] castila estaban tres navios y un parage de enemigos, deque di aviso atoda diligencia ala dha Real Audiencia, y Conde dela Gomera Presidente gobernador y Capitan General desta distrito, [etc] /v img 1"
   }
 }

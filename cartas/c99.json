@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,14,R.1,N.18"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que se escriva ala audiençia de Guathemala como haviendose Visto la pretençion que tienen las ygl.ias de guathemala y [..] obpo d. fr. Ju.o de las Cabeças el qual murio enel distrito y ygl.a de Guathemala /v img 1"
   }
 }

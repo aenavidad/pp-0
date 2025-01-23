@@ -65,23 +65,27 @@
 - [x] code 1619 records
 - [x] code 1618 records
 - [x] give full citation for `lit_n` short cites
-- [ ] get prior log for 17th cent piracy- or defence-against-piracy events work
+- [x] get prior log for 17th cent piracy- or defence-against-piracy events in Hond Bay work
 - [x] search `historical-series-re-Belize/work/versioning/events.tsv` for earliest file in `/versioning/sheets varids.tsv` with requisite events records
 - [x] requisite events record first pops up in varid 212 ie in 13-14 feb 2021[^1688 hostile action only, not specifically cited but likely not assumed (given vars press sources in sheet)]
 - [x] check `pre-git-hist/events.tsv` for feb 2021 and prior
 - [x] requisite events record noted in `files/tran/The Baymen's experiment.rtf` written 1-4 oct 2020[^1638 Hond settlement only, but no citation and ~~possibly~~ likely assumed]
 - [x] and noted in `files/tran/THIS SETTLEMENT-TURNED-COL.rtf` written 5 oct 2020[^again 1638 settlement only, ~~possibly~~ likely assumed]
 - [x] and no other pre-feb 2021 records
-- [ ] check events again for post-`v-1.4` work
+- [x] check events again for post-`v-1.4` work[^events next touched *possibly* in `red/prelim rep bz 1.4 WORK *.tsv` on 7 nov 2021, then (sort of) in `wiki/Timeline_of_piracy_in_the_Bay_of_Honduras.xml` on 18 apr 2022 (with other wikis sort of also using events data but disregarded here in favour of only this one), then in `blue/orig data events *.tsv` on 18 may 2022, then in `purp/1638 series 1.2 Events*.tsv` on 9 jul 2022, then *possibly* in `re red/rep bz fin pub 1.4 Events*.tsv` on 13 jul 2022, then in `re purp/1638 series 1.3 Events*.tsv` and `re purp/1638 series 1.5 Events*.tsv` on 18 jul 2022, then in `re purp/1638 series 1.5 safe copy Events*.tsv` on 20 jul 2022, then in `harv/1638*.tsv` on 3 aug 2022, none further]
+- [x] check for events work in `historical-series-re-Belize/work/*-22`[^null]
+- [x] check in `work/*-23`[^null]
+- [x] check in `work/*-24`[^null]
+- [ ] get latest records for eligible events in `json` to `pp-0/events`
 
 ## prior log
 ### any cartas
 * in `v-1.4`, first written by 7 sep 2021, last updated ~~24~~ 29 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work/versioning/sheets varids.tsv`] 
 * then worked on 9 jul 2022 to 3 aug 2022 in boston, ma[^in `purp/1638 series *.tsv` and `purp/PARES-*.txt` and `purp/1638 cartas *.tsv` and `yell/data manuscripts *.tsv`.]
 * no work since then
-### certain events[^17th cent piracy- or defence-against-piracy events]
+### certain events[^17th cent piracy- or defence-against-piracy events in Hond Bay]
 * in `v-1.4`, first written by 14 feb 2021, last updated 31 oct 2021 still in belmopan, cy[^varids 212 and 5 and 4, not counting 1638 settlement incident noted sans citation in earlier files]
-* then worked on xx
+* then worked on 18 apr 2022 to 3 aug 2022 in boston, ma[^ discounting (on a hunch) `red/prelim rep bz 1.4 WORK *.tsv` and counting `wiki/Timeline_of_piracy_in_the_Bay_of_Honduras.xml` (think it has original records), through prev listed files up to `harv/1638*.tsv`]
 * no work since then
 
 

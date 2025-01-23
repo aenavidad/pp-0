@@ -1,8 +1,8 @@
 # log
 
 ## 23 dec 2024 onwards
-- [x] emailed re**@psu.edu
-- [x] emailed rod**.historiador@gmail.com
+- [x] emailed re**@psu.edu[^got reply 28 dec 2024]
+- [x] emailed rod**.historiador@gmail.com[^no reply as of 22 jan 2025]
 - [x] no calendar work in ``historical-series-re-Belize/work/apr-24``
 - [x] none in ``/oct-23``
 - [x] ``/versioning/calendar.tsv`` not filled in
@@ -38,7 +38,7 @@
 - [x] code 1637 records
 - [x] code 1636 records
 - [x] code 1635 records
-- [x] filed AGI formulario de alta
+- [x] filed AGI formulario de alta[^got credentials 2 jan 2025]
 - [x] code 1634 records
 - [x] code 1633 records
 - [x] code 1632 records
@@ -65,10 +65,23 @@
 - [x] code 1619 records
 - [x] code 1618 records
 - [x] give full citation for `lit_n` short cites
+- [ ] get prior log for 17th cent piracy- or defence-against-piracy events work
+- [x] search `historical-series-re-Belize/work/versioning/events.tsv` for earliest file in `/versioning/sheets varids.tsv` with requisite events records
+- [x] requisite events record first pops up in varid 212 ie in 13-14 feb 2021[^1688 hostile action only, not specifically cited but likely not assumed (given vars press sources in sheet)]
+- [x] check `pre-git-hist/events.tsv` for feb 2021 and prior
+- [x] requisite events record noted in `files/tran/The Baymen's experiment.rtf` written 1-4 oct 2020[^1638 Hond settlement only, but no citation and ~~possibly~~ likely assumed]
+- [x] and noted in `files/tran/THIS SETTLEMENT-TURNED-COL.rtf` written 5 oct 2020[^again 1638 settlement only, ~~possibly~~ likely assumed]
+- [x] and no other pre-feb 2021 records
+- [ ] check events again for post-`v-1.4` work
 
 ## prior log
-* for `v-1.4`, first written by 7 sep 2021, last updated 24 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work/versioning/sheets varids.tsv`]
+### any cartas
+* in `v-1.4`, first written by 7 sep 2021, last updated ~~24~~ 29 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work/versioning/sheets varids.tsv`] 
 * then worked on 9 jul 2022 to 3 aug 2022 in boston, ma[^in `purp/1638 series *.tsv` and `purp/PARES-*.txt` and `purp/1638 cartas *.tsv` and `yell/data manuscripts *.tsv`.]
+* no work since then
+### certain events[^17th cent piracy- or defence-against-piracy events]
+* in `v-1.4`, first written by 14 feb 2021, last updated 31 oct 2021 still in belmopan, cy[^varids 212 and 5 and 4, not counting 1638 settlement incident noted sans citation in earlier files]
+* then worked on xx
 * no work since then
 
 

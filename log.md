@@ -67,7 +67,7 @@
 - [x] give full citation for `lit_n` short cites
 
 ## prior log
-* for `v-1.4`, first written by 7 sep 2021, last updated 24 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work\versioning\sheets varids.tsv`]
+* for `v-1.4`, first written by 7 sep 2021, last updated 24 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work/versioning/sheets varids.tsv`]
 * then worked on 9 jul 2022 to 3 aug 2022 in boston, ma[^in `purp/1638 series *.tsv` and `purp/PARES-*.txt` and `purp/1638 cartas *.tsv` and `yell/data manuscripts *.tsv`.]
 * no work since then
 

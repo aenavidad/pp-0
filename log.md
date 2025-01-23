@@ -77,6 +77,7 @@
 - [x] check in `work/*-23`[^null]
 - [x] check in `work/*-24`[^null]
 - [ ] get latest records for eligible events in `json` to `pp-0/events`
+- [ ] write `events/readme.md`
 
 ## prior log
 ### any cartas

@@ -29,10 +29,14 @@ imported and generated chronicle data
 | `locn` | string | - | locations |
 | `lbd` | string | - | lower bound |
 | `upd` | string | - | upper bound |
-| `actors` | string | - | names or agents involved |
+| `agents_sp` | string | - | Spanish agents involved |
+| `agents_nsp0` | string | - | non-Spanish agents involved |
+| `agents_nsp1` | string | - | non-Spanish agents involved |
 | `lit_n` | string | - | cf pointer to published literature |
+| `press_n` | string | - | cf pointer to press |
 | `prim_n` | string | - | cf pointer to primary sources |
 | `note` | string | - | notes |
+| `via` | string | - | import source of record[^use to decode short citations] |
 
 ## licence
 none

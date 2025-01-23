@@ -78,6 +78,10 @@
 - [x] check in `work/*-24`[^null]
 - [ ] get latest records for eligible events in `json` to `pp-0/events`
 - [x] write `events/readme.md`
+- [x] get `v-1.4` events records into one sheet, but exclude records with neither upper nor lower bound in 17th cent
+- [x] further remove meteorological and biological events
+- [x] add post-`v-1.4` event records starting wih latest version in `harv/1638*.tsv`
+- [ ] check that added records use decipherable short citations[^yes in `blue/orig data sources 1.2*.tsv` (likely in `harv/1638 sources*.tsv` too) for records from `harv/1638 series*.tsv`]
 
 ## prior log
 ### any cartas

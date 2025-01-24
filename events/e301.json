@@ -1,0 +1,24 @@
+{
+  "id": "e301",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1634-05-04",
+    "upd": "1634-07-30",
+    "name": "WIC Conquest of Curaçao",
+    "desc": "WIC send Joannes van Walbeeck and Pierre le Grand to establish settlement at Curaçao",
+    "locn": "Netherlands, Barbados, St. Vincent, Bonaire, Curaçao",
+    "agents_sp": "Gov Lope López de Morla, Juan Mateo 32 Sp 500 Am natives",
+    "agents_nsp0": "Joannes van Walbeeck, Pierre le Grand, Jan Janszoon Otzen, Diego de los Reyes 6 Ships 400 men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "WIC 1.05.01.01, 2 [6 Apr 1634] / Laet [missg] = Laet/Naber 4 301-311 / Wright D 1 pp *183-*247",
+    "lit_n": "Goslinga 265-9",
+    "note": "6 Ships = Groot Hoorn, Eenhoorn, Brack, Engel Gabriel, and 2 Biscayan sloops /v Goslinga 265",
+    "via": "v-1.4"
+  }
+}

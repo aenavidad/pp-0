@@ -1,0 +1,24 @@
+{
+  "id": "e353",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1638-09-13",
+    "upd": "1638-10-29",
+    "name": "Bacalar reductions",
+    "desc": "Bacalar cabildo and vecinos reduce Maya near Bacalar and along Hon coast, who had previously abandoned their towns, on prompting or threats from Tipuj",
+    "locn": "Bacalar, Zacatan, Chinam, Xibun, Soite, Holpatin, Pacha, Yumpeten, Manan, Tamalcab",
+    "agents_sp": "Capt Luis Sánchez de Aguilar, Francisco Sánchez de la Seña, Cristóbal Delgado, Bartolomé Gómez de Santoyo, Juan Martín de los Cedros 10 vecinos of Bacalar",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,360 [Luís Sánchez de Aguilar et al. to Gov, 20 sep 1638] / MEXICO,360 [Luís Sánchez de Aguilar to Gov a 29 oct, 5 nov 1638]",
+    "lit_n": "Jones 207 / Barke B 50",
+    "note": "Chinam residents reduced to Holpatin, while others are reduced fully or partially to their former residences /v Jones 208 /MEXICO,360",
+    "via": "v-1.4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e44",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1652-05-29",
+    "upd": "1652-05-29",
+    "name": "Sacking of Bacalar",
+    "desc": "Buccaneers or privateers under Abraham sack Bacalar",
+    "locn": "Bacalar",
+    "agents_sp": "Capt Bartolomé Palomino",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Cogolludo 749-752",
+    "lit_n": "Barke B 114 fn 390",
+    "note": "NON-SP 0 possibly = Abraham Blauvelt 1 Barque 50 men [possibly] /\n Pirate or buccaneer responsible given as Tomás by Reichert /v Reichert 27 /v Conover 50-51",
+    "via": "v-1.4"
+  }
+}

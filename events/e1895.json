@@ -1,0 +1,24 @@
+{
+  "id": "e1895",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1674-03-01",
+    "upd": "1674-03-15",
+    "name": "BOT re logwood",
+    "desc": "King instructs Board of Trade to furnish 'all papers belonging to this Councell concerning Cutting Logwood'",
+    "locn": "Lon",
+    "agents_sp": "Charles II, John Locke",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "LC Phillipps MS 8539 part 1 ff 9, 24-25, 71-72 [Council for Foreign Plantations, Journal, 1670-86, 3v]",
+    "lit_n": "Botella-Ordinas 142-143, 147",
+    "note": "Logwood question considered in BOT < 1674 eg Jun-Nov 1670 Modyford to BOT in 120-122 CSPC 7 / 28 Sep 1670 in 108 CSPPC 7 / 18 Dec 1670 in 142 CSPC 7 / 25 Dec 1671 in 310 CSPC 7 / 10 May 1672 in 357-359 CSPC 7 / 3-5 Nov 1672 in 425-428 CSPC 7 / 1 Jan 1673 in 1016 CSPC 7 /v Botella-Ordinas 143-144, 161 no 6 /\n See also 27 Feb-11 Mar 1674 in 556-559 CSPC 7 / 20 Nov 1674 in 622-624 CSPC 7 /v Botella-Ordinas 161 no 11",
+    "via": "v-1.4"
+  }
+}

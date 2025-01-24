@@ -1,0 +1,24 @@
+{
+  "id": "e335",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1637-01-01",
+    "upd": "1637-12-30",
+    "name": "Lamanai reduced",
+    "desc": "Sp reduce Lamanai, which likely had previously rebelled or been abandoned",
+    "locn": "New R Lagoon, Bacalar",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "CONTADURIA,915A",
+    "lit_n": "Jones 204",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

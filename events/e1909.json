@@ -1,0 +1,24 @@
+{
+  "id": "e1909",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1680-06-01",
+    "upd": "1680-12-30",
+    "name": "Capt Oxe marooned",
+    "desc": "Capt Robert Oxe and 8 of his men are marooned at Turneffe by Sp Guarda Costa, after which they are relieved by [missg]",
+    "locn": "[missg], Turneffe",
+    "agents_sp": "Capt Pedro de Castro, Capt Juan Corso 2 GC",
+    "agents_nsp0": "Capt Robert Oxe 1 Vessel",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "[missg] CSPC 10 / [missg] CSPC 11",
+    "lit_n": "Marley P 1 300",
+    "note": "> 16 May 1680 Capt Oxe sails away fm Bay of Campeachy in the Laurel, 35 tonnes, to 'the Cays of Yuc for water' [Cozumel?], is then surprised by Sp GC, 2 of his men killed, Capt Oxe and remaining crew [≥ 8 men] put in canoe and thereafter land in Turneffe; are relieved 15 days later / Late 1680 Capt Oxe arrives at Port Royal /v Marley P 1 300",
+    "via": "v-1.4"
+  }
+}

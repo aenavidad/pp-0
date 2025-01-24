@@ -1,0 +1,24 @@
+{
+  "id": "e8",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1638-01-01",
+    "upd": "1665-12-30",
+    "name": "Tortugan Slavery",
+    "desc": "Buccaneers or privateers impress or enslave Amerindians inc Mayas",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": null,
+    "note": "Upper End possibly = 1665 /v Bialuschewski G 239 /GUATEMALA,22,R.1,N.11",
+    "via": "v-1.4"
+  }
+}

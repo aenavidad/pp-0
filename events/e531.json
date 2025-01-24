@@ -1,0 +1,24 @@
+{
+  "id": "e531",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1697-03-13",
+    "upd": "1697-03-13",
+    "name": "Fall of Nojpetén",
+    "desc": "One Yuc military campaign to conquer last non-subjugated Maya city or town in Yuc",
+    "locn": "Merida, Campeachy, Lake Peten Itza",
+    "agents_sp": "Gov Martín de Ursúa y Arismendi, Pedro de Zubiaur 130 men",
+    "agents_nsp0": "Kan Ek’, Aj Kowoj, Aj Chan, Chamach Xulu",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Villagutierre [missg]",
+    "lit_n": "Soza [missg] = ed 2 vol 2 pp 462-466, 479-480",
+    "note": "1699 Nojpeten. Gen Urzúa [Yuc] formally transfers the recently conquered province of the Itzas [Peten] to Gen Melchor de Mencos [Guat], as ordered by Sp King Carlos II /v Soza [missg] = ed 2 vol 2 p 481",
+    "via": "v-1.4"
+  }
+}

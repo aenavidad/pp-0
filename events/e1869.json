@@ -1,0 +1,24 @@
+{
+  "id": "e1869",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1640-01-01",
+    "upd": "1640-12-30",
+    "name": null,
+    "desc": "Pirates, buccaneers or privateers raid or assault Amatique and Truxillo",
+    "locn": "Truxillo, Amatique",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Lujan 2 108, 472",
+    "note": "1640 Truxillo. Piratas holandeses se llevan cálices de la iglesia, 26 piezas de artillería, 50 mosquetes, mucha pólvora y pertrechos de guerra. /v Lujan 2 108",
+    "via": "v-1.4"
+  }
+}

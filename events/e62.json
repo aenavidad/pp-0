@@ -1,0 +1,24 @@
+{
+  "id": "e62",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1662-01-01",
+    "upd": "1668-02-13",
+    "name": "Portuguese Restoration",
+    "desc": "Anglo-Spanish war",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": null,
+    "note": null,
+    "via": "v-1.4"
+  }
+}

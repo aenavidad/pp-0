@@ -1,0 +1,24 @@
+{
+  "id": "e345",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1638-04-14",
+    "upd": "1638-09-30",
+    "name": "WIC Jol Expedition and Battle of Los Organos",
+    "desc": "WIC send CC Jol against Sp, after which Jol is joined by Du privateers to attempt an assault on New Spain fleet, which does not succeed",
+    "locn": "Texel, Olinda, Dry Tortugas, Cuba, Havana, Los Organos [Cuba]",
+    "agents_sp": "Gen Carlos de Ybarra, Adm Pedro de Ursúa 8 Galleons 7 Sail",
+    "agents_nsp0": "Cornelis Corneliszoon Jol, Capt Abraham Michielszoon Roosendael, Jan Mast > 18 Ships",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Barlaeus 91-95 = Barlaeus/Naber 112-116 / WIC 1.05.01.01, 53 [10, 19, 29 Jun 1638] / WIC 1.05.01.01, 23 [16 Feb 1638] / Mus Nav Navarette vol 24 pp 258-259 / Duro 4 189-196 / Bib Esp MSS/2369 f 80 / Bib Esp MSS/2639 f 177 / Wright D 2 pp *31-*36 / Kernkamp 143, 148-59, 168-69 / Kon Bib PK 4620 / Staten 1.01.02, [missg] [Resolutions of 17, 18, 25 Nov 1638] / Aitzema 2 591",
+    "lit_n": "Goslinga 242-48",
+    "note": "Jol sails with 10 ships fm Texel [flagship = Salamander], is supplied with further 4 t 5 ships in Olinda / total = 14 t 15 ships w 900 sailors, 600 soldiers ... is joined by Roosendael and other Old WIC privateers near Havanan on 30 Aug 1638 st total > 18 Ships /v Goslinga 242-244 /\n Mast and Roosendael killed in naval battle with New Spain fleet /v Goslinga 247",
+    "via": "v-1.4"
+  }
+}

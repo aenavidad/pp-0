@@ -1,0 +1,24 @@
+{
+  "id": "e1933",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1690-01-01",
+    "upd": "1690-12-30",
+    "name": null,
+    "desc": "Pirates or buccaneers raid or assault Amatique",
+    "locn": "Amatique",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Fuentes 2 296-297",
+    "lit_n": null,
+    "note": "[1691 Guat] [el pueblo de] *Amatique*, que llegara hasta treinta y cinco [vecinos] ... y por su número de vecinos al de ciento, y cuarenta habitadores ... en la contemplación de sus servicios [indios de Amatique = vigías] y buen celo, siendo asaltado por interpresa este pueblo de *Amatique* por el año pasado de 1690. Sin ejemplar á este tiempo en este pueblo, y hechos prisioneros los indios varones que en él halló el pirata, y conducidos á sus embarcaciones, pidió por su rescate una buena cantidad de maíces, que se le mandó dar muy promptamente por la libertad de los prisioneros, con cuyo aliento y experiencia perseveran más finos y leales en semejantes empleos [de vigía]. /Fuentes 2 296-297",
+    "via": "v-1.4"
+  }
+}

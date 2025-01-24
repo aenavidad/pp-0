@@ -1,0 +1,24 @@
+{
+  "id": "e207",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1616-01-01",
+    "upd": "1616-12-30",
+    "name": "Capt Quinn re Prov",
+    "desc": "Capt Quinn, Eng pirate or buccaneer, seeks to start settlement in Prov Isl",
+    "locn": "Prov",
+    "agents_sp": "Diego de Mercado, Mr Ridert",
+    "agents_nsp0": "Simon Zacharias",
+    "agents_nsp1": "Capt Quinn",
+    "press_n": null,
+    "prim_n": "INDIFERENTE,1528,N.19 [a 15 may 1620]",
+    "lit_n": "Genkins 51-53",
+    "note": "1616-1620 Prov. Capt Quinn plants platains, pineapples, yucca, corn, cattle, pigs, hens at Prov / also assaults Sp shipping between Cuba and Yuc /v Genkins 52 /INDIFERENTE,1528 /\n 15 May 1620 Zacharias, Mercado to Sp Crown. Report that an inhabitant of Cuba called 'Ridert' disclosed Prov to the Eng after having his property in Cuba seized without cause /v Genkins 52 /INDIFERENTE,1528",
+    "via": "v-1.4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e12",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1638-01-01",
+    "upd": "1638-07-08",
+    "name": null,
+    "desc": "Yuc receives intelligence of a planned buccaneer assault on Campeachy, for which the same were building low draught craft, and so fortifies the city, after or during which buccaneers abandon their plans",
+    "locn": "Merida, Campeachy",
+    "agents_sp": "Gov Marqués de Santo Floro, Capt Francisco Sandoval 50 men",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,360,R.5,N.21",
+    "lit_n": null,
+    "note": "Con los galeones del cargo del Marq.s de Cardinosa a hora un año [= Jul 1637] embie a V Mg.d una declaracion que havia echo un Capp.n y otros a quien el enemigo havia Rovado y tenidos pressos, de como por entender su lengua sin que ellos lo supiesen supo como para principios deste año [1638] estavan algunos de sus compañeros con resolucion de venir al Puerto y Villa de Campeachy muy temprano para por lo menos saquearla y que por haver poco fondo en aquellas marinas estavan fabricando lanchas chatas, para desembarcar la gente con facilidad, despues, del Gov.dor de Xamaica tuve haviso como le havia el tenido de que al dicho Camp.e Vendrian enemigos, ... /MEXICO,360,R.5,N.21 f 1r",
+    "via": "v-1.4"
+  }
+}

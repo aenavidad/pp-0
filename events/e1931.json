@@ -1,0 +1,24 @@
+{
+  "id": "e1931",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1689-01-01",
+    "upd": "1695-12-30",
+    "name": null,
+    "desc": "Sp military campaigns against Manche Chol",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Bolland F 18",
+    "note": "≥ 1689 Sp forcibly resettle Manche Chol to Guat highlands, where Chol are absorbed by Kekchi Mayans /v Bolland F 18",
+    "via": "v-1.4"
+  }
+}

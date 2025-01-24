@@ -1,0 +1,48 @@
+{
+  "id": "e175",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1602-01-01",
+    "upd": null,
+    "name": "Mos as pir haven",
+    "desc": "Mosquito shore becomes a pirates’ haven with Capt Blaeuvelt basing operations in Bluefields Bay",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Reichert p 23",
+    "note": "1589 Bluefields [Mos Shore]. Pirate base est /v L Munoz 2 p 822 /v Levy p 37 /\n latter half of 1590s. the first Flemish arrivals to the Caribbean Sea, upon arrival of urca captained by Abraham of Madialbur /v O Torres pp 335-336 /\n by 1616, a Flemish urca (which attacked Spanish Jamaica), was observed repeatedly watering near the San Adres Island and Cape Gracias a Dios, suggesting this area was by then a pirate haven /v O Torres p 336 /v G Diaz pp 182-183.",
+    "via": "harv"
+  }
+}
+{
+  "id": "e175",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1602-01-01",
+    "upd": "1602-12-30",
+    "name": "Blauvelt in Mos",
+    "desc": "Capt Blauvelt, Dutch privateer or pirate, uses Bluefields Bay in Mos Shore as base",
+    "locn": "Bluefields",
+    "agents_sp": null,
+    "agents_nsp0": "Capt Blauvelt",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Reichert 23",
+    "note": "1589 Bluefields [Mos Shore]. Pirate base est /v Lujan 2 822",
+    "via": "v-1.4"
+  }
+}

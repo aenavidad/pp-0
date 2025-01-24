@@ -1,0 +1,24 @@
+{
+  "id": "e463",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1670-07-18",
+    "upd": "1670-07-18",
+    "name": "American / Godolphin Treaty",
+    "desc": null,
+    "locn": "Madrid",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Zahedieh F 190-191",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

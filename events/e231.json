@@ -1,0 +1,24 @@
+{
+  "id": "e231",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1624-01-27",
+    "upd": "1624-03-30",
+    "name": "Sp reprisals for Sakalum massacre",
+    "desc": "Capt. Juan Bernardo Casanova heads to Sacalum to aid Mirones y Lezcano, and on finding these murdered, Capt. Casanova and Capt. Méndez de Canzo garrison Sp soldiers in Ma towns and commission Ma at Oxkutzcab to track down priest Ah Kin Pol near Sacalum, which they do",
+    "locn": "Mani, Sacalum [Chanchanha?], Oxkutzcab, Mani, Tekax",
+    "agents_sp": "Capt Juan Bernardo Casanova, Fr Juan Fernández, Sgt-Mjr Juan de Honorato, Alonso Martínez, Juan Lucero, Capt Antonio Méndez de Canzo",
+    "agents_nsp0": "Btb Fernando Camal 150 Oxkutzcab Ma residents",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,246 [Méritos y servicios de Juan Bernardo Casanova a sd 1627] / MEXICO,145 [Petition by Francisco Camul a sd 1624] / Maya R / Cogolludo lib 10 cap 2-3",
+    "lit_n": "Jones 180",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

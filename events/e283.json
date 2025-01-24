@@ -1,0 +1,24 @@
+{
+  "id": "e283",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1631-12-01",
+    "upd": "1632-02-28",
+    "name": "Capt Elfrith w Diego el Mulato",
+    "desc": "Prov Co condemns Capt. Daniel Elfrith for entertaining Diego el Mulato at Prov, against Prov Co or War Council [of Prov] advice",
+    "locn": "Prov",
+    "agents_sp": null,
+    "agents_nsp0": "Diego el Mulato, Capt Daniel Elfrith",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "[missg] CSPC 1 [May 1632 -- 10 May.]",
+    "lit_n": null,
+    "note": "[Prov Co] Condemn his indiscretion in too freely entertaining 'a Mulletto, as you call him' in the island, against advice of Council, and in taking a Spanish frigate; but in consideration of his good services, are content not to take notice of former errors. /[missg] CSPC 1 /\n Releases his guide to the Caribbean /Pargellis [missg] /v Kupperman [missg] /\n Possibly Diego Martin = Diego de la Cruz = Diego de los Reyes = Dieguillo = Diego el Mulato = El Mulato = Capt Lucifer of Cornieles = first mate of the Hollanders /Wright D 2 249 /\n [Captain Domingo de] Tartas reports that when they conquered Campeachy, the Dutch were led by a mulatto named Diego Martin, born in Havana. This man was a formidable pirate. He [Tartas] was told that he [Diego] had been brought up among the Dutch; so much is certain that he was already associated with them in this year 1633, later also in Curaçao ([Wright D 1] page 128, note 2 and the beginning of Document No. 29) and in 1638, when he was said to have served under Jol in the battle at the height of Cabañas (cf. AGI 141-1-16, The Council for War Affairs in the Indies to His Majesty, May 16, 1638). In May of the year 1638, El Mulato asked forgiveness from the Spanish Crown, which was soon granted. But he did not appear in Havana, where he had offered to go; and in 1641 he was robbing and murdering in the name of the Prince of Orange. Cf. AGI 54-1-17, Riaño at the Crown, Havana, November 13, 1638; 147-5-22 The Council for War Affairs in the Indies to His Majesty, March 4, 1639; 78-2-3, Vol. 10, f. 131r, and f. 133, cédulas to Diego Martin, 15 March 1639; to Riaño of the same date; f. 183, cédula to the governor of Margarita, Saragossa, August 5, 1645, in which he is warned that Dieguillo was plotting with the Duke of Braganza for the purpose of taking possession of the island for Portugal; 54-2-11, 16 September 1639, Riaño hands over to his successor cédulas concerning Diego Martin; 54-1-18, 1 September 1641, Diego el Mulato takes possession of an advisory boat from Cartagena at the height of Havana, with a considerable loss of human life on the part of the Spaniards, to whom he orders to 'fly the flag for the Prince of Orange'. /Wright D 1 297",
+    "via": "v-1.4"
+  }
+}

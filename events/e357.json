@@ -1,0 +1,24 @@
+{
+  "id": "e357",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1640-05-28",
+    "upd": "1640-05-30",
+    "name": "Capture of Providence",
+    "desc": "Cartagena military expedition against Providence, shortly repulsed",
+    "locn": "Cartagena, Prov",
+    "agents_sp": "Gov Melchior Aguilar, Antonio Maldonado y Tejada 1 Gal 6 Frigs 800 soldiers 200 Neg",
+    "agents_nsp0": "Gov Carter",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "SANTA_FE,223 [Declaración a 2 jun 1640 / Junta a 12 jun 1640 / Lo mucho que conviene a 14 jun 1640 / Despacho a 19 jul 1640 / Relacion a 29 nov 1640] / Add MS 36323 f 297 / Mus Nav Navarrete vol 25 [Carta é informaciòn enviada por D. Juan Bitrian de Briamonte, 29 jun 1640] / Sanchez R [missg]",
+    "lit_n": "Kupperman 336 fn 49 / Burns [missg] = ed 2 p 210 / Newton 295 / Genkins 112-117",
+    "note": "See 1640 Map in AGI, MP-PANAMA,61 [Plano a 29 nov 1640] /\n Gov. Carter marred his victory by putting to death the Spanish prisoners he had taken [> 100 men, 2 captains slain or taken], though their lives had been promised them /Newton 298",
+    "via": "v-1.4"
+  }
+}

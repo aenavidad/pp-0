@@ -1,0 +1,24 @@
+{
+  "id": "e251",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1628-03-15",
+    "upd": "1628-09-30",
+    "name": "WIC Ita Expedition",
+    "desc": "WIC send Pieter Adriaenszoon Ita against Sp",
+    "locn": "Cape Tiburon, Cape San Antonio, Dry Tortugas, Havanna",
+    "agents_sp": "Gov Lorenzo de Cabrera, Commander Alvaro de la Cerda 2 Gall",
+    "agents_nsp0": "Pieter Adriaenszoon Ita, CC Jol, Galeyn von Stapels 12 Ships",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Laet [missg] = Laet/Naber 2 34-39 / Add MS 36322 / Wright D 1 pp *103, *105, *107",
+    "lit_n": "Goslinga 174-175, 208 [Map]",
+    "note": "Galeyn von Stapels captains Fortuin with colonists for Tobago cf wiki for Ita /\n The ships of this [Ita's] fleet, spread all over the Caribbean, gathered on the orders of the admiral at a renezvous situated at Cape Tiburón /v Goslinga 174 /[missg]",
+    "via": "v-1.4"
+  }
+}

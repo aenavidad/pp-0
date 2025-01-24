@@ -1,0 +1,24 @@
+{
+  "id": "e1863",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1632-01-01",
+    "upd": "1632-12-30",
+    "name": null,
+    "desc": "Pirates, buccaneers or privateers raid or assault Truxillo",
+    "locn": "Truxillo",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Lujan 2 472",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

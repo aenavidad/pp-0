@@ -1,0 +1,24 @@
+{
+  "id": "e471",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1677-01-01",
+    "upd": "1677-12-30",
+    "name": "Delgado journey",
+    "desc": "Dominican friar is sent from [Santiago de?] Guat with despatches for Gov of Yuc, and is tasked with finding a route via Manche Chol settlements [eg Campin, Soite], Mopan [Macal?] River, Tipuj, Bacalar [original site? Pacha?], and on to Merida",
+    "locn": "Cajabon [Guat], Moho R, Mopan R, [missg], Merida",
+    "agents_sp": "Fr Joseph Delgado 3 vecinos fm Bacalar or Tihosuco",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Thompson 22 / Bib France MS [missg] [Memorias de los parajes y ríos que ay desde el pueblo de San Miguel Manché hasta los indios ahizaes-el camino y indios]  / Bib France MS [missg] [Viage a Bacalar, y encuentro de los de Bacalar, los nombres estan en el derrotero que di a V.P.M.R., el de la canoa se llama Alonso Moreno] / ESCRIBANIA,339A / GUATEMALA,152",
+    "lit_n": "Jones 248-249 / Garcia P 2 121-129",
+    "note": "Was not permitted to enter Tipuj /v Jones 249 /Thompson M [missg] [transcription of Delgado accounts]",
+    "via": "v-1.4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e181",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1604-04-29",
+    "upd": "1604-04-29",
+    "name": "Navarro map",
+    "desc": "Mean map by Francisco de Navarro, with sketch of Hon coastline",
+    "locn": null,
+    "agents_sp": "Capt Francisco de Navarro",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MP-GUATEMALA,3 / GUATEMALA,60 [missg]",
+    "lit_n": null,
+    "note": null,
+    "via": "v-1.4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e46",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1652-11-01",
+    "upd": "1652-11-30",
+    "name": null,
+    "desc": "Buccaneers or privateers raid at least two Maya hamlets",
+    "locn": "New",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,158 [Probanza o méritos y servicios Capitán Francisco Pérez a 11 nov 1661]",
+    "lit_n": "Jones 231 fn 38-40",
+    "note": "Uatibal, Chanlacan location /v Jones xv-xvii, 283-5 /\n Possibly see 28 May 1652 Minzapa [Gulf of Mex]. c 30 Fr Eng pirates raid /v Marley P 1 438",
+    "via": "v-1.4"
+  }
+}

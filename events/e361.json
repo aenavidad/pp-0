@@ -1,0 +1,24 @@
+{
+  "id": "e361",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1641-04-24",
+    "upd": "1641-08-30",
+    "name": "Fuensalida misión",
+    "desc": "Franciscan misión headed by Fuensalida seeks to bring recently rebelled Ma in Bacalar province into submission to Sp, whereupon one party are denied passage via Tipuj, and are compelled to retreat at Zaczuz and Hubelna, while the other party off the coast of Hon meets with success [in Manche Chol towns = Soite, Cehake, Manan]",
+    "locn": "Merida, Bacalar, Chinam, Lamanai [New R Lagoon], Labouring Creek, Boxelac, Chantome, Zaczuz, Hubelna, Rancho del Obispo [Chetumal], Soite, Cehake, Manan, Zula [Caye], Campin",
+    "agents_sp": "Gov Marqués de Santo Floro, Rev Juan Alonso Ocon, Fr Bartolomé de Fuensalida, Fr Juan de Estrada, Fr Bartolomé de Becerril, Fr Martín Tejero, Btb Francisco Chable, Btb Andrés Pech 19 Ma",
+    "agents_nsp0": "Btb Pedro Noh, Btb Francisco Yam, Capt Gaspar Chuc, Capt Kuxeb",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,369 ff 466-469 [Bishop of Yuc to Crown, 5 mar 1643] / Cogolludo lib 11 cap 12-17 / MEXICO,305 [Vecinos de Yuc a 1641]",
+    "lit_n": "Jones 213 / Graham 248-249 / Chuchiak 241-246",
+    "note": "1642 Frays Francisco de Fuensalida and Juan de Estrada reach Lamanai and upper Old R for a misión, reducción, or voyage /v Graham 161 /v Jones C 214-224 /[missg]",
+    "via": "v-1.4"
+  }
+}

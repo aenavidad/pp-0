@@ -1,0 +1,24 @@
+{
+  "id": "e257",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1628-09-15",
+    "upd": "1630-12-20",
+    "name": "Vargas repartimientos, Argüellos averiguación",
+    "desc": "Gov of Yuc Juan de Vargas Asejas accused of causing retreat of significant numbers of Maya to flee, via repartimientos administered by Gov-appointed jueces de grana y agravios, after which Audiencia of México sends Íñigo de Argüelles Carvajal to investigate, inc inspection of Bacalar by Martín de Rojas",
+    "locn": "Mérida, [missg], Bacalar",
+    "agents_sp": "Juan de Vargas Asejas, Íñigo de Argüelles Carvajal, Martín de Rojas",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,308 / MEXICO,92 [Sobre la averiguación ... a 1630]",
+    "lit_n": "Barke B 59 / RAH DNB [Vargas Asejas, Juan]",
+    "note": "18 or 20 Dec 1630 Vargas stripped of Governorship, arrested and imprisoned in Mexico [City] /RAH DNB",
+    "via": "v-1.4"
+  }
+}

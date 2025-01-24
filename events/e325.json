@@ -1,0 +1,24 @@
+{
+  "id": "e325",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1636-05-01",
+    "upd": "1636-05-30",
+    "name": "Prov Co grants Capt. Newman commission",
+    "desc": "Prov Co grants Capt. Newman commission",
+    "locn": "Lon",
+    "agents_sp": null,
+    "agents_nsp0": "John Pym, Capt Thomas Newman 3 Ships",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Newton 234",
+    "note": "Ships = Hunter [Capt. Newman’s], Happy Return, Providence [hired by Prov Co] /Newton 234 /\n Sailed in Aug 1636 /Newton 234",
+    "via": "v-1.4"
+  }
+}

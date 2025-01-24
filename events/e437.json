@@ -1,0 +1,24 @@
+{
+  "id": "e437",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1663-01-09",
+    "upd": "1663-04-13",
+    "name": "Sack of Campeachy",
+    "desc": "Jam military campaign against Sp Yuc, likely with buccaneers or privateers",
+    "locn": "Port Royal, Campeachy",
+    "agents_sp": null,
+    "agents_nsp0": "Christopher Myngs, Capt Thomas Morgan, Capt Edward Mansfield 12 t 14 Ships 1500 t 1600 men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Add MS 12430 / Add MS 13964 f16 / SP 94/46 [Fanshaw to Sec Bennet 13-23 Jul 1664] / SP 94/45 [4 May 1663]",
+    "lit_n": "Haring 107 / DNB [missg]",
+    "note": "Myngs and his fleet sailed away [fm Campeachy] on 23rd February, but the 'Centurion' did not reach Port Royal until 13th April, and the rest of the fleet followed a few days later. /v Haring 108 /\n According to the Spanish relation there were fourteen vessels in the English fleet, one large ship of forty-four guns (the 'Centurion'?) and thirteen smaller ones. The discrepancy in the numbers of the fleet may be explained by the probability that other Jamn privateering vessels joined it after its departure from Port Royal. /Haring [missg] fn 176 /\n Possibly inc Henry Morgan /v Grainger 67 /\n Purportedly to help [Bay of Campeachy] logwood-cutter who had been operating there for many years / See Dudley Pope, *Harry Morgan's Way: The Biography of Sir Henry Morgan, 1634-1684* [Lon, Secker & Warburg, 1977], 97 /v Latimer 138",
+    "via": "v-1.4"
+  }
+}

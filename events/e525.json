@@ -1,0 +1,24 @@
+{
+  "id": "e525",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1695-11-01",
+    "upd": "1695-12-26",
+    "name": "False Itza embassy to Merida",
+    "desc": "A Tipujan embassy from Yalain, pretending to represent Can Ek of Tah Itza, is sent to Merida, via and with help of Tipuj and Capt Hariza y Arruyo, which is well received and reciprocated by a return misión to Tah Itza via Tipuj, headed by Br. Gaspar de Güemes",
+    "locn": "Yalain, Tipuj, Bacalar [original site], Merida",
+    "agents_sp": "Capt Francisco de Hariza y Arruyo, Mateo Uicab, Gov Martín de Ursúa y Arismendi / later Gaspar de Güemes 9 secular priests 25 t 30 soldiers",
+    "agents_nsp0": "4 Tipujan residents of Yalain 2 Tipuj translators",
+    "agents_nsp1": null,
+    "press_n": "Registro Yucateco [Campeachy] 2 1-2 5-10",
+    "prim_n": "PATRONATO,237,R.10 [Gov a Barrios Leal a 1 dic 1695 / Gil de Azamar a Hariza] / PATRONATO,237,R.3 [Recibimiento a 26 dic 1695] / PATRONATO,237,R.1 [Gov to Crown a 10 mar, 12 may 1696] / Villagutierre lib 8 cap 4 / GUATEMALA,151, pieza 3 ff 235-237 [Petición de Gil de Azamar a sep 1696] / ESCRIBANIA,339B, pieza 18 [Declaración del bachiller de Güemes a 29 nov 1703]",
+    "lit_n": "Jones 262",
+    "note": "The 4 residents of Yalain claimed to be Tah Itza representatives, but were later identified as Tipujans Ah Chan, Ah Chan Tan, Ah Tek, Ah Ku, at least 3 of which had previously been part of the Tipuj embassy to Merida, though they were close to residents of Yalain, whose priest-ruler, Chomax Zulu, was  'a great comrade and confidant of King Canek [of Tah Itza] ...' /v Jones 264 / It would thus appear that Ursúa and Hariza, once having seen the symbolic and political potential of Ah Chan's connections with both Tipu and Tah Itza, and having realized the possibility of establishing Yalain as a gateway tot he Itzas, decided to recognize Chan as an emissary of Can Ek and to establish Yalain as a legitimate Spanish Indian town. They must have sent Chan and his companions back to Tipu in September with instructions to return in December as a 'full-dress' ambassadorial party. / See Avedaño, *Relation of Two Trips* [sl, sn, sd], 54 /v Jones 264",
+    "via": "v-1.4"
+  }
+}

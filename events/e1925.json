@@ -1,0 +1,24 @@
+{
+  "id": "e1925",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1686-03-01",
+    "upd": "1686-03-30",
+    "name": "Raid of Ascensión",
+    "desc": "Laurens de Graaf leads raid of Bay of Ascensión towards Valladolid, but soon afterwards retires to Roatan",
+    "locn": "Bay of Ascensión, Valladolid, Roatan",
+    "agents_sp": null,
+    "agents_nsp0": "Laurens de Graaf 7 Ships 500 men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Marley P 2 847",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

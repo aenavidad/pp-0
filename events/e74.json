@@ -1,0 +1,24 @@
+{
+  "id": "e74",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1694-11-16",
+    "upd": "1695-02-28",
+    "name": "Milicias Campaign, Evacuation of Hon",
+    "desc": "Sp surprise Fleet, after which one Yucatan militia campaign against Settlement",
+    "locn": "Old",
+    "agents_sp": "Gov Roque Soberanis y Centeno [missg] militia",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "AGN R ced vol 26 exp 27 ff 52-55v [Madrid a 16 nov 1694]",
+    "lit_n": "Molina 2 356 / Barke B 107 fn 367",
+    "note": "Upper End inferred /v Barke B 107 fn 367, though post-dates AGN item cited therein / Possibly 1 Frig 2 Brigs 27 Eng 5 Neg seized /v Barke B 108, but cites AGI item referring only to Términos = MEXICO,1080,L.47 ff 79r-81r / Not included in loss tallies",
+    "via": "v-1.4"
+  }
+}

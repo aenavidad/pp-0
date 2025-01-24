@@ -1,0 +1,24 @@
+{
+  "id": "e26",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1639-12-15",
+    "upd": "1640-01-03",
+    "name": null,
+    "desc": "Buccaneers or privateers roam off Sp Hon",
+    "locn": "Guanaxa, Amatique",
+    "agents_sp": "Gov Francisco de Ávila Lugo",
+    "agents_nsp0": "4 Ships",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "GUATEMALA,16,R.2,N.13 img 258-259",
+    "lit_n": "Cardona 80",
+    "note": "Possibly see 1640 Guat. Pres Álvaro de Quiñónez y Osorio, Antonio Justiniano Chavarri 400 militiamen march towards Bay of Amatique to engage Du pirates, but on reaching Mixco [Guat] Pres orders march aborted /v Guat DNB 531, 763 /\n Possibly see 1639 Puerto Caballos, Golfo Dulce, Truxillo attacked by Pir / 1640 Amatique, Truxillo attacked by Pir /v Lujan 2 472, 826",
+    "via": "v-1.4"
+  }
+}

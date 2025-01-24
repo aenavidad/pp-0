@@ -1,0 +1,24 @@
+{
+  "id": "e38",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1643-07-20",
+    "upd": "1643-09-15",
+    "name": "Honduras Leg of Jackson Expedition",
+    "desc": "William Jackson raids and holds Truxillo, after which his crew fall ill and retreat, sacking Sto Tomás de Castilla, after which Jackson retook Truxillo",
+    "locn": "Lon, Barbados, St. Kitts, Isla de Margarita, Caracas, Puerto Cabello, Maracaibo, Hispaniola, Spanish T, Grand Cayman Island, Truxillo, Sto. Tomás de Castilla, Mos Islands, Cartagena, Cuba, Bay of Campeachy, Florida Straits, Bermuda",
+    "agents_sp": "Gov Melchor Alonso de Tamayo, Francisco Díaz 41 Sp men 9 pardos y negros",
+    "agents_nsp0": "Capt William Jackson, Capt William Rous, Capt Samuel Axe, Capt Cromwell 3 Ships 3 Pinnaces 1200 men fm Barbados and St Kitts",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "GUATEMALA,44A,N.40 ff 4r-53v / [missg] CSPC [missg] [1-25 Feb 1640] / Harlow [missg] / Lon 1643 [missg]",
+    "lit_n": "Cardona 118, 90 / Harlow xii-xix / Offen P 23 / Lujan 2 108, 472",
+    "note": "Capt. Jackson’s crew included men from Diego Diaz Lucifer’s crew /\n Capt. Jackson ships = Charles, Valetine, Dolphin, arrive at Barbados 27 Sep 1642 /\n Expedition leg to Sp Hon pushed for 'by ye specious persuasions of one Capt. Cromwell,' a NE pirate /v Jackson xvii / Possibly Capt Thomas Cromwell of Boston",
+    "via": "v-1.4"
+  }
+}

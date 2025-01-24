@@ -1,0 +1,24 @@
+{
+  "id": "e191",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1607-05-04",
+    "upd": "1607-05-04",
+    "name": "Jamestown est",
+    "desc": "Virginia Co. of Lon establish Jamestown, first permanent Eng settlement in New World",
+    "locn": "James R [Virg.]",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": null,
+    "note": null,
+    "via": "v-1.4"
+  }
+}

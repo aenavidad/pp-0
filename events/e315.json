@@ -1,0 +1,24 @@
+{
+  "id": "e315",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1635-07-02",
+    "upd": "1635-07-09",
+    "name": "Capture of Providence",
+    "desc": "Cartagena military expedition against Providence, shortly repulsed",
+    "locn": "Cartagena, Prov",
+    "agents_sp": "Gov Nicolas de Judice 3 Ships 4 Shallops 1 Boat 300 soldiers",
+    "agents_nsp0": "Gov Philip Bell, Samuel Axe",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "81, 83 CSPC 1 / CSPD Car I vol 307 no 19 / SANTA_FE,L.223 [Relacion a 22 ago 1635 / Sobre las noticias ... a 15 feb 1636] / CO 124/1 [Prov Co to Gov and Coun sd May 1636] / CO 1/8 [Declaration 21 Dec 1635 / HM to Holland 27 Dec 1635]",
+    "lit_n": "Newton 196 / Genkins 79-83",
+    "note": "See 1641 Prov map in AGI, MP-PANAMA,66 /\n Memorial in the handwriting of Secretary Sir John Coke, concerning the Isle of Providence ... [There are] About 500 able persons, and 30 or 40 women [late 1635 likely] /83 CSPC 1 / c Aug or Sep 1634 Prov. Francisco Biafara, captured slave, saw c 200 whites inc 20 women; Eng 'Herbatons' of Lon reported c 300 people at Prov /v Genkins 76 /SANTA_FE,L.223,N.34 [Ynformaçion a 9 may 1635] / 1635 Prov. 600 residents /v Genkins 113 fn 54 / See Alison Games, *Journal of Slave & Post-Slave Studies* 19 (3), 'Santuarye of our Rebell Negroes' [1998], 11 /[missg] /\n Apr 1635 Capt Francisco Fernández Fragosso, of Granada [Lake Nicaragua] learns of Eng settlement at Prov fm 4 slaves [= Francisco Biafara, Damian Carabalí, Geronimo Angola, Juan Biafara] fm Cartagena and 2 whites fm Prov [= 'Herbatons' of Lon, Juan Yons of Flanders]; slaves had been captured [along with 7 other slaves] and carried to Prov c Aug or Sep 1634, and thereafter made their escape towards mainland San Juan R [with another slave and 6 Eng indentured servants] /v Genkins 75-79 /SANTA_FE,L.223,N.34 [Ynformaçion a 9 may 1635]",
+    "via": "v-1.4"
+  }
+}

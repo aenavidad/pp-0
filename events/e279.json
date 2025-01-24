@@ -1,0 +1,24 @@
+{
+  "id": "e279",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1631-04-01",
+    "upd": "1631-12-30",
+    "name": "Tovilla entrada",
+    "desc": "Audiencia of Guat grants Alcalde of Verapaz Capt Martín Alfonso Tovilla authorisation for entrada to Manche Chol territory to stabilise threatened reduction towns, during which they are threatened by Itza Mayas",
+    "locn": "Verapaz, Yol, Manche, Mopan [T]",
+    "agents_sp": "Capt Martín Alfonso Tovilla, Fr Francisco Morán",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Tovilla lib 1 cap 24",
+    "lit_n": "Jones C 49",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

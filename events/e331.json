@@ -1,0 +1,24 @@
+{
+  "id": "e331",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1636-08-30",
+    "upd": "1637-09-30",
+    "name": "WIC Jol Expedition",
+    "desc": "Cornelis Corneliszoon Jol cruises off Cuba, where he is later joined by Capt Abraham Michielszoon Roosendael ",
+    "locn": "Texel, St. Bartholomew, Ile à Vache, Havana, Old Bahama Channel, Curaçao",
+    "agents_sp": null,
+    "agents_nsp0": "Cornelis Corneliszoon Jol, Siebert Jol 1 Ship 2 Yachts, Capt Abraham Michielszoon Roosendael 1 Yacht",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Laet [missg] = Laet/Naber 4 261-276 / WIC 1.05.01.01, 2 [18 Jul, 15 Aug 1636] / WIC 1.05.01.01, 14 [21 Aug 1636] / WIC 1.05.01.01, 50 [4 Dec 1635] / WIC 1.05.01.01, 42 [18 Jul 1636] / Wright D 2 pp [missg]-*33",
+    "lit_n": "Goslinga 237, 240 [Map]",
+    "note": "4 Sail = 260-ton Ship Swol, Yacht Kat commanded by CC Jol's brother [Siebert], and Yacht Jong Otter /v Goslinga 237 / later joined by Yacht Brack /v Goslinga 238 /\n En 27 de febrero de este año [1637] se le rezivieron sus declaraçiones a Francisco Rodriguez y a otros que venian embarcados en la fregata nombrada San Gregorio, de que es dueño el Capitan Marcos de Almeyda y maestre Francisco de Garay, que venia cargada de harinas. Y que salieron del puerto de la Veracruz para este de la Havana en quatro deste mes de febrero, y que a 22 descrubrio este puerto, y estando norte sur con el, descubrieron dos velas de enemigos ... y dizen ser cada una de 300 toneladas, y que trae la una 18 piezas de artilleria y la otra 16, y cada 50 hombres. Que estan repartidas desde los cavos de Corrientes al de Matanças seis urcas, y que Pie de Palo con una dellas anda desde la Sonda de la Tortuga a este puerto todos los dias, y como se descubre sobre el. Y que el capital de una dellas es el que tomo el situado de Puerto Rico el año pasado, y que los capitanes de las dos urcas que los rovaron es el uno hermano de Pie de Palo y el otro se llama Abrahan, y que es natural de Unquerque. /Wright D 2 p *22 /\n En 10 de jullio de dicho año [1637] se rezivio su declaraçion a Venito Perez, marinero. Y dize que habra 12 dias que salio de la Sonda en un barco luengo de que es arraez Andres de Torres. Que venia con pescado salado para este puerto [Havana], y que cinco o seis leguas fuera de la Sonda encontraron con una urca de enemigos ... La urca dize es de 150 toneladas con diez piesas de fierro y una pequeña de bronçe, 43 hombres olandeses, y el capitan se llama Cornielis. Y que le dijeron que en la costa de Campeachy havian cargado de palo, y despues havian cojido un barco de un sarjento, vezino de Campeachy, cargado de palo; y que haviendole descargado le havian dejado dado fondo en la dicha costa. Y que los dichos enemigos le dijeron que andavan de los cavos adentro 14 navios de flamencos, y entre ellos algunos navios de françeses. ... /Wright D 2 p *28",
+    "via": "v-1.4"
+  }
+}

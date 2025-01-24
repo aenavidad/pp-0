@@ -1,0 +1,24 @@
+{
+  "id": "e291",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1632-10-01",
+    "upd": "1634-12-30",
+    "name": "Hunter Expedition",
+    "desc": "English privateers, under letters of marque from Prince of Orange against Sp, cruise Mona and Windward passages",
+    "locn": "Rotterdam, Dover, Canary Islands, Tortuga, Mona Passage, Windward Passage, Rotterdam",
+    "agents_sp": null,
+    "agents_nsp0": "Capt Powell, Thomas Newman, Gov Anthony Hilton",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "CSPD Car I vol 282 nos 89, 90",
+    "lit_n": "Newton 153-154",
+    "note": "< Mar 1620 Bermuda. Capt John Powell, with Dutch letter of marque, seeks to trade; Gov Nathaniel Butler gives permission /v Genkins 55 /v Vernon L 178-179",
+    "via": "v-1.4"
+  }
+}

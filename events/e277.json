@@ -1,0 +1,24 @@
+{
+  "id": "e277",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1630-12-04",
+    "upd": "1630-12-04",
+    "name": "Prov Co chartered",
+    "desc": "Prov Co incorporated by letters patent under Great Seal of England",
+    "locn": "Lon",
+    "agents_sp": null,
+    "agents_nsp0": "Oliver St. John",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "CSPD Car I vol 187 no 46",
+    "lit_n": "Newton 86",
+    "note": "1631 Prov Co patent expanded /v Genkins 69 fn 55 /Sloane MS 973",
+    "via": "v-1.4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e329",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1636-06-01",
+    "upd": "1636-06-30",
+    "name": "Prov Co divested of Tortuga",
+    "desc": "Prov Co transfers rights to Tortuga to Brooke, Pym, Saye and Woodcock, who thereafter name Capt. William Rudyerd Gov of Tortuga, though English settlers thereafter abandon Tortuga",
+    "locn": "Warwick",
+    "agents_sp": null,
+    "agents_nsp0": "William Fiennes, Lord Saye and Sele, Robert Greville, Lord Brooke, John Pym, William Woodcock, Capt William Rudyerd, Capt Henry Hunks",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Newton 215-216",
+    "note": "Intelligence was received at about the same time [20 Jan 1637] that the English inhabitants of Association had abandoned their plantations and had removed to the main island of Hispaniola. The Association design was therefore abandoned /Newton 216 /\n Capt. Rudyerd w ship Mary Hope given privateering commission and despatched to WI Dec 1636 /Newton 235 /\n A few Frenchmen must have remained on the island, however, for Charlevoix informs us that in 1638 the general of the galleons swooped down upon the colony, put to the sword all who failed to escape to the hills and woods, and again destroyed all the habitations. /Charlevoix lib 7 pp 9-10 / See repository mss Bibliothèque Nationale de France, Nouv. Acq., 9334, ff 48-[missg] /v Haring 62",
+    "via": "v-1.4"
+  }
+}

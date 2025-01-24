@@ -1,0 +1,24 @@
+{
+  "id": "e28",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1640-03-01",
+    "upd": "1640-03-30",
+    "name": "Sacking of Omoa",
+    "desc": "Buccaneers or privateers raid unknown number of towns or hamlets near Omoa, Golfo Dulce, and after camping Utila, raided Omoa again, and finally engaged with natives at Utila",
+    "locn": "Omoa, Golfo Dulce, Utila",
+    "agents_sp": null,
+    "agents_nsp0": "8 Craft",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "GUATEMALA,16,R.2,N.13 f 140r-v",
+    "lit_n": "Cardona 117, 83-85",
+    "note": "Possibly see 1640 Guat. Pres Álvaro de Quiñónez y Osorio, Antonio Justiniano Chavarri 400 militiamen march towards Bay of Amatique to engage Du pirates, but on reaching Mixco [Guat] Pres orders march aborted /v Guat DNB 531, 763 /\n Possibly see 1639 Puerto Caballos attacked by Pir / 1640 Truxillo attacked by Du Pir / 1640 Amatique, Truxillo, Granada attacked by Pir /v Lujan 2 826",
+    "via": "v-1.4"
+  }
+}

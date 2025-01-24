@@ -1,0 +1,24 @@
+{
+  "id": "e1875",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1644-01-01",
+    "upd": "1644-12-30",
+    "name": "Castillo de San Felipe built",
+    "desc": "Governor [President?] of Guat Diego de Avendaño orders Fuerte Bustamente [now Castillo de San Felipe de Lara] built in port of San Antonio de las Bodegas [S bank of Lake Izabal]",
+    "locn": "Lake Izabal",
+    "agents_sp": "Gov Diego de Avendaño",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": null,
+    "note": "1604 Lake Izabal. 12-gun watchtower Sande Torréon destroyed in hostile assault / 1651-1652, 1687-1689,1736, 1797 Lake Izabal. Fort rebuilt, redesigned, or expanded /[missg]",
+    "via": "v-1.4"
+  }
+}

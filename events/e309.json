@@ -1,0 +1,24 @@
+{
+  "id": "e309",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1635-04-01",
+    "upd": "1635-06-30",
+    "name": "Eng fail to resettle Tortuga",
+    "desc": "Tortuga replanted under Capt. Nicholas Reskeimer as Governor, who thereafter dies",
+    "locn": "Tortuga",
+    "agents_sp": null,
+    "agents_nsp0": "Capt Nicholas Reskeimer of Ship 'Expectation' 80 Eng men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Add MS 13977 f 222-223, 226-227, 235",
+    "lit_n": "Newton 212 / Haring 61",
+    "note": "there were then [late 1635] some 80 English in the settlement [Tortuga], besides 150 negroes /v Haring 62 /Add MS 13977",
+    "via": "v-1.4"
+  }
+}

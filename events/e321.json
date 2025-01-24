@@ -1,0 +1,24 @@
+{
+  "id": "e321",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1636-03-19",
+    "upd": "1636-03-19",
+    "name": "Prov re Sp pilots",
+    "desc": "Prov Co orders Capt. Rous in craft Blessing to impress Sp pilot",
+    "locn": "Lon, Prov",
+    "agents_sp": null,
+    "agents_nsp0": "Capt William Rous",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "CO 124/2 ff 94v, 186-187, 262",
+    "lit_n": "Offen P 32 / Genkins 87-88",
+    "note": "After 1636, when [Prov] company thoughts turned to privateering, they consistently ordered the capture of good Spanish pilots. For example, Captain Rous was given instructions to procure Spanish pilots for 'the Bay of Nicorago, or the Bay of Hondura, Terri fima or of ye Maine Continent.' /v Offen P 32",
+    "via": "v-1.4"
+  }
+}

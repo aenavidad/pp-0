@@ -1,0 +1,24 @@
+{
+  "id": "e487",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1684-09-01",
+    "upd": "1684-10-15",
+    "name": "Paliac murders",
+    "desc": "Party of Ma, in act of revenge occasioned by Dominican friar Joseph Delgado of Bacalar’s having whipped a Ma king, go on killing spree, which results in 4 Bacalar vecinos and 3 Franciscans dead",
+    "locn": "Has, Paliac, Misit",
+    "agents_sp": "Francisco de Hariza Arruyo, Diego Martín, Francisco Nuñez, Pablo Xul, Btb Agustín Cholat",
+    "agents_nsp0": "10 t 14 Ma men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,360 [Expediente sobre la muerte de tres religiosos, 1684-87] / MEXICO,312 f 4v-12r, 40v -57r [Expediente sobre misiones a 1696 inc Auto de ruego a 9 ene 1696] / PATRONATO,237,R.8 f 16-22",
+    "lit_n": "Jones 248-250, 328 fn 16",
+    "note": "Has = hamlet c 30 [Sp] leagues from Paliac /v Jones 250 / Misit = [presumably] c 8 leagues from Paliac /v Jones 249 /\n Killed = Friar Joseph Delgado, Friar Marcos de Muros, 2 other friars /v Jones 248",
+    "via": "v-1.4"
+  }
+}

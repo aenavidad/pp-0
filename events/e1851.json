@@ -1,0 +1,24 @@
+{
+  "id": "e1851",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1620-01-01",
+    "upd": "1620-12-30",
+    "name": "Salazar voyage",
+    "desc": "Fray Gabriel de Salazar circumnavigates Yuc, inc by sea in or by Hon waters fm Golfo Dulce northwards",
+    "locn": "Golfo Dulce, Cape Catoche, Campeachy, Tabasco, Chiapas, Verapaz",
+    "agents_sp": "Fr Gabriel de Salazar",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "GUATEMALA,67",
+    "lit_n": "Aliphat 853-856",
+    "note": "Map by Fray lost /v Aliphat 854",
+    "via": "v-1.4"
+  }
+}

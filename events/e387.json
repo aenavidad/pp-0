@@ -1,0 +1,24 @@
+{
+  "id": "e387",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1648-10-24",
+    "upd": "1648-10-24",
+    "name": "Peace of Westphalia",
+    "desc": "Inc free trade in New World for Dutch via Treaty of Münster",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Wrigth D 1 p *4",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

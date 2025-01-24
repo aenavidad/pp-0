@@ -1,0 +1,24 @@
+{
+  "id": "e992",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1644-01-01",
+    "upd": "1644-12-30",
+    "name": null,
+    "desc": "Pirates, buccaneers or privateers assault Sp Hon",
+    "locn": "Golfo Dulce, Roatan",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Lujan 2 472, 827",
+    "note": "Possibly see 1646 Caribbean coast of CA attacked by Pir /v Lujan 2 827 /\n Possibly see 1644 Truxillo attacked by Pir, but successfully defended by Sp /v Lujan 2 108",
+    "via": "v-1.4"
+  }
+}

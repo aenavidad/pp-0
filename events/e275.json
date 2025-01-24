@@ -1,0 +1,24 @@
+{
+  "id": "e275",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1630-05-06",
+    "upd": "1630-09-25",
+    "name": "WIC Ita Expedition",
+    "desc": "Political Council of Olinda sends Adm Ita to assist WIC Ruyter Expedition, and Ita is shortly joined by ships under Dierick Ruyters of the WIC Ruyter Expedition",
+    "locn": "Olinda, St. Vincent, Cape Tiburon, Dry Tortugas",
+    "agents_sp": null,
+    "agents_nsp0": "Adm Ita 8 Ships 545 men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Laet [missg] = Laet/Naber 2 144-[missg] / WIC 1.05.01.01, 2 [2 Sep 1630]",
+    "lit_n": "Goslinga 218",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

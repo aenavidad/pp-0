@@ -1,0 +1,24 @@
+{
+  "id": "e2169",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1601-01-01",
+    "upd": null,
+    "name": null,
+    "desc": "En enero de 1601 cuatro embarcaciones navegaron frente al litoral yucateco",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MX 359 ram 8 num 41 f 1v [Carta de Diego de Velasco, Gobernador de Yucatán, Mérida a 14 de mayo de 1601]",
+    "lit_n": "O Torres p 336 / O Torres p 115",
+    "note": null,
+    "via": "harv"
+  }
+}

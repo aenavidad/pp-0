@@ -1,0 +1,24 @@
+{
+  "id": "e415",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1655-12-01",
+    "upd": "1656-01-30",
+    "name": "Eng resettle Tortuga",
+    "desc": "Elias Watts from Jam resettles Tortuga, under or shortly thereafter receiving commission from Gov of Jam",
+    "locn": "Jam, Tortuga",
+    "agents_sp": null,
+    "agents_nsp0": "Elias Watts and family, Gov William Brayne, James Arundell 10 t 12 people",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Terte 3 126 / Add MS 13992 f 499 / Rawl MSS A. 29 f 500",
+    "lit_n": "Haring 113",
+    "note": "in a short time [Watts] gathered about him a colony [at Tortuga] of about 150, both English and French /v Haring 114",
+    "via": "v-1.4"
+  }
+}

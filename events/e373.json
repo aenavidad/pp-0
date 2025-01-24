@@ -1,0 +1,24 @@
+{
+  "id": "e373",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1642-12-13",
+    "upd": "1642-12-13",
+    "name": "'Río Balis' used",
+    "desc": "Earliest use of Río Balis for Haulover Creek by Bacalar vecinos carrying mail to [Santiago de?] Guat for Gov of Yuc",
+    "locn": "Old",
+    "agents_sp": "Manuel Rodríguez, Sebastían Rodríguez [missg] vecinos of Bacalar",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,360 [a 7 feb 1643 inc Auto y relación a 13 dec 1642]",
+    "lit_n": "Jones 889 324 no 30",
+    "note": "Not realising this was a branch of Belize River /v Bulmer 147, citing use of Balis by Friar José Delgado in relación of entrada of 1677",
+    "via": "v-1.4"
+  }
+}

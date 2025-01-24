@@ -1,0 +1,24 @@
+{
+  "id": "e241",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1625-03-01",
+    "upd": "1626-08-30",
+    "name": "WIC Hendricksz Expedition",
+    "desc": "WIC send Boudewijn Hendricksz to raid Puerto Rico, which he raids, sieges and burns, and defy Sp silver fleet, which he attempts",
+    "locn": "Texel, Isle of Wight, Bahia de Todos os Santos, St. Vincent, San Juan de Puerto Rico, Santo Domingo, Isla Margarita, Tierra Firme, Bonaire, Hispaniola, Ile a Vache, Cape Tiburon, Mona Passage, Sp Jam, Old Bahama Channel",
+    "agents_sp": "Gov Juan de Haro",
+    "agents_nsp0": "Boudewijn Hendricksz, Adriaen Claesz > 30 Ships, Hendrick Jacobszoon Lucifer 2 Ships",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Laet [missg] = Laet/Naber 1 85-[missg] / Wassenaer 12 54-[missg] / Wright D 1 pp *31-[missg], *52-*54, *57-*63, *72-*74, *77-*79 / WIC 1.05.01.01, 5752 / Staten 1.01.02, [missg] [Resolutions of 24, 29, 31 Jan, 13, 24 Feb 1626]",
+    "lit_n": "Goslinga 144 [Map], 157",
+    "note": "In Mona Passage c ?, Hendrick Jacobszoon Lucifer w 2 Ships, coming fm Amazon having provisioned a Zeelandian colony, joined Hendricksz's fleet /v Goslinga 164 /Laet [missg] = Laet/Naber 1 123-[missg]",
+    "via": "v-1.4"
+  }
+}

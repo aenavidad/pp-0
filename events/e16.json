@@ -1,0 +1,24 @@
+{
+  "id": "e16",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1638-04-02",
+    "upd": "1638-06-15",
+    "name": null,
+    "desc": "Buccaneers or privateers water or careen at and raid Cozumel twice",
+    "locn": "Cozumel",
+    "agents_sp": null,
+    "agents_nsp0": "1 Bajel / later 1 Bajel",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,360,R.5,N.22",
+    "lit_n": null,
+    "note": "= Martes Sancto del [1638] estuvo un bajel de enemigos dado fondo asta el savado de la misma semana en la Isla de Cozumel que hay desta Ciu.d a ella poco menos de Cient leguas, salto gente en tierra, el beneficiado y los Yndios se retiraron al Monte, no quemaron la Yglessia ni cosa ning.a, solo hicieron aguada, y algunas gallinas, y Ceusnes, que no los pudieron retirar, se llevaron que fue poca cantidad, segun el haviso que tuve a los principios de el mes pasado [junio] Vino otro bajel que tambien hiço agua y para leña quito las puertas de la Yglesia y las Ventanas y el pulpito, y asi mismo rrobo los Ornamentos della, segun lo que me havisa el beneficiado, y maltrato a tres o quatro Yndios, es ymposible el que govierna pueda evitar esto, ni poner prevenciones, y mas no haviendo soldados pagados, qe son bien neçesarios, que con ellos a muchas cosas, se pudiere acudir que de ninguna suerte como esta esto oy se puede haçer, ... /MEXICO,360,R.5,N.22",
+    "via": "v-1.4"
+  }
+}

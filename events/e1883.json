@@ -1,0 +1,24 @@
+{
+  "id": "e1883",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1660-01-01",
+    "upd": "1660-12-30",
+    "name": "L’Olonnais Expedition",
+    "desc": "L’Olonnais sacks Truxillo",
+    "locn": "Truxillo",
+    "agents_sp": null,
+    "agents_nsp0": "L’Olonnais",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Lujan 2 828 / Marley P [missg]",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

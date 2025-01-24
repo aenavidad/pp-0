@@ -1,0 +1,24 @@
+{
+  "id": "e50",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1654-10-23",
+    "upd": "1654-10-23",
+    "name": null,
+    "desc": "Buccaneers or privateers engage Sp during one of the Perez entradas",
+    "locn": "Old",
+    "agents_sp": "Capt Francisco Perez of Bacalar-Pacha 6 Sp 15 Ma",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,158 [Probanza o méritos y servicios Capitán Francisco Pérez a 11 nov 1661]",
+    "lit_n": "Jones 231 fn 38-40",
+    "note": "Possibly see, 13 Jul 1656 Guat Gov of Sp Hon to HCM. Luego que llegue al govierno de Honduras visite los puertos de mar della que son truxillo y puerto de cavallos que son los mas ynfestados del enemigo de hordinario Y aviendo rreconosido estan desmantelados e yndefensos por falta de armas hiçe lista de la gente que pordria tomarlas en ellos y di quenta al pressidente de las que faltavan y eran nesesarias Para la defensa de la tierra y no me las envio Y aunque oy que me hallo en esta çuidad [Guat] y con nuevas de que el enemigo anda en estas [Sp Hon] costas se las e pedido no rresuelve sobre esta materia aunque V Magd tiene mandado se garte[?] el çituado de truxillo en estas prevençiones con lo qual me hallo sin defenssa para qualquiera Ynvasion que el enemigo Ynttente ... /GUATEMALA,39,R.24,N.137 f 18r",
+    "via": "v-1.4"
+  }
+}

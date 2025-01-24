@@ -1,0 +1,24 @@
+{
+  "id": "e58",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1660-01-01",
+    "upd": "1669-12-31",
+    "name": "Sacking of Pacha",
+    "desc": "Baymen sack Bacalar-in-Pachá",
+    "locn": "Pacha",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "EST, 7607 / MEXICO,1006 [Gob a Rey a 9 feb 1660]",
+    "lit_n": "Gerhard 70 / Jones 334 no 10",
+    "note": "AGS = Archivo General de Simancas /\n British capture around Bacalar (then at Pacha) ... Indians as slaves to be taken to Jam [1659 or 1660] /v Jones [missg] /MEXICO,1006 /\n Bacalar-at-Pacha moved further to Chunhuhub not long afterwards /v Gerhard 70 /EST, 7607 /\n Possibly see 1666 Golfo Dulce. Fort of San Felipe de Lara attacked by pirates /v Zamora 178",
+    "via": "v-1.4"
+  }
+}

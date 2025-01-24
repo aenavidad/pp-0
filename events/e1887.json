@@ -1,0 +1,24 @@
+{
+  "id": "e1887",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1660-06-01",
+    "upd": "1660-06-01",
+    "name": "CO est",
+    "desc": "Secretary of State for the Southern Department given responsibility over English colonies",
+    "locn": "Lon",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": null,
+    "note": null,
+    "via": "v-1.4"
+  }
+}

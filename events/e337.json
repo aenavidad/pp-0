@@ -1,0 +1,24 @@
+{
+  "id": "e337",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1637-01-01",
+    "upd": "1637-12-30",
+    "name": "Salazar misión",
+    "desc": "Fray Gabriel de Zalazar attempts to reduce Manche Chol Mayas but fails to find them",
+    "locn": "Manche, [missg]",
+    "agents_sp": "Fr Gabriel de Salazar",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Ximenes lib 4 cap 69-70",
+    "lit_n": "Jones C 51",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

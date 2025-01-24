@@ -1,0 +1,24 @@
+{
+  "id": "e56",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1659-01-01",
+    "upd": "1659-12-30",
+    "name": null,
+    "desc": "Buccaneers or privateers capture unknown number of Ma for sale in Jam",
+    "locn": "Pacha",
+    "agents_sp": "Gov Francisco Bazán",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,1006 [a 9 feb 1660]",
+    "lit_n": "Jones 334 no 10",
+    "note": "Pacha = c 20 km NW of prsent-day Noh-Bec, Quintana Roo, Mexico /v Jones xvi",
+    "via": "v-1.4"
+  }
+}

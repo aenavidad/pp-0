@@ -1,0 +1,24 @@
+{
+  "id": "e1929",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1688-02-01",
+    "upd": "1688-02-28",
+    "name": "Capt Willems prize",
+    "desc": "Capts Jan Willems and Jacob Evertsen surprise Sp ship in Bay of Honduras",
+    "locn": null,
+    "agents_sp": "1 Urca",
+    "agents_nsp0": "Capt Jan Willems, Capt Jacob Evertsen 1 Ship 1 Bark 1 Sloop c 150 men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "[missg] CSPC 12",
+    "lit_n": "Marley P 2 588-589",
+    "note": "Feb 1688 Albemarle reports 'that the pirates Yankey [Willems] and Jacobs have fallen upon a great Sp ship in the Bay of Honduras called the Hulk [an urca], and that they had been in sight of her twelve hours. If Yankey failed in this attempt he is ruined, for it is said that he was very ill provided before.' / Apr 1688 Albemarle confirms buccaneers fought and took the Sp ship 'in the port of Cavana', but [shortly?] thereafter died / Late Summer 1688 NE. Capt Peterson appears with 'the remainder of Yankey's and Jacob's company' /v Marley P 2 588-589 /\n Possibly see 1688 Pres of Guat Jacinto Barrios Leal meets with Pirates in Puerto Caballos, but escapes / 1688 Bodegas del Golfo, Olancho raided or attacked by Pir /v Lujan 2 108, 472 /\n Possibly see 17 Nov 1688 Bodegas [Golfo Dulce]. Incoming Pres of Guat Barrios Leal w 25 men fm Capt Juan Tomás Miluti meet Pir in 1 Frig 1 Barca, who make off w the President's 2 Barcas /v Rodriguez C 50 /v Garcia P 2 97-98 /\n Possibly see 29 Sep 1688 Pres of Guat to Sp King. Informs Pir enter Valley of Truxillo by R Aguan, land 400 men, raid Truxillo, and attempt but fail to raid Olancho, abduct fm Truxillo a teniente de gobernador, 22 women, and others, and demand 5,000 pesos for their delivery /v Garcia P 2 121",
+    "via": "v-1.4"
+  }
+}

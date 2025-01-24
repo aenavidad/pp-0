@@ -1,0 +1,24 @@
+{
+  "id": "e1867",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1638-01-01",
+    "upd": "1638-12-30",
+    "name": "Cogolludo-Vivar journey",
+    "desc": "Frays Lopez de Cogolldo and Luis de Vivar cross Hon en route fm Guat to Yuc via Pacha [N of Bacalar]",
+    "locn": "[missg], Pacha",
+    "agents_sp": "Fr Lopez de Cogolldo, Luis de Vivar",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Cogolludo lib 9 cap 5, lib 12 cap 16",
+    "lit_n": "Graham 160",
+    "note": "1650 Fray de Cogolludo returns to Guat, possibly returning bia Hon /v Graham 160 /Cogolludo lib 12 cap 16",
+    "via": "v-1.4"
+  }
+}

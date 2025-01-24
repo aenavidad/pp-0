@@ -1,0 +1,24 @@
+{
+  "id": "e443",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1664-06-01",
+    "upd": "1664-06-01",
+    "name": "Jam privateering disallowed further",
+    "desc": "Sir Thomas Modyford arrives at Jam, recently appointed Gov of Jam, under instructions to prohibit granting letters of marquee, and encourage friendly trade with Sp",
+    "locn": "Spanish T",
+    "agents_sp": null,
+    "agents_nsp0": "Gov Thomas Modyford",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "635, 656, 664, 739, 744, 753, 762, 767, 786, 789, 811, 812 CSPC 5 / SP 94/46 f 192 / Add MS 11410 pp 16-25, 303",
+    "lit_n": "Haring 120",
+    "note": "Friendly trade and suppression of buccaneers does not prove successful. 'It is not in the power of the governor to have or suffer a commerce, nor will any necessity or advantage bring private Spaniards to Jam, for we and they have used too many mutual barbarisms to have a sudden correspondence. When the king was restored, the Spaniards thought the manners of the English nation changed too, and adventured twenty or thirty vessels to Jam for blacks, but the surprises and irruptions by C. Myngs, for whom the governor of San Domingo has upbraided the commissioners, made the Spaniards redouble their malice, and nothing but an order from Spain can give us admittance or trade.' /v Haring 121 /[missg] CSPC 5 [T Lynch, 25 May [missg]] /\n Tortuga made suppression of buccaneering difficult /v Haring 122 /Add MS 11410 ff 16-25, 303 /786 CSPC 5 /\n Though see 22 Feb 1666 Council of Jam 'resolved that it is to the interest of the island to have letters of marque granted agains the Spaniard. 1. Because it furnishes the island with many necessary commodities at easy rates...with coin, bullion, cocoa, logwood, hides, tallow, indigo, cochineal, and many other commodities' /[missg] CSPC 5 /v Botella-Ordinas 144 /\n 26 Jun 1664 Port Royal. Sir Thomas Modyford proclaims 'that for the future all acts of hostility against the Spaniards should cease' / Sep 1664 Port Royal. 2 Sp prizes of privateer Robert Searle restored by Gov Modyford to Santiago de Cuba, and Searle's ship impounded /v Marley P 1 442 /\n 2 Feb 1665 Lon. Charles II authorises overseas grants of privateering commissions against Dutch /v Marley P 1 442 /\n Nov 1665 Bluefields [Jam]. Gov Modyford meets 600 searovers, asks they stop victimising Sp as commissions are only against Du / Early Mar 1666 Jam. Gov Modyford authorises letters of marque against Sp /v Marley P 1 443",
+    "via": "v-1.4"
+  }
+}

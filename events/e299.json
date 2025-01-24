@@ -1,0 +1,24 @@
+{
+  "id": "e299",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1634-02-01",
+    "upd": "1635-09-30",
+    "name": "Bu cruise for prizes",
+    "desc": "Buccaneers or privateers impress Sp pilot Baltasar Banegas, and cruise for prizes off Cuba, Hispaniola, and Main, where they engage with Sp armadilla fm Cartagena",
+    "locn": "Cuba, Tortuga, Cartagena, Cabo Tiburón, Cabo Francés, Sp Hon",
+    "agents_sp": "Baltasar Banegas, Francisco de Murga",
+    "agents_nsp0": "1 Urca 1 Patache 130 men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Wright D 2 pp *11-*12 / Laet [missg] = Laet/Naber 4 190",
+    "lit_n": "Goslinga 235",
+    "note": "Pieter Janszoon van Domburgh w 1 Ship 1 Yacht? eg meets CC Jol near Cartagena during WIC Jol Expedition /v Goslinga 235 /\n Y por ella [testimonio tomado en 10 de agosto de 1635 a Baltasar Banegas, piloto platico y vezino de Havana, a quien el enemigo abra año y medio prendio en una canoa andando en la costa del sur de Cuba a pescar tortugas, y aora se avia uido de el enemigo] pareze aver andado con el en una urca y un patache desde dos de agosto de el año passado de seiscientos y treinta y quatro, y que avian echo algunas pressas en este tiempo, y allandose en la ysla de la Tortuga quando la ynfanteria de Santo Domingo echo los enemigos de ella. Y desques fue a la costa de Tierra Firme, adonde avian cojido una fregata de un beçino de la ciudad de Cartajena. Y que el Maese de Campo Francisco de Murga avia despachado una armadilla en busca de ellos. Peleando con ella, avian echado la almiranta a pique. Y que a 5 de julio deste año bieron entrar los galeones de la plata en Cartajena, y que el se fue la buelta de el cavo de Tiburon. Y a 14 de julio avia despachado el patache con el dicho Baltasar Banegas que fuese la buelta de cavo de Cruz, y por dentro de los bajos fuese corriendo la costa desta ysla, y la urca por fuera, hasta Puerto Franzes, donde a catorze de agosto se avian de junar, y quemar alli el patache, como lo hicieron. Y que el se uyo en esta ocasion, porque no lo avia podido hacer antes. Esta urca trae treinta piecas y ciento y treinta hombres. Tengo [Francisco Riaño y Gamboa, Havana] avisso cierto fue la buelta de Honduras en busca de los navios que an de benir de aquella provinzia, que aun [26 sep 1635] no an llegado a este puerto. /Wright D 2 p *11",
+    "via": "v-1.4"
+  }
+}

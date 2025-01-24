@@ -1,0 +1,24 @@
+{
+  "id": "e367",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1641-05-19",
+    "upd": "1641-05-25",
+    "name": "Final Capture of Providence",
+    "desc": "Cartagena military expedition against Providence",
+    "locn": "Cartagena, Prov",
+    "agents_sp": "Adm Francisco Diaz de Pimienta, Jeronimo de Ojeda, Conde de Castimellor 1 Gal 2 Urcas 6 Ships 3 Pataches 2000 men",
+    "agents_nsp0": "Gov Carter, Sgt-Mjr Hunt",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "SANTA_FE,223 [Declaración a 2 jun 1640 / Junta a 12 jun 1640 / Lo mucho que conviene a 14 jun 1640 / Despacho a 19 jul 1640 / Relacion a 29 nov 1640 / Sedeño a Pimienta a 17 ene 1641 / Pimienta a SM a 11 sep 1641 / Pimienta a SM a 6 abr 1643] / Add MS 36323 f 297 / Mus Nav Navarrete vol 25 [Carta é informaciòn enviada por D. Juan Bitrian de Briamonte, 29 jun 1640] / Sanchez R [missg] / BL Thomason E. 141.10 [A letter [for N. Butter] from the Low Countries. 22 March, 1641/2] / Winthrop 2 34",
+    "lit_n": "Kupperman 336 fn 49 / Burns [missg] = ed 2 p 210 / Newton 295-303 / Genkins 117",
+    "note": "there were about 600 men capable of bearing arms [at Prov] /Newton 299 / < Jun 1640 Eng sailor 'Juan Simio' reports 500 men-at-arms in Prov /v Genkins 113 /SANTA_FE,L.223 [Declaracion a 2 jun 1640] / 1641 Prov. 700 residents /v Genkins 113 fn 54 / See Alison Games, *J of Slave & Post-Slave Studies* 19 (3), 'Santuarye of our Rebell Negroes' [1998], 11 /v [missg] /\n A Spaniard, who had long acted as pilot to the Prov ships and had lately fled from them to Jam, ... [guided] Pimienta and the Conde de Castimellor [in landing their men at Prov on 24 May 1641] /Newton 301 /\n Some of the English [at Prov] ... managed to make their escape in shallops to Henrietta and the Main, but almost all the principal colonists had been captured /Newton 301 / Captured residents sailed back to Sp; 400 captured slaves sold at auction in Porto Bello or Cartagena /v Genkins 120 /[missg] /\n At Christopher's they [Mass. colonists, 30 men 5 women 8 children, in ships Salutation and Sparrow] heard that a great fleet of Sp ships was abroad, and that it was feared they had taken Providence, ... And coming to the Island, [Prov], they were shot at, Capt. William Peirce and Samuel Wakeman killed ... After this, the passengers being ashamed to return, would have been set on shore at Cape Grace de Dios, or Florida, or Virginia, but the seamen would not, ... they [seamen] came all home the 3rd of September following [1641]. /v Newton 304 /Winthrop 2 34 /\n Capt. Lane, Rev. Mr. Leverton [of Prov Co] cruised WI for some years after Final Capture /Newton 305",
+    "via": "v-1.4"
+  }
+}

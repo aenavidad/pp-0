@@ -1,0 +1,24 @@
+{
+  "id": "e2175",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1606-01-01",
+    "upd": null,
+    "name": null,
+    "desc": "Tres años des- pués, en Puerto de Caballos, una fragata con seis ingleses a bor- do llegó a ese lugar",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "GT 39 ram 13 num 83 f 1r [Carta de Gregorio de Alvarado, teniente de gobernador de Honduras, Trujillo a 18 de junio de 1606] / GT 39 ram 13 num 83 f 3r [Carta de Gregorio de Alvarado, teniente de gobernador de Honduras, San Pedro de Honduras a 24 de mayo de 1606]",
+    "lit_n": "O Torres p 331",
+    "note": null,
+    "via": "harv"
+  }
+}

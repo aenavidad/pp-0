@@ -1,0 +1,24 @@
+{
+  "id": "e2183",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": true,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1616-01-01",
+    "upd": null,
+    "name": null,
+    "desc": "En 1616 una urca flamenca atacó en Jamaica a un na- vío español llamado 'Nuestra Señora de la Consolación' frente al cabo el Negrillo",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "O Torres p 336 / G Diaz pp 182-183",
+    "note": null,
+    "via": "harv"
+  }
+}

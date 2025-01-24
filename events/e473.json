@@ -1,0 +1,24 @@
+{
+  "id": "e473",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1678-01-01",
+    "upd": "1678-12-31",
+    "name": "Rivera Quintanilla entrada",
+    "desc": "Capt Rivera Quintanilla attempt a three-pronged entrada across rebel-held places in Yuc, during which Sergeant Major Antonio de Ayora Porras heads one prong of the entrada towards Chaclol, possibly towards Tipu",
+    "locn": "Campeachy, Chanpoton, Sahcabchen, Bacalar, Teabo, Tekax, Hopelchen, Chaclol, Tipuj [possibly]",
+    "agents_sp": "Gov Antonio de Layseca Alvarado, Capt Antonio de Rivera Quentanilla, Br Francisco López, Srgt-Mjr Antonio de Ayora Porras, Fr Francisco de Bolivar",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,312 f 4v-12r [Expediente sobre misiones, 1696, with Auto de ruego a 9 ene 1696] / PATRONATO,237,R.8 f 16-22 / MEXICO,248 [Méritos y servicios de Antonio de Ayora Porras] / MEXICO,920 [Probanza of Bartolomé de la Garma, 11 ago 1696, with Certificación de Don Antonio de Ayora Porras, 3 nov 1678] / ESCRIBANIA,321A [Residencia del general Don Antonio de Layseca Alvarado a 1683]",
+    "lit_n": "Jones 245",
+    "note": "Chaclol = 90 [Sp] leagues beyond [S?] Hopelchen [possibly near Tipuj] /v Jones 247 /[missg] /\n 1678 Tipuj. 600 Mayas reportedly baptised /v Jones 245-248 /[missg]",
+    "via": "v-1.4"
+  }
+}

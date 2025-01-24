@@ -1,0 +1,24 @@
+{
+  "id": "e407",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1654-10-23",
+    "upd": "1656-05-30",
+    "name": "Pérez entradas",
+    "desc": "On two entradas, Capt. Pérez reduces recently rebelled towns of Chanlacan to its former location, and Uatibil, Holpachay, Holzuz to new locations, and thereafter, on three entradas, attempts to reduce Tipuj and its adjacent towns, but mostly fails",
+    "locn": "Pacha [Bacalar-in-Pacha], Chanlacan, Uatibil, Chunhuhub, Holpachay, Holzuz, Chunukum",
+    "agents_sp": "Gov Pedro Saenz Izquierdo, Capt Francisco Pérez 6 Sp 15 Ma / later 10 Sp 60 Ma",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Jones A cap 2 / [missg] [Méritos y servicios de Capitán Francisco Pérez, 1661]",
+    "lit_n": "Jones 230-40 / Graham 249-[missg]",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

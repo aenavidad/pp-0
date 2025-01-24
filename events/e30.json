@@ -1,0 +1,24 @@
+{
+  "id": "e30",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1641-01-01",
+    "upd": "1641-12-31",
+    "name": null,
+    "desc": "Dutch buccaneers or privateers raid at least two Maya hamlets and capture two Sp during Fuensalida misión",
+    "locn": "Old, Sittee",
+    "agents_sp": "Lucas de San Miguel, Martín Tejero",
+    "agents_nsp0": "Diego Canche",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Cogolludo 653-656",
+    "lit_n": "Jones 224 fn 23",
+    "note": "Soite, Cehake location /v Jones xv-xvii, 224 /\n Possibly see 1642 Ingleses se posesionan de las islas Roatán y Guanaxa /v Lujan 2 108",
+    "via": "v-1.4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e1913",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1683-12-01",
+    "upd": "1683-12-30",
+    "name": null,
+    "desc": "Dutch pirates, buccaneers or privateers raid or assault Bodegas del Golfo [Lake Izabal = Golfo Dulce] or Castillo de San Felipe [Golfo Dulce]",
+    "locn": "Golfo Dulce, Verapaz",
+    "agents_sp": null,
+    "agents_nsp0": "Juan Zanques 3 PA",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "GUATEMALA,280 [Enriquez a 27 feb 1684]",
+    "lit_n": "Rodriguez C 40-41",
+    "note": "Dec 1683. Du pirate Zanques enters Lake Izabal = Golfo Dulce, reaches Bodegas, enters R Polochic to Verapaz, reaches Turucub where they kidnap Indian Gaspar Quema and his wife, and retire /v Rodriguez C 40-41 /GUATEMALA,280",
+    "via": "v-1.4"
+  }
+}

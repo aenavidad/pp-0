@@ -1,0 +1,24 @@
+{
+  "id": "e1885",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1660-05-16",
+    "upd": "1660-05-16",
+    "name": "James let pass",
+    "desc": "Gov of Jam Edward D'Oyley issues let-pass for frigate America or American of Capt William James",
+    "locn": "Jam",
+    "agents_sp": null,
+    "agents_nsp0": "Gov Edward D’Oyley, Capt William James",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Marley P 1 189-190",
+    "note": "21 Jan 1663 Port Royal. Capt James in America or American 6 guns 70 men sail with Commodore Myngs for Campeachy, though never reaches destination / Spring-Summer 1663 Capt Abraham Mitchell of ship Blessing reports 'That about 90 leagues this side [E? W?] of Campeachy, he met three sail of the fleet, viz. Captain William James his ship, sunk in the sea by foul weather, who was the best ship in the fleet next the Admiral, and that many of their men in the fleet were dead' / Capt James = reputed discoverer of commercial value of logwood / Possibly see E. A. Cruikshank, *The Life of Sir Henry Morgan* [Toronto, Macmillan, 1935] / sn, *Interesting Tracts Relating to the Island of Jam* [St. Jago de la Vega, Lewis, Lunan & Jones, 1800] / Michael Pawson & David J. Buisseret, *Port Royal, Jamaica* [Oxford, Clarendon Press, 1975] /v Marley P 1 189-190",
+    "via": "v-1.4"
+  }
+}

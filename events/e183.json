@@ -1,0 +1,24 @@
+{
+  "id": "e183",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1604-08-28",
+    "upd": "1604-08-28",
+    "name": "Treaty of Lon",
+    "desc": null,
+    "locn": "Lon",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Grainger 44",
+    "note": "James I interprets it to mean Eng now at liberty to colonise parts of Americas not settled by subjects of other Christian princes /v Scammell 155",
+    "via": "v-1.4"
+  }
+}

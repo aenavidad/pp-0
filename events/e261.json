@@ -1,0 +1,24 @@
+{
+  "id": "e261",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1629-08-15",
+    "upd": "1630-04-30",
+    "name": "WIC Pater Expedition",
+    "desc": "WIC send Adriaen Janszoon Pater against Sp",
+    "locn": "Netherlands, Azores, Cape Verde Islands, Pernambuco, Grenada, Cape San Antonio, Barbados, St. Kitts, Mona Passage, Trinidad, Bonaire, Santa Marta",
+    "agents_sp": null,
+    "agents_nsp0": "Adriaen Janszoon Pater, Vc-Adm Marten Thijsz 11 Ships 842 sailors 326 soldiers, Jan Janszoon van Hoorn 13 Ships",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "WIC 1.05.01.01, 2 [1 Aug, 23 Sep, 8, 12 Nov, 2 Dec 1629] / WIC 1.05.01.01, 5752 [13 Jun 1630] / WIC 1.05.01.01, 20 / Laet [missg] = Laet/Naber 2 83-[missg], 178-182 / Wassenaer 15 90 / Wassenaer 16 [missg] / Duro 4 111 / Wright D 1 p *114",
+    "lit_n": "Goslinga 206-215, 208 [Map]",
+    "note": "Reaches Grenada [Caribbean] on 1 Apr 1629 /v Goslinga 207",
+    "via": "v-1.4"
+  }
+}

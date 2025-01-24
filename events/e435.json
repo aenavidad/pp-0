@@ -1,0 +1,24 @@
+{
+  "id": "e435",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1662-12-11",
+    "upd": "1662-12-11",
+    "name": "Jam-Sp Hon trade",
+    "desc": "Council of Jam resolves to attempt trade with Sp at Cuba, Sp Hon, Campeachy",
+    "locn": "Spanish T",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "390 CSPC 5",
+    "lit_n": "Burdon 1 49",
+    "note": "Minutes of the Council of Jam ... Dec. 11. ... The trade with the King of Spain's subjects to be prosecuted by force, and an attempt made to leeward, on the coasts of Cuba, Honduras, and the bay of Campeachy /[missg] CSPC 5",
+    "via": "v-1.4"
+  }
+}

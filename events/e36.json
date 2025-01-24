@@ -1,0 +1,24 @@
+{
+  "id": "e36",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1642-11-22",
+    "upd": "1642-11-22",
+    "name": "Sacking of Bacalar",
+    "desc": "Diego el Mulato raids at least two Maya hamlets and Bacalar",
+    "locn": "Monkey, Sittee, Old, Bacalar",
+    "agents_sp": null,
+    "agents_nsp0": "Diego Lucifer de los Reyes el Mulato 70 men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,360,R.5,N.33 / MEXICO,369 ff 466-469, 529r-531v / Cogolludo 656-659",
+    "lit_n": "Molina 2 138 / Jones 226-227 fn 28-32 / Barke B 112 fn 382",
+    "note": "Campin location /v Jones 225",
+    "via": "v-1.4"
+  }
+}

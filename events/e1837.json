@@ -1,0 +1,24 @@
+{
+  "id": "e1837",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1607-01-01",
+    "upd": "1607-12-30",
+    "name": null,
+    "desc": "Pirates, buccaneers or privateers raid or assault Sto Tomás de Castillo and Puerto Caballos",
+    "locn": "Santo Tomás de Castilla, Puerto Caballos",
+    "agents_sp": null,
+    "agents_nsp0": "8 Du Urcas",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Fuentes 2 307-308",
+    "lit_n": "Lujan 2 108, 472 / Zamora 177",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

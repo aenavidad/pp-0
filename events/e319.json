@@ -1,0 +1,24 @@
+{
+  "id": "e319",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1636-01-22",
+    "upd": "1636-01-22",
+    "name": "Armada de Barlovento est",
+    "desc": "Sp Crown establishes permanent squadron, to be based in Veracruz, to defend against piracy, foreign settlements on mainland, and to escort Veracruz-Havana treasure fleets",
+    "locn": "Madrid, Veracruz [Mexico]",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "INDIFERENTE,451,L.A8 porción 1 ff 141v-144r (128v-131r) [a 26 jun 1624] / DIVERSOS-COLECCIONES,32,N.5 / MEXICO,35,N.2 / MEXICO,360,R.5,N.31",
+    "lit_n": "Lang 576 / Guat DNB 130 / Lujan 2 826",
+    "note": "Or rather 1598 /v Zahedieh F 166 no 86 /v Hussey 292, 293, 296, 297 /\n These problems [eg being absent from the Caribbean during half the year] were very apparent during the first phase of deployment [of the Armada] in the 1640s and where to plague Barlovento during the remainder of its precarious existence /v Lang 582 /\n Dating = 1667 [under command of Agustín de Diústegui] by Marley P 1 26 / See Bibiano Torres Ramírez, *La Armada de Barlovento* [Seville, Escuela de Estudios Hispano-americanos, 1981] /v Marley P 1 34 /\n 1 Nov 1591 Spain. Real cédula instructs Pres of Guat to raise taxes to est Armada of Barlovento /v Rubio G 131-132",
+    "via": "v-1.4"
+  }
+}

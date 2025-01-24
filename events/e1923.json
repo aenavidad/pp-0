@@ -1,0 +1,24 @@
+{
+  "id": "e1923",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1686-01-01",
+    "upd": "1686-12-30",
+    "name": null,
+    "desc": "Pirates, buccaneers or privateers raid or attack Castillo de San Felipe in Lake Izabal, and Verapaz",
+    "locn": "Lake Izabal, Verapaz",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Lujan 2 108, 472, 830",
+    "note": "See [1686-1699?] Amatique map in Fuentes 2 297 /\n Possibly see [c 1686] San Felipe de Palma, ó Manaca [Castillo en Golfo Dulce ie Lake Izabal] ... por el año de 1686, que gobernaba el Gen Don Enrique Enríquez, dándole fuego el pyrata Yanquez, quedó desmantelado; hasta la entrada á la Presidencia del Gen Don Jacinto de Barrios Leal, que por el principio del año 1688, dió ordern á su reedificación; por la traza, y personal asistencia, del Ing y Sarg Mayor, Don Andrés de Urbina /Fuentes 2 294",
+    "via": "v-1.4"
+  }
+}

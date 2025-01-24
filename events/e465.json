@@ -1,0 +1,24 @@
+{
+  "id": "e465",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1671-01-01",
+    "upd": "1677-12-30",
+    "name": "Naranjo misiones",
+    "desc": "Good reception of Fray Geronimo Naranjo leads to a series of missions, principally by Frays José Delgado and Francisco Gallegos [ie inc Delgado journey of 1677], resulting in reduction of Mache Chols",
+    "locn": "Manche, [missg]",
+    "agents_sp": "Fr Geronimo Naranjo, José Delgado, Francisco Gallegos",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Thompson 592 / Bolland F 18",
+    "note": "Includes Delgado misión of 1677 and Sp encounters with Bartholomew Sharp at St. George’s /\n 1678 [S Hon?] Some or vars Chol Mayans burn their reducción settlements and flee /v Bolland F 18",
+    "via": "v-1.4"
+  }
+}

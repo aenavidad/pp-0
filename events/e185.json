@@ -1,0 +1,24 @@
+{
+  "id": "e185",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1605-01-01",
+    "upd": "1606-12-30",
+    "name": "Bacalar reductions",
+    "desc": "Sp reduce unknown number of Maya towns in Bacalar province",
+    "locn": "Bacalar, Mazanila = Mazanahau, [missg]",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Jones 131",
+    "note": "[R]reductions must have been carried out from Bacalar as value of tributes from crown encomienda Mazanila = Mazanahau rose nearly fivefold from 71 pesos in 1605 to 325 pesos in 1606 /v Jones 131 /CONTADURIA,912 /\n Possibly see 1603-1606 Verapaz [Guat]. Pres Alonso Criado de Castillo sends frays Juan de Esguerra and Salvador Cipriano to reduce eight towns /v Soza [missg] = ed 2 vol 2 p 437",
+    "via": "v-1.4"
+  }
+}

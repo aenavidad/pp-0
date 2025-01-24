@@ -1,0 +1,24 @@
+{
+  "id": "e229",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1623-01-01",
+    "upd": "1623-12-15",
+    "name": "Delgado misión, Nojpeten massacre",
+    "desc": "Franciscan Fray Diego Delgado carries misión to Ma towns by Lake Peten Itza, via Tipu and with Tipu residents, all of whom are killed at Lake Peten Itza, along with a rescue party sent after them",
+    "locn": "Sacalum [Chachanha?], Tipuj, Lake Peten Itza, Bacalar",
+    "agents_sp": "Diego Delgado, Corp Fulano de Acosta 12 men / later Bernardino Ek 2 Sp men sev Ma men",
+    "agents_nsp0": "Btb Cristóbal Na 80 Tipuans",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Egerton MS 1791 / MEXICO,141 / MEXICO,145 [Petition by Francisco Camul, 1624]  / MEXICO,246 [Méritos y servicios de Juan Bernardo Casanova, 1627] / Maya R [missg] / Cogolludo lib 10 cap 2-3 / Cardenas 76",
+    "lit_n": "Jones 176 / Awe 347 / Graham 244-245 / Soza [missg] = 2 ed vol 2 pp 439-440",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

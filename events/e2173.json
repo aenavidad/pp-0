@@ -1,0 +1,24 @@
+{
+  "id": "e2173",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": true,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1606-01-01",
+    "upd": null,
+    "name": null,
+    "desc": "En 1606 Santo Tomás de Castilla recibió visita de algunos corsarios que lanzaron un ataque",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "GT 39 ram 13 num 82 f 1r [Carta de Jorge de Alvarado, gobernador de Honduras, Trujillo a 1 de junio de 1606]",
+    "lit_n": "O Torres p 336",
+    "note": null,
+    "via": "harv"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e391",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1650-01-01",
+    "upd": "1650-12-30",
+    "name": "Sanson map",
+    "desc": "Nicolas Sanson map published, inc Bacalar, Sratan, Lamanay, Ylbob",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Rushton 46",
+    "note": "See version with only Bacalar, Lamanay Link: https://gallica.bnf.fr/ark:/12148/btv1b8469958t / version with all in Graham 113 = Library of Congress copy /\n ≤ 1639 Vinckeboons map with Lamanay, Ilboo on mainland Hon Link: https://lccn.loc.gov/2003623398 / c 1705 Loots map Link: https://lccn.loc.gov/2011586011 /\n 1656 Sanson map with all Link: https://lccn.loc.gov/2004629014 / 1665 Blaeu map with Zaratan, Lamanay, Ilbob on mainland Hon /v Rushton 47 /\n Possibly see [1691 Guat] más interiores y arrimadas al Golfo de los *Guanaxos*; hay otras muchas excelentes islas, con frutos muy preciosos y paetecibles, ... [como] la [isla] de Ilbob, isla tan amplia, y tan amena, y entre las otras ya apuntadas, se mira con pequeña diferencia, y ésta con otras islas excelentes y fecundas, corren, y se sitúan á la costa del Cabo de Catoche, como son *Lamanay*, *Zaratan*, y *Pantoxa*, mas todas estas que proponemos desiertas, y inhabitables (pues ahora son páramos solitarios) /Fuentes 2 299 /\n Possibly see [1690s? Guat] están las dos [islas de Ruatán y la Guanaxa] entre el Aquilón, y el Africo, sino otras pequeñas [islas], que Figueredo en su itinerario náutico con los nombres, ó títulos de Guayama, Utila, Saona, Guaydua, Helen, San Francisco, Ilbob, Lamanay, Zaratan, y Pantoja, que en otro tiempo se vieron pobladas de los [indios] guanaxos, destribuídos, y acabados por la gente de capitanes de Pedrarias Dávila, que corren á la costa del Cabo de Catoche. /Fuentes 2 330",
+    "via": "v-1.4"
+  }
+}

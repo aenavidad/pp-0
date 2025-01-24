@@ -1,0 +1,24 @@
+{
+  "id": "e233",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1624-01-28",
+    "upd": "1624-01-28",
+    "name": "St. Christopher’s established",
+    "desc": "Thomas Warner, after agreement with Ouboutou Tegremante, leader of local Kalinago people, and with support of merchant Ralph Merrifield, brothers John Jeaffreson, Samuel Jeaffreson, brings settlers aboard the Hopewell to establish Saint Christopher, marking first non-Spanish settlement in Caribbean",
+    "locn": "Lon, St. Kitts",
+    "agents_sp": null,
+    "agents_nsp0": "Thomas Warner, Ralph Merrifield, John Jeaffreson, Samuel Jeaffreson",
+    "agents_nsp1": "Chief Ouboutou Tegremante of Kalinago",
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": null,
+    "note": null,
+    "via": "v-1.4"
+  }
+}

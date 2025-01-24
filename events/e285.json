@@ -1,0 +1,24 @@
+{
+  "id": "e285",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1632-01-01",
+    "upd": "1632-12-30",
+    "name": "Tovilla entrada",
+    "desc": "Audiencia of Guat send Capt Martín Alfonso Tovilla to Manche Chol territory to help Dominican fray Francisco Morán reduce recently revolted Manche Chol Mayas, during which they are attacked by Itza Mayas",
+    "locn": "Manche",
+    "agents_sp": "Pres Diego de Acuña, Capt Martín Alfonso Tovilla, Francisco Morán 20 soldiers",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Ximenes lib 4 cap 68",
+    "lit_n": "Jones C 51",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

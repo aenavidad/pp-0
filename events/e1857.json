@@ -1,0 +1,24 @@
+{
+  "id": "e1857",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1629-06-17",
+    "upd": "1629-09-07",
+    "name": "Battle of St Kitts",
+    "desc": "Sp expedition against St Christopher’s",
+    "locn": "St. Kitts",
+    "agents_sp": "Fadrique Álvarez de Toledo Osorio, Antonio de Oquendo 20 Gall 4000 men",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": null,
+    "note": "Many settlers escape to Mos Shore to cut logwood [brasiletto?] / See John A. Holm, PhD thesis for U of London, 1978, 'The Creole English of Nicaragua's Moskito Coast', pp 179, 315 /v Latimer 81",
+    "via": "v-1.4"
+  }
+}

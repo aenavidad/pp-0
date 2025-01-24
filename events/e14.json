@@ -1,0 +1,24 @@
+{
+  "id": "e14",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1638-03-12",
+    "upd": "1638-06-30",
+    "name": null,
+    "desc": "Diego el Mulato assaults Sp craft off Sp Hon coast from Truxillo to Amatique",
+    "locn": "Truxillo, Amatique Bay",
+    "agents_sp": "Hernando Sarco, Capt Miguel de Aratigui [missg] vecinos of Olancho",
+    "agents_nsp0": "Diego el Mulato",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "GUATEMALA,16,R.2,N.13 f 51v",
+    "lit_n": "Cardona 112-114, 45-46",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

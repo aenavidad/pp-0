@@ -1,0 +1,24 @@
+{
+  "id": "e535",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1697-09-20",
+    "upd": "1697-10-30",
+    "name": "Peace of Ryswick",
+    "desc": null,
+    "locn": "Rijswijk [Netherlands]",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": null,
+    "note": "1697 t 1699 NYC Logwood trans-shipments increase ten-fold to more than 400 tons /v Rossano 233",
+    "via": "v-1.4"
+  }
+}

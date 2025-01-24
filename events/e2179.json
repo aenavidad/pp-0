@@ -1,0 +1,24 @@
+{
+  "id": "e2179",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": false,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1606-01-01",
+    "upd": null,
+    "name": "Northern Hispaniola razed",
+    "desc": null,
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "SD 72 [Autos y testimonios tocantes a las cosas del estado de la Isla Española, 2 oct. 1606; formerly Santo Domingo 72, 53-6-6]",
+    "lit_n": "Hussey p 294",
+    "note": null,
+    "via": "harv"
+  }
+}

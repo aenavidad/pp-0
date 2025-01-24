@@ -1,0 +1,24 @@
+{
+  "id": "e1841",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1608-01-01",
+    "upd": "1608-12-30",
+    "name": "[missg] reduction",
+    "desc": "Reductions take place near Tipuj",
+    "locn": "Tipuj, [missg]",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Graham 207 / Jones 18, 132",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

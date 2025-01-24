@@ -1,0 +1,24 @@
+{
+  "id": "e305",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1634-12-25",
+    "upd": "1635-09-30",
+    "name": "WIC Jol Expedition",
+    "desc": "Cornelis Corneliszoon Jol assaults Santiago de Cuba, and thereafter cruises off Cuba and Main in search of prizes, during which they engage with Sp armadilla from Cartagena",
+    "locn": "Netherlands, Curaçao, Santiago de Cuba, Havana, Cartagena, Cuba",
+    "agents_sp": "Gov Juan de Amezqueta Quijano, Capt Juan de Ynza, Gov of Cartagena [missg], Gov Francisco Riaño y Gamboa",
+    "agents_nsp0": "Cornelis Corneliszoon Jol, Diego de los Reyes, Cornelis Janszoon van Uytgeest 2 Yachts 120 men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Wright D 2 pp *3-*13 / Laet [missg] = Laet/Naber 4 187-193 / WIC 1.05.01.01, 14 [12, 19, 21 Nov 1635] / WIC 1.05.01.01, 22 [17 Mar 1636]",
+    "lit_n": "Goslinga 234, 240 [Map]",
+    "note": "2 Yachts = Otter, Bracht /v Goslinga 235 /\n Jol captured by privateers from Dunkirk [Capt. Jacques Colaert] and imprisoned in Sp Netherlands Nov 1635 to May 1636 /v Goslinga 236 /\n Dizen [Francisco Galindo, Cristobal de Cañete] les dijeron [los 60 corsarios olandeses en una hurca de 120 toneladas en punta de Hicacos] que havia tres meses [de 11 abr 1635] que avian salido de Olanda, de donde avian salido otros cinco navios para estas [Cuba] partes, y que no avian señalado para donde. ... Y que aguardavan otros dos navios, y se avian de estar en estas costas y sobre este puerto [Havana] hasta hazer buenas presas de plata, cochinilla y sedas para bolver a Olanda. /Wright D 2 p *7 /\n Decian [la jente que el enemigo avia preso] avia quinze dias [= 1 ó 2 mar 1635] salieron [dos velas de Pie de Palo] de la isla de Curaçao, a donde llegaron de haviso de Olanda, y que quedavan en ella novecientos hombres fortificandose con yntençion de perpetuarse con los socorros que cada dia les bienen; y que trayn por piloto mayor a un mulato llamado Diego de los Reyes, natural de Sevilla, casado en Olanda, y que yvan aquel puerto de Cuba [Havana] a buscar el cobre, y haviendole dicho lo havian traydo dos naos que alli avian arrivado de la flota de Nueva España, se avia determinado a yrse, dejando amenazado de bolver al puerto con mas fuerça ... /Wright D 2 p *9",
+    "via": "v-1.4"
+  }
+}

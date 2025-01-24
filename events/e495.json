@@ -1,0 +1,24 @@
+{
+  "id": "e495",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1686-08-17",
+    "upd": "1687-04-28",
+    "name": "Castillo y Toledo entrada",
+    "desc": "Captain Juan del Castillo y Toledo charged with punishing guilty parties in Paliac murders, but Capt Castillo y Toledo rather focusses efforts on reducing Ma just north of Hondo R",
+    "locn": "Oxkutzcab, Holpat, Chanchanha [Sacalum?], Ixpimienta or Tzucpimienta",
+    "agents_sp": "Gov Bruno Tello y Guzmán, Capt Juan del Castillo y Toledo, Capt Juan Castillo del Arrúe, Fr Francisco Centurion, Fr Sebastian Méndez 129 Sp 141 Ma",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,924 [Méritos y servicios de Juan del Castillo y Toledo y Juan Castillo del Arrúe a 1717]",
+    "lit_n": "Jones 250",
+    "note": "Holpat = 130 leagues [S or SE] fm Oxkutzcab /v Jones 252",
+    "via": "v-1.4"
+  }
+}

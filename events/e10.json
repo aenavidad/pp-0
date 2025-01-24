@@ -1,0 +1,24 @@
+{
+  "id": "e10",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1638-01-01",
+    "upd": "1640-12-31",
+    "name": null,
+    "desc": "Buccaneers or privateers raid at least one Maya hamlet",
+    "locn": "Bennett’s or Northern R Lagoon",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,250,N.1",
+    "lit_n": "Jones 289 fn 59",
+    "note": "Zacatan location /v Jones xv-xvii, 289 / Upper End inferred as previous to Lower Start of next raids of Maya hamlets.",
+    "via": "v-1.4"
+  }
+}

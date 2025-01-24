@@ -1,0 +1,24 @@
+{
+  "id": "e20",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1639-02-10",
+    "upd": "1639-02-10",
+    "name": "Sacking of Guanaxa",
+    "desc": "Diego el Mulato raids and burns native hamlet on Guanaxa",
+    "locn": "Guanaxa",
+    "agents_sp": "Gov Francisco de Ávila Lugo, Capt Francisco Mejía del Tobar, Alonso Gaitán",
+    "agents_nsp0": "Diego el Mulato 2 Ships",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "GUATEMALA,16,R.2,N.13 f 55r",
+    "lit_n": "Cardona 115, 49-50",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

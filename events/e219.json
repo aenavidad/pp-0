@@ -1,0 +1,24 @@
+{
+  "id": "e219",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1620-01-01",
+    "upd": "1620-12-30",
+    "name": "Díaz de Aguilar visita",
+    "desc": "Alcalde ordinario of Bacalar Juan Alonso Díaz de Aguilar carries out a general visita of the Bacalar province ",
+    "locn": "Bacalar, [missg]",
+    "agents_sp": "Juan Alonso Díaz de Aguilar",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "CONTADURIA,913",
+    "lit_n": "Jones 193",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

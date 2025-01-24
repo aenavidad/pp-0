@@ -1,0 +1,24 @@
+{
+  "id": "e317",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1635-12-27",
+    "upd": "1636-01-29",
+    "name": "Prov Co privateering",
+    "desc": "King grants, by word of mouth before Judge of Admiralty, Prov Co freedom to undertake reprisals against Spanish",
+    "locn": "Lon",
+    "agents_sp": null,
+    "agents_nsp0": "Charles I, Henry Martin, John Pym",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "[missg] CSPC 1 [January 1636 -- Janu. 29.] / CO 124/2 f 240 / CO 1/8 ff 222-223 [No. 86] / SANTA_FE,L.223 [Maldonado a SM a 24 nov 1636]",
+    "lit_n": "Newton 207 / Offen P 23 / Genkins 85-86",
+    "note": "May 1636 Capt Robert Hunt apptd Gov and [first] Capt Gen of Prov, ordered to refit Prov Co shallops to interdict Sp trade /v Genkins 86 /CO 124/1",
+    "via": "v-1.4"
+  }
+}

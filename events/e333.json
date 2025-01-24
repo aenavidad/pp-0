@@ -1,0 +1,24 @@
+{
+  "id": "e333",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1637-01-01",
+    "upd": "1637-12-31",
+    "name": "Tipuj embassy to Sp",
+    "desc": "Tipu petitions Sp Gov Marqués de Santo Floro against their resident beneficiado and vicario and Bacalar vecinos",
+    "locn": "Negroman, Merida",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,360,R.5,N.24",
+    "lit_n": null,
+    "note": null,
+    "via": "v-1.4"
+  }
+}

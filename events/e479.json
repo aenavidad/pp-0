@@ -1,0 +1,24 @@
+{
+  "id": "e479",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1679-05-22",
+    "upd": "1679-05-22",
+    "name": "BOT re logwood",
+    "desc": "Board of Trade territorial claims to logwood districts are untenable and orders Gov of Jam to discourage logging",
+    "locn": "Lon",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "CO 1/43/107 / [missg] CSPC 10 [pp 364-366]",
+    "lit_n": "Marcus 41 / Botella-Ordinas 147 / Socolow 480-481",
+    "note": "1677 Armada de Barlovento campaign against loggers in Laguna de Terminos /v Botella-Ordinas 147 /\n See *Acts of the Privy Council of England, Colonial Series*, 6 vols [Hereford and Lon, sn, 1908-1912], vol 1 pp 814, 835 / [missg] CSPC [missg] [vol for years 1677-1680, nos or pp 343, 346, 364-365] / [missg] CSPC [missg] [vol for yrs 1681-1685, no or p 284] /v Socolow 481",
+    "via": "v-1.4"
+  }
+}

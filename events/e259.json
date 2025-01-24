@@ -1,0 +1,24 @@
+{
+  "id": "e259",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1629-01-01",
+    "upd": "1629-03-30",
+    "name": "Capt Elfrith on Henrietta",
+    "desc": "Capts Daniel Elfrith, Sussex Camock land on Henrietta Island [Isla San Andrés] near Prov during voyage aboard the Warwick and the Somers Islands",
+    "locn": "Henrietta Isl",
+    "agents_sp": null,
+    "agents_nsp0": "Capt Daniel Elfrith, Capt Sussex Camock",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Vernon [missg] [Letter 319-320, Bell to Rich Mar 1629]",
+    "lit_n": "Genkins 57",
+    "note": "24 Dec 1629 Capt Elfrith sets down in Prov /v Genkins 60 /CO 124/1 [Prov Co to Elfrith Feb 1630]",
+    "via": "v-1.4"
+  }
+}

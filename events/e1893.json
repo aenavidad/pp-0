@@ -1,0 +1,24 @@
+{
+  "id": "e1893",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1672-06-22",
+    "upd": "1672-06-22",
+    "name": "Sp deems logging piracy",
+    "desc": "Real cédula by Queen Regent of Spain directs treatment of Eng loggers as pirates",
+    "locn": "Madrid",
+    "agents_sp": "Maria Theresa of Spain",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Burdon 1 53-54 / Anderson M 211",
+    "note": "1669 Spain authorises Sp governors' issuance of commissions against Eng /v Zahedieh F 155 /CO 138/1 ff 43, 46, 136 [Modyford to Arlington 6 Jul 1670 / Considerations fm Modyford for fitting privateers]",
+    "via": "v-1.4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e2165",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": false,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1585-01-01",
+    "upd": null,
+    "name": "Pirates settle Nicaragua",
+    "desc": null,
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Williams p 54 / Levy p 37 / Bolanos sec supplement 3 p 5",
+    "note": "No evidence of settlement in Bolanos sec supplement 3 p 5, contrary to Williams p 54 /\n los piratas, para vigilar este tráfico [marítimo], se establecieron en toda esta costa de la Tologalpa, que se llamaba costa de las Perlas. Instalaron una madriguera en la laguna de Perlas y otra en la de Blewfields, en 1589, siendo entonces gobernador D. Carlos de Arellano, sucessor de Chirinos [Edwards Bryan, History of the West Indies, tomo v.--Account of the British settlement on the Mosquito shore.--London, 1773] /v Levy p 37 / No evidence of 1589 settlement in Edwards 5 pp 202-214",
+    "via": "harv"
+  }
+}

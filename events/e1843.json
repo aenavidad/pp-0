@@ -1,0 +1,24 @@
+{
+  "id": "e1843",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1610-01-01",
+    "upd": "1610-12-30",
+    "name": null,
+    "desc": "Dutch pirates, buccaneers or privateers raid or assault Puerto Caballos",
+    "locn": "Puerto Caballos",
+    "agents_sp": null,
+    "agents_nsp0": "12 Urcas",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Lujan 2 108",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

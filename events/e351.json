@@ -1,0 +1,24 @@
+{
+  "id": "e351",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1638-06-06",
+    "upd": "1638-06-06",
+    "name": "Capt Claiborne’s patent",
+    "desc": "Capt. William Claiborne receives grant of incorporation from Prov Co to settle Roatan",
+    "locn": "Lon, Roatan",
+    "agents_sp": null,
+    "agents_nsp0": "Capt William Claiborne, Maurice Thompson",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "CO 124/2 [PIC Ct. of 6 Jun 1638] / Sloane MS 793 or 894",
+    "lit_n": "Kupperman 213 fn 82, 280-281 / Newton 267, 315 / Alsedo 123",
+    "note": "cf wiki /\n The first settlement of the island by Englishmen did not last long, for they were expelled by the Spaniards in 1642 [and [some to most] either slaughtered or dispersed among the Indians /Newton 315], but the connection of England with the Bay Islands subsisted through the eighteenth century and the claims to their possession were only abandoned some fifty years ago [1860s]. /Newton 267 /\n Engaged in 'logwood' [unknown dyewood, or logwood dyed on mainland Yuc] cutting /AGCA [missg] [Declaración... de Truxillo de M. A. Tamayo, 20 jun 1642] / See W. D. Davidson, *Historical Geography* [sl, Southern University Press, 1974], 15 /v McJunkin 116",
+    "via": "v-1.4"
+  }
+}

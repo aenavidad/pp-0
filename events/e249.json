@@ -1,0 +1,24 @@
+{
+  "id": "e249",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1627-01-22",
+    "upd": "1627-09-05",
+    "name": "WIC Lucifer Expedition",
+    "desc": "Hendrick Jacobszoon Lucifer of GWC takes some ships of Sp Hon fotilla",
+    "locn": "Vlissingen, Oyapock R, Cabo de la Vela, Rio de la Hacha, Île-à-Vache, Jam, Cayman, Cabo de San Antonio, Straits of Florida",
+    "agents_sp": null,
+    "agents_nsp0": "Hendrick Jacobszoon Lucifer, Jan Pieterszoon, Galeyn van Stapels 3 Ships / later 2 Yachts",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Wright D 1 pp *101-*103, *171 [Cristóbal Aranda to Crown a 16 jul 1627 / Report by Tomás de Larraspuru 10 nov 1627, and of president of Council of Indies, Madrid, 22 nov 1627] / Add MS 36322 / Laet [missg] = Laet port [missg] 154-162",
+    "lit_n": "Goslinga 170-171, 208 [Map]",
+    "note": "Location /v Alves 51 / Location should include Comaribo, near or on Oyapock R /v Laet [missg] = Laet port [missg] p 155",
+    "via": "v-1.4"
+  }
+}

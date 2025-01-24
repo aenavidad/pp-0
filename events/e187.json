@@ -1,0 +1,24 @@
+{
+  "id": "e187",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1606-01-01",
+    "upd": "1606-06-28",
+    "name": "Du assault Sp Hon",
+    "desc": "Buccaneers or privateers attempt twice to sack Sp galleons at Sto Tomás de Castillo",
+    "locn": "Santo Tomás de Castilla",
+    "agents_sp": "2 Galleons",
+    "agents_nsp0": "[missg] Du men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Mus Nav Navarrete vol 23 ff 226-[missg] [a 28 jun 1606]",
+    "lit_n": "Goslinga 152 / Lujan 2 472, 824 / Zamora 177",
+    "note": "Possibly see 1607 Mauricio de Nasau assaults Truxillo / 1607 Pirates assault Puerto Caballos / 1613 Truxillo assaulted by Pirates, during which Alcalde of Truxillo dies /v Lujan 2 824",
+    "via": "v-1.4"
+  }
+}

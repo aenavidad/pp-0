@@ -1,0 +1,24 @@
+{
+  "id": "e445",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1665-01-01",
+    "upd": "1665-12-30",
+    "name": "Armada de Barlovento reformed",
+    "desc": "Armada de Barlovento reformed, on advice of Casa de Contratación, to better defend Sp mainland coast and islands",
+    "locn": "Cadiz, Veracruz [Mexico]",
+    "agents_sp": "Gen Juan de Urbina, Gen Pablo Fernández de Contreras, Gen Agustín Dióstegui, Adm Alonso de Campos",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Veitia lib 2 cap 5 no 5",
+    "lit_n": "Lang 582",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

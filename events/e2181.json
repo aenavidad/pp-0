@@ -1,0 +1,24 @@
+{
+  "id": "e2181",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": true,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1608-01-01",
+    "upd": null,
+    "name": null,
+    "desc": "En 1608 el gobernador de Yucatán, Carlos de Luna y Arellano, informó al rey en una misiva que frente a Sisal había algunas embarcaciones corsarias",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MX 359 ram 9 num 54 f 3r [Carta de Carlos de Luna y Arellano, gobernador de Yucatán, Mérida a 21 de junio de 1608] / MX 359 ram 9 num 53 f 13v [Carta de Carlos de Luna y Arellano, gobernador de Yucatán, Mérida a 21 de junio de 1608]",
+    "lit_n": "O Torres p 336 / O Torres aa p 115",
+    "note": null,
+    "via": "harv"
+  }
+}

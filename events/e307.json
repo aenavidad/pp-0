@@ -1,0 +1,24 @@
+{
+  "id": "e307",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1635-01-01",
+    "upd": "1635-12-30",
+    "name": "Eng Bu settled at Cape Samana",
+    "desc": "Eng buccaneers settle at Samana",
+    "locn": "Cape Samana",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Add MS 13977 f 508",
+    "lit_n": "Haring [missg] fn 110",
+    "note": "A Spaniard, writing from S. Domingo in 1635, complains of an English buccaneer settlement at [Cape] Samana ... where they grew tobacco, and preyed on the ships sailing from Cartagena and S. Domingo for Spain. /v Haring [missg] /Add MS 13977",
+    "via": "v-1.4"
+  }
+}

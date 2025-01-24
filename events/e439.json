@@ -1,0 +1,24 @@
+{
+  "id": "e439",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1663-04-28",
+    "upd": "1663-04-28",
+    "name": "Jam privateering disallowed",
+    "desc": "King asks Gov of Jam to not encourage privateering or buccaneering against Sp by soldiers or inhabitants of Jam, though existing commissions are not ordered recalled",
+    "locn": "Lon, Spanish T",
+    "agents_sp": null,
+    "agents_nsp0": "Charles II, Gov Charles Lyttleton",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "441-3 CSPC 5 / Rawl MSS A. 347 f 62 / SP 94/46 ff 280, 311",
+    "lit_n": "Haring 110",
+    "note": "he [King] has thought fit hereby to command him [Gov of Jam] to give no encouragement to such undertakings [privateering against Sp] unless they may be performed by the frigates or men-of-war attending that place [Jam] without any addition from the soldiers or inhabitants /v Haring 110 /[missg] CSPC 5 /\n [early 1664] Jam disallows public enlistment of men for trips against Sp /v Haring 110 /Rawl MSS A. 347",
+    "via": "v-1.4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e343",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1638-01-01",
+    "upd": "1638-07-10",
+    "name": "Tipuj revolt and conspiracy",
+    "desc": "Tipu refuses Sp authority, and other Maya hamlets follow suit, on threats or coercion by Tipuj, leading to Sp loss of control over Ma in Bacalar province",
+    "locn": "Tipuj, Bacalar, Merida, Chinam, Zacatan, Manan, Holpatin, Xibun, Soite, Yumpeten, Manan, Pacha",
+    "agents_sp": "Gov Marqués de Santo Floro, Fr Gregorio Marín de Aguilar, Capt Luis Sánchez de Aguilar, Francisco Sánchez de la Seña, Cristóbal Delgado, Bartolomé Gómez de Santoyo, Juan Martín de los Cedros",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,360,R.5,N.24 / MEXICO,360,R.5,N.29 / Egerton MS 1791 ff 53-54 / MEXICO,360 [Luís Sánchez de Aguilar et al. to Gov, 20 sep 1638] / [missg] [Gov to Crown, 10 jul 1638] / MEXICO,360 [Luís Sánchez de Aguilar to Gov, 29 oct, 5 nov 1638] / [missg] [Bishop of Yucatán to Crown, 5 mar 1643] / Cogolludo lib 11 cap 12 / Cardenas 97",
+    "lit_n": "Jones 189, 204 / Barke B 50",
+    "note": "Shortly before the Spanish withdrawal, in 1639, there were still nineteen village sites up to fifty leagues from Bacalar, although we are told that their inhabitants had recently fled to the Itzá country. /v Gerhard 73, citing BL item / Of the 300 or so tributaries in the [Bacalar] province, something less than 200 were allied with those of Tipu. /v Jones 206 /[missg] / By 1642, after a blackout of reports [fm Bacalar, since 1638] on the situation, the governor [of Yuc] wrote that eight of the rebel towns, consisting of some 300 families, had been congregated at Tipu itself. Only six villages of some 150 families ... remained loyal to the [Sp] crown; but of these some had fled to the forests 'either out of fear that they would be carried off by the rebels or for not being able to tolerate the weight of the work, being so few.' /v Jones 210 /[missg] [Bishop of Yucatán to Crown, 5 mar 1643] /\n All of these events [eg massacres at Tah Itza in 1623, at Sacalum in 1624], ... were the prelude ot the dramatic collapse of Spanish control over most of the Maya towns of the Bacalar province beginning in 1638, the opening year of Katun 1 Ahau. This loss of colonial control was by 1642 replaced by a regenerated Maya leadership based at Tipu. /v Jones 190 /\n Complicating our understanding of the period [1638-42] are the poorly understood effects of increasing depredations of foreign pirates along the eastern coasts [of Bacalar province], which ceertainly would have stimulated coastal Mayas to seek refuge in interior locations around Tipu. These depredations, in combination with independence movements at Tipu, had devastating implications for the villa of Bacalar, which was already in a weakened state due to its administration by an absentee leadership based at Valladolid. /v Jones 191 /\n These [Sp, mulattos and mestizos of Bacalar], he [Gov of Yuc] said, numbered only about 50 and were a miserable, poor lot, living by going from village to vilage selling things which they bartered for the locally produced cacao. In so doing, he claimed, they extorted the Indians. /v Jones 205 /MEXICO,360 [10 jul 1638] / on extortion see eg MEXICO,369 ff 537r-539 /v Barke B 61 /\n [80 Ma from Manan and Chinam] have declared that by deceits and threats from the Indians of Tipu, by messages they had sent them that they were to give obedience to their king and wished them to abandon their town [Manan], saying that if they did not do so all would die and be finished, because at such a time the Itzas would come to kill them and there would be great mortalities and hurricanes that would flood the land. /v Jones 207 /[missg] [20 sep 1638] / Holpatin likewise received these reports from Tipu, per Bacalar intelligence /v Jones 208 /\n Para fines de 1638, únicamente permanecían leales a los españoles los mayas de la naboría de San Juan Extramuros [Bacalar], Pacha, Yumpetén, Coyte [Soite?], y Xibún. /v Barke B [missg] /MEXICO,360,R.5,N.24",
+    "via": "v-1.4"
+  }
+}

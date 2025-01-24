@@ -1,0 +1,24 @@
+{
+  "id": "e1897",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1676-01-01",
+    "upd": "1676-12-30",
+    "name": null,
+    "desc": "Pirates, buccaneers or privateers raid or assault Truxillo",
+    "locn": "Truxillo",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "GUATEMALA,25 [Escovedo a Gob de Comayagua a 26 Oct 1676 / Escovedo a Corregidor de Cazabatlán a 24 Oct 1676]",
+    "lit_n": "Rodriguez C 33",
+    "note": "1676 Truxillo. Fr corsaire seizes frig La Concordia /v Rodriguez C 33 /GUATEMALA,25",
+    "via": "v-1.4"
+  }
+}

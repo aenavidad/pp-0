@@ -1,0 +1,24 @@
+{
+  "id": "e1871",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1640-01-01",
+    "upd": "1640-12-30",
+    "name": "Morán misión",
+    "desc": "Dominican fray Francisco Morán attempts to reduce runaway Manche Chol Mayas",
+    "locn": "Vera Paz [Guat], [missg], Bacalar",
+    "agents_sp": "Fr Francisco Morán",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Graham 161",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

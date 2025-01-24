@@ -1,0 +1,24 @@
+{
+  "id": "e225",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1622-03-09",
+    "upd": "1624-01-27",
+    "name": "Mirones y Lezcano entrada, Sakalum massacre",
+    "desc": "Sp entrada by Capt Francisco de Mirones y Lezcano attempts to conquer Ma at Lake Peten Itza, but does not cross Hondo, after which Franciscan Fray Diego Delgado continues on to Lake Peten Itza by himself, and which ends in massacre of the entrada party and Sp vecinos by Ma party led by priest Ah Kin Pol",
+    "locn": "Merida, Hecelchakan, Hopelchen, Ixpimienta, Sacalum [Chanchanha?]",
+    "agents_sp": "Diego Delgado, Capt Francisco de Mirones y Lezcano, Corp Fulano de Acosta, Gov Diego de Cárdenas",
+    "agents_nsp0": "Ah Kin Pol, Agustín Zima, Sebastián Dzib, Diego Yam, Diego Keh",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Egerton MS 1791 / MEXICO,141 / MEXICO,145 [Petition by Francisco Camul, 1624]  / MEXICO,246 [Méritos y servicios de Juan Bernardo Casanova, 1627] / Maya R [missg] / Cogolludo lib 10 cap 2-3 / Cardenas 76",
+    "lit_n": "Jones 155 / Jones C 48-49 / Graham 244-245",
+    "note": "The massacres of 1623-1624 at Tah Itza and Sacalum are a major departure from previous Maya strategies of rebellion. Not since 1546 had execution as a tool of rebellion on such a large scale been seen in Yuc. /v Jones 187",
+    "via": "v-1.4"
+  }
+}

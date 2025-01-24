@@ -1,0 +1,24 @@
+{
+  "id": "e523",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1695-08-15",
+    "upd": "1695-09-30",
+    "name": "Tipuj embassy to Mérida",
+    "desc": "On Captain Francico de Hariza y Arruyo’s urging or orders, Tipuj sends embassy to Merida, to render obedience, confirm local elections, and request priests",
+    "locn": "Tipuj, [missg], Merida",
+    "agents_sp": "Capt Francisco de Hariza y Arruyo, Pablo Gil de Azamar",
+    "agents_nsp0": "7 Tipuj residents",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "PATRONATO,237,R.10 [Gov a Barrios Leal a 1 dic 1695 / Auto by Gov a 7 sep 1695]",
+    "lit_n": "Jones 259",
+    "note": "Sep-Dec 1696 Tipuj. 9 secular priests sent to Tipu /v Graham 251-252 /v Jones 259-267 /[missg] /\n Possibly see relación by Franciscan Fray Andrés de Avendaño y Loyola in New Lib Ayer MS 1040 [Relazion de las dos entradas que hize a la conversion de los gentiles Ytzaex y Cehaches a 1696] inc map by Fray in Aliphat 863 / Laura Caso Barrera, *Dimensión Antropológica* 7(sn), 'Discurso evangélico y conversión, Fray Andrés de Avendaño y la conquista del Itzá (1695-1697)' [1996] /v Aliphat 861",
+    "via": "v-1.4"
+  }
+}

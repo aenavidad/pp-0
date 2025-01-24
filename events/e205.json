@@ -1,0 +1,24 @@
+{
+  "id": "e205",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1615-01-01",
+    "upd": "1615-12-30",
+    "name": "Sánchez de Aguilar reduction",
+    "desc": "Valladolid-based alcalde ordinario of Bacalar Juan Sánchez de Aguilar creates reduction towns of Petentzub and Zaczuz near Tipu",
+    "locn": "Valladolid, Bacalar, Tipuj, Petentzub, Zaczuz",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "MEXICO,148,R.1,N.27 [a sd 1630] / MEXICO,[missg] [Title of encomienda towns in Bacalar province a sd 1622] / CONTADURIA,912",
+    "lit_n": "Jones 132, 192-193",
+    "note": "In 1622, when these [Petentzub, Zaczuz, Tipuj] and other reductions were finally organised as a new encomienda, they turned out to be small communities with a total of only 136 casados. /v Jones",
+    "via": "v-1.4"
+  }
+}

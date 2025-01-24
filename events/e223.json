@@ -1,0 +1,24 @@
+{
+  "id": "e223",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1621-06-03",
+    "upd": "1621-06-03",
+    "name": "Old WIC chartered",
+    "desc": "Dutch Republic grants charter for trade monopoly to Geoctrooieerde Westindische Compagnie",
+    "locn": "Hague",
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "WIC 1.05.01.01, 13",
+    "lit_n": null,
+    "note": "In remonstrance against peace talks with Spain of 16 Nov 1629, WIC reminds States General that its efforst had been largely war-directed for the benefit of the country and that it had, for the most part, avoided strictly commercial enterprises. /v Goslinga 210 /Kon Bib PK 3909 / Prizes 1623 to 1636 in Laet [missg] = Laet/Naber 4 282-285 /v Goslinga [missg]",
+    "via": "v-1.4"
+  }
+}

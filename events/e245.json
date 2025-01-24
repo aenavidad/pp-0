@@ -1,0 +1,24 @@
+{
+  "id": "e245",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1626-05-15",
+    "upd": "1626-12-30",
+    "name": "WIC Heyn Expedition",
+    "desc": "WIC sends Pieter Pieterszoon Heyn to reinforce WIC Hendricksz Expedition against Sp",
+    "locn": "Holland, Barbados, Mona Passage, Cape San Antonio, Dry Tortugas, Cape Canaveral, Azores",
+    "agents_sp": null,
+    "agents_nsp0": "Pieter Pieterszoon Heyn 14 Ships 1700 men",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "WIC 1.05.01.01, 5752 [27 Mar 1626] / Staten 1.01.02, [missg] [Resolutions of 28 Mar 1626] / Naber W lxxiii-vii, l[missg]i-[missg], 20-27 / Wassenaer 14 53-57 / Laet [missg] = Laet/Naber 2 4-5",
+    "lit_n": "Goslinga 144 [Map], 166",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

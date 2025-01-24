@@ -1,0 +1,24 @@
+{
+  "id": "e273",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1630-05-05",
+    "upd": "1630-06-30",
+    "name": "WIC Ruyter Expedition",
+    "desc": "Gen. Loncq orders Dierick Ruyters to sail to the Caribbean against Sp, after which Ruyters joins the WIC Ita Expedition",
+    "locn": "Olinda, St. Vincent, Cape Tiburon",
+    "agents_sp": null,
+    "agents_nsp0": "Dierick Ruyters 9 t 11 Ships",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "WIC 1.05.01.01, 2 [1 Aug, 8 Nov 1629] / Laet [missg] = Laet/Naber 2 144-[missg]",
+    "lit_n": "Goslinga 216",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

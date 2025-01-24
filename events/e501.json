@@ -1,0 +1,24 @@
+{
+  "id": "e501",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1688-09-27",
+    "upd": "1697-09-20",
+    "name": "Nine Years’ War",
+    "desc": null,
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Grainger 85-112",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

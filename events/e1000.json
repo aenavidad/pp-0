@@ -1,0 +1,24 @@
+{
+  "id": "e1000",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1682-01-01",
+    "upd": "1682-05-30",
+    "name": null,
+    "desc": "Capt Jean Hamlin surprise Fleet",
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": "1 Frig",
+    "agents_nsp1": "Capt Jean Hamlin 2 Sloops 120 men",
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Marley P 1 169-170, 377-378",
+    "note": "Jan 1682 French royal frigate, Trompeuse, previously hired for commerce by Pierre LePain, is sailed to Port Royal, then to Hon for logwood; is seized by Capt Jean Hamlin 2 Sloops 120 mostly French 'desperate rogues' off CA coast [Hon?], who commandeer the Trompeuse and thereafter capture 7 or 8 Eng vessels / Late Oct 1682 Gov Lynch commissions Capt George Johnson 1 Ship 35 t 40 guns 180 men to recapture the Trompeuse / 25 Jan 1683 Jaqueene [Hispaniola, possibly Jacmel, Haiti]. HMS Guernsey, Capt Matthew Tennant, sights Trompeuse, which escapes /v Marley P 1 169-170",
+    "via": "v-1.4"
+  }
+}

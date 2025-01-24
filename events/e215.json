@@ -1,0 +1,24 @@
+{
+  "id": "e215",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1618-05-23",
+    "upd": "1648-05-15",
+    "name": "Thirty Years’",
+    "desc": null,
+    "locn": null,
+    "agents_sp": null,
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": null,
+    "note": "Possibly see Alves 51-[missg] /v Reichert 23 fn 24",
+    "via": "v-1.4"
+  }
+}

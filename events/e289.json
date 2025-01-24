@@ -1,0 +1,24 @@
+{
+  "id": "e289",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1632-06-14",
+    "upd": "1632-09-01",
+    "name": "WIC Stapels Survey",
+    "desc": "WIC sends Galeyn von Stapels to survey Yuc coast on Gulf of Mexico, and he thereafter raids and burns Sisal",
+    "locn": "Bonaire, Île-à-Vache, Cayman, Cape Catoche, Sisal, Campeachy, Havanah",
+    "agents_sp": null,
+    "agents_nsp0": "Galeyn von Stapels 2 Yachts 1 Sloop",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "WIC 1.05.01.01, 45 [14 Jun 1632] / WIC 1.05.01.01, 50, 51",
+    "lit_n": "Goslinga 225-228 / Laet [missg] = Laet port [missg] 357-258",
+    "note": "Reached Bonaire in Jul, Sacked Sisal after this / Remove? Does not survey Hon /\n 1632 Campeachy T. Llegaron á Campeachy seis navios ò embarcaciones corsarias, á cuyo socorro fuè en persona el dicho gobernador [Fernando Zenteno Maldonado], llevàndose la compañía del capt Andres Dorantes Solis, y 70 encomenderos de quienes fué cabo el capt José de Argaiz Cienfuegos: dejó en esta ocasion el mando al alcalde de primer voto que lo era el capt Andres Dorantes Magaña, y aunque se mantuvieron dos meses, se vinieron sin haber habido cosa memorable. /Museo Yucateco [Campeachy] 1 sn 142",
+    "via": "v-1.4"
+  }
+}

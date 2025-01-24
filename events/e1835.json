@@ -1,0 +1,24 @@
+{
+  "id": "e1835",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1604-03-07",
+    "upd": "1604-03-07",
+    "name": "Sto Tomas de Castilla est",
+    "desc": null,
+    "locn": "Santo Tomás de Castilla",
+    "agents_sp": "Esteban de Alvarado, Carlos Vásquez de Coronado",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Fuentes 2 301-302",
+    "lit_n": "Lujan 2 823 / Rodriguez C 19-20 / Zamora 176-177 / Andrews B 24-25",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

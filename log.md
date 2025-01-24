@@ -72,16 +72,23 @@
 - [x] requisite events record noted in `files/tran/The Baymen's experiment.rtf` written 1-4 oct 2020[^1638 Hond settlement only, but no citation and ~~possibly~~ likely assumed]
 - [x] and noted in `files/tran/THIS SETTLEMENT-TURNED-COL.rtf` written 5 oct 2020[^again 1638 settlement only, ~~possibly~~ likely assumed]
 - [x] and no other pre-feb 2021 records
-- [x] check events again for post-`v-1.4` work[^events next touched *possibly* in `red/prelim rep bz 1.4 WORK *.tsv` on 7 nov 2021, then (sort of) in `wiki/Timeline_of_piracy_in_the_Bay_of_Honduras.xml` on 18 apr 2022 (with other wikis sort of also using events data but disregarded here in favour of only this one), then in `blue/orig data events *.tsv` on 18 may 2022, then in `purp/1638 series 1.2 Events*.tsv` on 9 jul 2022, then *possibly* in `re red/rep bz fin pub 1.4 Events*.tsv` on 13 jul 2022, then in `re purp/1638 series 1.3 Events*.tsv` and `re purp/1638 series 1.5 Events*.tsv` on 18 jul 2022, then in `re purp/1638 series 1.5 safe copy Events*.tsv` on 20 jul 2022, then in `harv/1638*.tsv` on 3 aug 2022, none further]
+- [x] check events again for post-`v-1.4` work[^events next touched *possibly* in `red/prelim rep bz 1.4 WORK *.tsv` on 7 nov 2021, then (sort of) in `wiki/Timeline_of_piracy_in_the_Bay_of_Honduras.xml` on 18 apr 2022 (with other wikis sort of also using events data but disregarded here in favour of only this one), then in `blue/orig data events *.tsv` on 18 may 2022, then in `purp/1638 series 1.2 Events*.tsv` on 9 jul 2022, then *possibly* in `red/rep bz fin pub 1.4 Events*.tsv` on 13 jul 2022, then in `purp/1638 series 1.3 Events*.tsv` and `purp/1638 series 1.5 Events*.tsv` on 18 jul 2022, then in `purp/1638 series 1.5 safe copy Events*.tsv` on 20 jul 2022, then in `harv/1638*.tsv` on 3 aug 2022, none further]
 - [x] check for events work in `historical-series-re-Belize/work/*-22`[^null]
 - [x] check in `work/*-23`[^null]
 - [x] check in `work/*-24`[^null]
-- [ ] get latest records for eligible events in `json` to `pp-0/events`
+- [x] get latest records for eligible events in `json` to `pp-0/events`[^except for `/wiki` records or data, to be added later, and assuming no change in `red/rep bz fin pub 1.4 Events*.tsv` nor `red/prelim rep bz 1.4 WORK *.tsv`]
 - [x] write `events/readme.md`
 - [x] get `v-1.4` events records into one sheet, but exclude records with neither upper nor lower bound in 17th cent
 - [x] further remove meteorological and biological events
 - [x] add post-`v-1.4` event records starting wih latest version in `harv/1638*.tsv`
 - [x] check that added records use decipherable short citations[^yes in `blue/orig data sources 1.2*.tsv` (in `harv/1638 sources*.tsv` too) for records from `harv/1638 series*.tsv`]
+- [x] fix `id` values, and assign missing ones[^non-lossy odd ids > 2163 assigned ie `e2165` to `e2183`]
+- [x] fix null values[^keeping `xxx` in-text null/missing value placeholder]
+- [x] check for special `json` chars
+- [x] get `json` strings to single `tsv`
+- [x] fix character encoding issue[^Sublime Text was bugging]
+- [x] figure out how to loop over[^with `for i in $(cat ids-list.txt); do jq '.[] | select (.id=="e'"$i"'")' events.json > "e$i.json"; done` for list of ids in `ids-list.txt` and array of all objects in `events.json`]
+- [x] extract single-object `json` files
 
 ## prior log
 ### any cartas

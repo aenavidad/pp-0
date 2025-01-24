@@ -1,0 +1,24 @@
+{
+  "id": "e24",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1639-09-01",
+    "upd": "1639-09-15",
+    "name": "Sacking of Roatan",
+    "desc": "Buccaneers or privateers, with native allies, raid native hamlet on Roatan, and after a failed attempt to capture the residents, burn the hamlet",
+    "locn": "Roatan, Utila",
+    "agents_sp": "Gov Francisco de Ávila Lugo, Francisco Mejía del Tobar, Hernando Sarco, Roque de Vargas, Capt Luis Ochoa de la Torre, Capt Cosme González, Sarg Diego Romero, Cristóbal Rodríguez, Ruiz de Ayala, Pedro Murillo",
+    "agents_nsp0": "Alonso Gaitan 2 Ships [missg] natives of Guanaxa",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "GUATEMALA,16,R.2,N.13 f 110r-v",
+    "lit_n": "Cardona 115, 72",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "e253",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1628-05-01",
+    "upd": "1628-09-30",
+    "name": "WIC Heyn Expedition, Capture of Silver Fleet",
+    "desc": "WIC send Pieter Pieterszoon Heyn against Sp, who thereafter captures the Sp Silver Fleet fm Vera Cruz [Mexico]",
+    "locn": "Texel, St. Vincent, Isle of Pines [Cuba], Cape San Antonio, Grenada, St. Kitts, Tobago, Florida Straits, Havana, Isle of Wight",
+    "agents_sp": "Gen Juan de Benavides Bazán, Adm Juan de Leoz 2 MW 19 t 20 Ships",
+    "agents_nsp0": "Pieter Pieterszoon Heyn, Hendrick Corneliszoon Loncq, Joost van Trappen alias Banckert 31 Ships 2300 sailors 1000 soldiers",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Naber W [missg] / Laet [missg] = Laet/Naber 2 56-[missg] / Wassenaer 15 54 / Wassenaer 16 97-[missg] / Staten 1.01.02, [missg] [Resolutions of 29 Feb, 27, 28, 31 Mar 1628] / Duro 4 98 / Aitzema 1 720 / Kon Bib PK 3858 / WIC 1.05.01.01, 17 [8 Dec 1628]",
+    "lit_n": "Goslinga 180-192, 208 [Map]",
+    "note": "Capture of Silver Fleet on 8 Sep 1628 /v Goslinga 186",
+    "via": "v-1.4"
+  }
+}

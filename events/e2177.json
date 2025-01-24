@@ -1,0 +1,24 @@
+{
+  "id": "e2177",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": true,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1606-01-01",
+    "upd": null,
+    "name": null,
+    "desc": null,
+    "locn": "Netherlands / Santo Tomás de Castilla",
+    "agents_sp": "Mauricio de Nassau [conde] > 1 ships",
+    "agents_nsp0": null,
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": null,
+    "lit_n": "Reichert aa p 124",
+    "note": null,
+    "via": "harv"
+  }
+}

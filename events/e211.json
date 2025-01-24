@@ -1,0 +1,24 @@
+{
+  "id": "e211",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1618-04-15",
+    "upd": "1618-12-08",
+    "name": "Orbita-Fuensalida misión",
+    "desc": "Franciscan friars Orbita and Fuensalida appointed for a misión to Ma towns by Lake Peten Itza",
+    "locn": "Merida, Tekax, Bacalar, Hondo, New, New R Lagoon, Labouring Creek, Old, Tipuj, Lake Peten Itza",
+    "agents_sp": "Juan de Orbita, Bartolomé de Fuensalida, Juan de Acevedo, Gonzalo de Salazar, Gregorio Marín de Aguilar, Andrés Carillo de Pernia",
+    "agents_nsp0": "Cristóbal Na, Isabel Pech, Francisco Cumux",
+    "agents_nsp1": "Can Ek, Capt Ah Chata Pol, Capt Ahau Puc",
+    "press_n": null,
+    "prim_n": "Cogolludo lib 9 cap 4-13",
+    "lit_n": "Jones 135-148 / Graham 240-244",
+    "note": "There were some 100 vecinos in all in Tipu, suggesting a total population of about 340 /v Jones 139 /[missg] /\n 1616-1617 Fr Juan de Orbita visits Nojpeten, and possibly or likely is received by Can Ek /v Graham 243 /v Jones 134, 152 /[missg] /\n 1619 Frays Fuensalida, Orbita, and [non-Fray?] Gregorio de Aguilar return to Nojpeten via Tipu, encounter resurgence of idolatry at Tipu; proselytising purpose of visit to Nojpeten foiled by Can Ek's wife /v Graham 244 /v Jones 18-19, 148-149 /[missg]",
+    "via": "v-1.4"
+  }
+}

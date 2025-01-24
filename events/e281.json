@@ -1,0 +1,24 @@
+{
+  "id": "e281",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1631-04-26",
+    "upd": "1632-03-15",
+    "name": "WIC Neckere Expedition",
+    "desc": "WIC sends Jonathan de Neckere to reinforce WIC Booneter Expedition, but does not manage to meet with Booneter, and goes on his own against Sp",
+    "locn": "Olinda, Barbados, St. Vincent, Ile a Vache, Santa Marta",
+    "agents_sp": null,
+    "agents_nsp0": "Jonathan de Neckere, Cornelis Corneliszoon Jol 1 Ship 2 Yachts",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "Kernkamp 143 / WIC 1.05.01.01, 21 [8 Jan, 13 Feb 1631]",
+    "lit_n": "Goslinga 220",
+    "note": "Neckere returns to Netherlands mid-Sep 1631, Jol in the yacht Otter returns half a year later /v Goslinga 221",
+    "via": "v-1.4"
+  }
+}

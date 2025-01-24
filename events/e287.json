@@ -1,0 +1,24 @@
+{
+  "id": "e287",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "pir": null,
+    "pir_n": null
+  },
+  "data": {
+    "lbd": "1632-04-01",
+    "upd": "1632-09-04",
+    "name": "WIC Thijsz Expedition",
+    "desc": "WIC send Marten Thijsz against Sp",
+    "locn": "Olinda, Barbados, Ile a Vache, Havana",
+    "agents_sp": null,
+    "agents_nsp0": "Marten Thijsz 22 Ships",
+    "agents_nsp1": null,
+    "press_n": null,
+    "prim_n": "WIC 1.05.01.01, 2 [29 Dec 1631]  / WIC 1.05.01.01, 45 [Resolutions of Adm. M. Thijsz and his councils] / Laet [missg] = Laet/Naber 3 89, 117-119",
+    "lit_n": "Goslinga 224",
+    "note": null,
+    "via": "v-1.4"
+  }
+}

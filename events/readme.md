@@ -36,7 +36,7 @@ imported and generated chronicle data
 | `press_n` | string | - | cf pointer to press |
 | `prim_n` | string | - | cf pointer to primary sources |
 | `note` | string | - | notes |
-| `via` | string | - | import source of record[^use to decode short citations] |
+| `via` | string | - | import source of record[^use to decode short citations, with full citations for `v-1.4` in `historical-series-re-Belize/v-1.4/Sources*.tsv` and for `harv` in `pre-git-hist/files/harv/1638 sources*.tsv`] |
 
 ## licence
 none

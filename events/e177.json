@@ -1,9 +1,9 @@
 {
   "id": "e177",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
-    "pir": null,
+    "pir": true,
     "pir_n": null
   },
   "data": {

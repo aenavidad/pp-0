@@ -1,10 +1,10 @@
 {
   "id": "e1919",
   "work": {
-    "cod": null,
-    "cod_n": null,
-    "pir": null,
-    "pir_n": null
+    "cod": true,
+    "cod_n": "not duplicate checked",
+    "pir": true,
+    "pir_n": "counting cruise"
   },
   "data": {
     "lbd": "1685-01-01",

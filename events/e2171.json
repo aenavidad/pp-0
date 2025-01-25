@@ -2,7 +2,7 @@
   "id": "e2171",
   "work": {
     "cod": null,
-    "cod_n": null,
+    "cod_n": "missing info",
     "pir": null,
     "pir_n": null
   },
@@ -13,7 +13,7 @@
     "desc": null,
     "locn": null,
     "agents_sp": null,
-    "agents_nsp0": "Michael Geare, Christopher Newport, Hippon, ^^^ [French, in 5 slavers] 8 ships [2400-2800 tn, >> 200 men] ie Archangel [300-350 tn], Neptune [300-350 tn], Phoenix [300-350 tn], sn [300-350 tn], sn [300-350 tn], sn [300-350 tn], sn [300-350 tn], sn [300-350 tn]",
+    "agents_nsp0": "Michael Geare, Christopher Newport, Hippon, [missg] [French, in 5 slavers] 8 ships [2400-2800 tn, >> 200 men] ie Archangel [300-350 tn], Neptune [300-350 tn], Phoenix [300-350 tn], sn [300-350 tn], sn [300-350 tn], sn [300-350 tn], sn [300-350 tn], sn [300-350 tn]",
     "agents_nsp1": null,
     "press_n": null,
     "prim_n": "MX 25 num 29 ff 1r-v [Carta de la Real Audiencia de Guatemala, Santiago de Guatemala a 26 de febrero de 1603] / MX 25 num 29 f 3v [Carta del virrey conde de Monterrey, Texcoco a 26 de marzo de 1603] / MX 25 num 37 ff 1r-v [Carta de la Real Audiencia de Guatemala, Santiago de Guatemala a 11 de abril de 1603] /\n GT 39 ram 13 num 81 ff 1r-2r [Carta de Jorge de Alvarado, gobernador de Honduras, Trujillo a 20 de marzo de 1603] /\n SD 177 ram 21 f 1r [Carta Fernando Melgarejo, gobernador de Jamaica, Jamaica a 13 de junio de 1603]",

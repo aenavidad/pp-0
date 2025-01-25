@@ -1,8 +1,8 @@
 {
   "id": "e2165",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": false,
+    "cod_n": "not in Hond Bay",
     "pir": false,
     "pir_n": null
   },

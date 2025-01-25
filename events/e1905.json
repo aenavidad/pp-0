@@ -1,10 +1,10 @@
 {
   "id": "e1905",
   "work": {
-    "cod": null,
-    "cod_n": null,
-    "pir": null,
-    "pir_n": null
+    "cod": true,
+    "cod_n": "not duplicate checked",
+    "pir": true,
+    "pir_n": "counting cruise as piracy"
   },
   "data": {
     "lbd": "1679-09-26",

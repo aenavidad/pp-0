@@ -1,8 +1,8 @@
 {
   "id": "e2173",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": true,
+    "cod_n": "not duplicate checked",
     "pir": true,
     "pir_n": null
   },

@@ -1,9 +1,9 @@
 {
   "id": "e1903",
   "work": {
-    "cod": null,
-    "cod_n": null,
-    "pir": null,
+    "cod": true,
+    "cod_n": "not duplicate nor source checked",
+    "pir": true,
     "pir_n": null
   },
   "data": {

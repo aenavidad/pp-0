@@ -89,7 +89,9 @@
 - [x] fix character encoding issue[^Sublime Text was bugging]
 - [x] figure out how to loop over[^with `for i in $(cat ids-list.txt); do jq '.[] | select (.id=="e'"$i"'")' events.json > "e$i.json"; done` for list of ids in `ids-list.txt` and array of all objects in `events.json`]
 - [x] extract single-object `json` files
-- [ ] fill in `cod` values for all `events/e*.json` files
+- [x] fill in `cod` values for all `events/e*.json` files
+- [ ] check for `/events` completeness against missed post-`v-1.4` records in `/wiki`
+- [ ] check for completeness against published lit[^eg file for `/harv` full citations]
 
 ## prior log
 ### any cartas

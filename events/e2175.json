@@ -2,7 +2,7 @@
   "id": "e2175",
   "work": {
     "cod": true,
-    "cod_n": "not duplicate checked",
+    "cod_n": "no 1606 duplicates",
     "pir": true,
     "pir_n": "counting cruise/trade"
   },
@@ -10,10 +10,10 @@
     "lbd": "1606-01-01",
     "upd": null,
     "name": null,
-    "desc": "Tres años des- pués, en Puerto de Caballos, una fragata con seis ingleses a bor- do llegó a ese lugar",
-    "locn": null,
+    "desc": "Tres años después, en Puerto de Caballos, una fragata con seis ingleses a bordo llegó a ese lugar",
+    "locn": "Pto Caballos, Xequexa [Sp Hon]",
     "agents_sp": null,
-    "agents_nsp0": null,
+    "agents_nsp0": "6 men 1 frig",
     "agents_nsp1": null,
     "press_n": null,
     "prim_n": "GT 39 ram 13 num 83 f 1r [Carta de Gregorio de Alvarado, teniente de gobernador de Honduras, Trujillo a 18 de junio de 1606] / GT 39 ram 13 num 83 f 3r [Carta de Gregorio de Alvarado, teniente de gobernador de Honduras, San Pedro de Honduras a 24 de mayo de 1606]",

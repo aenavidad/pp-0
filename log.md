@@ -91,7 +91,14 @@
 - [x] extract single-object `json` files
 - [x] fill in `cod` values for all `events/e*.json` files
 - [ ] check for `/events` completeness against missed post-`v-1.4` records in `/wiki`
+    - [x] fix newline occurrences[^with `sed -i '' 's: /\\n :\\n :g' * `]
+    - [x] did up to 1605
+    - [ ] pull short citations before proceeding to fill in info gaps
 - [ ] check for completeness against published lit[^eg file for `/harv` full citations]
+- [ ] get all short cites in `/events` for `true` and `null` `cod` values
+    - [x] for `harv` done
+    - [x] for `v-1.4`
+    - [ ] get into `bib` file
 
 ## prior log
 ### any cartas

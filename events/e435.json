@@ -1,8 +1,8 @@
 {
   "id": "e435",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": false,
+    "cod_n": "no incidents in data note",
     "pir": null,
     "pir_n": null
   },

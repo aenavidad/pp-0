@@ -1,8 +1,8 @@
 {
   "id": "e341",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": false,
+    "cod_n": "apocryphal",
     "pir": null,
     "pir_n": null
   },

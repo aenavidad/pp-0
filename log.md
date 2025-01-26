@@ -99,7 +99,8 @@
     - [x] 1610s done
     - [x] 1620s done[^used `jq -s '.' e*.json > temp.json` to merge events jsons into array in `temp.json`, then `jq '.[] | select(.key != null) | select(.key | contains("foo")) .id' temp.json` to query for `foo` value in `key` to find duplicates or events with tricky start/end dates]
     - [x] 1630s
-    - [ ] 1640s
+    - [x] 1640s
+    - [ ] 1650s
 - [ ] check for completeness against published lit[^eg ~~file for `/harv` full citations~~ `harv` citations not yet reviewed ie `jq '.[] | select (.via=="harv" and .short_cite==null and .old_short_cite==null)' citations.json`]
 - [x] get all short cites in `/events` for `true` and `null` `cod` values
     - [x] for `harv` done

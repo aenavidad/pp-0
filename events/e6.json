@@ -2,7 +2,7 @@
   "id": "e6",
   "work": {
     "cod": true,
-    "cod_n": "not duplicate checked",
+    "cod_n": "no 1637 duplicate",
     "pir": true,
     "pir_n": null
   },
@@ -17,7 +17,7 @@
     "agents_nsp1": null,
     "press_n": null,
     "prim_n": "GUATEMALA,16,R.2,N.13 f 12v-13v, 21r-40v",
-    "lit_n": "Cardona 112, 31-[missg] / Newman 263",
+    "lit_n": "Cardona 112-113, 31-33 / Newman 263",
     "note": "Were anchored in western coast of Utila; one ship was Sp prize of Juan Rodriguez de Olmeda; had been on voyage from Prov or Lon since Sep 36; inform at least three pirate or priv crews interested in attacking Sp Hon = Pie de Palo, Diego el Mulato, Thomas Newman /v Cardona 45\n Sp prizes = Nuestra Señora del Carmen, San Francisco Solano / Privateers under licence from King Charles I, as revenge for massacre by Sp of Eng at Tortuga / Prisoners inc = Guillermo Drode, Richard Prisinstein, Juan Pincar [possibly John Prinkard] / 6 Dec 1638 -- Capt. Newman sells hides and tallow in Boston, still under commission of Prov Co /Winthrop 1 183",
     "via": "v-1.4"
   }

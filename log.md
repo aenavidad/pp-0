@@ -90,7 +90,7 @@
 - [x] figure out how to loop over[^with `for i in $(cat ids-list.txt); do jq '.[] | select (.id=="e'"$i"'")' events.json > "e$i.json"; done` for list of ids in `ids-list.txt` and array of all objects in `events.json`]
 - [x] extract single-object `json` files
 - [x] fill in `cod` values for all `events/e*.json` files
-- [ ] check for `/events` completeness against missed post-`v-1.4` records in `/wiki`
+- [x] check for `/events` completeness against missed post-`v-1.4` records in `/wiki`
     - [x] fix newline occurrences[^with `sed -i '' 's: /\\n :\\n :g' * `]
     - [x] did up to 1605
     - [x] pull short citations before proceeding to fill in info gaps
@@ -100,7 +100,11 @@
     - [x] 1620s done[^used `jq -s '.' e*.json > temp.json` to merge events jsons into array in `temp.json`, then `jq '.[] | select(.key != null) | select(.key | contains("foo")) .id' temp.json` to query for `foo` value in `key` to find duplicates or events with tricky start/end dates]
     - [x] 1630s
     - [x] 1640s
-    - [ ] 1650s
+    - [x] 1650s
+    - [x] 1660s
+    - [x] 1670s
+    - [x] 1680s
+    - [x] 1690s
 - [ ] check for completeness against published lit[^eg ~~file for `/harv` full citations~~ `harv` citations not yet reviewed ie `jq '.[] | select (.via=="harv" and .short_cite==null and .old_short_cite==null)' citations.json`]
 - [x] get all short cites in `/events` for `true` and `null` `cod` values
     - [x] for `harv` done

@@ -93,8 +93,13 @@
 - [ ] check for `/events` completeness against missed post-`v-1.4` records in `/wiki`
     - [x] fix newline occurrences[^with `sed -i '' 's: /\\n :\\n :g' * `]
     - [x] did up to 1605
-    - [ ] pull short citations before proceeding to fill in info gaps
-- [ ] check for completeness against published lit[^eg file for `/harv` full citations]
+    - [x] pull short citations before proceeding to fill in info gaps
+    - [ ] ~~review up to 1605 to make sure all refs are in record~~[^do later]
+    - [x] 1600s done
+    - [x] 1610s done
+    - [x] 1620s done[^used `jq -s '.' e*.json > temp.json` to merge events jsons into array in `temp.json`, then `jq '.[] | select(.key != null) | select(.key | contains("foo")) .id' temp.json` to query for `foo` value in `key` to find duplicates or events with tricky start/end dates]
+    - [ ] 1630s
+- [ ] check for completeness against published lit[^eg ~~file for `/harv` full citations~~ `harv` citations not yet reviewed ie `jq '.[] | select (.via=="harv" and .short_cite==null and .old_short_cite==null)' citations.json`]
 - [x] get all short cites in `/events` for `true` and `null` `cod` values
     - [x] for `harv` done
     - [x] for `v-1.4`

@@ -5,6 +5,7 @@ private repo for paper work
 - ``log`` has activity logs from 23 dec 2024
 - `/cartas` has manuscript data
 - `/events` has event data
+- `citations.json` has full citations for short citations in manuscript and event data
 ## licence
 none
 ## history

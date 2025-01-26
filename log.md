@@ -95,10 +95,13 @@
     - [x] did up to 1605
     - [ ] pull short citations before proceeding to fill in info gaps
 - [ ] check for completeness against published lit[^eg file for `/harv` full citations]
-- [ ] get all short cites in `/events` for `true` and `null` `cod` values
+- [x] get all short cites in `/events` for `true` and `null` `cod` values
     - [x] for `harv` done
     - [x] for `v-1.4`
-    - [ ] get into `bib` file
+    - [x] get into ~~`bib`~~ `json` file[^`bib` seems too hard for this]
+        - [x] done for `harv`
+        - [x] done for `v-1.4`
+- [x] add `/cartas` and `/events` citations to `pp-0`
 
 ## prior log
 ### any cartas

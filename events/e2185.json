@@ -1,0 +1,26 @@
+{
+    "id": "e2185",
+    "work":
+    {
+        "cod": null,
+        "cod_n": "not sure if in Hond Bay",
+        "pir": null,
+        "pir_n": null
+    },
+    "data":
+    {
+        "lbd": "1668-01-01",
+        "upd": "1669-02-06",
+        "name": null,
+        "desc": "English capture Sp ship and bring to Jamaica",
+        "locn": "Jam",
+        "agents_sp": null,
+        "agents_nsp0": null,
+        "agents_nsp1": null,
+        "press_n": "Oprechte Haerlemsche Courant no 6 p 2",
+        "prim_n": null,
+        "lit_n": null,
+        "note": "Amsterdam den 6 February. [...] Over Vranckrijck is confirmatie, dat de Engelsse een Spaens Schip vande Honduras haddegenomen en aen Iamaica opgebracht. /Oprechte Haerlemsche Courant no 6 [for 7 Feb 1669] p 2 [https://resolver.kb.nl/resolve?urn=ddd:010926810:mpeg21:p002]",
+        "via": null
+    }
+}

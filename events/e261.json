@@ -1,8 +1,8 @@
 {
   "id": "e261",
   "work": {
-    "cod": false,
-    "cod_n": null,
+    "cod": null,
+    "cod_n": "unsure if incl Hond Bay",
     "pir": null,
     "pir_n": null
   },
@@ -18,7 +18,7 @@
     "press_n": null,
     "prim_n": "WIC 1.05.01.01, 2 [1 Aug, 23 Sep, 8, 12 Nov, 2 Dec 1629] / WIC 1.05.01.01, 5752 [13 Jun 1630] / WIC 1.05.01.01, 20 / Laet [missg] = Laet/Naber 2 83-[missg], 178-182 / Wassenaer 15 90 / Wassenaer 16 [missg] / Duro 4 111 / Wright D 1 p *114",
     "lit_n": "Goslinga 206-215, 208 [Map]",
-    "note": "Reaches Grenada [Caribbean] on 1 Apr 1629 /v Goslinga 207",
+    "note": "Reaches Grenada [Caribbean] on 1 Apr 1629 /v Goslinga 207\n Possibly passed by Hond Bay before getting to Bahamas Channel in Sep 1629 /Courante uyt Italien, Duytslandt, &c. no 46 [for 17 Nov 1629] f 1v [https://resolver.kb.nl/resolve?urn=MMKB08:000213427:mpeg21:p002] / Van de Veluwe den 15 dito [Novemb.]. [...] Zedert dat den Admirael Pater, met sijne byhebbende Dlote van 13. Schepen in West-Indien geweest is om cenigh goet avontuer se becomen zijn gheen Schepen van Nova Spaengien ofte Honduras t' zeyl ghegaen voor 't welcke hy de voorsz Custe (te meer alsoo de Winter op handt quam) heest verlaten ende is inde Canael van Bahama gecomen alwaer hem gerescontreeert zijn 12. Schepen uyt dese Landen voor cenige maenden t' zeyl ghegaen met allerhande verversinghe met dewelcke hy noch in Zee ghebieven is; ende heest 9. van sijne Schepen in September na dese Landen ghesonden waer af het Schip de Princesse in Zeelandt ghearriveert is d' andere werden alle daghen verwacht mede brenghende een parthye Suyckeren Huyden ende andere Waren die sy hier ende daer verovert hebben; is alsoo den voorsz Admirael met noch 16. Schepen in Zee. /Courante uyt Italien, Duytslandt, &c. no 46 [for 17 Nov 1629] f 1v",
     "via": "v-1.4"
   }
 }

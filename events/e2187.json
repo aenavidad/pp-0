@@ -1,0 +1,26 @@
+{
+    "id": "e2187",
+    "work":
+    {
+        "cod": true,
+        "cod_n": null,
+        "pir": true,
+        "pir_n": null
+    },
+    "data":
+    {
+        "lbd": "1670-01-01",
+        "upd": "1671-07-03",
+        "name": null,
+        "desc": "Pirates, who had been to Panama, made for Veracruz, but instead reached Hond, where they obtained little booty",
+        "locn": "Panama, Hon, Jam",
+        "agents_sp": null,
+        "agents_nsp0": null,
+        "agents_nsp1": null,
+        "press_n": "Oprechte Haerlemsche Courant no 34 p 2",
+        "prim_n": null,
+        "lit_n": null,
+        "note": "Londen den 18 Augusti. [...] Hier zijn mede 2 Schepen van Iamaica gearriveert; nae men hoort, hadden 't de Capers aldaer vry slecht: want met Brieven van Iamaica, van den 3 July, werdt geadviseert, hoe dat de resteerende Capers, die aen Panama zijn geweest, van daer vertreckende, meynden Vera Kruys aen te doen, doch dreven te Lywaert, soo dat voorby dreven: daer van daen raeckten sy aen de Honduras, en zijn soo voorts aen Iamaica gekomen, seer miserabel gestelt, hebbende grooten Honger uytgestaen, en weynigh Buyt bekomen, alsoo de Galjoenen vertrocken waeren. /Oprechte Haerlemsche Courant no 34 [for 22 Aug 1671] p 2 [https://resolver.kb.nl/resolve?urn=ddd:010927273:mpeg21:a0003]",
+        "via": null
+    }
+}

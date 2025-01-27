@@ -106,6 +106,15 @@
     - [x] 1680s
     - [x] 1690s
 - [ ] check for completeness against published lit[^eg ~~file for `/harv` full citations~~ `harv` citations not yet reviewed ie `jq '.[] | select (.via=="harv" and .short_cite==null and .old_short_cite==null)' citations.json`]
+    - [ ] add Dutch newspapers[^eg 1674 cruise in [*Amsterdam Courant* no 23](https://resolver.kb.nl/resolve?urn=ddd:010899155:mpeg21:a0003), etc]
+    - [ ] add French newspapers[^only 1687-88 attack in [*Paris Gazette* no 24](https://gallica.bnf.fr/ark:/12148/bpt6k64416791/f304.item) found]
+    - [ ] add Cordingly *Under the Black Flag*
+    - [ ] add Dow *Pirates of the New England Coast*
+    - [ ] add Salmoral *Piratas, bucaneros, filibusteros*
+    - [ ] add Marley *Sack of Veracruz*
+    - [ ] add Marley *Pirates and Privateers*
+    - [ ] add Skowronek *X Marks the Spot*
+    - [ ] add Moreau *Pirates*
 - [x] get all short cites in `/events` for `true` and `null` `cod` values
     - [x] for `harv` done
     - [x] for `v-1.4`

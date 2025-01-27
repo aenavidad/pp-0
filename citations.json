@@ -30948,7 +30948,7 @@
         "description": "vol 1 to 8 of 8 / reprint of 1st ed",
         "imprint": "[Toronto, Ont.] : CanDoo Creative Publishing",
         "catalogue0": "https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_hathitrust_hathifiles_txu_059173010222648",
-        "catalogue1": null,
+        "catalogue1": "https://ufdc.ufl.edu/title-sets/uf00075409",
         "catalogue2": null,
         "note": "First published London: Mitchell, Hughes and Clarke, 1910-1919, in 6 vols / vol 8 of 2000 reprint = indexes of volumes 1 to 7 of 2000 reprint",
         "via": "harv"
@@ -32525,7 +32525,7 @@
         "description": "vol 1 of 1 / [missg] ed",
         "imprint": "Madrid: Editorial MAPFRE",
         "catalogue0": "http://id.lib.harvard.edu/alma/990037885170203941/catalog",
-        "catalogue1": null,
+        "catalogue1": "http://www.larramendi.es/es/consulta/registro.do?id=9934",
         "catalogue2": null,
         "note": null,
         "via": "harv"

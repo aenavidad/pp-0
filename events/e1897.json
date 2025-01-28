@@ -13,11 +13,11 @@
     "desc": "Pirates, buccaneers or privateers raid or assault Truxillo",
     "locn": "Truxillo",
     "agents_sp": null,
-    "agents_nsp0": null,
+    "agents_nsp0": "Julien Santer 1 Ship",
     "agents_nsp1": null,
     "press_n": null,
     "prim_n": "GUATEMALA,25 [Escovedo a Gob de Comayagua a 26 Oct 1676 / Escovedo a Corregidor de Cazabatlán a 24 Oct 1676]",
-    "lit_n": "Rodriguez C 33",
+    "lit_n": "Rodriguez C 33 / Moreau 103-104",
     "note": "1676 Truxillo. Fr corsaire seizes frig La Concordia /v Rodriguez C 33 /GUATEMALA,25",
     "via": "v-1.4"
   }

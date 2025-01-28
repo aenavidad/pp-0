@@ -94,7 +94,7 @@
     - [x] fix newline occurrences[^with `sed -i '' 's: /\\n :\\n :g' * `]
     - [x] did up to 1605
     - [x] pull short citations before proceeding to fill in info gaps
-    - [ ] ~~review up to 1605 to make sure all refs are in record~~[^do later]
+    - [x] ~~review up to 1605 to make sure all refs are in record~~[^do later]
     - [x] 1600s done
     - [x] 1610s done
     - [x] 1620s done[^used `jq -s '.' e*.json > temp.json` to merge events jsons into array in `temp.json`, then `jq '.[] | select(.key != null) | select(.key | contains("foo")) .id' temp.json` to query for `foo` value in `key` to find duplicates or events with tricky start/end dates]
@@ -105,16 +105,16 @@
     - [x] 1670s
     - [x] 1680s
     - [x] 1690s
-- [ ] check for completeness against published lit[^eg ~~file for `/harv` full citations~~ `harv` citations not yet reviewed ie `jq '.[] | select (.via=="harv" and .short_cite==null and .old_short_cite==null)' citations.json`][^with `null` value for `via`, non-lossy odd ids > 2183 assigned ie `e2185` to `e2191`]
+- [x] check for completeness against published lit[^eg ~~file for `/harv` full citations~~ `harv` citations not yet reviewed ie `jq '.[] | select (.via=="harv" and .short_cite==null and .old_short_cite==null)' citations.json`][^with `null` value for `via`, non-lossy odd ids > 2183 assigned ie `e2185` to `e2191`]
     - [x] add Dutch newspapers[^eg 1674 cruise in [*Amsterdam Courant* no 23](https://resolver.kb.nl/resolve?urn=ddd:010899155:mpeg21:a0003), etc]
     - [x] add French newspapers[^only 1687-88 attack in [*Paris Gazette* no 24](https://gallica.bnf.fr/ark:/12148/bpt6k64416791/f304.item) found]
     - [x] add Cordingly *Under the Black Flag*[^a `harv` ref, but used in a `v-1.4` event]
-    - [ ] ~~add Dow *Pirates of the New England Coast*~~{^no 17th cent events}
+    - [x] ~~add Dow *Pirates of the New England Coast*~~[^no 17th cent events]
     - [x] add Salmoral *Piratas, bucaneros, filibusteros* [^a `harv` ref, but used in a `v-1.4` event]
-    - [ ] add Marley *Sack of Veracruz*
-    - [ ] add Marley *Pirates and Privateers*
-    - [ ] add Skowronek *X Marks the Spot*
-    - [ ] add Moreau *Pirates*
+    - [x] add Marley *Sack of Veracruz*
+    - [x] ~~add Marley *Pirates and Privateers*~~[^2010 ed of this source covered]
+    - [x] add Skowronek *X Marks the Spot*
+    - [x] add Moreau *Pirates*
     - [x] add missing press from `yell/data serial*.tsv`
 - [x] get all short cites in `/events` for `true` and `null` `cod` values
     - [x] for `harv` done

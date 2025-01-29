@@ -123,6 +123,17 @@
         - [x] done for `harv`
         - [x] done for `v-1.4`
 - [x] add `/cartas` and `/events` citations to `pp-0`
+- [ ] code `cartas`
+    - [x] 1617
+    - [ ] 1616
+    - [ ] 1615
+    - [ ] 1614
+    - [ ] 1613
+    - [ ] 1612
+    - [ ] 1611
+    - [ ] 1610
+    - [ ] 1609
+    - [ ] 1608
 
 ## prior log
 ### any cartas

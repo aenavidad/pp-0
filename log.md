@@ -125,7 +125,7 @@
 - [x] add `/cartas` and `/events` citations to `pp-0`
 - [ ] code `cartas`
     - [x] 1617
-    - [ ] 1616
+    - [x] 1616
     - [ ] 1615
     - [ ] 1614
     - [ ] 1613

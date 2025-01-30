@@ -1,7 +1,7 @@
 {
   "id": "c570",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.47"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice lo bien q se observa en aquellas Provinçias el Rl Patronazgo, y avisa el rezivo dela z.la q vltimam.te sele embio sobre esto a q no se le ofreze q añadir /v img 3"
   }
 }

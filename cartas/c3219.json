@@ -1,7 +1,7 @@
 {
   "id": "c3219",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.15,N.74"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta de que el Virrey le entrego una çedula para que fuese a Guadalajara ala averiguaçion de los proçedim.tos del oidor [etc] /v img 3"
   }
 }

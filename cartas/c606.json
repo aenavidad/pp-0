@@ -1,7 +1,7 @@
 {
   "id": "c606",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.82"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta de haver rezivido la z.la q se le embio s.re q Cuidase de la buena administras.on de las doctrinas q los obpos Cumpliesen con sus obligaziones [etc] /v img 6"
   }
 }

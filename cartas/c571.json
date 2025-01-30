@@ -1,7 +1,7 @@
 {
   "id": "c571",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.48"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que guardava el cumplim.to de lo q sele ordena para q quando Vengan Procuradores de las Religiones a pedir religiosos no lo pueda hazer sin licençia y ynformes suyos y del obpo y ofi.s R.s /v img 4"
   }
 }

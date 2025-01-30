@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.106"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere las cartas que remite con este pliegos i los puntos sobre que /v img 3\n 3 - Otra sobre el saco de bacalar Por el enemigo /v img 1"
   }
 }

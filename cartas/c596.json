@@ -1,7 +1,7 @@
 {
   "id": "c596",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.73"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "sobre los inconvenientes q se ofrecen de que los oydores escrivan a SM en puntos de govierno, y en otros q se ofrecen del Rl servicio /v img 4"
   }
 }

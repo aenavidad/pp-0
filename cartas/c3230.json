@@ -1,7 +1,7 @@
 {
   "id": "c3230",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.15,N.85"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta delos derechos exorbitantes que llevan los Ministros del desp.o de la m.a Annata /v img 4"
   }
 }

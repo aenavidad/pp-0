@@ -1,7 +1,7 @@
 {
   "id": "c568",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.45"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "en ex.on de lo q se le ordeno por Cedula de 23 de Julio de 656 s.re nombrar difensores al t.po q se cuentan los Pueblos de Indios [etc] /v img 4"
   }
 }

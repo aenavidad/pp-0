@@ -1,7 +1,7 @@
 {
   "id": "c569",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.46"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que ha dado prevista al fiscal de todo lo q a su pedimiento se Introduze y q siendo costumbre dar el Press.te las prorrogaziones de los ofiz.s q provee, pidio el fiscal sele diese Vista antes de darlas /v img 4"
   }
 }

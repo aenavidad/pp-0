@@ -1,7 +1,7 @@
 {
   "id": "c580",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.57"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Acusa el rezivo del dupp.do de la z.la en q se declaro q sea Capitulo de residençia a los Gov.res y demas ministros delos Puertos el admitir Navios estrangeros y diçe q la hiço publicar quando rezivio el principal para q se observase con q no tiene q añadir /v img 3"
   }
 }

@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.105"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re W Yuc smuggling",
+    "mil_n": "Avisa dela sentencia dada contra lorenco perez por haver metido un Navio olandes en el Puerto de Campeche /v img 4"
   }
 }

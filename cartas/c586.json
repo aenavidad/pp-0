@@ -1,7 +1,7 @@
 {
   "id": "c586",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.63"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Informa como sele mando s.e la administraz.on delas Alcavalas de aquella Cu.d [etc] /v img 3"
   }
 }

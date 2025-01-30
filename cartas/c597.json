@@ -1,7 +1,7 @@
 {
   "id": "c597",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.74"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice lo q ha pasado en razon de quitar el ofizio de Alguaçil m.or de aquella Aud.a a D. Gabriel de salazar /v img 4"
   }
 }

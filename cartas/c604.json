@@ -1,7 +1,7 @@
 {
   "id": "c604",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.80"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da q.ta de haver hecho notificar alas Religiones el emplazam.to que se despacho de las sentençias de Vista y revista del Conss.o en el pleyto q se ha seguido s.re la paga de los diezmos /v img 3"
   }
 }

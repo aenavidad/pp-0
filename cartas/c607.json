@@ -1,7 +1,7 @@
 {
   "id": "c607",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.83"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "none on Hon piracy nor defence found",
+    "mil_n": "Avisa el reçivo delos despachos q se le embiaron con la flota /v img 4"
   }
 }

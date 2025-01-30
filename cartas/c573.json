@@ -1,7 +1,7 @@
 {
   "id": "c573",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.50"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que en ex.on de lo q se le ordeno para Vna encomienda q su antecesor dio a D fr.co de escovar q se compuso de quatro q havian Vacado y se denego la Confirmaz.on= [etc] /v img 4"
   }
 }

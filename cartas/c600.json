@@ -1,7 +1,7 @@
 {
   "id": "c600",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.76BIS"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que en Cumplimiento delo que sele mando por Cedula de 28 de Ag.to de 658 para que solicitase imbiasen los offiz.s R.s lo tocante a la tercera parte delas dos Vacantes de aquel obispado a peticion suya /v img 4"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c590",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.67"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que en compania de su muger llevo a D.a Margarita de Mencossa sobrina hija de Vn hermano suyo q sirivo a SM muchos años en guerra Viva, en cuya conss.on de los efectos de su provision q estan considganos para Viudas y [etc] /v img 4"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c599",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.76"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que haviendo Tenido noticia que Isidro de zepeda Vez.o de aquella ciu.d siendo M.re de Vn Navio que Naufrago el año 40 se avia aprovechado de 5U p.os que no se savia de cuyos dueños eran [etc] /v img 3"
   }
 }

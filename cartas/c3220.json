@@ -1,7 +1,7 @@
 {
   "id": "c3220",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.15,N.75"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Que dará Cumplimento al despacho que sele remitio sobre el off.o de s.no mayor de govierno y guerra dela n.a spaña q se dio a D.n Pedro Velazquez dela Cadena [etc] /v img 3"
   }
 }

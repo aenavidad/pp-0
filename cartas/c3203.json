@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.104"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "no specific piracy incidents found",
+    "mil_n": "Sobre la remision delos informes y testimonios que refiere y por que vias por principal y dup.do /v img 3\n procuro que VM tenga enteras notizias [ill] Con que desseo emplearme en su mayor servisio de que se causan y an causado grandes y sangrientos enemigos pero [ill] aia siempre padezeran los que viven Como yo mortales [etc] /v img 1"
   }
 }

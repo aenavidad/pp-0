@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.107"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre el cobro que se dio en interior [?] al cargo de thes.ro off.l R.l de aquella Prov.a por haver muerto el propietario i en lo que se ha venefiçiado este off.io i meritos dela pers.a que le exerce /v img 3"
   }
 }

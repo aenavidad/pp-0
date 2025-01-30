@@ -1,7 +1,7 @@
 {
   "id": "c572",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.49"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta de haver continuado las diligencias sobre la Arrivada de Vn Vagel que hiva de canaria a campeche y arivo ala Playa de trugillo de que dio q.ta [etc] /v img 4"
   }
 }

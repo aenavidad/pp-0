@@ -1,7 +1,7 @@
 {
   "id": "c3228",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.15,N.83"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Diçe a reçivido la presentaz.on dela raçion de que SM le ha hecho mr.d= Representa su edad y servi.os y supp.ca le haga mr.d /v img 3"
   }
 }

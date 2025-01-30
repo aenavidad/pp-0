@@ -1,7 +1,7 @@
 {
   "id": "c583",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.60"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Avisa el rezivo de 32 zedulas s.re diferentes materias y q los q tocan ala Aud.a dara cumplim.to con ellas y q los q hablan con el satisfara aparte /v img 3"
   }
 }

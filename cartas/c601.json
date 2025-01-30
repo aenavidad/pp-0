@@ -1,7 +1,7 @@
 {
   "id": "c601",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.77"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que haviendo reçivido las z.las para q no Vsasen [ill] de s.nos los q no tuviesen notarias de las Indias dize se nombro a Vn Receptor por s.no de Cam.a el qual se opuso a lo pedido [etc] /v img 4"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c566",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.43"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Acusa el rezivo dela z.la Gen.l q se le embio para que las cajas de vienes de Difuntos esten donde tiene el oficio el s.no de este Juzgado [etc] /v img 4"
   }
 }

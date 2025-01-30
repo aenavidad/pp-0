@@ -1,7 +1,7 @@
 {
   "id": "c3232",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.15,N.87"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta de que ha dado su residenzia el Castellano y Alcalda mayor de Acapulco [etc] /v img 4"
   }
 }

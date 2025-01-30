@@ -1,7 +1,7 @@
 {
   "id": "c579",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.56"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que obedezera la z.la s.re los obrages de tinta añil Vso de su fabrica y Visitas q se hazen a sus Dueños, y q procurara q los In.os no sean molestados /v img 3"
   }
 }

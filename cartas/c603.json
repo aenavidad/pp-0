@@ -1,7 +1,7 @@
 {
   "id": "c603",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.79"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta a VM del estado que tiene la causa del descamino que hiço a[ill]ez q importo 2[ill]U300 R.s del a ocho siete Cadenillas de oro y otras Cosas que llevava enel Galeon santiago que se perdio enla Ylsa de quita sueños: y remite testim.o sobre esto: /v img 7"
   }
 }

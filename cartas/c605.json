@@ -1,7 +1,7 @@
 {
   "id": "c605",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.81"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "none on Hon found",
+    "mil_n": "Con aviso del reçivo de diferentes despachos /v img 4"
   }
 }

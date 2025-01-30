@@ -1,7 +1,7 @@
 {
   "id": "c595",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.72"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que en Cumplimiento dela z.la q se embio para q se guardase la forma en el benefiçio de las terceras Vidas de encomiendas y Informase quantas y a quien se havian concedido /v img 4"
   }
 }

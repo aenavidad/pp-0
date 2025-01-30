@@ -1,7 +1,7 @@
 {
   "id": "c592",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.69"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Satisface alo que sele ordeno por cedula de 5 de x.e 659 para q sin dilacion se tomasen las quentas q tenian presentadas los off.s dela Rl hacienda de aquella ciu.d [etc] /v img 4"
   }
 }

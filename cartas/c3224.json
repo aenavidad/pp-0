@@ -1,7 +1,7 @@
 {
   "id": "c3224",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.15,N.79"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Diçe tiene notiçia de que SM le embia a Campeche a vna comiss.on aunque no a llegado el desp.o a su mano por Venir en primer lug.r al oidor Don Ant.o albarez de castro [etc] /v img 4"
   }
 }

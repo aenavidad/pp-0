@@ -1,7 +1,7 @@
 {
   "id": "c3231",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.15,N.86"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "ymbia reçivo delos despachos que ha tenido del Cons.o y diçe da quenta del estado en que los tiene, y la remite a manos del s.or fiscal /v img 3"
   }
 }

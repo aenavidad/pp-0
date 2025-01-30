@@ -1,7 +1,7 @@
 {
   "id": "c591",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.68"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que hico notoria a la zui.d la z.la para q ningun obpo fuese rezivido conpalio [?] y q asi se observara /v img 3"
   }
 }

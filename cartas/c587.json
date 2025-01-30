@@ -1,7 +1,7 @@
 {
   "id": "c587",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.64"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Avisa el Recivo dela z.la de 10 de Mayo 58 en que sele mando solicitase con [ill] oydor comisario del papel sellado y los offi.s R.s y demas personas a quien tocase este derecho al ajustam.to del consumo cobranza y Remision de su procedido que a tenido /v img 4"
   }
 }

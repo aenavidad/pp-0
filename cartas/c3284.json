@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.100"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re W Yuc smuggling",
+    "mil_n": "Con autos sobre comercias con olandeses el Capitan Ant.o Maldonado y otras cosas tocantes a el y representando los graves, y repetidos daños q desto se siguran sino se ocurriese luego al rem.o ... Desde 25 de Abril de 660 esta en poder del R.or Valle Una causa Contra Maldonado sobre esto mis.o /v img 8\n tube avisso que avian passado ala vista de tierra dos naos grandes y que yvan la buelta del puerto de Campeche /v img 1"
   }
 }

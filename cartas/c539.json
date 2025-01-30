@@ -1,7 +1,7 @@
 {
   "id": "c539",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.16"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre su llegada a aquella ziu.d y poss.on en que queda de sus cargos [=] Sobre la neçes.d de aquella Provincia i neçesidad que ai para que aquellos vasallos se repacen del comerçio con las naos de Rexistro por la via de honduras para beneficiar sus Aniles /v img 8"
   }
 }

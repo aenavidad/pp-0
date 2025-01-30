@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.75"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "none on E Yuc found",
+    "mil_n": "Refiere el delito de Andres de los Reyes sobre aver apresado un pingue olandes con pretexto de q la presa avia sido de Ingleses /v img 7"
   }
 }

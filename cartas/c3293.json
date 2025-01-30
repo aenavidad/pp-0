@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.76"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice haver tenido notiçia que d. Ant.o m.do de Aldana Viene al Conss.o a Indultarse: pide se Vean los autos y q no sirviendo con 50U--p.s no paga el Indulto /v img 4"
   }
 }

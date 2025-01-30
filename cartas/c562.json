@@ -1,7 +1,7 @@
 {
   "id": "c562",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.39"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "en aprovacion del sarx.to m.or D. fran.co de Valdes Alcalde m.or de sonsonate /v img 3"
   }
 }

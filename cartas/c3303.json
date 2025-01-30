@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.86"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Acusa el vecino de vna Y.a p.ra [?] q ni alos Virreyes Pres.tes ni Gov.res se da la Paz con Patena /v img 3"
   }
 }

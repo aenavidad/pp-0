@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.91"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Avisa el reçivo dela zedula de SM de 23 de julio de 658 tocante ala forma en que se han de reçivir alos obpos q.do entran en su obispado que no pudo ejecutar con D. Fr. Luis de zifuentes por la raçon que refiere /v img 3"
   }
 }

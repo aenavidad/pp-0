@@ -1,7 +1,7 @@
 {
   "id": "c548",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.25"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Que va dando satisfaz.on al libram.to de 3U--p.s q se mandaron dar para la reedificacion del hospital de s.n hu.o [?] de Dios en los effectos destinados para ayudas de costa de pobres benemeritos de aquella Provj.a [etc] /v img 4"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c542",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.19"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Informa como sele ha pedido de los proçedim.tos de D. Joseph de ocampo y de como estan detenidas sus causas i sin seguir con lo demas q sele ofreçe enla mat.ria /v img 30\n sobre los procedim.tos de d.n Joseph de ocampo /v img 62"
   }
 }

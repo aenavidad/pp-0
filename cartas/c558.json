@@ -1,7 +1,7 @@
 {
   "id": "c558",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.35"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Remite testim.o de haverse publicado en aquella ciu.d la cedula de SM de 11 de maio de 658 en raçon de las arrivadas maliçiosas q pretenden hacer navios extrangeros y comerçiar p.a que se ejecute lo q en ella se hordena [etc] /v img 3"
   }
 }

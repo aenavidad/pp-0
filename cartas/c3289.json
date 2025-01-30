@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.72"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl W Yuc smuggling, and E Yuc loss of ship due to weather",
+    "mil_n": "Avisa la perdida del Galeon sanctiago Y los muchos olandeses q rodean aquellos mares, y imbia Testim.o dela mu.te del Thes.o D.n Xptval de Guzman y Valenzuela= /v img 7\n Señor estos Mares se van llenando de Velas Marchantas de olandeses. de Campeche echado quatro en Vn año de Sumo ynteres. y si fuera ministro que quisiera [img 3] aBandonar la reputaçion fuera Rico a españa solo Con haverlas permitido Comerçiar /v img 3-4"
   }
 }

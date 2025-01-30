@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.81"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "En aprobacion de d. Alo [?] quadron, que con nobram.to del Prov.l fue a castigar el desacato que los religiosos de s. fran.co hicieron con el then.te /v img 6"
   }
 }

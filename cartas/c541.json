@@ -1,7 +1,7 @@
 {
   "id": "c541",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.18"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "en prosecuz.on del Informe hecho con la Aud.a s.re quitar los coregim.tos q en la Proj.a de Nicaragua provee el Press.te de Guatemala= Dize los inconvenientes q se siguen de q lo sean personas nazidas y criadas en dha Proj.a /v img 4"
   }
 }

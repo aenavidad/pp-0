@@ -1,7 +1,7 @@
 {
   "id": "c550",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.27"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
-    "def": null,
+    "def": true,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "general piracy noted, but no particular incidents noted",
+    "mil_n": "Sobre las vias por donde ha encamindo sus cartas despues que llego a aquella ziu.d i en que tiempos i sobre que materias= [...] Sobre el modo de obrar del fiscal i remite los autos que se han formado sobre la arrivada de Un bagel que salio delas Islas p.a Campeche de Registro i llego al Puerto de trujillo en aquellas costas, en que supone se justifican las calidades q refiere deste sugeto [...] Sobre la perdida del Galeon santt.o y lo demas q le ofreçe en esta razon [=] Sobre que aquellas Prov.as en toda la costa del norte no tienen Puerto de elecçion i por esta [ill]ser no se ha fortificado el de trujillo i por otras q refiere [=] Representa q es mui conbeniente q se mantega la fuerça de s. Phelipe que esta ala boca del Golfo por las razones que refiere [etc] /v img 14\n tengo presentte Un caso de arrivada de Vn Bagel que tomo Rexistro en las Yslas de Canario para Campeche, de que Remito a VM la copia Ynclusa y Autentica delos auttos [etc] /v img 16\n el Galeon s.n tiago Vno delos quatro de Refuerço que Vinieron con la Armada delas Yndias del Cargo del Marques de Villa Rubia [...] buelto a Salir la buelta de la Havana por mala navegaçion naufrago en la travesia dela costa de Bacalar, salvandose milagrosam.te en un Islote toda la gente sin Ver la tierra firme ni saver el Paraje donde estavan, y enel se detubieron 53 dias hasta fabricar vn barco grande con los despojos dela nao en el qual y en la lancha se Embarco la gente y Vino a parar a la boca del Rio de Vlua [etc] /v img 20\n Estas Provincias en toda la Costa situada sobre la mar del Norte no tienen puerto de Elecçion y por esta Raçon ha Parezido hescusar [img 21] hazer fortificaçiones para Resguardarlos Vaxeles que vienen de Rexistro q aunque antiguam.te, Ubo Una en Trujillo por ser sino Puertto zerrado playa segura alos Vienttos y porque sirvase de defensa ala tierra que entonz estava poblada. pero Reconociendose despues de haverla saqueado el enemigo y llevadose la Artilleria del fuertte que pa la mucha distanzia que del havia asta el surjidero no defendia las naos Como tambien Experimento pues [ill] ocasion en que fue Menester echar a pique las que havia para q no las llevasen cosarios se a dejado de fortificar este puerto por ynutil y tambien Por despoblado. [=] El Puerto de s.to Thomas de Castilla fue el de q Usavan antiguam.te las naos quando Venian Cap.na y Almi.ta y fuera sin duda este el mas aproposito para fortificarle [etc] este fuerte [s.n Phelipe] se mantiene desde su fundazion y se ha Reconoçido ser de ymportanzia [etc] /v img 21-22"
   }
 }

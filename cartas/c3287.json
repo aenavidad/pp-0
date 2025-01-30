@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.103"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Con Testim.o dela mu.te del Racionero de la Ig.a de aquella Ciu.o Joseph de espinosa /v img 3"
   }
 }

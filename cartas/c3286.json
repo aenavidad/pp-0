@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.102"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Cita los desp.os q remite /v img 3\n las consultas que van Para el cons.o en este pliego es las sigientes. /v img 1"
   }
 }

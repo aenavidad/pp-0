@@ -1,7 +1,7 @@
 {
   "id": "c547",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.24"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Que a empezado a pedir el donatibo que se mando con ocass.on del nacimiento de el Principe su s.or y que espera imbiar cosa considerable en el primer embmio de plata que venga de aquella Provj.a /v img 4"
   }
 }

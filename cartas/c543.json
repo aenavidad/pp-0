@@ -1,8 +1,8 @@
 {
   "id": "c543",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": false,
+    "cod_n": "not topic relevant",
     "stat": null,
     "stat_n": null
   },

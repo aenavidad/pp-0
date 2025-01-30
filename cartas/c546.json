@@ -1,7 +1,7 @@
 {
   "id": "c546",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.23"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que por muerte del D.r D. xptoval de Torres ha entrado en el Jusgado de vienes de difunsos, sobre lo q ha obrado de que embia testim.o y que destos efectos embiara el m.or embio que pueda /v img 4"
   }
 }

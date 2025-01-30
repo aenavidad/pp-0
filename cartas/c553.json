@@ -1,7 +1,7 @@
 {
   "id": "c553",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.30"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que sobre las matt.rias en que embia autos se remite a los pliegos que van Registrados en la nao de permision y aora solo embia dup.do de sus cartas en duda de q alcanzen al aviso que despacha el Duq. de Alburquerque [=] sobre que es mui combeniente que vaian Navios de Registro a Honduras con quien se puedan comerçiar [etc] /v img 6"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c554",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.31"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre que conforme Juzgare por combeniente proponga ó no en el Conss.o que en racon delas naos que fueren alli de Registro sobre que escrive a SM para comerciar los frutos dela tierra i los generos que llevaren sele embie despacho para q pueda indultas las mercaderias que dhas Naos llevacen fuera de Registro i de contravando siguiendo el ejemplar q ay en esta razon /v img 4"
   }
 }

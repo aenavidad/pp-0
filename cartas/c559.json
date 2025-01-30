@@ -1,7 +1,7 @@
 {
   "id": "c559",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.36"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "en aprovaçion del liz.do D. fran.co de zamora y Marquez Relator de aquella audi.a /v img 3"
   }
 }

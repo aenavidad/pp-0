@@ -1,7 +1,7 @@
 {
   "id": "c549",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.26"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Informa como se le ordeno el numero de Relijiosos que ay en aquellas Provj.as y el que tiene cada convento, Vicarias, y doctrinas de q Embia testimonio /v img 3"
   }
 }

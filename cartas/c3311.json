@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.94"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re W Yuc defence",
+    "mil_n": "Sobre lo que combiene poner enel Puerto de campeche th.te de cap.n Gen.l forastero que sea de toda satisfaçion nombrado por SM por el Gov.or de aquella Prov.a /v img 4"
   }
 }

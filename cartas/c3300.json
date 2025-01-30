@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.83"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "shipwreck due to weather in NE Yuc",
+    "mil_n": "que tiene dada quenta de la perdida del Galeon nombrado sanctiago, y de todas las dilig.as hechas sobre esto= /v img 4"
   }
 }

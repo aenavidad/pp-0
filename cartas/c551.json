@@ -1,7 +1,7 @@
 {
   "id": "c551",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.28"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Haze Rel.on delos sugetos que estan sirviendo i han servido a SM en aquellas Prov.as i delos Prevendados de aquella Igl.a i abla en Raçon de sus prozedim.tos= /v img 4"
   }
 }

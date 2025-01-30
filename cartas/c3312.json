@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.95"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "none on E Yuc found",
+    "mil_n": "Tracta de diferentes puntos sobre algunos Navios extrangeros q alli llegaron y la competencia con D.n Ju.o de escalante y Turcios /v img 19"
   }
 }

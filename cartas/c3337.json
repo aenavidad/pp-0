@@ -1,8 +1,8 @@
 {
   "id": "c3337",
   "work": {
-    "cod": null,
-    "cod_n": null,
+    "cod": false,
+    "cod_n": "not geogr relevant",
     "stat": null,
     "stat_n": null
   },

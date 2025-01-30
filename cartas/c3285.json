@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.101"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re W Yuc smuggling",
+    "mil_n": "Acompaña vna Carta en q da quenta delos Navios q alli llegaron /v img 3\n En este plieo remito al cons.o carta dandole aviso delos tres navios de olandeses que llegaron al puerto de Campeche y como vinieron por hodren del capp.an Ant.o maldonado /v img 1"
   }
 }

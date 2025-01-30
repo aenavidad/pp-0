@@ -1,7 +1,7 @@
 {
   "id": "c538",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.3,N.15"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da q.ta de aver llegado a 6 de enero y tomado aquel dia posess.on de sus cargos (de que imbia testimonio) y dice que es muy necessario que vaya cada año a aquella Provj.a las Naos de Rex.o que se acostumbrava siempre= /v img 4"
   }
 }

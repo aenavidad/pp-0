@@ -1,7 +1,7 @@
 {
   "id": "c622",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.5,N.98"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "s.re lo q se le mando por cedula de 26 de g.re de 659 tocante al dar Vista al fiscal de los papeles de mentor de las personas q pretendiesen rentas y ofiçios [etc] /v img 8"
   }
 }

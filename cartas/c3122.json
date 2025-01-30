@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.1,N.3"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re W Yuc smuggling",
+    "mil_n": "que ha savido llegava ya el Juez de Residencia y le q.dava esperando para proseguir las causas de los culpados en haver comerciado con Navios estrangeros en Campeche [etc] /v img 4"
   }
 }

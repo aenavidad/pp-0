@@ -1,7 +1,7 @@
 {
   "id": "c3143",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.16,N.98"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere algunos serviçios particulares tocantes ha Haz.da Rl, y el ofreçim.to que hiço al Duque de Alburquerq. por que le diese por libre del Asiento q tenia el dho dela renta delos Naypes [etc] /v img 4"
   }
 }

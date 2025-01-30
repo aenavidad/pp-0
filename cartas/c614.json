@@ -1,7 +1,7 @@
 {
   "id": "c614",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.5,N.90"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere lo q ha padeçido con las molestias q le hizo D. P.o Carrillo siendo Press.te de Panama /v img 4"
   }
 }

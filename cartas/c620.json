@@ -1,7 +1,7 @@
 {
   "id": "c620",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.5,N.96"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "En cuanto al pleyto q Sirvio con los Albagea de Adam Diaz Portugues dice lo q ha pasado como fue condenado en Vista ala restituz.on de 11U--R.s y q en la revista salio en discordia [etc] /v img 3"
   }
 }

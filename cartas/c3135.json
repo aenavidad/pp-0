@@ -1,7 +1,7 @@
 {
   "id": "c3135",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.16,N.90"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere que hallandose en disençion muy enperiados en competenzias de jurisdiçion, el Arçobpo de Mex.co y el obpo dela Puebla /v img 4"
   }
 }

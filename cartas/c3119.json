@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.110"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "none on E Yuc found",
+    "mil_n": "Refiere largam.te lo mucho que a padecido en aquel gov.o El miserable estado en q se halla [etc] /v img 8"
   }
 }

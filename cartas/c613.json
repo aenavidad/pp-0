@@ -1,7 +1,7 @@
 {
   "id": "c613",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.5,N.89"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re Hon smuggling",
+    "mil_n": "Cerca dela llegada de Vn pingue olandes al P.to de s.to thomas /v img 4"
   }
 }

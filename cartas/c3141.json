@@ -1,7 +1,7 @@
 {
   "id": "c3141",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.16,N.96"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta del Benefizio que pretendio Don Ant.o de Monrroy y figueroa sele hiziese dela Plaza de thesorero dela caxa Rl de Mex.co que vacó por muerte de Don Jus.o de chavida [etc] /v img 3"
   }
 }

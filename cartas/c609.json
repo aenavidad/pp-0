@@ -1,7 +1,7 @@
 {
   "id": "c609",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.5,N.85"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl Hon smuggling",
+    "mil_n": "Acusa el rezivo dela Cedula s.e q se avergiue la mala administraçion dela Caja de honduras y se remitan los autos al Conss.o y dice queda en su poder con q se executara el tomar la quenta en haviendo Juezes /v img 37"
   }
 }

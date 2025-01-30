@@ -1,7 +1,7 @@
 {
   "id": "c619",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.5,N.95"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly re Hon smuggling",
+    "mil_n": "Refiere las Instançias q ha hecho para q se diese Cumplimiento a Vna z.la de SM [sobre la Visita dela Caja de Honduras] [etc] /v img 3"
   }
 }

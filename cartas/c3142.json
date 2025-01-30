@@ -1,7 +1,7 @@
 {
   "id": "c3142",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.16,N.97"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere que por z.la de 17 de m.co de 660 sele m.do hiziese las Instançias neçess.as en la Aud.a p.a que se diese auto ss.e los pedim.tos que tenia hechos y q en prim.a ocass.on diese quenta delo proveido remitiendo Testim.o dello [etc] /v img 4"
   }
 }

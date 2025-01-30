@@ -1,7 +1,7 @@
 {
   "id": "c3136",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.16,N.91"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Informan delos meritos y partes de fr. Ju.o dela torres comisario Gn.l q ha sido siete años de su Religion de s.n fran.co /v img 4"
   }
 }

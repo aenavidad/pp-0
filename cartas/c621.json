@@ -1,7 +1,7 @@
 {
   "id": "c621",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.5,N.97"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Satisfaçe a haver dado Vista al fiscal de quanto por cedulas R.s esta dispuesto hasta de los Juzgados de Milpas y q havieno proveydo dos en personas de su casa se opuso a ello el fiscal [etc] /v img 4"
   }
 }

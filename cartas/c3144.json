@@ -1,7 +1,7 @@
 {
   "id": "c3144",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.16,N.99"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Con la informaz.on delos meritos del d.or d.n Juan de Magana y Pacheco Canonigo mas antiguo de la Iglesia de Michoacan /v img 3"
   }
 }

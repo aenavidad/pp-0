@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.1,N.1"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta del estado en q hallo la Prov.a de Yucatan y de haverla hallado con la epidemia gen.l que à tanto t.po se padece en ella [etc] /v img 6"
   }
 }

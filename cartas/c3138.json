@@ -1,7 +1,7 @@
 {
   "id": "c3138",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.16,N.93"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Supp.ca se bean los autos que bienen En la flota çerca delas quejas que contra el dio el liz.do Don Pedro foz de Baeça Press.te que fue dela Aud.a de Guadalax.ra /v img 4"
   }
 }

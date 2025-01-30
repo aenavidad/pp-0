@@ -1,7 +1,7 @@
 {
   "id": "c616",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.5,N.92"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "slightly possibly incl Hon smuggling",
+    "mil_n": "quejase de que el fiscal D Pedro frajo lleva ala Audiencia por apelazion la mayor partes delos autos q provee en Govierno. Y dize ha dado petiçiones (de q remite testimonio) haziendo Informaz.nes de q se han ocultado para revender algunas mercadurias y s.re esto discurre largam.te y en el testimonio Viene la disposiçion delos testigos. y no se prevea en ella lo pedido por el fiscal /v img 4"
   }
 }

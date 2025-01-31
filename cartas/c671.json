@@ -1,7 +1,7 @@
 {
   "id": "c671",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.4,N.47"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta recivio la Cedula en que se m.da que las perss.as que nombrase p.a los Corregimientos dela Provin.a de Nicaragua fuesen delas calidades que esta mandado por Rs Çedulas /v img 3"
   }
 }

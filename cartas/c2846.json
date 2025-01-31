@@ -1,7 +1,7 @@
 {
   "id": "c2846",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.1,N.3"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Aprueba el Govierno del Marques de Manjera, y Diçe han çesado las Inquietudes que a abido entre el Conde de Baños y obpo dela Puebla con la llegada del Marq.s= /v img 4"
   }
 }

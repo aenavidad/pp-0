@@ -1,7 +1,7 @@
 {
   "id": "c2838",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.1,N.1"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da q.ta a VM de aver Tomado la Posesion del Governo de aquel Reino el Virey Marq.s de Mancera y del modo Con que Proçede en el /v img 1"
   }
 }

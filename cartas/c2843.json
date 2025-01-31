@@ -1,7 +1,7 @@
 {
   "id": "c2843",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.1,N.14"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere que por ced.a de 22 de junio de 665 sele cometio la continuacion dela residençia del Conde de Baños /v img 4"
   }
 }

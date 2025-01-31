@@ -1,7 +1,7 @@
 {
   "id": "c2847",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.1,N.4"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dize a 18 años que a que sive asi en el Nuebo Reyno de granada como en la plaza de fiscal de Mex.co [...] supp.ca sele pase ala Audienzia de lima /v img 4"
   }
 }

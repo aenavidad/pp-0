@@ -1,7 +1,7 @@
 {
   "id": "c670",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.4,N.46"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "remite testimonio delas diligen.as que a hecho en observançia de diferentes Çedulas en que sele mando se bolviesse a traer en Almon.da el off.o de s.no publico y vissitas dela Verapaz /v img 4"
   }
 }

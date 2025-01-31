@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.30"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere q d. Rodrigo flores tomo possession a 1.o de 9.e del año passado /v img 4"
   }
 }

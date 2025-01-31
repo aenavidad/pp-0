@@ -1,7 +1,7 @@
 {
   "id": "c666",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.4,N.42"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
-    "def": null,
+    "def": true,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "assuming re coastal defence for Hon",
+    "mil_n": "Da quenta que en execuçion dela Cedula que sele remitio a prov[ill] el gasto que se hiço en la prebenz.on y defenssa delas Provin.as de Honduras y Comayagua con calidad de que se restituya alas Volsas de donde sessaco y en special ala dela Arm.da de Barlov.to. Diçe formo junta de Hacienda donde se resolvio se pidiese vn Donativo graçioso [..] /v img 4"
   }
 }

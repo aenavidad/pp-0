@@ -1,7 +1,7 @@
 {
   "id": "c665",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.4,N.41"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "refiere dio Vista al fiscal dela Audiencia delas Çedulas que se despacharon sobre la remiss.on de los pliegos que Vienen de Indias, para que nose oculten para que se tengan presentes y guarde su contenido /v img 3"
   }
 }

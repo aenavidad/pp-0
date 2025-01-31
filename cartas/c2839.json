@@ -1,7 +1,7 @@
 {
   "id": "c2839",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.1,N.10"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da quenta de que en los ofiçios renunciables se haçen esperas por la cantidad que deven enterar ala Rl haz.da /v img 1"
   }
 }

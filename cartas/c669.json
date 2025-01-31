@@ -1,7 +1,7 @@
 {
   "id": "c669",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.4,N.45"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta de haver leydo vna cedula en el Rl acuerdo de aquella Aud.a en que sele estraño haver vnido 4 encomiendas y dadolas a Don fernando Mendez de sotomayor /v img 3"
   }
 }

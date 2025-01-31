@@ -1,7 +1,7 @@
 {
   "id": "c674",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.4,N.50"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "refiere que D. Al.o de Bargas Zapata y lujan Cavallero dela orden de Santiago fue minivo [?] dela Reyna n.ra s.ra queste en gloria y que fue probeydo por Alcalde mayor dela Provinçia de chiapa /v img 4"
   }
 }

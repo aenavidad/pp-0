@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.32"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re piracy in W Yuc",
+    "mil_n": "Da quenta de que entro Vna fragata Ynglesa en aquel Puerto y se llevo otra que estava p.a ir ala Veracruz, y con esta noti.a d. Rodrigo flores apresto dos fragatas que salieron en seguim.to del enemigo, y le apresaron y cobraron la fragata que havia cojido en Campeche que á esta saçon otras dos embarcaçiones de Yngleses saquearon á Villa Hermosa, caveca de tavasco /v img 8"
   }
 }

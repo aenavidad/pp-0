@@ -1,7 +1,7 @@
 {
   "id": "c2850",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.1,N.7"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da quenta a VM dela pretenssion del Correg.or de Mexico en conozer de las causas abintestato privatibamente /v img 1"
   }
 }

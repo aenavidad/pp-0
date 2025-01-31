@@ -1,7 +1,7 @@
 {
   "id": "c2851",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.1,N.8"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que haviendo reconoçido algunos libros de zedulas de SM hallo una (cuyo Testim.o viene Incluso) en q se m.da remitir el libro dela interpretaz.n del Apocalipsis, travajado y escrito p.r el Ven.l Greg.o lopez /v img 3"
   }
 }

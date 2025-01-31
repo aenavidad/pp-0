@@ -1,7 +1,7 @@
 {
   "id": "c2841",
   "work": {
-    "cod": null,
+    "cod": false,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.1,N.12"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Representa sus meritos, y en consideraz.on de ellos, supp.ca sele de en estos Reynos ocupaçion /v img 4"
   }
 }

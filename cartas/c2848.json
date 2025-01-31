@@ -1,7 +1,7 @@
 {
   "id": "c2848",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.1,N.5"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dize esta sirviendo Don Manuel de escalante y Mendoza su Hijo el ofi.o de sachristan mayor en la Iglesia cathedral de aquella çiu.d y supp.ca sele de una prevende delas de aquella Igl.a /v img 3"
   }
 }

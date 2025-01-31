@@ -1,7 +1,7 @@
 {
   "id": "c667",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.4,N.43"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Haviendosele mandado restituese todo lo que havia montado el Donativo que pidio en aquellas Provinçias, refiere los dias y partidas en que lo a embiado y con acrecentamento de 224 p.s y aorro que a tenido en las Cobras dela Conduçien /v img 4"
   }
 }

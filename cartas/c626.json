@@ -1,7 +1,7 @@
 {
   "id": "c626",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.1,N.2"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "possibly re Hon smuggling",
     "mil_n": null
   }
 }

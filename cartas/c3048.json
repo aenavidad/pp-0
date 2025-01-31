@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.1,N.5"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re W Yuc smuggling, E Yuc not mentioned specifically, but Yuc mentioned generally",
+    "mil_n": "Avissa del reçivo de una z.a de 19 de Junio de 660 en que se le m.do estuviesse con todo cuidado ss.e que no comercien estranjeros en aquel Puerto y diçe esta con toda atenz.n /v img 4"
   }
 }

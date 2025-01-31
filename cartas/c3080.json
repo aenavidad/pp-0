@@ -1,7 +1,7 @@
 {
   "id": "c3080",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.1,N.9"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice no siente se pueda cautelar mas la satisfacion de los quintos de plata y Azogues, ni dar mayor prevensio para le elivio de los In.os que la que esta dada en tan diversas cedulas /v img 4"
   }
 }

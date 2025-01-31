@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.1,N.4"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re W Yuc smuggling",
+    "mil_n": "Avisa del reçivo de zedula de 19 de Agto de 660 p.a remitir los Autos que su Antecesor fulmino contra los culpados que hubo en el trato y comercio que tubo el Navio del Capp.an Ju.o enrriquez contrrado con Algunos Ig.os de Campeche /v img 4"
   }
 }

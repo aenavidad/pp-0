@@ -1,7 +1,7 @@
 {
   "id": "c3076",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.1,N.5"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Diçe q el Virrey Conde de Vaños y sus Anteçesores han consultado siempre con aquella sala toda las materias de Gov.o Y otras= Y aora ha hecho novedad por pretender Dn fran.co romero oidor dela Aud.a que las comunique solo con los de su sala de que Da quenta p.a que se tome la resoluz.on combeni.te /v img 3"
   }
 }

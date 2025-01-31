@@ -1,7 +1,7 @@
 {
   "id": "c3070",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.1,N.11"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "en aprovazion del D.or D Joseph de Almendariz, para Vna prevenda de Mechoacan o Goaxacao Ragion de Mexico, y la Puebla /v img 4"
   }
 }

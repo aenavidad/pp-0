@@ -1,7 +1,7 @@
 {
   "id": "c3046",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -22,7 +22,7 @@
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl W Yuc smuggling, no specific piracy incidents found but double check",
+    "mil_n": "Dize que ha servido a VM [...] de treçe años a esta parta en la Plaça de sarjento m.or de dha Provinçia [de Yucatan] [etc] /v img 1"
   }
 }

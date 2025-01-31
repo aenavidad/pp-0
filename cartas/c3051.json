@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.1,N.8"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice que en execuçion dela Rl cedula de 24 de Julliod e 660 para q remitiese los Autos sobre la Venta del oficio de Alguacil may.r dela villa de Campeche que se remato en el capp.n Ju.o goncales de Vlloa, lo ha hecho /v img 4"
   }
 }

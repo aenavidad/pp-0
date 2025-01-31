@@ -1,7 +1,7 @@
 {
   "id": "c3073",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.1,N.2"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "sobre la limosna para la canonicazion del s.to Gregorio lopez /v img 4"
   }
 }

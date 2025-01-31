@@ -137,7 +137,7 @@
     - [x] 1659
     - [x] 1660
     - [x] 1661
-    - [ ] 1662
+    - [x] 1662[^but some records to be coded left with `null` `mil` values due to lack of marginal notes/covering folio, may review later]
     - [ ] 1663
     - [ ] 1664
     - [ ] 1665

@@ -1,7 +1,7 @@
 {
   "id": "c625",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.1,N.1"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta como saco por el tanto algunos fructos q se rremataron en la Rl Almoneda por dejarsselos alos yndios paser año muy esteril con que pagen en dinero El preçio del rematte /v img 4"
   }
 }

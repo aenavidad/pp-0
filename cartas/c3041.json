@@ -1,7 +1,7 @@
 {
   "id": "c3041",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -22,7 +22,7 @@
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "presumed none on E Yuc but double check, possibly incl on W Yuc",
+    "mil_n": "en la Çiudad de Mex.co [...] /v img 8\n Titulo de Govern.or de Campeche en don fern.do sentenos /v img 21"
   }
 }

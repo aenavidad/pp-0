@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.1,N.6"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re W Yuc smuggling",
+    "mil_n": "en raçon de lo que ha óbrado contra Algunos vsos de campeche s.re el comerçio que tubieron con vn Navio olandes con Y de Vnas cedulas que se Allaron en la playa de campeche maltratadas y vna de ellas falseada la Rl firma /v img 4"
   }
 }

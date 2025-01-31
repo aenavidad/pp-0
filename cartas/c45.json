@@ -2,7 +2,7 @@
   "id": "c45",
   "work": {
     "cod": true,
-    "cod_n": null,
+    "cod_n": "not geogr relevant",
     "stat": null,
     "stat_n": null
   },
@@ -18,7 +18,7 @@
     "ref": "GUATEMALA,39,R.24,N.138"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,

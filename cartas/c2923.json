@@ -1,7 +1,7 @@
 {
   "id": "c2923",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.41"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Informa como sele mando por Çedula de 2 de octu.e de 663 Cerca del socorro que el año de 650 embio al Pressidio dela havana, Y dice que la Caussa de haverse yntroduçido a embiar dho socorro fue la muerte del obispo de Yucatan Gov.or dela Nu.a spaña /v img 3"
   }
 }

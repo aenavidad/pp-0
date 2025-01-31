@@ -1,7 +1,7 @@
 {
   "id": "c2922",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.40"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Satisfaçiendo a Vna Rl Çedula Diçe lo mucho que Combi.e que el fiscal delo Criminal de aquella Audiençia lo sea del Tribunal de Vienes de difuntos /v img 3"
   }
 }

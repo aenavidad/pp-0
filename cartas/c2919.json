@@ -1,7 +1,7 @@
 {
   "id": "c2919",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.37"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "remite las çertificaziones que el Virrey conde de Baños le ordeno dar delos Parezeres que se hubiesen dado por el acurdo del Govi.o de aquella Auda Y los q asimiss.o se dieron tocantes ala Publicaz.on del edicto y al Cumplim.to del Rl Patronato Cerca del curato dela s.ta Yglesia de aq.lla ciu.d /v img 3"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c2931",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.49"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Havisa el recivo de vna cedula de 18 de en.o de 664 sobre la aberiguacion delas fraudes cometidas en el repartimiento delas Averias q paga el comercio delas mercaderias, y plata q vienen en las flotas, Y dice que da entendiendo en la ex.on delo referido /v img 3"
   }
 }

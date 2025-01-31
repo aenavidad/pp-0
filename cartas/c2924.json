@@ -1,7 +1,7 @@
 {
   "id": "c2924",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.42"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere que no ha dado quentas el contt.or fr.co de Cordona delos diez meses que administro el asiento delos Naipes /v img 4"
   }
 }

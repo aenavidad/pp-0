@@ -1,7 +1,7 @@
 {
   "id": "c662",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.3,N.38"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl Hon smuggling",
+    "mil_n": "Satisfaçe a Vna Cedula de 2 de Junio de 663 en que sele dijo El reparo que se havia hecho de haver adbocado assi Vna caussa cerca de haverse atravess.do diferentes generos que hivan en vn navio de Rex.o /v img 4"
   }
 }

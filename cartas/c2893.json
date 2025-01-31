@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.29"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl W Yuc smuggling",
+    "mil_n": "Da quenta de haver llegado al Puerto D. R.o flores, q en subiendo ala Ciu.d le dara su posesion, y le pedira publique y tome luego su residencia su puesto q le esta cometida [=] que despues pondra en execucion las zedulas q sele han remitido para averiguar la arriva q hico a aq.l Puerto el Navio Ih. M.a [?] y disponiendo lo conveniente en quanto ala entrada y salida de los Navios /v img 4"
   }
 }

@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.17"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl W Yuc piracy",
+    "mil_n": "Da quenta de que Juan de zexu.des en quien el liz.do Dn Juan de Contreras dejo en deposito las condenaziones que hizo a los q Vino a residenziar Pretende ocultar las cantidades q Importaron Y quedarse con ellas con pretexto de que en la entrada que el enemigo hizo en Canpeche selas Robo /v img 4"
   }
 }

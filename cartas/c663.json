@@ -1,7 +1,7 @@
 {
   "id": "c663",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.3,N.39"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice q los Religiosos Dominicos pidieron en aquella Aud.a seles diese licencia para fundar vn convento en vn barrio donde tienen doctrina /v img 4"
   }
 }

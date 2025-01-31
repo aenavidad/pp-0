@@ -1,7 +1,7 @@
 {
   "id": "c2921",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.39"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Diçe recivio las Rs zedulas Vna de 5 de febr.o de 64 en q se m.da que los Virreyes no puedan admitir las de las perss.as que sirvieren ofiçios de proviss.on de SM y que los q se proveyeren en Interin sea con la mit.d del salario /v img 4"
   }
 }

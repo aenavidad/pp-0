@@ -1,7 +1,7 @@
 {
   "id": "c2914",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.32"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da quenta a VM como el sargento m.or Y alguaçil dela guerra Prenden A los ciudadanos diçiendo tener orden de V.ro Virrey /v img 1"
   }
 }

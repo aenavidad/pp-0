@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.23"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl W Yuc piracy",
+    "mil_n": "Diçe le a avisado Dn Rodrigo flores de Aldana tenia hecha mr.d del Govy.no de aquella Provy.a y que iria a ella a fines del año pasado de 664y que en llegando le entregara la Provy.a sin que el Enemigo aya hecho factino en ella ni saqueado ningun Pueblo della en 15 meses q a que la Govierna, y que la tiene reparada, fortificada y con las prevenziones neçesarias para su defensa= --Remite Vn testim.o delas declaraz.nes que tomó a tres españoles a quien el Ingles, haviendolos hecho prisioneros [en las salinas, N Yuc], los Volvio a hechar en tierra /v img 4"
   }
 }

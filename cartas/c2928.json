@@ -1,7 +1,7 @@
 {
   "id": "c2928",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.46"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "el fiscal diçe que en raçon de los proçedim.tos de d. fran.co Valles se han remittido auttos q estan en poder de d. leonardo del Valle /v img 8"
   }
 }

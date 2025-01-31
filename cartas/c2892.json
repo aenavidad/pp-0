@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.28"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dize que en carta de 25 de sept.e de 664 (que biene con esta) da q.ta que sin embargo dela contradizion que hiço el Procurador sindico de aquella ciu.d ordeno se vendiezen la encomienda del Pueblo de Teabo, cuya mitad Vaco por muerte de D.a M.a Tello de Aguilar /v img 4"
   }
 }

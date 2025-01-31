@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.19"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "remite los titulos delas situaziones del Vino y Azeite que SM tiene mandado dar de limosna /v img 4"
   }
 }

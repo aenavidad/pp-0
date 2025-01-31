@@ -1,7 +1,7 @@
 {
   "id": "c2926",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.44"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "diçe que en Virtud dela z.a que se le envio se ban pidiendo los titt.os alas perss.as que ejerçen ofi.os bendibles p.a Ver si usan con desp.os lijitimos /v img 3"
   }
 }

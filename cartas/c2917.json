@@ -1,7 +1,7 @@
 {
   "id": "c2917",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.35"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "none on E Yuc found",
+    "mil_n": "Diçe que á dos de feb.ro de este año se tubo noti.a dela perdida delos dos navios de Azogues que el uno apresso el Turco el año pasado y el otro [nonbrada la Maria, con mill y cinq.ta quintales de asogue] Yngleses de jamaica /v img 4"
   }
 }

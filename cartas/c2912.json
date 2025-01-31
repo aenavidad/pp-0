@@ -1,7 +1,7 @@
 {
   "id": "c2912",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.30"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere que haviendo reconoçido quam deslustrada estava aquella Çiu.d por falta de empedrados de que resultava gran daño al comun /v img 4"
   }
 }

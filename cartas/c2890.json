@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.26"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl W Yuc piracy",
+    "mil_n": "Da quenta dela entrada q hiço un navio Ingles enel Puerto de Canpeche con vandera de Paz, y delo que pidio y despacho que dijo trahia, y declaraz.n que hiço de que resulto el echarlo luego del puerto /v img 4"
   }
 }

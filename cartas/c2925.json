@@ -1,7 +1,7 @@
 {
   "id": "c2925",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.3,N.43"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere que en t.po del Duz.e de Alburquerque se sacaron 5U p.s dela Rl haz.a y se entreg.n a d. fr.co Montem.or p.a la limpieça dela Ciudad /v img 3"
   }
 }

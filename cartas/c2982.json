@@ -1,7 +1,7 @@
 {
   "id": "c2982",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.2,N.18"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice que remite Dupp.do delos despachos y Papeles que ymbio [...] afirmandose en lo que entonçes represento Y que no añade otras cosas porque save que escriven contra el sin raçon dejandolo a la prudençia del Consejo /v img 6"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c2990",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.2,N.26"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Diçe haver dado quenta en dos cartas anteçedentes a esta delo que havia pasado, y como corrian las materias tocantes al castellano Don fran.co Castejon y Don Diego Castejon su sobrino /v img 8"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c645",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.21"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "refiere que en execuçion delo que sele manda probehera la renta quese habia dado a D thomas Garavito por haversele deneg.do su confirmaz.on y obserbara el orden de SM /v img 3"
   }
 }

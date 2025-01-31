@@ -1,7 +1,7 @@
 {
   "id": "c643",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.19"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Diçe queda adbertido dela mr.d que se a hecho a los ss.res D Ju.o Gr.o Y D.r M.a devera SM de mudarle la encom.da de 2U p.s /v img 6"
   }
 }

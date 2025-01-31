@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.4,N.60"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl piracy in W Yuc",
+    "mil_n": "Da quenta de que Dn Pedro de çepeda y lira, y el Alferez mayor de la çiu.d de Merida siendo alcaldes ordinario della, governando por muerto De Dn Joseph Campero de sorrevilla, le depusieron del Puesto de thiniente General y auditor dela gente de guerra de aquellas provi.as que lo es por mr.d de SM [...] Diçe esta enel Puerto de campeche asistiendo al dho Gov.or [de Yuc ...] reparando las fuerças que demolio el enemigo Ingles en el asalto que le hizo á los nueve de febr.o deste año Y Desponiendo otras cosas p.a su mayor seguridad /v img 4"
   }
 }

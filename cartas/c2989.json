@@ -1,7 +1,7 @@
 {
   "id": "c2989",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.2,N.25"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da q.ta delo que se ha ofreçido entre el obpo dela Puebla Gov.or del Arzobpado de Mex.co Y Dn Alonso Ortiz de Urua /v img 8"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c633",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.9"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da q.ta que en execuçion delo q sele mando amas de dos años se a traydo al pregon el ofi.o de escriv.o pu.co, y Vissitas, dela Verapaz cuya confirma.on se denego a sebastian Gaitan /v img 3"
   }
 }

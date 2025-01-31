@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.9"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "piracy incident in W Yuc",
+    "mil_n": "Diçe que la caxa Rl la escondieron vnos Indios p.a librarla del enemigo y que tenia segun dezian 7U p.s [etc] /v img 4\n De que la caja Rl la escaparon y escondieron Unos Yndios quando entro el enemigo en esta Villa [Campeche]= /v img 1"
   }
 }

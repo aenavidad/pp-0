@@ -1,7 +1,7 @@
 {
   "id": "c650",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.26"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
-    "def": null,
+    "def": true,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "refiere que sele mando remitir 12U Rs a quenta de 39U que se cobraron de Vn Ingles, Y remite Vn testim.o de autos delo que ay sobre ello, a que se rremite Y Consta questos 12U R.s se gastaron en la Consservaçion y sustento del fuerte de s. Phelipe por la precissa neçess.d quese tiene del sin tener Dotaçion de donde podersse mantener la gente que en el sirve= /v img 4"
   }
 }

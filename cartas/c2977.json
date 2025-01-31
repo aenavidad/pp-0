@@ -1,7 +1,7 @@
 {
   "id": "c2977",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,39,N.9"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re W Yuc, possibly some on E Yuc [Valladolid] found",
+    "mil_n": "no 4 at img 52 [damaged] / no 5 at img 56 / no 6 at img 97\n el Governador de Yucattan Da quenta a VM de q haviendo tenido noticia que alg.nos estranjeros que fueron Cojidos Piratas en estas costas de su provj.a estavan en la ciu.d de Merida Y otras Partes los mando Prender (como lo estan algunos) Y se ban buscando otros Para remitirlos ala Veracruz Y que de Alli pasen a ese Reyno o se Remitan Para Philipinas= /v img 52\n Vn Portugues fue Tanvien Coxido en estas costas Con otros [ill]tas ingleses y haviendole Condenado a muerte Don [ill] de bacan Governador q fue de esta Provinçia y Remitido ala Casa de la contratacion, se devio de despareçer en la Veracuz [...] y volvio a ynfiltrar esta provinçia y sus costas con otros Piratas y coxido en ellas esta presso en la villa de Balladolid, /v img 52"
   }
 }

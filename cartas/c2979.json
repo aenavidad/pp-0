@@ -1,7 +1,7 @@
 {
   "id": "c2979",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.2,N.15"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "none on E Yuc found",
+    "mil_n": "Da quenta delas cedulas de SM que recivio con el aviso de flota del año pasado, y lo q en su cumplim.to ha executado lo qual viene tan resumido q es preciso verlo ala letra, sin embargo de estar sacada R.on por los Capitulos desta carta al margen de ella /v img 4"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c642",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.18"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Informa como sele a mandado çerca delos derechos que se lleban en las Iglessias Y diçe a entendido que El obispo de aquella Cathedral dio luego que empeço /v img 3"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c646",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.22"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "refiere sele mando que 4 encomiendas q los oydor.s dela Aud.a Governando encomendaron en D fer.do Mendez de Sotomay.r las encomiende en otras tantas personas por haversse deneg.do su confirmaçion /v img 4"
   }
 }

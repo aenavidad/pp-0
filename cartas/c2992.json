@@ -1,7 +1,7 @@
 {
   "id": "c2992",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.2,N.28"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Diçe que en Virtud dela z.la que sele ymbio de 14 de Junio de 1660 p.a que recojiese y tubiese prompta, la limosna destinada p.a la canonicaz.on del P.e Greg.o lopez [etc] /v img 4"
   }
 }

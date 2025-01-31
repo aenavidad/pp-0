@@ -1,7 +1,7 @@
 {
   "id": "c627",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.3"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly re Hon smuggling",
+    "mil_n": "Da quenta reçivio la Cedula en que se da la forma en raçon delas Provanças que se an de haçer contra las personas que nabegaren a las Indias sin liçen.a y hiçieren arivadas maliçiossas= Y diçe estara ensu observançia contoda atençion /v img 3"
   }
 }

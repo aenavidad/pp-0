@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.10"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly re W Yuc smuggling",
+    "mil_n": "Da quenta dela forma que a dado en las entradas y salidas delos Navios que llegaren al puerto de Campeche, y dela comiss.on q tiene dada en virt.d delas Rs Cedulas para declarar por decomiso los Navios y mercaderias de extrangeros que Vengan a el y delos españoles sin legitimo registro lo cual embia testim.o /v img 4"
   }
 }

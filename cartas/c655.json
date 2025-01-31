@@ -1,7 +1,7 @@
 {
   "id": "c655",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.31"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dice que en aquella Provincia se dan cada año delas cajas Rs cerca de 4U ps.o para las limosnas de vino y Aceyteq estan concedidas alas Religiones de s.to Dom.o y san fran.co /v img 4"
   }
 }

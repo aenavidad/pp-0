@@ -1,7 +1,7 @@
 {
   "id": "c634",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.10"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "refiere que en execuçion de lo que sele a mandado, a dado quenta delas que se an tomado a los oficiales Rs, Y aora la da como delas que sean tomado a D fran.co de Montoya Con.or de aquella caxa /v img 4"
   }
 }

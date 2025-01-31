@@ -1,7 +1,7 @@
 {
   "id": "c2986",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.2,N.22"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre el Govierno del Virrey, y quan Intimo amigo suyo es el Visit.or D.n fran.co de Valles, y que sino pudiere yr Virrey nuebo [ill] se cometa el Govierno al obpo dela Puebla, y otras cosas tocantes a estas materias /v img 24"
   }
 }

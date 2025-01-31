@@ -1,7 +1,7 @@
 {
   "id": "c2987",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.2,N.23"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Diçe tiene representado los daños grandes que se siguen el aq.lla Çiu.d con la vevida que llaman el Pulque respecto delos muchos yngredientes q le hechan con q mucha la cant.d de Indios que sean muerto de repente [etc] /v img 4"
   }
 }

@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.11"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Aze relazion de sus serviçios y supp.ca sele de liz.a p.a bolverse a estos Reynos con el honor de plaza de oidor dela Aud.a de Mex.co /v img 4"
   }
 }

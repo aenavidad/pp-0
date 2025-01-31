@@ -1,7 +1,7 @@
 {
   "id": "c2991",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.2,N.27"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta de que haviendosse Visto un negoçio en la Audiençia de Mej.co no quiso botar en el d fran.co Calderon disculpandosse, con deçir que el Conde de baños le havia enviado á deçir muchas pesadumbres /v img 6"
   }
 }

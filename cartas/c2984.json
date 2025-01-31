@@ -1,7 +1,7 @@
 {
   "id": "c2984",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.2,N.20"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Representa los mu.s años que ha servido, y sus buenos procederes, la crecida familia, y cortos medios con q se halla [...] suplica sele haga mr.d /v img 4"
   }
 }

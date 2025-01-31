@@ -1,7 +1,7 @@
 {
   "id": "c656",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.32"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Acusa el recivo dela cedula de 10 de sept.re del año pasado de 662 en q sele ordeno pidiese el cumplim.to de otra de la misma f.ha en razon de q los Albaceas den quentas en el termino de vn año de haver cumplido las mandas legados /v img 3"
   }
 }

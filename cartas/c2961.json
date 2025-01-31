@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.16"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta de q haviendo dado orden para q presentasen ante el las Confirmaciones delos oficio vendibles y renunçiables, y delas encomiendas de Yn.os y pensiones /v img 8"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c657",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.33"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere que en la flota que llego a estos Reynos dho año, dio quenta delo que se havia cobrado en Virtud de ejecutorias despachadas por el conss.o /v img 4"
   }
 }

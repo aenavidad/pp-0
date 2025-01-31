@@ -1,7 +1,7 @@
 {
   "id": "c2981",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,77,R.2,N.17"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Por hallarse exerciendo el off.o de Juez de Alçadas da q.ta de que en el consulado de Mexico se sigue pleyto contra bienes de Mathias Rodrigues de oliviera sobre la cobranca de 4U304 pesos que pertenecen a vnos vesinos del Reyno de Portugal /v img 3"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c647",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.23"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl Hon smuggling",
+    "mil_n": "En carta de 22 de octu.e de 662 Diçe dio abisso del recivo delos Capitulos dela paz en françia y que queda adber.do del s.o [?] que trata del Comer.o en las Indias para obserbarle= /v img 4"
   }
 }

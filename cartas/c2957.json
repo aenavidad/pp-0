@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.12"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dize que haviendo Buscado las Rs zedulas que ay despachadas en orden al buen Gov.o de aquella zui.d solo a allado vnas pocas en poder de dos pers.as supp.ca sele embien por dupp.do /v img 4"
   }
 }

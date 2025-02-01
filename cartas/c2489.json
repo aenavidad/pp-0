@@ -1,7 +1,7 @@
 {
   "id": "c2489",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.4,N.40"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta a VM y imbia certificaçion del entero dela condenaçion dela residen..a del liz.do D Ju.o fran.co de esquibel del tiempo que fue fiscal de guatemala= /v img 1"
   }
 }

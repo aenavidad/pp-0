@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.5,N.71"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere la poca Justificacion con que Dn [ill] fran.co de esquibel su ânteçesor probeya las encomiendas que unas no estavan vacas [etc] /v img 4"
   }
 }

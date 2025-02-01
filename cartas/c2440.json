@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.5,N.65"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere los agravios quele â hecho Dn Juan de Ayala Davila [etc] /v img 4"
   }
 }

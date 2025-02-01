@@ -1,7 +1,7 @@
 {
   "id": "c2490",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.4,N.41"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da quenta a VM y Ymbia certificaçiones delos enteros de 4U539 pesos, 6 tomines, y 2 granos que vienen registrados por las condenaçiones delas residençias delos Governadores de Yucatan, y campeche, Dn Garçia de Valdes osorio Conde de Pañalua= fran.co nuñez Melian y Don Henrrique de Avila Pacheco- /v img 1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c701",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.3,N.26"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dize que haviendole dado quenta el Governador dela Çui.d de s.n Pedro de que el enemigo pirata havia echado enel Puerto de Cavallos 350 hombres con que saqueo la Ciu.d y que tenia yntento de pasar al golfo dulce, hizo notificar al Gov.or de honduras quese allava en aquella Corte saliese luego ala defensa de aquella Provincia adonde himbio socorro de Povora balas cuerda y demas peltrechos y dio orden para que los Governadores y Alcaldes Mayores cercanos le fuesen a socorrer con gente como lo hizieron asta que hubo noticia de haverse embarcado el enemigo /v img 4"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c708",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.3,N.33"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "refiere que haviendo llegado Navios del Peru al Puerto de sonsonate Pidio se remitiese el rexistro q traya [etc] /v img 7"
   }
 }

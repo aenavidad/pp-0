@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.51"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Pide satisf.on delos agravios que á reçevido del Gov.or D Rodrigo flores de Aldana /v img 8"
   }
 }

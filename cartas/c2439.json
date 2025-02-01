@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.53"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl Nic piracy, and possibly W Yuc pirary or smuggling / none on E Yuc found",
+    "mil_n": "Refiere las Hostilidades que an hecho, y ban haçiendo Ingleses en diferentes Puertos y Provinzias, y las fuerças que toman con los robos que hazen y lo amenazada que tienen aquella Provj.a de Yucatan, y la Isla de S.to Domingo, y la poca defensa que en ellas ay /v img 4"
   }
 }

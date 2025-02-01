@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.49"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere los lanzes q ha tenido con el D.or Dn Ju.o de estalant y Turçios comisario dela Inqq.on, y dela s.ta Cruçada, por haber dado quenta dela preçedinçia q Intento en una Junta en q concurrieron /v img 6"
   }
 }

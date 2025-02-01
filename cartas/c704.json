@@ -1,7 +1,7 @@
 {
   "id": "c704",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.3,N.29"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Avisa el Recivo de la cedula de 21 de Junio de 667 en que sele ordeno hiziese se reintregasen dela Caja de honduras ala de Guat.a 5U142 R.s que aquella caja davan por distribuidas y gastados enla Rl Hazda delo proçedido de Mesadas eclesiasticas /v img 3"
   }
 }

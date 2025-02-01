@@ -1,7 +1,7 @@
 {
   "id": "c706",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.3,N.31"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dize quando llego a aquella Provincia allo en quiebra y Retraido a Ju.o lopez dela Alburu thess.ro del Papel sellado que se queda procediendo contra sus factores /v img 3"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c703",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.3,N.28"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "not re Hon defence",
+    "mil_n": "que los 800 Arcabuçes con frascos y Vanderelos que se mandaron embiar para resguardo de aquella Prov.a quedan en la sals de Armas y los Adereços de ellos esta a cargo delos ofiz.s R.s /v img 3"
   }
 }

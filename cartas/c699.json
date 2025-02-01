@@ -1,7 +1,7 @@
 {
   "id": "c699",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.3,N.24"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dize cometio la zedula de Represaria de Vienes de franceses a Don Benito de Yoboa, oydor de aquella Audiencia, el qual embargo los Bienes de Vn Mercader que se tenia por frances /v img 4"
   }
 }

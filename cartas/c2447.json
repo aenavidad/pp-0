@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.5,N.72"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re N Yuc [Merida] defence",
+    "mil_n": "Duplica la noticia de haver acavado la zuidadela y castillo q ha hecho en la eminencia dela C[ill] con q estan seguros de tantos riesgos como se temian /v img 4"
   }
 }

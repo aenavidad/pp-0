@@ -1,7 +1,7 @@
 {
   "id": "c702",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.3,N.27"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta haver llegado al Puerto de s.to thomas de Castilla la Nao de Rexistro q hiva a aquellas Provincias y que estando dado fondo la acometieron 14 Vajeles de Piratas y no pudiendo defenderse se lebo dha nao y el enemigo fue en su busca y que no se sabe el sucesso que a tenido mas de que se llebo vna fragata que dela havana hiba muy interessada /v img 4"
   }
 }

@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.50"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "refiere los Agravios q el Gov.or D R.o flores de Aldana ha hecho Y Aze alos Indios /v img 4"
   }
 }

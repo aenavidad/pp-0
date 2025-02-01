@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.5,N.70"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "diçe q sobre haverse retirado estos inios escribe el Virey de mexico, con ocassion de las quexas q se dieron en la audiençia contra D Rodrigo flores /v img 1"
   }
 }

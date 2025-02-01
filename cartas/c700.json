@@ -1,7 +1,7 @@
 {
   "id": "c700",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.3,N.25"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta de haver Recivido la orden para que se retubiese en aquellas cajas la m.a Anata y 15 por 100 de las nr.des [mr.des?] y rentas /v img 3"
   }
 }

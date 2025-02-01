@@ -1,7 +1,7 @@
 {
   "id": "c2491",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.4,N.42"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da quenta a VM delas diligençias hechas para la cobrança de 4U500 pesos de la condenaçion del Don Juan e Huarez serrano, oydor de Mex.co, y Ju.o de Rivera, en la residençia q tomo el Vissit.or D. Pedro de Galvez /v img 1"
   }
 }

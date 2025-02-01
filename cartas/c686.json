@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.1,N.11"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "Inc re defence",
+    "codg_n": "re Nic piracy / none on Hon to img 219, assume none further on",
     "mil_n": null
   }
 }

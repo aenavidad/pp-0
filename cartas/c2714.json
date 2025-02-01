@@ -1,7 +1,7 @@
 {
   "id": "c2714",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.2,N.21"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Ynforma a VM delos meritos del licenciado Dn Mathias de Peralta calderon para que VM le aga merced de vna prebenda /v img 1"
   }
 }

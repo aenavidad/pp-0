@@ -1,7 +1,7 @@
 {
   "id": "c2717",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.2,N.24"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da quenta dela 6U668 pesos Y mil tomines que oficiales R.s de felixinas avisaron a los de mex.co vaxasen del situado de aquella /v img 1"
   }
 }

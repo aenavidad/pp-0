@@ -1,7 +1,7 @@
 {
   "id": "c2719",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.2,N.26"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Don juan fran.co de Monse.or de Cutuca juez de Alzady del consulado dela Nueva españa informa á VM y diçe lo que sele offreçe en orden á la execu.on de la Real çedula de VM sobre labrar doblones en la Rl caxa de la moneda /v img 1"
   }
 }

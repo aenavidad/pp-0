@@ -1,7 +1,7 @@
 {
   "id": "c685",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.1,N.10"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "sinio [?] a 11 del corriente llegaron a esta ziudad dhos pliegos que vinieron registrados el uno para esta Rl aud.a en que la de lima avissa dela muerte del señor Conde de santti esteban y encarga Remita el ottro al señor Marques de Manzera /v img 1"
   }
 }

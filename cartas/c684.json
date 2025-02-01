@@ -1,7 +1,7 @@
 {
   "id": "c684",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.1,N.9"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "En capitulo de carta su fecha de 15 de março de este año que va en el caxon de pliegos de esta audiençia ala Veracruz Para que le lleve la flota, Di quenta a VM delo que Conttiene esta copia= En Capitulo dela carta General Doy quenta a VM dela muerte del Contador Dn françisco de montoya y Valencia ofiçial Rl dela Caxa de esta çiudad [...] /v img 1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c2716",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.2,N.23"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Da quenta de que aunque ha hecho Varias diligen.as con los ofiz.s R.s de Mex.co para que remitan a españa los 41U p.s procedidos de m.a Anata, que se deven desde el a.o de 646 como sele mando por la çedula que sele ymbio, no lo â podido conseguir /v img 4"
   }
 }

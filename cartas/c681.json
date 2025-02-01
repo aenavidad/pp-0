@@ -1,7 +1,7 @@
 {
   "id": "c681",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.1,N.6"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl Hon smuggling",
+    "mil_n": "Con ocassion de haver estrito los ofiçiales R.s de Guatemala que los dela Caxa de Comayagua no les havian remitido en mas de Diez años lo proçedido de tributos y messadas eclesiasticas haviendo constado que vno y otro havia montado 5U142 tostones por haverlos distribuido en gastos dela Rl Hazda /v img 4"
   }
 }

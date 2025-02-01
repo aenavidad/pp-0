@@ -1,7 +1,7 @@
 {
   "id": "c2722",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.2,N.29"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da quenta a VM con remission de auttos de la retençion que haçe de 4838 p.s [ill]l Conttador de tributtos, Y Ynobediençia al dho Juez, en daño dela Justiçia Y parttes Ynteressadas /v img 1"
   }
 }

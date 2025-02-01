@@ -1,7 +1,7 @@
 {
   "id": "c2718",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.2,N.25"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Avisa del reçivo de Vna Çedula de 14 de novj.e de 664 en que sele mando hiçiesse remitir á spaña 41U pessos que havian remitido de Philipinas á Mejico proçedidos de Media anata /v img 4"
   }
 }

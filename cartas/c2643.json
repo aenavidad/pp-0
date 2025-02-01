@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.34"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl W Yuc piracy or smuggling",
+    "mil_n": "En cartas de 29 de noviembre y 15 de diziembre del año pasado tengo dado quenta a V Ex.a dela resistençia que avia hecho el capital Ant.o Maldonado de Aldana, alcalde hordinario y theniente de capitan jeneral y administrador dela Real hazienda que era dela Villa de Campeche para que nose admitiera en ella por Governador delas armas al capitan Antonio de Verrueta a quien V Ex.a en conformidad de zedula de SM envio para el reparo delos acçidentes de Enemigos /v img 1"
   }
 }

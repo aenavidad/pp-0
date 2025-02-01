@@ -1,7 +1,7 @@
 {
   "id": "c677",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.1,N.2"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Dize le aviso el Marq.s de Mançera como le havia nombrado SM. por Juez para tomar la ress.a al ôbpo dela Puebla y Dn Jines Morote /v img 4"
   }
 }

@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.38"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl W Yuc piracy or smuggling",
+    "mil_n": "da quenta a VM delas resistençias e inobediencias que tubieron los de el cavildo de la Villa de Campeche para no admitir por Gov.or delas Armas de ella al cap.n Antonio de Verrveta persona inviada por el Virey de nueba españa en virtud de zedula de VM de 2 de febrero de 664: /v img 1"
   }
 }

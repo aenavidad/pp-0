@@ -1,7 +1,7 @@
 {
   "id": "c2709",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.2,N.16"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Remita los autos que Con Comision de VM fulmino sobre el Repartim.to q se hico en la Contribusion de los 200U d.s del Yndulto Por los comersiantes el año Pasado /v img 1"
   }
 }

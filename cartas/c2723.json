@@ -1,7 +1,7 @@
 {
   "id": "c2723",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.2,N.30"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "El fiscal con Vista delos papeles q se an mandado Juntar con esta Carta= Diçe que en quanto a haver cassado el fiscal a su hixa sin liçençia esta mandado se lleben los papeles ala camara= /v img 1"
   }
 }

@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.36"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da quenta a VM dela carga y contribuzion que ha reconozido tienen los Indios de dha provi.a para pag.r sueldos y salarios al escrivano de governazion, letrado, defensor Procurador, dos interpretes, vn alguazil, y al depositario de dha carga /v img 1"
   }
 }

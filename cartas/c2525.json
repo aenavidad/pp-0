@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.5,N.64"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl W Yuc piracy, none on E Yuc found",
+    "mil_n": "Diçe que haviendo salido de camp.e vn Navio cargado de frutos de Aquella provi.a en 5 de Julio de 665 le Apresaron 4 Navios de Ingleses delos q handan a Corso, Y que en Aquel año han cojido seis embarcas.es de solo aquella provi.a todas de porte y muy Interesadas con q el Ingles se hace poderoso /v img 4"
   }
 }

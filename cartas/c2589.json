@@ -1,7 +1,7 @@
 {
   "id": "c2589",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.3,N.38"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "representa a VM las combeniencias q se seguian de que los condenaos para Philipinas lo fuesen para servir en las Galeras de spaña /v img 1"
   }
 }

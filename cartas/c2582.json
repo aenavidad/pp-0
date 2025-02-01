@@ -1,7 +1,7 @@
 {
   "id": "c2582",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.3,N.31"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere la causa porque no a ydo a exercer dos Comisiones que se le remitieron, y que siendo (como es) Juez dela m.a n.a á acrecentado mucho este[ill] que silo deja vindra en gran diminucion /v img 4"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c2587",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.3,N.36"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "El liz.do Don franco calderon Romero oydor dela Audiencia de mex.co dá quenta a VM y remite testim.o dela consulta q hizo al Virrey para las cobranzas delas executorias del Consejo /v img 1"
   }
 }

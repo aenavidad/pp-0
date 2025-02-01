@@ -1,7 +1,7 @@
 {
   "id": "c2583",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.3,N.32"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da qu.ta â VM de dos memoriales que D Manuel de escalante fiscal de aquella Audiencia le presento s obre diferentes pretensiones delo que proveio â ellas /v img 1"
   }
 }

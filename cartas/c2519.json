@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.39"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Trata de algunos puntos alos malos procedim.tos de Antonio Maldonado de Aldana y otros /v img 8"
   }
 }

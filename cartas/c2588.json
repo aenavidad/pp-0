@@ -1,7 +1,7 @@
 {
   "id": "c2588",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.3,N.37"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Diçe que con la ocassion de haver salido con liz.a del Virrey, el liz.do Dn Man.l de escalante â Curarse Nombro para que hiziese oficio de fiscal en âquella Audiençia al liz.do Don fran.co dela Barrera, oidor mas Antiguo que fue /v img 3"
   }
 }

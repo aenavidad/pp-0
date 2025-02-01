@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.42"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Trata delos procedim.tos de D Rodrigo flores Gov.or de aquella prov.a /v img 4"
   }
 }

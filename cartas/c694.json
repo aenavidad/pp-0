@@ -1,7 +1,7 @@
 {
   "id": "c694",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.2,N.19"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Pidase Informe reservado Al obispo fray Payo de Ribera remitiendole los Informe todos que hizieren dhos ministros y virey y diziendole que atendiendo a lo q se dize del daño que resulta delos pecados publicos por los desordenes delos Indios [etc] /v img 1"
   }
 }

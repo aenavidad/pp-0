@@ -1,7 +1,7 @@
 {
   "id": "c2585",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,78,R.3,N.34"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere que ha muerto D.a Ana Clorque su suegra en el Peru, y que su Mujer heredera /v img 4"
   }
 }

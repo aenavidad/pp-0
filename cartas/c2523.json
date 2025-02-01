@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.43"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere â dado quenta delos proçedimientos del Gov.or Dn R.o flores y delas Vejaziones que reçivian los Vezinos de aquella Provj.a y sus Indios con su ardiente y ambiçioso natural /v img 4"
   }
 }

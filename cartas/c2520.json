@@ -1,7 +1,7 @@
 {
   "id": "c2520",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.2,N.40"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "y sobre las Rs cedulas con que se quedo del pliego Real que abrio y otras cosas porque rreconocia pretendian atropellar mientereça en el serbiçio de VM= Y le suplique se sirbiese d emandar a bocar dichas Causas en el estado que estubiesen, y que con ellas sellebasen presos a los dichos Antonio Maldonado de aldana y Don Joseph de aldana su sobrino y de correjir dichas probisiones libradas contra las disposiçiones y leyes Rs= /v img 1"
   }
 }

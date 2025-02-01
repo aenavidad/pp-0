@@ -1,7 +1,7 @@
 {
   "id": "c691",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.2,N.16"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Diçe que Don Damien de ochayta thess.ro Juez ofiçial delas caxas Rs de aquella ciu.d dio petiçion pidiendo q Para la buena expedizion delos negoçios de aq.lla caxa y las demas de Aquellas provi.as sele hiziese mr.d /v img 4"
   }
 }

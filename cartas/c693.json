@@ -1,7 +1,7 @@
 {
   "id": "c693",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.2,N.18"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl Nic piracy, none on Hon found",
+    "mil_n": "Avisa haver R.do el Rl sello y que el proçedido del que se fundio se embia como se m.da [= ...] - que Ingleses ynbaden aquellas Tierras mui de continuo, Supp.ca se m.de reparar lo mas neçess.io pues el embio de un año ynportara menos se deje de hazer que el perderse aquella Tierra con el q.al se podra ejecutar, y que se tiene entendido q el disignio prinçipal de Ingleses es tomar una delas dos Prov.as de costarrica ô nicaragua [= etc] /v img 10"
   }
 }

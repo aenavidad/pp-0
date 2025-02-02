@@ -144,6 +144,11 @@
     - [x] 1666
     - [x] 1667
     - [x] 1668
+- [x] figure out inclusion/exclusion used for `cartas`[^from `v-1.4/Introduction*.tsv`, 993 AGI records in 1610-1680 from geographically relevant governor, audiencia, or cabildo, it seems; from `harv/1638 series 1.5-Cartas*.tsv`, 4227 AGI records in 1630-1679 at levels Us or Uc in GUATEMALA or MEXICO series, plus 20 AGI records from `purp/1638 series 1.3.numbers - Cartas-0*.tsv` in MEXICO,362 or MEXICO,359 in 1610-1681 from Yuc Gov, it seems]
+- [x] check for `cartas` completeness[^ought to have all Uc or Us level AGI records with start or end date in 1630-1679 in GUATEMALA or MEXICO series, with some (but likely not all) relevant AGI records for 1610-1629 and 1680 dates, and likely none for other 17th cent dates]
+    - [x] Uc in GUAT for 1630 - yes
+    - [x] Us in GUAT for 1630 - yes
+    - [x] ~~Us and Uc in MEX for 1630~~[^assume yes]
 
 ## prior log
 ### any cartas

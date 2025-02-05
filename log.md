@@ -151,7 +151,7 @@
     - [x] ~~Us and Uc in MEX for 1630~~[^assume yes]
 - [ ] extract `events` into annual `incidents`
     - [x] write `/incidents/readme.md`
-    - [ ] write null `incidents` `jsons`
+    - [x] write null `incidents` `jsons`
     - [ ] fill in 1601 year
 
 ## prior log

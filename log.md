@@ -153,7 +153,11 @@
     - [x] write `/incidents/readme.md`
     - [x] write null `incidents` `jsons`
     - [x] fill in 1601 year
-    - [ ] fill in 1602 year
+    - [x] fill in 1602 year
+    - [x] fill 1603
+    - [x] fill 1604
+    - [x] fill 1605
+    - [ ] fill to 1606-1610
 
 ## prior log
 ### any cartas

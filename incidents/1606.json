@@ -1,17 +1,29 @@
 {
   "yr": "1606",
-  "tally": null,
+  "tally": 2,
   "tally_n": null,
   "incident0": {
-    "conf": null,
-    "conf_n": null,
-    "pir": null,
+    "conf": true,
+    "conf_n": "not compound checked",
+    "pir": true,
     "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": null,
-    "desc": null,
+    "lbd": "01-01",
+    "upd": "06-28",
+    "locn": "Sto Tomas",
+    "desc": "Du pirates surprise Sp galleons",
     "note": null,
-    "via": null
+    "via": "e187"
+  },
+  "incident1": {
+    "conf": null,
+    "conf_n": "not compound checked",
+    "pir": true,
+    "pir_n": null,
+    "lbd": "01-01",
+    "upd": "06-28",
+    "locn": "Sto Tomas",
+    "desc": "Du pirates surprise Sp galleons again",
+    "note": "2nd attempt",
+    "via": "e187"
   }
 }

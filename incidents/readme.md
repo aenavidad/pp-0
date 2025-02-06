@@ -17,12 +17,12 @@ generated chronicle data
 
 | var | type | values | note |
 |:--|:--|:--|:--|
-| `conf` | boolean | - | is a confident incident?[^ `true` if we are sure this is a unique, well-sourced incident of piracy or defence-against-piracy in Hond Bay in the relevant 17th cent year; `false` if we are sure it isn't; `null` if unsure] |
+| `conf` | boolean | - | is a confident incident?[^ `true` if we are sure this is a unique, well-sourced, non-compound incident of piracy or defence-against-piracy in Hond Bay in the relevant 17th cent year; `false` if we are sure it isn't; `null` if unsure] |
 | `conf_n` | string | - | `conf` notes |
 | `pir` | boolean | - | is a piracy incident? |
 | `pir_n` | string | - | `pir` notes |
-| `lbd` | string | - | lower bound |
-| `upd` | string | - | upper bound |
+| `lbd` | string | - | lower bound[^in `mm-dd`] |
+| `upd` | string | - | upper bound[^in `mm-dd` or `yyyy-mm-dd` for multi-year incident] |
 | `locn` | string | - | location |
 | `desc` | string | - | description |
 | `note` | string | - | notes |

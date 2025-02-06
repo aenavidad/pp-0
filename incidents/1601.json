@@ -1,17 +1,29 @@
 {
   "yr": "1601",
-  "tally": null,
+  "tally": 2,
   "tally_n": null,
   "incident0": {
     "conf": null,
-    "conf_n": null,
-    "pir": null,
+    "conf_n": "relevant pirates could have acted > once / no explicit Bay mention",
+    "pir": true,
     "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": null,
-    "desc": null,
+    "lbd": "01-01",
+    "upd": "03-31",
+    "locn": "NE Yucn",
+    "desc": "4 pirate navios cruise Yucn coast",
     "note": null,
-    "via": null
+    "via": "e2169"
+  },
+  "incident1": {
+    "conf": null,
+    "conf_n": "assuming 150 leguas E of Merida takes us to E Yucn / no explicit Bay mention",
+    "pir": false,
+    "pir_n": null,
+    "lbd": "04-01",
+    "upd": "05-11",
+    "locn": "NE Yucn",
+    "desc": "1 Sp fragata cruises Yucn coast for artillery from 'navios que se han perdido'",
+    "note": "dated after incident0 here",
+    "via": "e2169"
   }
 }

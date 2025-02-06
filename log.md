@@ -152,7 +152,8 @@
 - [ ] extract `events` into annual `incidents`
     - [x] write `/incidents/readme.md`
     - [x] write null `incidents` `jsons`
-    - [ ] fill in 1601 year
+    - [x] fill in 1601 year
+    - [ ] fill in 1602 year
 
 ## prior log
 ### any cartas

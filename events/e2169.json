@@ -1,8 +1,8 @@
 {
   "id": "e2169",
   "work": {
-    "cod": null,
-    "cod_n": "unsure if E or W Yucn",
+    "cod": true,
+    "cod_n": "assuming cruised at least NE Yucn too",
     "pir": null,
     "pir_n": "counting cruise, assume non-Sp embarcaciones"
   },
@@ -18,7 +18,7 @@
     "press_n": null,
     "prim_n": "MX 359 ram 8 num 41 f 1v [Carta de Diego de Velasco, Gobernador de Yucatán, Mérida a 14 de mayo de 1601]",
     "lit_n": "O Torres p 336 / O Torres p 115",
-    "note": null,
+    "note": "Diversas Veçes he echo Relaçion A VM quan Infestados son los Puertos y costa De esta Provinçia de enemigos cossarios y quan temprano començaron este press.te yo e acudido a su defensa muy a costa de mi persona y hazienda y ya no tengo que Gastar. suplico a VM se sirba de Haçernos m.d de Alguna cantidad de Polbora y muniçion q[ill] como tengo escripto por ser la gente comndmente pobre no tienen con que comprarla. ni los mercaderes la quieren tener Por que los e obligado Siempre la den A moderados preçios a cuya causa El Año passado la hiçe traer Por mi quenta y Riesgo desde mex.co hasta esta çiudad Seis quintales de ella y la Reparti alos Vezinos en las neçesidades que sean ofreçido que an sido muchas asi las del Año passado como las deste pues a mas de dos meses antes de la fecha desta me corrieron toda la costa Con quatro Navios, y asi me determine passado este Riesgo de ymbiar Una fragata y gente por todas estas yslas çircunvezinas desta a çiento y a çiento y çinquenta leguas para que de alli me trayesen algunas Pieças de Artilleria de Los navios que se an perdido en ellas y e tenido tambuena dicha qual es mi Voluntad de açertar a serbir a VM y Abra tres dias que meti en esta çiudad diez pieças de Hierrocolado todas de doçe a quinçe Quintales y dos medias culebrinas de bronze de diez y ocho a Veinte quintales las quales he Començado A ha deseçar y poner en horden para aprovecharme dellas quando la ocasion se ofrezca. por que las diez leguas que ay desde esta çiudad al Puerto de çiçal es de camino tan façil que a subçedido y no Una Vez, Aunque a dios las Gra.s no en ttiempo de mi Govierno, llegar los henemigos A un pueblo de yndios que esta en el medio llamado Unacma y tenerlo quemado y Rovada la yglesia Primero que en esta çiudad se pudiese saver. [etc] /v MX 359 ram 8 num 41 img 2",
     "via": "harv"
   }
 }

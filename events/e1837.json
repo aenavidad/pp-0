@@ -12,12 +12,12 @@
     "name": null,
     "desc": "Pirates, buccaneers or privateers raid or assault Sto Tomás de Castillo and Puerto Caballos",
     "locn": "Santo Tomás de Castilla, Puerto Caballos",
-    "agents_sp": null,
-    "agents_nsp0": "8 Du Urcas",
+    "agents_sp": "2-3 Naos 26 men",
+    "agents_nsp0": "Conde Mauricio 8 Du Urcas",
     "agents_nsp1": null,
     "press_n": null,
     "prim_n": "Fuentes 2 307-308",
-    "lit_n": "Lujan 2 108, 472 / Zamora 177",
+    "lit_n": "Lujan 2 108, 472 / Zamora 177 / Garcia P [ed 3] 1 195-196",
     "note": "Possibly see 1607. Mauricio de Nasau attacks Truxillo -- militia in Pto Caballos defend against pirates /v Lujan 2 824",
     "via": "v-1.4"
   }

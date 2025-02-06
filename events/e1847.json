@@ -13,11 +13,11 @@
     "desc": "Pirates, buccaneers or privateers raid or assault Truxillo",
     "locn": "Truxillo",
     "agents_sp": "Antonio de Cerpa",
-    "agents_nsp0": null,
+    "agents_nsp0": "Jeremías",
     "agents_nsp1": null,
     "press_n": null,
     "prim_n": null,
-    "lit_n": "Lujan 2 108, 824",
+    "lit_n": "Lujan 2 108, 824 / Garcia P [ed 3] 1 197",
     "note": "Incl death of Trux alcalde in battle /v Lujan 2 824",
     "via": "v-1.4"
   }

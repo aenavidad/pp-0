@@ -159,7 +159,7 @@
     - [x] fill 1605
     - [ ] fill to 1606-1610
 - [ ] fix duplicate or dubious `events`
-    - [ ] add Garcia P *Memorias*[^per Lujan 2 472, 478]
+    - [x] add Garcia P *Memorias*[^per Lujan 2 472, 478]
     - [x] check all Lujan 2 472 refs are present
     - [x] check all Lujan 2 823-831 refs are present
 

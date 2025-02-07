@@ -162,6 +162,8 @@
     - [x] add Garcia P *Memorias*[^per Lujan 2 472, 478]
     - [x] check all Lujan 2 472 refs are present
     - [x] check all Lujan 2 823-831 refs are present
+    - [x] check events up to 1605 are sorted
+    - [ ] sort 1606-1610 events
 
 ## prior log
 ### any cartas

@@ -3,8 +3,8 @@
   "tally": 1,
   "tally_n": null,
   "incident0": {
-    "conf": true,
-    "conf_n": null,
+    "conf": null,
+    "conf_n": "may be compound - check e1835 again for added notes",
     "pir": false,
     "pir_n": null,
     "lbd": "03-07",

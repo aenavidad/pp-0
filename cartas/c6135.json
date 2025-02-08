@@ -1,7 +1,7 @@
 {
   "id": "c6135",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,39,R.13,N.82"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Abiso del gov.or de Honduras delo suçedido con los enemigos q fueron a Aquellas partes /v img 1"
   }
 }

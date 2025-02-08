@@ -1,7 +1,7 @@
 {
   "id": "c6116",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,43,N.101"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que solia ser aquella provincia muy Rica y de mucho trato y aora esta muy neçesitada por que esto a çesado por el poco cuydado que el presidente doctor Alonso criado de Castilla tiene con el govierno de aquella provinçia por su Remision Causada de su mucha bejez y engermedades quele privan de no acudir alas audiençias y alas cosas de govierno, por cuya Raçon padeçen muchos negoçiantes gastando sus haçiendas, y toda la dha provinçia mucha bacaçion pues cada dia envia el dho presidente comisarios que los destruyen /v img 4"
   }
 }

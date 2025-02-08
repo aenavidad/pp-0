@@ -1,7 +1,7 @@
 {
   "id": "c6121",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.3,N.32"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Por çedula de VM librada enel Pardo a 30 de nob.e del año pasado De 1599 se manda que esta Real Aud.a informe si conviene que en esta çiudad aya el off.o de Correg.or del Valle [etc] /v img 1"
   }
 }

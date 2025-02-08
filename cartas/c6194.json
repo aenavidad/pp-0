@@ -1,7 +1,7 @@
 {
   "id": "c6194",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.3,N.39"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "diçe del modo de proçeder que el presidente Tiene y su mucha Remision y quanta envidia le muestra Thener Por ser Vienquisto en aquella ciu.d [etc] /v img 4"
   }
 }

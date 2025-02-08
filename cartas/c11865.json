@@ -1,7 +1,7 @@
 {
   "id": "c11865",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,41,N.111"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "el fruto que se a tenido en el nuebo puerto de sancto thomas de castilla se a visto este año con la entrada de vn cosario con dos naos e un patax e quatro lanchas, pues no estando en el mas que dos naos e un pataxillo se defendieron y el enemigo se rretiro con mucha perdida, e pues a VM le es notorio que el trato deste rreyno lo a aniquilado por los rrobos que se an hecho en el puerto de caballos, y que a muchos a.os que las mercaderias que deste reyno se nabegan [img 5] an pagado elaberia de armada sin aberles dado mas qua[ill] [de]fensa que çinquenta o sesenta soldados que an traydo las naos capitanas de mercantoria que a este puerto an benido sin enbargo delaqual sean llebado los enemigos las haziendas e las que se an escapado an pagado e la beria [?] de galeones como si en su guarda y defensa o viesen estado con que este rreyno esta tan lastimado que no ay ya quien se atreba a nabegar su hazienda si VM no probee de rremedio y asi suplicamos a VM que lo que en esta rrazon se pieiere por el soliçitador se probea lo que mas a el serviçio de VM convenga.= e por que la yndustria e soliçitud que en ello a puesto v.ro presidente doctor alonso criado de castilla asido contan madino [?] a querdo [?], e q por cuyo travajo se a tenido tal fruto que los v.s y moradores deste rreyno no an quedado de todo despozados de sus haziendas como lo quedaran si las naos que se hallaron en el puerto de sancto thomas estubieran en el de caballos adonde por falta de defensa tanto daño an rreçebido e por ser tan ydoneo e capaz de defenderse aunque segunda bez el enemigo acometio a los nuestros, se bolbieron a rretirar con mayor daño e perdida de gente, e aunque desta çiudad enbio el s.r [?] v.ro presidente socorro de gente e polbora e bastimentos, llego a tienpo qu[ill] vn dia antes estaba dada la batalla, e ansi este socorro va con las naos hasta la abana. e para que aya sano camino por tierra es cosa mui sin duda que terria effecto con el cuidado e deligençia que el d.r [?] v.ro presidente pone y el aber benido las naos a este puerto de santo thomas este año asido causa de que todala hzienda que va en ellas se aya escapado.= /v img 5-6"
   }
 }

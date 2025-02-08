@@ -1,7 +1,7 @@
 {
   "id": "c11866",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,44A,N.35"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
-    "def": null,
+    "def": true,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "diçe que en ella ay Vn furte con algunas pieças de Artilleria y armas delas que quedaron de V[na] conpania que se Reformo de so[lda]dos, con que los Vezinos se [han] defendido de los enemigos q[ue] de ordinario andan por aque[llas] partes, y aora el presidente de guatemala a mandado Al [ca]pitan dela dha çiu.d que entregue al alcalde mayor [del] puerto de santo Tomas todas las armas que havia dela conpania Reformada y que se teme ara lo mismo dela artilleria con que dejara sin ninguna defensa aquella çiu.d y el enemigo tendra ocasion de allar entrada /v img 4"
   }
 }

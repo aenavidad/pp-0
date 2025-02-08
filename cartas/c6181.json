@@ -1,7 +1,7 @@
 {
   "id": "c6181",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.3,N.38"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Autos en la audi.a sobre el del quanto [?] q pedieron los indios de Guaymuco, de sus frebatos [?] por la esterilidad [?] que de quatoro años aquella parte, año de 605. [=] que el Press.e se encolerizo contra el por q alegaba [etc] /v img 4"
   }
 }

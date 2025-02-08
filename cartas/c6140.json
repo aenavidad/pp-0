@@ -1,7 +1,7 @@
 {
   "id": "c6140",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,39,R.13,N.83"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "dice como entro enel puerto de cavallos Vn navichuelo cargado de pasas y pipas de bino y en el benian seis hombres al pareçer de naçion yngleses los quales dixeron benian perdidos y lo andavan seis meses hay que desenbarcaron algunos dellos y preguntaron por el gover.or y por no haver quien supiese la lengua no seles havia Tomado sus confisiones envia testimonio delo que en esto a pasado [= etc] /v img 4"
   }
 }

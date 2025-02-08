@@ -1,7 +1,7 @@
 {
   "id": "c6169",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.3,N.37"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "dize q el ha de hazer su viage en la prim.a occasion para lo qual supp.ca a VM [etc] /v img 1\n Presenta Testimonio de Como Se velo en yglesias [?] con doña Andrea dela çerda y supp.ca sele de liçençia para llebarla y los Criados [etc] /v img 12"
   }
 }

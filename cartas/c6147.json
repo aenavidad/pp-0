@@ -1,7 +1,7 @@
 {
   "id": "c6147",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.3,N.35"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
-    "def": null,
+    "def": true,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "trata del nuebo Puerto de amatique su hutilidad lo mucho que a travajado y el aprovechamiento que se a de seguir a la Rl haçienda, y Haçe Recuerdo de la gratificaçion que mereçe por este serviçio /v img 12"
   }
 }

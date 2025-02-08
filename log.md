@@ -166,6 +166,7 @@
     - [ ] sort 1606-1610 events
         - [x] get PARES ids for all 1606 Uc and Us AGI records in GUAT[^31 records, but couldn't `curl` results, had to manually get `html` table of hits in `ids.txt`, then get ids by `grep -Eo 'value=.{0,8}' results.txt`]
         - [x] get `xml` files for them[^loop `for i in $(cat ids.txt); do curl -o $i.xml http://pares.mcu.es/ParesBusquedas20/catalogo/description/exportEAD/$i; done` for PARES ids in `ids.txt`]
+        - [x] code 1606-dated GUAT `cartas` to sort out 1606
 - [x] get all missing `cartas`
     - [x] get PARES ids 
         - [x] for GT Uc and Us for 1606[^31 hits]

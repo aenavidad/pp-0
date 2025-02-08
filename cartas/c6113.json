@@ -1,7 +1,7 @@
 {
   "id": "c6113",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.3,N.29"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que conviene mucho que la provinçia de nicaragua sea bisitada por Vn oydor de aquella audiençia por que los fraudes que pasan en la caxa Real es muy neçesa[rio] sean aberiguados con partic[ular] cuydado [etc] /v img 6"
   }
 }

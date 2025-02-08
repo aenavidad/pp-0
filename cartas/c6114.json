@@ -1,7 +1,7 @@
 {
   "id": "c6114",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.3,N.30"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Por quanto el alffer.z hernando darçe me hiço rrelaçion que el tiene Vn solar en la ciudad de granada y para poder jacer en el Vna casa de Vivienda me pidio y suplico le mandase dar ocho yndios y dos yndias por vn año /v img 1"
   }
 }

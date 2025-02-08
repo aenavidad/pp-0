@@ -1,7 +1,7 @@
 {
   "id": "c6120",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.3,N.33"
   },
   "data": {
-    "mil": null,
-    "pir": null,
+    "mil": true,
+    "pir": true,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Despues que esta Real Aud.a escribio a VM en los Navios de avisso se reçibieron en ella algunas çedulas de VM [ill] respondera en esta [etc] /v img 1\n lo que VM manda por sus Reales çedulas, que los cossarios se castiguen sin remision [etc] /v img 2\n A 30 de março de este año de 1606 Vino al puerto de Cavallos Vn cossario que se entendio por las Vanderas y estandartes que trahia ser Holandes, con dos Naos y Vn pataxe y quatro lanchas, y habiendo estado surto Vn dia y noche y no allado las Naos que Vinieron el año passado de 1605, de estos Reynos a estas probinçias cabo de ellas el capp.n Ju.o de Vergara por aber ydo a surgir y descargar las mercadurias al nuebo puerto de s.to Thomas de Castilla el dho enemigo se fue al dho nuebo puerto adonde allo la capp.a de Ju.o de Vergara que llego en salvamento y otra Nao de sebastian de Pineda que desde el puerto de s.n Ju.o de lua ynbio el general dela flota de nueba españa para que fuesse con ella asta la habana, y habiendolas reconoçido peleo con ellas a 13 de Abril, y aunque mato dos honbres dela capp.na, se retiro con mayor daño y a los 22 del mesmo mes bolvio a pelear con ellas en la boca del golfo dulce y ansi mesmo se retiro con daño y maltratado, en lo qual a sido n.ro s.r [?] servido de mostrar los buenos efectos del dho nuebo puerto, pues si las Naos estubieran en el de Caballos, por ayarlas [?] desaperçebidas se perdieran, y las mercadarias que en ellas estaban que eran en mucha Cantidad y con la buena disposiçon del puerto se defendio todo, y por los que le an Visto es reputado por el mejor de las yndias y que a de ser el mas prinçipal de ellas. presumese ser este enemigo el mesmo que ahora tres a.s [?] robo las Naos del cargo de Ju.o de Monasterio enel puerto de cavallos y al golfo dulçe. como de todo dara mas larga relaçion a VM el Press.e a quien se deben muchas graçias por lo que a trabajado enel descubrim.to de este puerto.[=] Por Ver el riesgo con que las Naos y Mercadurias que estavan en el puerto teniã se resolvio por esta Real Aud.a en acuerdo general de haçienda en Virtud dela ordenança que se ynbiazen treinta soldados de socorro a las Naos, los beynte Mosqueteros y los diez Arcabuçeros con Vn Capp.m y que de la costa que con ellos se hiçiesze asta la Habana [etc] /v img 3"
   }
 }

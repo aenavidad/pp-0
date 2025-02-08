@@ -4,7 +4,7 @@ imported and generated calendar data
 ## navigation
 - ~~`list.tsv` list of manuscripts calendared[^from `pre-git-hist/files/yell/data manuscripts agi 1.1-scrap*.tsv`]~~
 - ~~`list.json` list of manuscripts calendared plus coding data[^from `data manuscripts agi 1.1-scrap*.tsv` and `data manuscripts agi 1.1-GTa*.tsv`]~~
-- `c*.json` individual record[^from `data manuscripts agi 1.1-scrap*.tsv` and `data manuscripts agi 1.1-GTa*.tsv`]
+- `c*.json` individual record[^from `data manuscripts agi 1.1-scrap*.tsv` and `data manuscripts agi 1.1-GTa*.tsv`, plus newly written ones]
 ## dictionary
 ### json
 | var | type | values | note |

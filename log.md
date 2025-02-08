@@ -190,6 +190,7 @@
     - [x] get merged `xml` in `numbers`, and extract relevant fields for `cartas` `jsons`
     - [x] get to `cartas` `json` format[^c5240 to c12225 ids assigned]
     - [x] add to `/cartas`
+- [x] update relevant readmes
 
 ## prior log
 ### any cartas

@@ -164,6 +164,29 @@
     - [x] check all Lujan 2 823-831 refs are present
     - [x] check events up to 1605 are sorted
     - [ ] sort 1606-1610 events
+        - [x] get PARES ids for all 1606 Uc and Us AGI records in GUAT[^31 records, but couldn't `curl` results, had to manually get `html` table of hits in `ids.txt`, then get ids by `grep -Eo 'value=.{0,8}' results.txt`]
+        - [x] get `xml` files for them[^loop `for i in $(cat ids.txt); do curl -o $i.xml http://pares.mcu.es/ParesBusquedas20/catalogo/description/exportEAD/$i; done` for PARES ids in `ids.txt`]
+- [ ] get all missing `cartas`
+    - [x] get PARES ids 
+        - [x] for GT Uc and Us for 1606[^31 hits]
+        - [x] for MX Uc and Us for 1606[^169 hits]
+        - [x] for GT Uc and Us for 1601-1605[^154 hits]
+        - [x] for MX Uc and Us for 1601-1605[^791 hits]
+        - [x] for GT Uc and Us for 1607-1629[^840 hits]
+        - [x] for MX Uc for 1607-1629[^1476 hits]
+        - [x] for MX Us for 1607-1629[^2695 hits]
+        - [x] for GT Uc and Us for 1680-1700[^924 hits]
+        - [x] for MX Uc and Us for 1680-1700[^1444 hits]
+    - [x] clean up ids
+    - [x] get `xml` files
+    - [x] make sure `curl` missed none[^do `for i in $(cat ids.txt); do [ -f xmls/$i.xml ] && echo yes - $i || echo no - $i; done` for files in `/xmls` and PARES ids in `ids.txt` - returns yes for 8493 ids, but got only 7135 `xml` files - so def vars duplicate ids, but a check (`sort ids.txt | uniq -c`) shows they show up all over the place rather than clustering cleanly - given that ids were written in the chronological order in which they we got them, this is prolly not mistake - duplicates prolly are duplicate hits from PARES from Uc records? - assume so]
+    - [x] clean up `xml` files
+        - [x] merge all
+        - [x] ~~save merged file in UTF-8[^via TextEdit UI]~~
+        - [x] remove whitespace chars[^~~repeated spaces (`tr -s ' ' < foo.txt > tmp && mv tmp foo.txt`) and newlines (`tr -d '\n' < foo.txt > tmp && mv tmp foo.txt`)~~ manually]
+        - [x] ~~get UTF charset[^original ISO-8859-1, but seems too messy to fix right now]~~
+    - [x] get PARES ids from `cartas`, to check cross check against the new ones[^7135 unique new ids and files, 5240 unique old ids and files - but 149 of the new ids already exist in old ids]
+    - [x] delete 149 duplicate new `xml` files[^6986 unique new files left]
 
 ## prior log
 ### any cartas

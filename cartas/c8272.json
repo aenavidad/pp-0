@@ -1,0 +1,28 @@
+{
+  "id": "c8272",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364218",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Parecer de la Audiencia de México, en favor de Rodrigo Castro.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1619-05-06.",
+    "upd": null,
+    "ref": "MEXICO,73,R.11,N.123"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

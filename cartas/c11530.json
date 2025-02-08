@@ -1,0 +1,28 @@
+{
+  "id": "c11530",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363283",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., recomendación del Licenciado Don José de Alcántara, para alguna vacante de prebenda. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1695-12-24.",
+    "upd": null,
+    "ref": "MEXICO,62,R.3,N.22"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

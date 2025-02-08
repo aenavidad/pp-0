@@ -1,0 +1,28 @@
+{
+  "id": "c10155",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349434",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo de Cartago, informando de la situación de los indios y españoles, y los problemas ocasionados por la falta de Gobernador y la distancia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625-05-12.",
+    "upd": null,
+    "ref": "GUATEMALA,44B,N.71"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

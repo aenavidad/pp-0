@@ -1,0 +1,28 @@
+{
+  "id": "c6030",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361260",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., advierte sobre proceder del presidente de Guatemala. 2 fs. Anejos: \n1.- El Virrey a S.M., al Presidente de Guatemala, por mandado de S.M., sobre su proceder en el oficio. México, 2-I-1606. Copia [S.F.]. Hay duplicado. 2 fs. 2.- Decreto del Consejo de Indias por el que se ordena se dé cuenta a S.M. de lo que escribe el Virrey sobre el presidente de Guatemala. Madrid, 27-VI-1606. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-01-06.",
+    "upd": null,
+    "ref": "MEXICO,26,N.72"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9621",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3540793",
+    "docs": 1,
+    "title": "Inventario de bienes: Bravo, Pedro",
+    "scope": "Autos del inventario de bienes de Pedro Bravo, vecino y alguacil mayor de las minas de San Luis Potosí, hasta que su hijo Francisco Bravo cumpla la edad necesaria para ocupar dicho oficio. \nActuados ante Alonso Tello de Guzmán, teniente de capitán general y alcalde mayor de San Luis Potosí.",
+    "desc": ". Folios 93-96",
+    "locn": null,
+    "lbd": "1622-08-11",
+    "upd": null,
+    "ref": "MEXICO,259,N.35"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10806",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363028",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a S.M., quejas y vejaciones de los indios de Tlaxcala, de los procuradores y letrados designados para su defensa. 10 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1686-01-23.",
+    "upd": null,
+    "ref": "MEXICO,56,R.1,N.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

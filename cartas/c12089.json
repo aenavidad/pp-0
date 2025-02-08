@@ -1,0 +1,28 @@
+{
+  "id": "c12089",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351895",
+    "docs": 3,
+    "title": "Informaciones: Martín de Jibaja",
+    "scope": "Informaciones de oficio y parte: Martín de Jibaja, regidor de Santiago de Guatemala, teniente de gobernador de la provincia de Honduras y capitán general de la provincia de Honduras, y vecino de Guatemala. Con parecer de la Audiencia. Informaciones contenidas de 1615 y 1620",
+    "desc": null,
+    "locn": null,
+    "lbd": "1621.",
+    "upd": "1623.",
+    "ref": "GUATEMALA,122,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

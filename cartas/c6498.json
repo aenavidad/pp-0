@@ -1,0 +1,28 @@
+{
+  "id": "c6498",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349911",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Petición de Miguel Martínez de Rivamartín, tesorero, solicitando licencia para pasar a la provincia de Honduras con criados, armas y joyas.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608-07-30.",
+    "upd": null,
+    "ref": "GUATEMALA,49,N.68"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5331",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12726095",
+    "docs": 1,
+    "title": "Real cédula a los oficiales reales de México para que acudan al doctor Eugenio de Salazar, del Consejo de Indias, con el salario de su plaza de oidor de la Audiencia de México, desde que salió de México hasta que tomó plaza en el Consejo.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1601-06-01.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.207V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

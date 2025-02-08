@@ -1,0 +1,28 @@
+{
+  "id": "c6059",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361267",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., esperan almiranta de Manila. Socorro para jornada de Terrenate. Naos del Perú para despachar a Manila. 2 fs. Anejo:\n1.- El Virrey a S.M., dos capítulos de carta sobre naos de Filipinas y el socorro al Gobernador Acuña para la jornada de Terrenate. México, 17-II-1606. Copia [S.F.]. 1 f",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-02-17.",
+    "upd": null,
+    "ref": "MEXICO,26,N.79"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

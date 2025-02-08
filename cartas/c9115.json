@@ -1,0 +1,28 @@
+{
+  "id": "c9115",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3552740",
+    "docs": 1,
+    "title": "Inventario de bienes: Dávila, Cristobal",
+    "scope": "Inventario de bienes de Cristóbal Dávila, alguacil mayor y sargento mayor de la provincia de Coatzacoalco. \nActuados ante Felipe de Sámano, alcalde ordinario de la ciudad de México.",
+    "desc": ". Folio 154",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,260,N.61"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

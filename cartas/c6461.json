@@ -1,0 +1,28 @@
+{
+  "id": "c6461",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348728",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memoria de las cosas que se han de tratar con su majestad en nombre de juan Guerra de Ayala, Gobernador de Honduras, sobre la conquista de Teguicigalpa.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608-06-10.",
+    "upd": null,
+    "ref": "GUATEMALA,39,R.14,N.87"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

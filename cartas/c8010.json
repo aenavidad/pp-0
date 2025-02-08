@@ -1,0 +1,28 @@
+{
+  "id": "c8010",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781122",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de regidor de la villa de Zamora en la provincia de Michoacán a Alonso Robledo.",
+    "scope": "[Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España remató el oficio en el interesado en 510 pesos. \nNota al margen: 'La notaría de Fernando Alfonso Carrillo se despacho en este dicho tiempo mas está asentada mas adelante' [Fol. 61V]",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-03-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.45V-47R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

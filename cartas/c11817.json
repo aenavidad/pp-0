@@ -1,0 +1,28 @@
+{
+  "id": "c11817",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368577",
+    "docs": 2,
+    "title": "Informaciones: Alonso Gómez de Cervantes",
+    "scope": "Informaciones de oficio y parte: Alonso Gómez de Cervantes, regidor de México, vecino de México. Un traslado de 1605 de una información iniciada en 1599 que a su vez contiene informaciones de 1591-1565-1551. Otro traslado de 1591 de una información de 1591 que a su vez contiene informaciones de 1565-1584-1551",
+    "desc": null,
+    "locn": null,
+    "lbd": "1591.",
+    "upd": "1605.",
+    "ref": "MEXICO,223,N.2"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

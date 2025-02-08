@@ -1,0 +1,28 @@
+{
+  "id": "c6465",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361359",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., recibo de despachos. Desagüe de la Laguna. Suspensión de la visita. Dinero procedido de la visita. Venida del visitador Billela. Recibo de recaudos en este despacho. Prevenciones para enviar al plata. 2 fs. Anejos:\n1.- Testimonio de lo que en ocasión pasada y presente de la inundación que la laguna de la ciudad de México ha causado en ella, se ha hecho para su remedio por los virreyes Marqués de Montesclaros y Don Luis de Velasco. México, 16-VI-1608. 10 fs. 2.- Testimonio de lo que en la ocasión pasada y presente de la inundación que la laguna de la ciudad de México ha causado en ella, se ha hecho para su remedio por los virreyes Marqués de Montesclaros y Don Luis de Velasco. México, 6-XI-1608. 12 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1608-06-16.",
+    "upd": null,
+    "ref": "MEXICO,27,N.65"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

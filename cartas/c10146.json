@@ -1,0 +1,28 @@
+{
+  "id": "c10146",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4049732",
+    "docs": 1,
+    "title": "Inventario de bienes: San Vicente, Hernando de",
+    "scope": "Autos del inventario de bienes de Hernando de San Vicente, vecino de la ciudad de Guadalajara, del Nuevo Reino de Galicia, casado con descendiente de conquistador, alcalde mayor de la villa de Aguascalientes y de la villa de La Purificación. \nActuados ante Rodrigo Osorio de los Ríos, alcalde ordinario de Guadalajara.",
+    "desc": ". Folios 540-541",
+    "locn": null,
+    "lbd": "1625-03-14",
+    "upd": null,
+    "ref": "MEXICO,263,N.176"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

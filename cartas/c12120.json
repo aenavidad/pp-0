@@ -1,0 +1,28 @@
+{
+  "id": "c12120",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368638",
+    "docs": 4,
+    "title": "Informaciones: Diego de Pareda Suárez",
+    "scope": "Informaciones de oficio y parte: Diego de Pareda Suárez, vecino de México. Dos ejemplares de traslados de 1604 de informaciones del mismo año. Parecer de la Audiencia de 1604. Sobre información de él y su familia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": null,
+    "ref": "MEXICO,225,N.7"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

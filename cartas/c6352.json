@@ -1,0 +1,28 @@
+{
+  "id": "c6352",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361315",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., detención que tuvo por llegada del Virrey Velasco. Satisfacción que tiene de hacienda de Guadalajara. Que el Virrey debe ser superintendente de esta caja. Que el Virrey tenga superioridad en todo. Dinero de las comunidades para las bulas. Reformación del presidio de San Juan. 3 fs",
+    "desc": null,
+    "locn": "Acapulco",
+    "lbd": "1607-08-04.",
+    "upd": null,
+    "ref": "MEXICO,27,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5765",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349277",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta de la Audiencia de Guatemala, informando sobre los daños sufridos por la ciudad de San Salvador tras el terremoto del año 1594.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604-05-03.",
+    "upd": null,
+    "ref": "GUATEMALA,43,N.66"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

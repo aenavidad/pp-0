@@ -1,0 +1,28 @@
+{
+  "id": "c10940",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348269",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre el comportamiento del sargento mayor, Andrés Ortiz de Urbina, en relación con su maestre de campo.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1687-10-23.",
+    "upd": "1689-08-11.",
+    "ref": "GUATEMALA,29,R.4,N.88"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

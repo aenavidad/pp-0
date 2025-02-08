@@ -1,0 +1,28 @@
+{
+  "id": "c12140",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368883",
+    "docs": 4,
+    "title": "Informaciones: Juan Pérez de Córdoba",
+    "scope": "Informaciones de oficio y parte: Juan Pérez de Córdoba, juez contador de las alcabalas de los Angeles. Con información de 1602-1617 Con petición",
+    "desc": null,
+    "locn": null,
+    "lbd": "1618.",
+    "upd": "1620.",
+    "ref": "MEXICO,234,N.15"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

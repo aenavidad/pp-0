@@ -1,0 +1,28 @@
+{
+  "id": "c12222",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368664",
+    "docs": 18,
+    "title": "Informaciones: Cristóbal de Rojas",
+    "scope": "Informaciones de oficio y parte: Cristóbal de Rojas, oficial mayor de la Contaduría de la Real Alcabala de Nueva España. Traslados de 1620, 1605, 1607-1608 y 1609 de informaciones de 1620, 1605 y 1607 respectivamente\n- 2 pareceres de la Audiencia de 1605 y 1607\n- Certificaciones de 1604 y 1609\n- Otros testimonios y autos de 1609",
+    "desc": null,
+    "locn": null,
+    "lbd": "1605.",
+    "upd": "1620.",
+    "ref": "MEXICO,226,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

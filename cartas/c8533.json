@@ -1,0 +1,28 @@
+{
+  "id": "c8533",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12819302",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México para que informe sobre la petición de [Juan Pérez de la Serna], arzobispo de dicha ciudad, y guarde lo dispuesto en el Concilio de Trento y otras reales cédulas en relación a las visitas ordinarias.",
+    "scope": "Real cédula dada tras la negativa del convento de Santa Inés de México, de dar las cuentas de hacienda y dotes al arzobispo de dicha ciudad, alegando estar administrado por legos de jurisdicción real.",
+    "desc": null,
+    "locn": "El Pardo",
+    "lbd": "1620-11-25.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.64V-65R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

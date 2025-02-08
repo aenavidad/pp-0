@@ -1,0 +1,28 @@
+{
+  "id": "c9707",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3543497",
+    "docs": 1,
+    "title": "Inventario de bienes: Cervantes, Juan de",
+    "scope": "Autos de inventario de bienes de Juan de Cervantes, encomendero de Tanchipa, vecino y alcalde ordinario de la villa de Santiago de los Valles; regidor, teniente y caudillo en dicha villa. \nActuados ante Pedro Miguel de Loaysa, alcalde mayor de la villa de Santiago de los Valles y capitán de guerra en su frontera.",
+    "desc": ". Folios 136-137",
+    "locn": null,
+    "lbd": "1622-08-19",
+    "upd": null,
+    "ref": "MEXICO,260,N.53"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

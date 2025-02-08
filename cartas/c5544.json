@@ -1,0 +1,28 @@
+{
+  "id": "c5544",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350917",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE GUATEMALA",
+    "scope": "Expediente de Confirmación de Encomienda en el distrito de la Audiencia de Guatemala a Alonso Alvarez de Vega. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603-02-20.",
+    "upd": null,
+    "ref": "GUATEMALA,96,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

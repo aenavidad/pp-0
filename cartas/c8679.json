@@ -1,0 +1,28 @@
+{
+  "id": "c8679",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361499",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., reputación de ministros. Fraudes en el puerto de San Juan de Ulúa. Remedio a escándalos en la orden de la Merced. Hurto de la caja real. Residencias. Que las cédulas se encaminen al Virrey. Prisión de un capitulante de la resistencia del Virrey. 4 fs",
+    "desc": null,
+    "locn": null,
+    "lbd": "1621-11-14.",
+    "upd": null,
+    "ref": "MEXICO,29,N.66"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

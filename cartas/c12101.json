@@ -1,0 +1,28 @@
+{
+  "id": "c12101",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368953",
+    "docs": 3,
+    "title": "Informaciones: Fernando Alonso Carrillo",
+    "scope": "Informaciones de oficio y parte: Fernando Alonso Carrillo, escribano de cabildo de México y Gonzalo Carrillo, capellán del convento de monjas descalzas de Santa Teresa de México. Con parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1626.",
+    "upd": null,
+    "ref": "MEXICO,236,N.27"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

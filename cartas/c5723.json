@@ -1,0 +1,28 @@
+{
+  "id": "c5723",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368625",
+    "docs": 1,
+    "title": "Informaciones: Juan Gómez Pacheco",
+    "scope": "Informaciones de oficio y parte: Juan Gómez Pacheco, cura y vicario del pueblo y partido de Tezcoco, natural de Mérida (Yucatán). Traslado de una información de 1603. Contiene parecer del obispo y del gobernador de Yucatán de 1612",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603.",
+    "upd": null,
+    "ref": "MEXICO,224,N.25"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

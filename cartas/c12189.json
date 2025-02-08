@@ -1,0 +1,28 @@
+{
+  "id": "c12189",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349281",
+    "docs": 6,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta y testimonios de autos del cabildo secular de San Salvador, sobre actividades de D. Pedro Farfán, presidente de la Audiencia de Guatemala",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-05-17.",
+    "upd": null,
+    "ref": "GUATEMALA,43,N.70"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

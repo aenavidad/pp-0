@@ -1,0 +1,28 @@
+{
+  "id": "c8199",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782791",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México para que vean lo que dice en deán y cabildo de la catedral de México sobre que los curas asistan a la misa mayor y vísperas cumpliendo cierto capítulo de la erección de dicha iglesia, para que den traslado al fiscal y pida lo que convenga al patronato real.",
+    "scope": "A petición del Dr. Diego Guerra, canónigo magistral de Sagrada escritura de la catedral de México, en nombre de su deán y cabildo.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-02-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.139V-140V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11890",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351849",
+    "docs": 2,
+    "title": "Informaciones: Blas Cruz de Negreda",
+    "scope": "Informaciones de oficio y parte: Blas Cruz de Negreda, clérigo, y siendo seglar: maestro mayor y pagador de la ciudad de Guatemala, y vecino de Guatemala. Con petición",
+    "desc": null,
+    "locn": null,
+    "lbd": "1611.",
+    "upd": null,
+    "ref": "GUATEMALA,120,N.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

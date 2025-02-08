@@ -1,0 +1,28 @@
+{
+  "id": "c8025",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781404",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México, para que informen, enviando relación al Consejo, sobre la petición de los indios de los cuatro barrios de la ciudad de [Puebla de] los Ángeles, San Pablo, San Francisco, Santiago y San Sebastián de ser reservados de prestar el servicio personal que llaman coatequitl, fuera de su ciudad.",
+    "scope": "Los indios de los cuatro barrios de Puebla prestaban servicio personal a las justicias y cabildos seglar y eclesiástico de dicha ciudad.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-04-09.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.50R-51R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5724",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368615",
+    "docs": 1,
+    "title": "Informaciones: Nicolás de Luna Bermúdez",
+    "scope": "Informaciones de oficio y parte: Nicolás de Luna Bermñudez, natural de Antequera. Traslado de 1603 con informaciones de 1601-1602 y 1602-1603",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603.",
+    "upd": null,
+    "ref": "MEXICO,224,N.15"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

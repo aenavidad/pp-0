@@ -1,0 +1,28 @@
+{
+  "id": "c8438",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12817332",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México para que los alcaldes del crimen guarden las leyes sobre inmunidad y otros asuntos eclesiásticos, como se les tiene ordenado por diferentes cédulas.",
+    "scope": "Dada a petición de Pedro Rodríguez de Castro, provisor y vicario general del arzobispado de México, en nombre de Juan [Pérez] de la Serna, arzobispo de dicha ciudad, tras lo sucedido en las causas de Francisco López, Francisco de Castro, Alonso Guerra, el mulato Hernando de Ayala, Diego de Armijo y consortes, Luis de los Reyes y Pedro de Pliego.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-05-20.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.12V-13R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7907",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/345527",
+    "docs": 1,
+    "title": "Registro: Guatemala",
+    "scope": "Registro de partes: Reales Disposiciones (Reales Cédulas, Reales Provisiones, Cartas Acordadas, etc.), dirigidas a autoridades y particulares del distrito de la Audiencia de Guatemala. (Libro R 9)",
+    "desc": ". 259 folios; Foliación original, más 6 folios de índice.,Total, 265 folios. 259 Hoja(s)",
+    "locn": null,
+    "lbd": "1617-07-29.",
+    "upd": "1625-06-15.",
+    "ref": "GUATEMALA,395,L.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

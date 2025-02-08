@@ -1,0 +1,28 @@
+{
+  "id": "c6395",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12780894",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de tesorero de la Casa de la Moneda de México para Melchor de Vera, hijo de Diego Matías de Vera y vecino de dicha ciudad.",
+    "scope": "Inserta el traslado del título, así como de todas las diligencias realizadas para la venta del oficio, el cual fue rematado en 250.000 pesos de oro común.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1607-12-17.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.11V-40V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5506",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361137",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., entrada del arzobispo en México. Falta al protocolo del arzobispo. Concilio de la metrópoli. Agustinos. Descalzos, franciscanos. Hay duplicado. 4 fs. Anejos: \n1.- Papeles que el Virrey pasó ante la discordia que se cernía en el seno de la orden de San Agustín, entre Fray Pedro Rubión, juez ordinario y apostólico, y Fray Agustín de Zúñiga, prior del convento de México. México, 2-XI-1602. 2 fs. 2.- El Virrey al comisario de los descalzos de San Francisco, sobre la erección de su custodia en provincia. Chapultepec, 9-XI-1602. 1 f. 3.- El Virrey a S.M., capítulos en materia de gobierno eclesiástico. 4-XII-1602. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1602-12-04.",
+    "upd": null,
+    "ref": "MEXICO,25,N.17"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

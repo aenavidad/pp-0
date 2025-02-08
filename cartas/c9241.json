@@ -1,0 +1,28 @@
+{
+  "id": "c9241",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3681549",
+    "docs": 1,
+    "title": "Inventario de bienes: Porras Farfán, Juan de",
+    "scope": "Autos de inventario de bienes de Juan de Porras y Farfán, vecino de la ciudad de México, escribano público del número en la dicha ciudad. \nActuados ante Gonzalo de Carvajal, escribano de la ciudad de México.",
+    "desc": ". folios 453-454",
+    "locn": null,
+    "lbd": "1622-07-20",
+    "upd": null,
+    "ref": "MEXICO,261,N.173"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

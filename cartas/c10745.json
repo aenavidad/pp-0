@@ -1,0 +1,28 @@
+{
+  "id": "c10745",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/345105",
+    "docs": 1,
+    "title": "Registro: Guatemala",
+    "scope": "Registro de oficio: Reales Disposiciones (Reales Cédulas, Reales Provisiones, etc) dirigidas a las autoridades del distrito de la Audiencia de Guatemala. (Libro Q 10)",
+    "desc": ". 312 folios. Foliación original hasta folio 293; foliación actual hasta folio 311.,Observaciones: folio 196, duplicado, salvado con bis. 312 Hoja(s)",
+    "locn": null,
+    "lbd": "1685-03-30.",
+    "upd": "1692-10-13.",
+    "ref": "GUATEMALA,389,L.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

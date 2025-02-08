@@ -1,0 +1,28 @@
+{
+  "id": "c12225",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349824",
+    "docs": 33,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente formado a instancia de carta de los oficiales reales de 30 de abril de 1690, sobre el pago de las medias anatas de las encomiendas por cuatro años.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1690-04-30.",
+    "upd": "1697-12-11.",
+    "ref": "GUATEMALA,48,N.74"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

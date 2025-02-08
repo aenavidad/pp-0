@@ -1,0 +1,28 @@
+{
+  "id": "c12207",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349842",
+    "docs": 7,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Pedro de la Vega Valbuena, tesorero y Manuel de Medrano y Solórzano, contador, y testimonios, de la toma de posesión hecha en varios oficios.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1698-02-01.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.92"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

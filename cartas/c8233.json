@@ -1,0 +1,28 @@
+{
+  "id": "c8233",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783095",
+    "docs": 1,
+    "title": "Real cédula ordenando que ningún maestre de navío ni cualquier otra persona pueda descargar mercancías en la provincia de Tabasco fuera del almacén real habilitado a tal efecto, no pudiendo hacerlo en el rio ni en ningún otro lugar.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-03-03.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.152V-153R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

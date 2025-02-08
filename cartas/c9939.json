@@ -1,0 +1,28 @@
+{
+  "id": "c9939",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3901237",
+    "docs": 1,
+    "title": "Inventario de bienes: Méndez de Sotomayor, Hernán",
+    "scope": "Autos del inventario de bienes de Hernán Méndez de Sotomayor, vecino, natural y alcalde de la Santa Hermandad de la ciudad de Santiago de los Caballeros, provincia de Guatemala, descendiente de conquistador, encomendero de pueblos de indios, juez de casados y juez de composiciones de tierras de la provincia de Nicaragua.",
+    "desc": ". Folios 398-399",
+    "locn": null,
+    "lbd": "1623-05-17",
+    "upd": null,
+    "ref": "MEXICO,263,N.125"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

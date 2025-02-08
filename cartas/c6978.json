@@ -1,0 +1,28 @@
+{
+  "id": "c6978",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781067",
+    "docs": 1,
+    "title": "Real cédula nombrando a Martín de Echevarría capitán de infantería de la almiranta de la flota de Nueva España.",
+    "scope": "Con un salario de 40 escudos mensuales.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1611-06-10.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.15V-16R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

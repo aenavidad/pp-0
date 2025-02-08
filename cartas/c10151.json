@@ -1,0 +1,28 @@
+{
+  "id": "c10151",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349918",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Petición de Andrés de Ojirondo, tesorero de la Caja Real de Comayagua, solicitando que el pago de su fianza se efectue en la provincia de Honduras.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625-04-14.",
+    "upd": null,
+    "ref": "GUATEMALA,49,N.75"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

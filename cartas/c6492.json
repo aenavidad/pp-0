@@ -1,0 +1,28 @@
+{
+  "id": "c6492",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781560",
+    "docs": 1,
+    "title": "Real cédula disponiendo que al prior, cónsules y juez de alzada de la Universidad de los Mercaderes de México se les pague ayuda de costa de la avería de dicho consulado, ordenando al virrey de Nueva España que informe si esto ofrece algún inconveniente.",
+    "scope": "Aprueba un salario para el prior, cónsules y juez de alzada de 80.000, 40.000 y 100.000 maravedíes al año, respectivamente.",
+    "desc": null,
+    "locn": "Lerma",
+    "lbd": "1608-07-05.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.82V-83V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

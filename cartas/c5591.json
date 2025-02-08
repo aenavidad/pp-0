@@ -1,0 +1,28 @@
+{
+  "id": "c5591",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12757465",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de Nueva Galicia para que informe acerca de la petición de la ciudad de México de que no se den licencias para matar vacas, cabras ni ovejas.",
+    "scope": "Nota de despacho",
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1603-05-05.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.287R-287V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

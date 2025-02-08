@@ -1,0 +1,28 @@
+{
+  "id": "c5459",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361134",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a su S.M., pacificación de Nueva Vizcaya. Hay duplicado. 2 fs. Anejos: \n1.- Don Rodrigo de Vivero, gobernador de la Nueva Vizcaya, al Virrey, sobre el estado de la guerra y pidiéndole declaración sobre su autoridad de Capitán general y gobernador. San Andrés, 14-II-1602. Hay duplicado. 2 fs. 2.- El Obispo de la Nueva Galicia a Virrey, haciendo relación de su jornada a Topia, con ocasión del alzamiento de los acaxés. Pátzcuaro, 20-V-1602. 2 fs. 3.- Don Rodrigo de Vivero, gobernador de la Nueva Vizcaya, al Virrey, sobre la pacificación de los pueblos alzados. San Andrés, 11-VI-1602. 2 fs. 4.- El Gobernador Don Rodrigo de Vivero al Virrey, memoria de los pueblos que estaban reducidos de paz de los rebelados en la Nueva Vizcaya, hasta el 10 de julio de 1602. 1602 [SUP]. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1602-07-29.",
+    "upd": null,
+    "ref": "MEXICO,25,N.14"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

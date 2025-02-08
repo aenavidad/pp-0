@@ -1,0 +1,28 @@
+{
+  "id": "c10851",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348931",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre las medidas que deben tomarse para el mantenimiento y defensa del castillo del río San Juan/.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1686-08-08.",
+    "upd": "1692-03-10.",
+    "ref": "GUATEMALA,40,R.22,N.85"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11654",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348591",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de José Gutiérrez de la Peña, fiscal de la Audiencia de Guatemala al secretario del Consejo, Bernardino Antonio de Pardiñas.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1698-01-28.",
+    "upd": null,
+    "ref": "GUATEMALA,38,R.1,N.1"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

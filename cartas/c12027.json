@@ -1,0 +1,28 @@
+{
+  "id": "c12027",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368653",
+    "docs": 3,
+    "title": "Informaciones: Francisco Rodríguez Callejas",
+    "scope": "Informaciones de oficio y parte: Francisco Rodríguez Callejas. Dos traslados de 1604 de información del mismo año y traslado de información de 1603. Resolución de 1606",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603.",
+    "upd": "1604.",
+    "ref": "MEXICO,225,N.22"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

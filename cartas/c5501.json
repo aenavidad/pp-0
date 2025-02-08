@@ -1,0 +1,28 @@
+{
+  "id": "c5501",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12752639",
+    "docs": 1,
+    "title": "Real provisión al virrey y Audiencia de México mandando cumplir la inserta de 19 de julio de 1540 en la que se ordenaba que las ejecuciones de las deudas contraídas por los dueños de las minas se hicieran sobre el oro y la plata que se extrajera y no sobre los esclavos, herramientas y demás provisiones necesarias para la labor de dichas minas.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1602-11-26.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.265R-267R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

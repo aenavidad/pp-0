@@ -1,0 +1,28 @@
+{
+  "id": "c8419",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12784044",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México, ordenándole que pese a lo mandado por otra cédula, no se venda el oficio de tasador y repartidor de ella, sino que sea oficio de su provisión.",
+    "scope": "Por cédula de 3 de marzo de 1619, el rey solicita información sobre la pretensión de Antonio de Jeria Céspedes de que se declare no vendible el oficio que sirve de tasador y repartidor de la Audiencia y que se le confirme dándole la futura sucesión para su hijo, la Audiencia respondió en carta de 27 de septiembre de 1619.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-03-15.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.252R-252V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

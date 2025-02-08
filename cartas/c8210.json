@@ -1,0 +1,28 @@
+{
+  "id": "c8210",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783097",
+    "docs": 1,
+    "title": "Real cédula a los oficiales reales de México, para que den a Francisco Núñez de Basurto, testimonio en manera que haga fe de todas las pagas que ha hecho por orden del virrey desde que las quitas están empeñadas hasta la fecha.",
+    "scope": "Francisco Núñez de Basurto, vecino de México, sirvió el oficio de contador ordenador de cuentas del Tribunal de México durante la suspensión de su propietario Andrés Gutiérrez.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-02-23.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.152R-152V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

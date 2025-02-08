@@ -1,0 +1,28 @@
+{
+  "id": "c11525",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363277",
+    "docs": 1,
+    "title": "Carta del virrey conde de Galve",
+    "scope": "El virrey de Nueva España al rey sobre el convento de religiosos de Santa Clara, de la ciudad de Querétaro.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1695-11-30.",
+    "upd": null,
+    "ref": "MEXICO,62,R.3,N.16"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c6123",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361273",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., en recomendación del Licenciado Gaspar de Chaves. 3 fs. Anejos:\n1.- La ciudad de México a S.M., en recomendación del Licenciado Gaspar de Chaves. México, 5-VI-1606. 2 fs. 2.- El prior y cónsules de la ciudad de México a S.M., en recomendación del Lic. Gaspar de Chaves. México, 1-VI-1606. 3 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-05-26.",
+    "upd": null,
+    "ref": "MEXICO,26,N.85"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

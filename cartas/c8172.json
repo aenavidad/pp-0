@@ -1,0 +1,28 @@
+{
+  "id": "c8172",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351817",
+    "docs": 1,
+    "title": "Informaciones: Lorenzo de Ayala Godoy",
+    "scope": "Informaciones de oficio y parte: Lorenzo de Ayala Godoy, canónigo de la catedral de Santiago de Guatemala. Información contenida de 1606",
+    "desc": null,
+    "locn": null,
+    "lbd": "1618.",
+    "upd": null,
+    "ref": "GUATEMALA,117,N.19"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

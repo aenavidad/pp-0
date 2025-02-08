@@ -1,0 +1,28 @@
+{
+  "id": "c12205",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368925",
+    "docs": 7,
+    "title": "Informaciones: Juan de Ocampo Cervantes",
+    "scope": "Informaciones de oficio y parte: Juan de Ocampo Cervantes, beneficiado de la parroquia de Santa Catalina Mártir de México, colector de la catedral de México, vecino de México. Con petición y parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1622.",
+    "upd": null,
+    "ref": "MEXICO,235,N.28"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

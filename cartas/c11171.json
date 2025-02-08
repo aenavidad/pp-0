@@ -1,0 +1,28 @@
+{
+  "id": "c11171",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363161",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., dando cuenta de las disposiciones que hizo para la solicitud de buscar al enemigo pirata que andaba en las costas del Mar del Sur desde que salieron las naos de Azogue. 33 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1690-01-26.",
+    "upd": null,
+    "ref": "MEXICO,59,R.3,N.14"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

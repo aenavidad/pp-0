@@ -1,0 +1,28 @@
+{
+  "id": "c5548",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361145",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., ceremonial del arzobispado. El agustino Fray Pedro Rubión. 2 fs. Anejo:\n1.- El Virrey al Fiscal de la Audiencia de México Espinosa de la Plaza, billete sobre el ceremonial del arzobispado. México, 26-II-1603. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1603-02-26.",
+    "upd": null,
+    "ref": "MEXICO,25,N.25"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

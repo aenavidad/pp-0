@@ -1,0 +1,28 @@
+{
+  "id": "c5866",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783657",
+    "docs": 1,
+    "title": "Real Cédula para que los maestros y oficiales de la ciudad de México no sean obligados a salir a recibir a los virreyes.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1605-02-02.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.46R-46V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

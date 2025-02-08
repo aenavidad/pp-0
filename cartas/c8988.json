@@ -1,0 +1,28 @@
+{
+  "id": "c8988",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3690788",
+    "docs": 1,
+    "title": "Inventario de bienes: Ramírez de Escobar, Diego",
+    "scope": "Autos de inventario de bienes de Diego Ramírez de Escobar, vecino de la ciudad de México, escribano real de la ciudad de México. \nActuados ante Felipe de Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". folios 470-472",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,261,N.180"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

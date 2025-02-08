@@ -1,0 +1,28 @@
+{
+  "id": "c8268",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783318",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de escribano público de las Minas de Guadalcázar y Cerro de San Cristóbal, de nuevo descubrimiento, para Gabriel de Santillana.",
+    "scope": "[Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España, remató el oficio en el interesado por 1.100 pesos de oro común.",
+    "desc": null,
+    "locn": "Mérida",
+    "lbd": "1619-05-04.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.170R-171V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

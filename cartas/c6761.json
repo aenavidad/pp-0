@@ -1,0 +1,28 @@
+{
+  "id": "c6761",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783244",
+    "docs": 1,
+    "title": "Real cédula al arzobispo de Manila para que informe sobre la pretensión de la Compañía de Jesús de que se le dé en propiedad la doctrina del pueblo de Tepozotlán, y de los posibles inconvenientes que esto podría conllevar.",
+    "scope": "Debe tratarse de un error la dirección del documento, pues como se indica al margen, debe ir dirigida a [Francisco García Guerra], arzobispo de México. \nNota al margen: 'Idem al arzobispo de México'.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1610-02-08.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.191V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12202",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368769",
+    "docs": 7,
+    "title": "Informaciones: Pedro Graces del Portillo",
+    "scope": "Informaciones de oficio y parte: Pedro Graces del Portillo, clérigo presbítero, catedrático de instituta de la Universidad de México, doctor.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1610.",
+    "upd": null,
+    "ref": "MEXICO,229,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12109",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349815",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Miguel de la Vega Valbuena, tesorero y Felipe Maiz y Lizárraga, contador, y testimonio de autos, informando del traspaso de los bienes del difunto Pedro de Miranda, fiscal de la Audiencia, a su heredero, Juan Feliz de Miranda. Con copia de real cédula de 14 de junio de 1686 dirigida a los oficiales reales",
+    "desc": null,
+    "locn": null,
+    "lbd": "1688-04-24.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.65"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

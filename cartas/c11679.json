@@ -1,0 +1,28 @@
+{
+  "id": "c11679",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363341",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE MOCTEZUMA",
+    "scope": "El Virrey a S.M., derechos de almojarifazgo que debía pagar la flota del General Don Juan Gutiérrez de la Calzadilla. 30 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1698-04-30.",
+    "upd": null,
+    "ref": "MEXICO,65,R.3,N.19"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

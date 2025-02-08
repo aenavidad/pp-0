@@ -1,0 +1,28 @@
+{
+  "id": "c11922",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368859",
+    "docs": 2,
+    "title": "Informaciones: José de la Cerda",
+    "scope": "Informaciones de oficio y parte: José de la Cerda, beneficiado y vicario de las minas de Tlalpujagua. Con parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1617.",
+    "upd": null,
+    "ref": "MEXICO,233,N.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

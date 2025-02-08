@@ -1,0 +1,28 @@
+{
+  "id": "c11495",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363267",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., roces que hubo entre el Arzobispo y la Audiencia a causa de entregar una menor, que estaba en un convento, a su abuela para su educación. 120 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1695-05-18.",
+    "upd": null,
+    "ref": "MEXICO,62,R.3,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

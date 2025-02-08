@@ -1,0 +1,28 @@
+{
+  "id": "c6500",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781810",
+    "docs": 1,
+    "title": "Real cédula a Luis de Velasco, virrey de Nueva España, para que devuelva a Juan Ramírez el importe del remate del oficio de escribano público y del cabildo de la villa de León, por no habérsele concedido la confirmación de dicho oficio.",
+    "scope": "[Gaspar de Zúñiga Acevedo], conde de Monterrey, virrey de Nueva España, había rematado dicho oficio por 650 pesos de oro común.",
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1608-08-02.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.101R-101V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

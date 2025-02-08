@@ -1,0 +1,28 @@
+{
+  "id": "c11434",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351303",
+    "docs": 1,
+    "title": "PETICION DEL CONDE DE CIFUENTES",
+    "scope": "El conde de Cifuentes suplica que en cuenta de los tres mil pesos que tiene de renta, se le situe la Encomicenda de Payatanga, San Lorenzo y Guacona (en Riobamba y Quito). Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1694-05-16.",
+    "upd": null,
+    "ref": "GUATEMALA,108,N.32"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

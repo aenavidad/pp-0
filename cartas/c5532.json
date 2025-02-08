@@ -1,0 +1,28 @@
+{
+  "id": "c5532",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/346953",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre los autos hechos en la Audiencia de Guatemala, entre el fiscal y el obispo en razón del patronazgo real.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603-01-30.",
+    "upd": "1603-07-02.",
+    "ref": "GUATEMALA,11,R.6,N.35"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

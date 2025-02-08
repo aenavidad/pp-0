@@ -1,0 +1,28 @@
+{
+  "id": "c5357",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361111",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga y Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., beneficios curados. Frailes dominicos. Diferencias entre dominicos y carmelitas. Religiosos para Tampico y Zacatecas. Arzobispo. Hay duplicado 2 fs. Anejo:\n1.- Copia de capítulo de carta del Virrey a S.M., necesidad de frailes dominicos. 26-X-1610. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1601-10-26.",
+    "upd": null,
+    "ref": "MEXICO,24,N.61"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

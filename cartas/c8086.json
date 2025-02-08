@@ -1,0 +1,28 @@
+{
+  "id": "c8086",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781860",
+    "docs": 1,
+    "title": "Real cédula a Francisco Ramírez Briceño, gobernador de Yucatán, para que informe sobre el daño que reciben los indios de Mariana Velázquez, encomendara de la provincia de San Francisco de Campeche, de que se armen y fabriquen junto a los pueblos de su encomienda navíos y barcas y que entretanto provea no se moleste a dichos indios.",
+    "scope": "Mariana Velázquez es viuda de Íñigo de Oca.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-07-13.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.83R-83V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

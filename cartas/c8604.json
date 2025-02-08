@@ -1,0 +1,28 @@
+{
+  "id": "c8604",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12874356",
+    "docs": 1,
+    "title": "Real cédula a [Juan Pérez de la Serna], arzobispo de México, para que informe sobre qué monasterios hay en aquella ciudad y qué hacienda dará Gonzalo Gutiérrez Gil, vecino de la misma, para el monasterio de monjas Nuestra Señora de Belén de la Orden de San Jerónimo, que quiere fundar allí, y disponga lo que más convenga.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1621-06-07.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.93V-94R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

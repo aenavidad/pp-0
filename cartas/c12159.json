@@ -1,0 +1,28 @@
+{
+  "id": "c12159",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349773",
+    "docs": 4,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Miguel de la Vega Valbuena, tesorero y José Fernández de Córdoba, contador, informando de la forma de hacer el reparto de las armas allí enviadas. Con dos cartas y una certificación de Juan Miguel de Agurto y Alava, presidente de la Audiencia , de 8 y 23 de julio del mismo año",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-07-14.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.23"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

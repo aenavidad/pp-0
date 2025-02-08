@@ -1,0 +1,28 @@
+{
+  "id": "c12015",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349201",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por Juan González Calderón, procurador general del cabildo secular de Santiago de Guatemala, y testimonio, solicitando un despacho para que se le puedan remitir las cantidades necesarias para llevar los pleitos sin intervención de la Audiencia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1689-10-01.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.89"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

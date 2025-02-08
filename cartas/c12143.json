@@ -1,0 +1,28 @@
+{
+  "id": "c12143",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368893",
+    "docs": 4,
+    "title": "Informaciones: Jorge Escudero",
+    "scope": "Informaciones de oficio y parte: Jorge Escudero, canónigo de la catedral de Antequera. Con petición y parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619.",
+    "upd": "1620.",
+    "ref": "MEXICO,234,N.25"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9886",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3899485",
+    "docs": 1,
+    "title": "Inventario de bienes: López de Molina, Andrés",
+    "scope": "Inventario de bienes de Andrés López de Molina, escribano real, vecino de Michoacán, residente en Pátzcuaro, comisionado para tomar residencia en la jurisdicción de Jacona y comisionado del juez de matanza de la provincia de Michoacán.",
+    "desc": ". Folios 358-359",
+    "locn": null,
+    "lbd": "1623-03-03",
+    "upd": null,
+    "ref": "MEXICO,263,N.110"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10161",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349920",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Petición de Andrés de Ojirondo, tesorero de la Caja Real de Comayagua, solicitando licencia para pasar a Indias con un esclavo negro.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625-06-16.",
+    "upd": null,
+    "ref": "GUATEMALA,49,N.77"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

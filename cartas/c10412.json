@@ -1,0 +1,28 @@
+{
+  "id": "c10412",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349940",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Carta de José Benito Midenze, tesorero de la Caja Real de Comayagua, informando del recibo de dos reales cédulas sobre pagos a ministros llegados a Honduras, y prohibición de entrada de naipes extranjeros.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1680-05-09.",
+    "upd": null,
+    "ref": "GUATEMALA,49,N.97"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

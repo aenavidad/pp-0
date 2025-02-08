@@ -1,0 +1,28 @@
+{
+  "id": "c8041",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781478",
+    "docs": 1,
+    "title": "Real cédula al Consulado de Comercio de México, para que informe sobre la petición de jubilación que ha hecho Cristóbal de Bonilla Bastida, prior del mismo, sin que le compelan a tener oficios.",
+    "scope": null,
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1618-05-05.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.61R-61V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

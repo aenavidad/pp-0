@@ -1,0 +1,28 @@
+{
+  "id": "c7268",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782939",
+    "docs": 1,
+    "title": "Real cédula a los gobernadores y alcaides de los fuertes de las Indias ordenándoles no entorpecer la inspección que los generales de las flotas harán del estado de los castillos, armamento y guarniciones de que disponen.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1613-05-21.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.161V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

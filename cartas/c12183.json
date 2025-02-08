@@ -1,0 +1,28 @@
+{
+  "id": "c12183",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368960",
+    "docs": 5,
+    "title": "Informaciones: Pedro Crespo de Rosas",
+    "scope": "Informaciones de oficio y parte: Pedro Crespo de Rosas, bachiller, clérigo presbítero del Obispado de Tlaxcala, vecino de Puebla de los Angeles. Con información de oficio, provisión de cura y vicario de 1626, una certificación de títulos y una licencia de confesor y predicador general en el Obispado de 1627",
+    "desc": null,
+    "locn": null,
+    "lbd": "1627.",
+    "upd": null,
+    "ref": "MEXICO,237,N.2"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

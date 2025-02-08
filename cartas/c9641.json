@@ -1,0 +1,28 @@
+{
+  "id": "c9641",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3739302",
+    "docs": 1,
+    "title": "Inventario de bienes: Fernández de Tene, Gregorio",
+    "scope": "Autos de inventario de bienes de Gregorio Fernández de Tene, vecino y alcalde de Santa Hermandad de la villa de Colima y su jurisdicción. \nActuados ante el capitán Cristóbal Gallegos Osorio, alcalde mayor de la villa de Colima.",
+    "desc": ". Folios 267-268",
+    "locn": null,
+    "lbd": "1622-08-13",
+    "upd": null,
+    "ref": "MEXICO,262,N.98"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

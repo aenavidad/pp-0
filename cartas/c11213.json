@@ -1,0 +1,28 @@
+{
+  "id": "c11213",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363170",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., representación que hizo el Tribunal de cuentas en orden a la mudanza de horas para su asistencia. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1690-06-10.",
+    "upd": null,
+    "ref": "MEXICO,59,R.3,N.23"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

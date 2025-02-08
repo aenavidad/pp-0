@@ -1,0 +1,28 @@
+{
+  "id": "c11876",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368736",
+    "docs": 2,
+    "title": "Informaciones: Pedro Aríndez de Oñate",
+    "scope": "Informaciones de oficio y parte: Pedro Aríndez de Oñate, factor y proveedor de la Real Hacienda de Acapulco. Con parecer de la Audiencia de 1609",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608.",
+    "upd": null,
+    "ref": "MEXICO,228,N.14"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

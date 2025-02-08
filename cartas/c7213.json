@@ -1,0 +1,28 @@
+{
+  "id": "c7213",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782706",
+    "docs": 1,
+    "title": "Real cédula a [Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España, ordenando se remitan puntualmente los 3.000 ducados, sacados de quitas y vacaciones, y con destino a las casas de los consejeros y ministros del Consejo de Indias.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1613-01-20.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.135R-135V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

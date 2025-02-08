@@ -1,0 +1,28 @@
+{
+  "id": "c12141",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349573",
+    "docs": 4,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de memorial de los oficiales reales de Guatemala, en el que solicitan copia de reales cédulas para el desempeño de sus oficios.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1618.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.117"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

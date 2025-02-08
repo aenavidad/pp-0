@@ -1,0 +1,28 @@
+{
+  "id": "c7718",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782353",
+    "docs": 1,
+    "title": "Real Cédula a la Audiencia de México para que examine de escribano y notario público de Indias a Bernardo Remón de Cardona.",
+    "scope": "Nota de despacho",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1616-06-06.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.133R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

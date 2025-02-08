@@ -1,0 +1,28 @@
+{
+  "id": "c6152",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347009",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Petición de Pedro Marmolejo, fiscal del Consejo de Indias.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1606-07-28.",
+    "upd": null,
+    "ref": "GUATEMALA,12,R.3,N.36"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

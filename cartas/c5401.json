@@ -1,0 +1,28 @@
+{
+  "id": "c5401",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349546",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Melchor Ochoa Villanueva, tesorero y José de Paz, contador, sobre cobro de parte del salario a Alonso de Coronado y Manuel de Ungria, oidores, y del obispo de la ciudad, siguiendo instrucciones de dos reales cédulas de S.M",
+    "desc": null,
+    "locn": null,
+    "lbd": "1602-04-20.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.90"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

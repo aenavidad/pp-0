@@ -1,0 +1,28 @@
+{
+  "id": "c12078",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349580",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Testimonio de las certificaciones dadas por Melchor Ochoa de Villanueva, tesorero, y Pedro del Castillo Becerra, contador de los caudales que entraron en la Caja Real en 1618.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619-06-14.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.124"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

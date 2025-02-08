@@ -1,0 +1,28 @@
+{
+  "id": "c7838",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782831",
+    "docs": 1,
+    "title": "Real Provisión concediendo el título de escribano de cámara de la Hacienda de México a Alonso Pardo de Fuentes.",
+    "scope": "Por renuncia de Juan Gallegos Osorio. El oficio se remató en 21.000 pesos de oro común. \nNota al margen: '63000 pesos'.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1617-03-19.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.191R-192R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

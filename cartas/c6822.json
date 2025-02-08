@@ -1,0 +1,28 @@
+{
+  "id": "c6822",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783479",
+    "docs": 1,
+    "title": "Real cédula al capitán general de la flota de Nueva España, a petición de la Universidad de los Mercaderes de Sevilla, para que una vez llegada la flota al puerto de San Juan de Ulúa, despache un navío de aviso para estos reinos con información sobre mercadurías y géneros, dando cuenta de ello al virrey de Nueva España para que venga con sus despachos.",
+    "scope": null,
+    "desc": null,
+    "locn": "Lerma",
+    "lbd": "1610-06-19.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.211V-212R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

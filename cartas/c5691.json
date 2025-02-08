@@ -1,0 +1,28 @@
+{
+  "id": "c5691",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361169",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., recomendación del factor Valverde de Mercado. Otumba. Hay duplicado. 2 fs",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603-11-18.",
+    "upd": null,
+    "ref": "MEXICO,25,N.49"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

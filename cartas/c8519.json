@@ -1,0 +1,28 @@
+{
+  "id": "c8519",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12819000",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México para que informe sobre la petición del Hospital de San Roque de [Puebla] de los Ángeles, de que se le confirme la merced que le otorgó [Juan de Mendoza Luna], marqués de Montesclaros, virrey de Nueva España, acerca de que los autores de cada comedia que se recitase en aquella ciudad le pagasen 6 pesos, si lo hacían en dicho hospital y 4, fuera de él.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1620-10-24.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.50R-50V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

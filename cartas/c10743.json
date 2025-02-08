@@ -1,0 +1,28 @@
+{
+  "id": "c10743",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363014",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a Don Francisco de Salazar, salarios del Consejo. Sin despacho para remitir a La Habana el bizcocho necesario para la armada. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1685-03-28.",
+    "upd": null,
+    "ref": "MEXICO,55,R.1,N.6"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

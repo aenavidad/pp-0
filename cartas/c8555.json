@@ -1,0 +1,28 @@
+{
+  "id": "c8555",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12819873",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México para que informe sobre la pretensión de dicha ciudad de que se le agregue alguna jurisdicción en el término de la villa de Tacuba.",
+    "scope": "Real cédula dada a petición del capitán Alonso de Sotomayor, alcalde mayor de Tacuba.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1621-01-28.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.75R-75V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

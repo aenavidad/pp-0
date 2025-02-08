@@ -1,0 +1,28 @@
+{
+  "id": "c11921",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368846",
+    "docs": 2,
+    "title": "Informaciones: Juan de Villanueva Altamirano",
+    "scope": "Informaciones de oficio y parte: Juan de Villanueva Altamirano, entretenido en la fortificación y defensa del puerto de Acapulco, natural y vecino de México. Información contenida de 1616 Con petición y resúmen de los servicios de sus antepasados impreso",
+    "desc": null,
+    "locn": null,
+    "lbd": "1616.",
+    "upd": null,
+    "ref": "MEXICO,232,N.19"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

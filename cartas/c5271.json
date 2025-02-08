@@ -1,0 +1,28 @@
+{
+  "id": "c5271",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361102",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga y Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., pérdida de la armada del Perú. Armadilla de socorro. Investigación de la pérdida de la armada. Naos de Filipinas. Vacante de factor. Ayuda de costa a los pobladores casados. Socorro a La Habana. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1601-02-28.",
+    "upd": null,
+    "ref": "MEXICO,24,N.52"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

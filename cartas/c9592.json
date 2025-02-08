@@ -1,0 +1,28 @@
+{
+  "id": "c9592",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3746055",
+    "docs": 1,
+    "title": "Inventario de bienes: Zúñiga y Arellano, Alonso",
+    "scope": "Inventario de bienes de Alonso de Zúñiga y Arellano, vecino de la ciudad de Ixmiquilpan, alcalde mayor de la provincia de Ixmiquilpan, regidor del pueblo de Tepexi.",
+    "desc": ". folios 682-683",
+    "locn": null,
+    "lbd": "1622-08-08",
+    "upd": null,
+    "ref": "MEXICO,261,N.260"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

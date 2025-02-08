@@ -1,0 +1,28 @@
+{
+  "id": "c10826",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19153",
+    "docs": 1,
+    "title": "Mapa de las costas del golfo de México y América septentrional hasta Terranova.",
+    "scope": "Autor: Martín de Echegaray \nNúmero de registro: 4250",
+    "desc": ". 1 hoja",
+    "locn": "Sevilla",
+    "lbd": "1686-04-20.",
+    "upd": null,
+    "ref": "MP-FLORIDA_LUISIANA,18"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

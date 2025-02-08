@@ -1,0 +1,28 @@
+{
+  "id": "c8362",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783954",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México, ordenándole cumplir la cédula inserta de Toledo, a 21 de mayo de 1596 por la que se manda que los infractores de las ordenanzas presos por el corregidor por las justicias ordinarias no queden libres en fiado al recurrir a la Audiencia durante las visitas de alcaldes y oidores, quedando sus causa sin sentenciar, sino que las concluyan en la manera que propone.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-12-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.212R-213V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

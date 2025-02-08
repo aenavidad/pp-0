@@ -1,0 +1,28 @@
+{
+  "id": "c12103",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368954",
+    "docs": 3,
+    "title": "Informaciones: Gonzalo García de Hermosilla",
+    "scope": "Informaciones de oficio y parte: Gonzalo García de Hermosilla, beneficiado de la catedral de Durango. Información contenida de 1626 Con parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1627.",
+    "upd": null,
+    "ref": "MEXICO,236,N.28"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

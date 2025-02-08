@@ -1,0 +1,28 @@
+{
+  "id": "c10744",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/370664",
+    "docs": 1,
+    "title": "Registros de oficio para las autoridades de Nueva España",
+    "scope": "Registro de oficio: Reales Cédulas y Provisiones, Cartas Reales, etc. conteniendo disposiciones de gobierno y gracia para las autoridades seculares y eclesiásticas del distrito del virreinato de Nueva España. Libro F 30",
+    "desc": ". 330 folios (porción 1) Indice: 34 folios (porción 2). 330 Hoja(s)",
+    "locn": null,
+    "lbd": "1685-03-30.",
+    "upd": "1686-12-31.",
+    "ref": "MEXICO,1074,L.30"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

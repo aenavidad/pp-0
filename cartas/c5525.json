@@ -1,0 +1,28 @@
+{
+  "id": "c5525",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368608",
+    "docs": 1,
+    "title": "Informaciones: Gaspar de Quiñones y Samano",
+    "scope": "Informaciones de oficio y parte: Gaspar de Quiñones y Samano. Traslado de 1602 de una información iniciada en 1602 que contiene otra de 1595",
+    "desc": null,
+    "locn": null,
+    "lbd": "1602.",
+    "upd": null,
+    "ref": "MEXICO,224,N.8"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

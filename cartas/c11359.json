@@ -1,0 +1,28 @@
+{
+  "id": "c11359",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363224",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., prohibición de conceder esperas en las posturas de los oficios vendibles y renunciables. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1693-05-11.",
+    "upd": null,
+    "ref": "MEXICO,60,R.5,N.36"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c6453",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347025",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Alonso Criado de Castilla, presidente de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1608-05-10.",
+    "upd": null,
+    "ref": "GUATEMALA,12,R.5,N.52"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

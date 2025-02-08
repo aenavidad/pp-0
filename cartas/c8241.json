@@ -1,0 +1,28 @@
+{
+  "id": "c8241",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783168",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México ordenándole despachar brevemente las causas escoliastas que se vean en ella por vía de fuerza.",
+    "scope": "A petición del licenciado Pedro Rodríguez de Castro, provisor y vicario general del arzobispado de México, en nombre del arzobispo Juan [Pérez de] la Serna.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-03-17.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.161R-161V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

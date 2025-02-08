@@ -1,0 +1,28 @@
+{
+  "id": "c7911",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783183",
+    "docs": 1,
+    "title": "Real Cédula a Francisco Ramírez Briceño, gobernador de Yucatán, para que guarde la costumbre de no ir a las visitas de las naos que fueren al puerto de Sisal, por los inconvenientes que esto supone, sino sólo el oficial que por turno le toque, y que informe de las causas que obligaron a sus antecesores a ir a dichas visitas.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1617-09-16.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.231R-232R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

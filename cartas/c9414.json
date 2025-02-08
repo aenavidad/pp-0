@@ -1,0 +1,28 @@
+{
+  "id": "c9414",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3529251",
+    "docs": 1,
+    "title": "Inventario de bienes: Aguilar, Francisco de",
+    "scope": "Autos del inventario de bienes del capitán Francisco de Aguilar, vecino de Puebla de los Ángeles, alguacil mayor de Cholula. \nActuados ante Nicolás Villanueva, regidor de Puebla de los Ángeles.",
+    "desc": ". Folios 7-10",
+    "locn": null,
+    "lbd": "1622-07-28",
+    "upd": null,
+    "ref": "MEXICO,259,N.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

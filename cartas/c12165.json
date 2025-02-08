@@ -1,0 +1,28 @@
+{
+  "id": "c12165",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351780",
+    "docs": 5,
+    "title": "Informaciones: Diego de Alegría",
+    "scope": "Informaciones de oficio y parte: Diego de Alegría, teniente de alcalde mayor de Chiapas y teniente de los oficiales reales de Chiapas. Con petición. Parecer de la Audiencia de Lima y del obispo de Chiapas",
+    "desc": null,
+    "locn": null,
+    "lbd": "1600.",
+    "upd": "1601.",
+    "ref": "GUATEMALA,116,N.1"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

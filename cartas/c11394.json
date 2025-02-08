@@ -1,0 +1,28 @@
+{
+  "id": "c11394",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363234",
+    "docs": 1,
+    "title": "CEDULA AL VIRREY CONDE DE GALVE",
+    "scope": "Real Cédula al Virrey, Conde de Galve, ordenándole comunique si el situado que tiene el presidio de Campeche es suficiente. 2 fs",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1693.",
+    "upd": null,
+    "ref": "MEXICO,60,R.5,N.46"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

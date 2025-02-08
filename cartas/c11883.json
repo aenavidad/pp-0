@@ -1,0 +1,28 @@
+{
+  "id": "c11883",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349564",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Traslado del registro de los caudales enviados a la península, desde el Puerto de la Veracruz, por el capitán Miguel de Ante, maestre de plata de la nao Nuestra Señora del Juncal, pertenecientes a la caja real de Guatemala. Con copia de capítulo de carta del licenciado Diego Gómez Cornejo, de 17 de octubre de 1610",
+    "desc": null,
+    "locn": null,
+    "lbd": "1610-10-15.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.108"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

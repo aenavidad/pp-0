@@ -1,0 +1,28 @@
+{
+  "id": "c5702",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361180",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., dignidades y prebendas para Oaxaca. Hay triplicado. 2 fs. Anejo: \n1.- Certificación autorizada del fallecimiento de Juan de la Cruz Cereceda, canónigo de la Iglesia de Antequera. Antequera, 21-VIII-1603. 1 f",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1603-11-20.",
+    "upd": null,
+    "ref": "MEXICO,25,N.60"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

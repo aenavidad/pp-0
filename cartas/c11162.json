@@ -1,0 +1,28 @@
+{
+  "id": "c11162",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20883",
+    "docs": 1,
+    "title": "'La ensenada de Nueva España / Año de 1690'",
+    "scope": "Croquis que presenta la costa del golfo de México desde más allá de la bahía de San Bernardo [Matagorda] hasta las bahías de Mobile y Pensacola. \nIndica la desembocadura de dos ríos, uno de ellos denominado Colberto [Mississippi]. \nNúmero de registro: 417",
+    "desc": null,
+    "locn": null,
+    "lbd": "1690",
+    "upd": null,
+    "ref": "MP-MEXICO,62BIS"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

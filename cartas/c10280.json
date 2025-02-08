@@ -1,0 +1,28 @@
+{
+  "id": "c10280",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361547",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco y Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., Dr. Gentil Parraga para fiscal de México. 2 fs. Anejo:\n1.- Testimonio de la informanción que dio el Dr. Damián Gentil de Parraga, fiscal de Guadalajara, sobre como siendo natural de la ciudad de México, tiene pocas dependencias en su distrito para servir la fiscalía en la Audiencia de esta última ciudad. México, 7-VII-1627. 10 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1627-07-07.",
+    "upd": null,
+    "ref": "MEXICO,30,N.8"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

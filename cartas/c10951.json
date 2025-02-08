@@ -1,0 +1,28 @@
+{
+  "id": "c10951",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/365041",
+    "docs": 1,
+    "title": "Expediente sobre la adjudicación de las alcabalas de las minas de Pachuca",
+    "scope": "Carta de Benito de Novoa Salgado, fiscal de la Audiencia de México, informa con testimonio de la adjudicación de las alcabalas de las minas de Pachuca.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1688-03-11",
+    "upd": "1697-03-23",
+    "ref": "MEXICO,86,R.5,N.50"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9868",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3900298",
+    "docs": 1,
+    "title": "Inventario de bienes: Martín Fernández, Juan",
+    "scope": "Autos del inventario de bienes de Juan Martín Fernández, vecino de la ciudad de Valladolid, cabeza de la provincia y obispado de Michoacán; y regidor de la villa de Celaya. \nActuados ante Fernando de Bocanegra, alcalde mayor de la ciudad de Valladolid, provincia de Michoacán.",
+    "desc": ". Folios 378-379",
+    "locn": null,
+    "lbd": "1623-01-16",
+    "upd": null,
+    "ref": "MEXICO,263,N.117"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

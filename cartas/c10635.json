@@ -1,0 +1,28 @@
+{
+  "id": "c10635",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348175",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Francisco de Sarasa, oidor de la Audiencia de Guatemala, al secretario del Consejo, Francisco de Altamira y Angulo.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1683-07-21.",
+    "upd": null,
+    "ref": "GUATEMALA,28,R.2,N.81"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

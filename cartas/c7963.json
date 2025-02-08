@@ -1,0 +1,28 @@
+{
+  "id": "c7963",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368858",
+    "docs": 1,
+    "title": "Informaciones: Rodrigo Velázquez de Cárdenas",
+    "scope": "Informaciones de oficio y parte: Contiene información de su padre Antonio Velázquez de Figueroa (1574-1589).",
+    "desc": null,
+    "locn": null,
+    "lbd": "1617.",
+    "upd": null,
+    "ref": "MEXICO,233,N.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

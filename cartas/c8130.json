@@ -1,0 +1,28 @@
+{
+  "id": "c8130",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782523",
+    "docs": 1,
+    "title": "Real provisión confirmando el título ensayador de las minas de Sultepec y Temascaltepec para Jerónimo de Escobar.",
+    "scope": "El virrey [Diego Fernández de Córdoba] marques de Guadalcázar remató en 850 pesos de oro común.",
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1618-10-31.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.108R-108V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

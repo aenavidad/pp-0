@@ -1,0 +1,28 @@
+{
+  "id": "c12021",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368324",
+    "docs": 3,
+    "title": "Informaciones: Diego Méndez",
+    "scope": "Informaciones de oficio y parte: Diego Méndez, vecino de México. Información contenida de 1581 Con parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1582.",
+    "upd": "1605.",
+    "ref": "MEXICO,216,N.13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

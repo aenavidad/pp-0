@@ -1,0 +1,28 @@
+{
+  "id": "c6637",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782683",
+    "docs": 1,
+    "title": "Real cédula a los oficiales de la Real Hacienda de Veracruz, ordenándoles que no tomen muestras a la gente de mar y guerra de las naos capitana y almiranta de la flota de Nueva España, pues esto corresponde a Juan Gutiérrez de Garibay, capitán general de la misma, y que únicamente hagan la visita en lo tocante a mercadurías y otras cosas que pudieran llevar.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1609-04-14.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.148R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

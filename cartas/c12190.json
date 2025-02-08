@@ -1,0 +1,28 @@
+{
+  "id": "c12190",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349131",
+    "docs": 6,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Expediente formado a instancia del memorial presentado por Jerónimo de Palacios, procurador del Cabildo secular de Santiago de Guatemala, solicitando se les restituya el juzgado de primera y segunda instancia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-06-13.",
+    "upd": "1623-09-30.",
+    "ref": "GUATEMALA,42,N.19"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

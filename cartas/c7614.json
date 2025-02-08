@@ -1,0 +1,28 @@
+{
+  "id": "c7614",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781795",
+    "docs": 1,
+    "title": "Real Cédula a [Diego Fernández de Córdoba], virrey de Nueva España, para que, en caso de que José Caballero no pueda dar los ocho mil pesos en que se remató la venta del oficio, se vuelva a rematar y se le devuelva la cantidad del dinero que hubiere ingresado en la Caja Real.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1615-07-11.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.92R-93R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

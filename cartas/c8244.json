@@ -1,0 +1,28 @@
+{
+  "id": "c8244",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783169",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México mandándoles que habiendo ido a la parte del arzobispo de México y de las órdenes mendicantes de dicha ciudad, informen con su parecer sobre la petición del arzobispo de que las órdenes religiosas no salgan en procesión ni a entierros fuera de sus cuatros, sin el permiso de las parroquias y del ordinario.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-03-17.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.161V-162R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

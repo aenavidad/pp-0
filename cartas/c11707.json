@@ -1,0 +1,28 @@
+{
+  "id": "c11707",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369888",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carta de Roque de Soberanis, Gobernador de Yucatán.",
+    "desc": null,
+    "locn": "Mérida de Yucatán",
+    "lbd": "1699-02-11.",
+    "upd": null,
+    "ref": "MEXICO,363,R.5,N.81"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

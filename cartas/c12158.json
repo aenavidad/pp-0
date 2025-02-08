@@ -1,0 +1,28 @@
+{
+  "id": "c12158",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349765",
+    "docs": 4,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de carta de Miguel de la Vega Valbuena, tesorero y José Fernández de Córdoba, contador, sobre el pago del salario de Jerónimo de Vega y Viga, oidor de la Audiencia, y de Catalina María del Prado, su viuda. Con carta del presidente de la Audiencia de 11 de julio de 1683",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-07-11.",
+    "upd": "1684-05-06.",
+    "ref": "GUATEMALA,48,N.15"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

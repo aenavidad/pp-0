@@ -1,0 +1,28 @@
+{
+  "id": "c8204",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782888",
+    "docs": 1,
+    "title": "Real cédula Virrey de Nueva España, Audiencia de México y demás justicias, para que averigüe los bienes que quedaron de Martín de Bengoa, difunto en Labalulco [sic]provincia de Yucatán a petición de Pedro y Juan Bautista de Aramburu, sus sobrinos, hijos de su hermana María Martín de Bengoa y los envíen a la Casa de la Contratación.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-02-19.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.147R-148R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

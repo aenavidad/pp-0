@@ -1,0 +1,28 @@
+{
+  "id": "c11746",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20918",
+    "docs": 1,
+    "title": "Bosquejo de una bahía situada a 26 leguas de la bahía de Santa María de Galve, o de Pensacola.",
+    "scope": "Presenta el contorno de un trozo de costa cuyo límite oriental se sitúa en el cabo San Blas y la desembocadura del río Guazacola. \n  \nEn el centro de la costa se abre una bahía, con la inscripción: 'está la baya en latitud 30 grados y en lonxitud 300 grados y 45 minutos.' \n  \nPosiblemente se refiera a la bahía de San José y al río Apalachicola, en Florida (Estados Unidos). \n  \nNúmero de registro: 446. ",
+    "desc": null,
+    "locn": null,
+    "lbd": "1699-05-16",
+    "upd": null,
+    "ref": "MP-MEXICO,92"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

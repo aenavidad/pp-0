@@ -1,0 +1,28 @@
+{
+  "id": "c11452",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/365157",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Francisco de Sarassa, alcalde del crimen de México.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1694-06-22.",
+    "upd": null,
+    "ref": "MEXICO,87,R.6,N.99"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12099",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349617",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Memorial y testimonios de Ambrosio Espinosa de Porres, tesorero, para que se le provea también en la plaza de contador de dicha caja, por prisión de Pedro del Castillo Becerra.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625-07-30.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.35"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

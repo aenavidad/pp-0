@@ -1,0 +1,28 @@
+{
+  "id": "c7414",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361390",
+    "docs": 1,
+    "title": "Carta del virrey Diego Fernández de Córdoba, marqués de Guadalcázar.",
+    "scope": "El Virrey a S.M., asuntos de Filipinas. Instrucción a Sebastián Vizcaíno y demarcación del Japón. Materias del Japón. Guarnición del castillo de San Juan de Ulúa. Viaje del gobernador de Nueva México a su provincia. Causas de Don Juan de Oñate. Socorro de pólvora a Florida. 4 fs. \nAnejos: \n1.- Orden y auto que dio el Virrey sobre las armas que se han de quitar a los japoneses llegados a Acapulco y buen tratamiento que se les ha de hacer. 4-III-1614. Copia [S.F.]. 2 fs. \n2.- Testimonio de las sentencias dadas por el Virrey con parecer del Dr. Morga, su asesor, en la causa contra Don Juan de Oñate, sus oficiales y ministros por delitos que cometieron en Nuevo México. 13-V-1614. Testimonio hecho en México en 16 de mayo de 1614. 8 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1614-05-22.",
+    "upd": null,
+    "ref": "MEXICO,28,N.17"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12201",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368725",
+    "docs": 7,
+    "title": "Informaciones: Santiago del Riego",
+    "scope": "Informaciones de oficio y parte: Santiago del Riego, oidor de la Audiencia de México, doctor. A petición de doña Ana de Mendoza, su esposa, y de su hijo Juan Alonso de Riego y Mendoza Parecer de la Audiencia. Memorial del licenciado Juan Alonso Riego y Mendoza. Resumen de una información. Dos informaciones de 1608 Una información de 1593. Cuaderno que incluye memorial de doña Ana de Mendoza y dos informaciones de 1608, una de estas contenida en 1586",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608.",
+    "upd": null,
+    "ref": "MEXICO,228,N.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c8682",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361501",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., carga sin registro en el puerto de Guatulco. 2 fs. Anejos: \n1.- El Contador Francisco Nuñez Vasurto al Virrey sobre su comisión acerca de entender en lo de la carga sin registro del puerto de Guatulco. Río Hondo, 4-XI-1621. 2 fs. 2.- Los que con Diego Pretel fueron a entender en lo del navío que se hallaba en el puerto de Guatulco con carga sin registro, al Contador Francisco Núñez. 1621 [SUP]. 2 fs",
+    "desc": null,
+    "locn": "Tacubaya",
+    "lbd": "1621-11-14.",
+    "upd": null,
+    "ref": "MEXICO,29,N.68"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

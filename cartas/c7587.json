@@ -1,0 +1,28 @@
+{
+  "id": "c7587",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781711",
+    "docs": 1,
+    "title": "Real Provisión concediendo el título de notario de Indias a favor de Pedro de Estrada.",
+    "scope": "Nota de despacho. Incluye signo. \nNota al margen: 'Ojo, este título y cédula están sentados en el libro de Guatemala'",
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1615-05-30.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.85R(1)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

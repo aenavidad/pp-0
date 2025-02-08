@@ -1,0 +1,28 @@
+{
+  "id": "c11551",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349839",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Pedro de la Vega Valbuena, tesorero y Manuel de Medrano y Solórzano, contador, informando del envio de los 200 pesos de multa impuesta a Pedro Fernández de Santillán, gobernador de la provincia de Soconusco.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1696-05-15.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.89"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7659",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782032",
+    "docs": 1,
+    "title": "Real Provisión concediendo el título de regidor de la ciudad de México a Fernando de la Barrera.",
+    "scope": "Por renuncia de Baltasar de Herrera. El oficio se remató en 1.000 pesos de oro común.",
+    "desc": null,
+    "locn": "El Pardo",
+    "lbd": "1615-12-14.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.110R-111R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

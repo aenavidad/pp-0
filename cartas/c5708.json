@@ -1,0 +1,28 @@
+{
+  "id": "c5708",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361181",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey Conde de Monterrey a S.M., recomendación por Sebastián Vizcaíno otros que han servido en descubrimientos, navegación y guerra. Otumba. 2 fs",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603-11-22.",
+    "upd": null,
+    "ref": "MEXICO,25,N.61"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

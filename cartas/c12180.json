@@ -1,0 +1,28 @@
+{
+  "id": "c12180",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349611",
+    "docs": 5,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de los oficiales reales de Guatemala, sobre la prohibición de voto y elección de oficios a corregidores y regidores deudores con la real hacienda.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1624.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.29"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

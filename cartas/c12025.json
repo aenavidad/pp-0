@@ -1,0 +1,28 @@
+{
+  "id": "c12025",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368584",
+    "docs": 3,
+    "title": "Informaciones: Hernando Ortiz de Valdivia",
+    "scope": "Informaciones de oficio y parte: Hernando Ortiz de Valdivia, cura y vicario de los pueblos de Tenango y Atlatlauca (Nueva España). Traslado de 1602 de una información de 1600. Copia de 1602 de un parecer de 1600",
+    "desc": null,
+    "locn": null,
+    "lbd": "1602.",
+    "upd": null,
+    "ref": "MEXICO,223,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

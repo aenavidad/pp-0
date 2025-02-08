@@ -1,0 +1,28 @@
+{
+  "id": "c7299",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783142",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de escribano de minas y registros de la villa y puerto de San Francisco de Campeche a favor de Bernardino de Valencia, vacante tras el fallecimiento de Baltasar González.",
+    "scope": "Se remató en 1.900 pesos de oro.",
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1613-08-03.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.174V-176R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

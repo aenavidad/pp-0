@@ -1,0 +1,28 @@
+{
+  "id": "c5687",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20871",
+    "docs": 1,
+    "title": "'Descripción de la quadra del s[eñor marqués del Valle en México'.",
+    "scope": "Título al dorso. \nDelineación esquemática de la manzana o cuadra de casas perteneciente a Pedro Cortés, IV marqués del Valle, en la plaza mayor de México, colindante con las calles Profesos de la Compañía [Profesas] al norte, Tacuba al este y San Francisco [Isabel la Católica] al oeste. \nAmplias notas explicativas en el plano y explicación más detallada en el testimonio dado por Antonio Ruiz Beltrán, escribano real, que se adjunta al mapa. \nNúmero de registro: 405.",
+    "desc": null,
+    "locn": "Mexico",
+    "lbd": "1603-11-17.",
+    "upd": null,
+    "ref": "MP-MEXICO,52"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c6157",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783974",
+    "docs": 1,
+    "title": "Real Cédula a García López de Espinar, corregidor de México, ordenando apremie a los alguaciles de allí a ejecutar las sentencias de prisión en causas criminales, so pena de recibir un castigo.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1606-08-19.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.155V-156R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

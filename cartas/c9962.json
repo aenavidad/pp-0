@@ -1,0 +1,28 @@
+{
+  "id": "c9962",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3901965",
+    "docs": 1,
+    "title": "Inventario de bienes: Mirón, Gabriel",
+    "scope": "Inventario de bienes de Gabriel Mirón, receptor del número de la Real Audiencia de Guatemala.",
+    "desc": ". Folios 407-408",
+    "locn": null,
+    "lbd": "1623-05-18",
+    "upd": null,
+    "ref": "MEXICO,263,N.129"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

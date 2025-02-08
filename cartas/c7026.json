@@ -1,0 +1,28 @@
+{
+  "id": "c7026",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348809",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Extracto de la Secretaría del Consejo sobre una petición de Juan de Mendoza y Medrano, Gobernador de Costa Rica, decretada.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1611-11-16.",
+    "upd": null,
+    "ref": "GUATEMALA,39,R.36,N.168"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

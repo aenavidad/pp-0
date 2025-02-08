@@ -1,0 +1,28 @@
+{
+  "id": "c6930",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12784053",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México para que informen si sería conveniente que los maestres de las naos y los mercaderes que van desde Castilla a la provincia de Yucatán, sean obligados a transportar la tercera parte del dinero y cosas que lleven en frutos de ella, y que si el mercader no es vecino, tenga que meter la tercera parte en reales y las otras dos en ropa.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1611-03-20.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.263V-264R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

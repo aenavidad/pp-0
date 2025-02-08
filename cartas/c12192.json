@@ -1,0 +1,28 @@
+{
+  "id": "c12192",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349776",
+    "docs": 6,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de carta de Miguel de la Vega Valbuena, tesorero y José Fernández de Córdoba, contador, sobre la devolución del dinero aplicado a la fortificación del castillo de Granada, por parte de Martín de Solis Miranda, fiscal de la Audiencia de México. Con carta de Jerónimo Chacón Abarca, oidor de la audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-07-14.",
+    "upd": "1684-12-06.",
+    "ref": "GUATEMALA,48,N.26"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

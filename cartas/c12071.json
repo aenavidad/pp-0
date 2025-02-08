@@ -1,0 +1,28 @@
+{
+  "id": "c12071",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368854",
+    "docs": 3,
+    "title": "Informaciones: Juan de Samano Turcios",
+    "scope": "Informaciones de oficio y parte: Juan de Samano Turcios. Información contenida de 1616 Con parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1616.",
+    "upd": null,
+    "ref": "MEXICO,232,N.27"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

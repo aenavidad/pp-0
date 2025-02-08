@@ -1,0 +1,28 @@
+{
+  "id": "c7176",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782500",
+    "docs": 1,
+    "title": "Real provisión confirmando el titulo de escribano de la entrada de la cárcel de México a favor de Antonio Hernández, por renuncia de Pedro de Aranchun.",
+    "scope": "Se remató en 5.250 pesos de oro.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1612-07-16.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.125V-127R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11120",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20909",
+    "docs": 1,
+    "title": "'La yglesia por parte de adentro'.",
+    "scope": "Representa un templo de tres naves cubiertas a igual altura, de seis tramos cada una. \n  \nEn la nave central se representa el púlpito con una figura humana y pilas bautismales a cada lado y pequeña escalinata al fondo. No se representan capillas laterales, aunque los muros ofrecen arcos rehundidos para albergar los retablos, en uno de los cuales se esquematiza una figura. Los soportes son pilares airosos de sección cruciforme y asociadas a sus cuatro frentes medias columnas de fuste estriado y capitel toscano. Los pilares se coronan por capiteles cuya forma es un trozo de entablamento. Las bóvedas centrales son de crucería estrellada y las laterales octopartitas. En el segundo cuerpo por encima de una cornisa se abren vanos de iluminación rectangulares con dos óculos a cada lado. \n  \nMención de autoridad en la documentación asociada: 'Juan Agustín, maestro mayor de la obra que se ha hecho y actualmente se está haciendo en esta Santa Iglesia Catedral'. \n  \n Número de registro: 437. ",
+    "desc": null,
+    "locn": "Guadalajara",
+    "lbd": "1689-06-25.",
+    "upd": null,
+    "ref": "MP-MEXICO,84"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

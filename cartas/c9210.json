@@ -1,0 +1,28 @@
+{
+  "id": "c9210",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3561019",
+    "docs": 1,
+    "title": "Inventario de bienes: Dávila Villavicencio, Gaspar",
+    "scope": "Autos del inventario de bienes de Gaspar Dávila Villavicencio, alguacil de vagabundos de la ciudad de México. \nActuados ante Jerónimo de Cervantes Carvajal, alcalde ordinario de la ciudad de México.",
+    "desc": ". Folios 189-191",
+    "locn": null,
+    "lbd": "1622-07-19",
+    "upd": null,
+    "ref": "MEXICO,259,N.69"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

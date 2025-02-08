@@ -1,0 +1,28 @@
+{
+  "id": "c10982",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348305",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Jacinto de Barrios Leal, presidente de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1688-05-15.",
+    "upd": null,
+    "ref": "GUATEMALA,30,R.1,N.35"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

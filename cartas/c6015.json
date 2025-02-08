@@ -1,0 +1,28 @@
+{
+  "id": "c6015",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19139",
+    "docs": 1,
+    "title": "'Planta de la costa de la Florida y en qué paraje está la laguna de Maymi y adonde se ha de haçer el fuerte'",
+    "scope": "Al dorso: título. \nComprende el sector nororiental del Golfo de México. Dibuja la península de Florida y la ubicación aproximada de la 'laguna de Maymi', actualmente lago Okeechobee, así como el dibujo esquemático de la isla de Cuba, islas Bahamas y bajos adyacentes. \nNúmero de registro: 2346",
+    "desc": null,
+    "locn": null,
+    "lbd": "1605.",
+    "upd": null,
+    "ref": "MP-FLORIDA_LUISIANA,7"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

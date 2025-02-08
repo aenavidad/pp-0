@@ -1,0 +1,28 @@
+{
+  "id": "c11973",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349616",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Ambrosio Espinosa de Porres, tesorero y del Licenciado Calleja de Aguilar, informando de la administración de la Real Hacienda; envio de caudales y de la donación del Obispo Francisco Marroquín para la fundación de una Universidad bajo los dominicos. Con relación",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625-05-30.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.34"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

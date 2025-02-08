@@ -1,0 +1,28 @@
+{
+  "id": "c9950",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3748252",
+    "docs": 1,
+    "title": "Inventario de bienes: Fernández de la Paz, Manuel",
+    "scope": "Autos del inventario de bienes de Manuel Fernández de la Paz, descendiente de conquistador, vecino y alcalde de la Santa Hermandad de la ciudad de Santiago de Guatemala.",
+    "desc": ". Folios 250-252",
+    "locn": null,
+    "lbd": "1623-05-18",
+    "upd": null,
+    "ref": "MEXICO,263,N.76"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

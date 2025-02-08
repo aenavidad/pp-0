@@ -1,0 +1,28 @@
+{
+  "id": "c12168",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349100",
+    "docs": 5,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Expediente a instancias del cabildo secular de Santiago de Guatemala, sobre la necesidad de expedición de cartas de pago por parte de los oficiales reales.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603.",
+    "upd": null,
+    "ref": "GUATEMALA,41,N.108"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

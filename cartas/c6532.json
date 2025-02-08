@@ -1,0 +1,28 @@
+{
+  "id": "c6532",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781970",
+    "docs": 1,
+    "title": "Real cédula ordenando el protocolo que se ha de guardar entre el virrey de Nueva España, la Audiencia de México y el arzobispo de dicha ciudad, en los actos públicos.",
+    "scope": "Se ordena, a petición de García Guerra, arzobispo de México, cumplir el siguiente protocolo: \n- Que el arzobispo tenga dosel en su iglesia en presencia del virrey, como se dispone en el ceremonial romano. \n- Que le lleven al arzobispo la falda alzada en las procesiones y actos eclesiásticos, aunque vaya el virrey y la Audiencia, pero que vaya solamente con el criado que se la lleve. \n- Que cuando acuda a las casas reales se le lleve hasta la puerta del aposento donde se encuentre el virrey, que allí le suelten la falda y que se la cojan de nuevo al salir.",
+    "desc": null,
+    "locn": "Martín Muñoz",
+    "lbd": "1608-09-27.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.110R-110V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

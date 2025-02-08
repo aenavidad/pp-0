@@ -1,0 +1,28 @@
+{
+  "id": "c11280",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348399",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Fernando López Ursino y Orbaneja, juez pesquisidor de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1691-12-13.",
+    "upd": null,
+    "ref": "GUATEMALA,33,R.1,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

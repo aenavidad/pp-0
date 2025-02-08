@@ -1,0 +1,28 @@
+{
+  "id": "c11194",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363167",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., recomendación de Don Juan de Estrada y Aguila, beneficiado del partido de Chietla. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1690-04-25.",
+    "upd": null,
+    "ref": "MEXICO,59,R.3,N.20"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9949",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3907505",
+    "docs": 1,
+    "title": "Inventario de bienes: Palomino de Vargas, Juan",
+    "scope": "Autos del inventario de bienes de Juan Palomino de Vargas, escribano real, público y del número de la ciudad de Santiago de Guatemala.",
+    "desc": ". Folios 467-470",
+    "locn": null,
+    "lbd": "1623-05-18",
+    "upd": null,
+    "ref": "MEXICO,263,N.150"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

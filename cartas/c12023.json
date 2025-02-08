@@ -1,0 +1,28 @@
+{
+  "id": "c12023",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349311",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Valladolid de Comayagua, informando de la actuación de D. Jorge de Alvarado, Gobernador y Capitán de Honduras. Acompaña cartas del cabildo secular de Gracias a Dios y del cabildo de la Orden de la Merced de Comayagua, sobre el mismo tema",
+    "desc": null,
+    "locn": "Valladolid de Comayagua y Gracias a Dios, Honduras",
+    "lbd": "1601-04-02.",
+    "upd": null,
+    "ref": "GUATEMALA,43,N.100"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

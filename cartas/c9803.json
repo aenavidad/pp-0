@@ -1,0 +1,28 @@
+{
+  "id": "c9803",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4060042",
+    "docs": 1,
+    "title": "Inventario de bienes: Vizcaíno, Juan",
+    "scope": "Autos de inventario de bienes del capitán Juan Vizcaíno, alcalde mayor de la provincia de Tamazuela. Ha servido en diferentes plazas como soldado, alférez y capitán de caballos y de infantería.",
+    "desc": ". Folios 745-746",
+    "locn": null,
+    "lbd": "1622-10-17",
+    "upd": null,
+    "ref": "MEXICO,262,N.273"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

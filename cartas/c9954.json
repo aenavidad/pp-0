@@ -1,0 +1,28 @@
+{
+  "id": "c9954",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3742082",
+    "docs": 1,
+    "title": "Inventario de bienes: Castillo Becerra, Pedro del",
+    "scope": "Autos del inventario de bienes de Pedro del Castillo Becerra, contador juez oficial real de la Real Audiencia de Guatemala.",
+    "desc": ". Folios 124-127",
+    "locn": null,
+    "lbd": "1623-05-18",
+    "upd": null,
+    "ref": "MEXICO,263,N.40"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c6711",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349562",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Pedro del Castillo Becerra, contador, informando de la tasación de pueblos de indios; del cargo del receptor de penas de cámara e investigación del casamiento de Diego de Arredondo, oidor de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1609-10-16.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.106"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

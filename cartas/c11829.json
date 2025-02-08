@@ -1,0 +1,28 @@
+{
+  "id": "c11829",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349097",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, recomendando al licenciado Juan Luis Pereyra, lector de la facultad de cánones, para alguna merced.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603-04-25.",
+    "upd": null,
+    "ref": "GUATEMALA,41,N.105"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

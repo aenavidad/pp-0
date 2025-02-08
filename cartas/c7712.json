@@ -1,0 +1,28 @@
+{
+  "id": "c7712",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782347",
+    "docs": 1,
+    "title": "Real Cédula nombrando a Juan de Vega Bazán capitán de la Compañía de Infantería en la nao almiranta de la flota que va a Nueva España, de la que es capitán Juan de la Cueva y Mendoza.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1616-05-24.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.131R-132R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

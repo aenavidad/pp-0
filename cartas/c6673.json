@@ -1,0 +1,28 @@
+{
+  "id": "c6673",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361364",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., salud general en el reino y sin novedad que avisar. Envío de hacienda. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1609-05-23.",
+    "upd": null,
+    "ref": "MEXICO,27,N.70"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

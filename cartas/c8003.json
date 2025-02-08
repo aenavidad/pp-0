@@ -1,0 +1,28 @@
+{
+  "id": "c8003",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12780937",
+    "docs": 1,
+    "title": "Real cédula a los oficiales reales de Veracruz para que no tomen muestras a la gente de mar y guerra de las naos capitana y almiranta de la flota que este año irá a Nueva España, a cargo de Carlos de Ibarra, limitando su visita a lo referente a las mercaderías.",
+    "scope": null,
+    "desc": null,
+    "locn": "El Pardo",
+    "lbd": "1618-02-26.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.10R-10V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

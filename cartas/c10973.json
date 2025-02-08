@@ -1,0 +1,28 @@
+{
+  "id": "c10973",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348930",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre los méritos y servicios del maestre de campo, Lorenzo Calderón.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1688-05-14.",
+    "upd": "1691-07-10.",
+    "ref": "GUATEMALA,40,R.22,N.84"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

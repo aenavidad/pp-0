@@ -1,0 +1,28 @@
+{
+  "id": "c5630",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12761265",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México para que examinen de escribano y notario público de Indias a Alonso de Santiago",
+    "scope": "Nota de despacho",
+    "desc": null,
+    "locn": "Cerezo",
+    "lbd": "1603-05-26.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.306R(1)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

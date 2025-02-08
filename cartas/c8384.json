@@ -1,0 +1,28 @@
+{
+  "id": "c8384",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349129",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, informando la falta de Obispo en aquella Iglesia Catedral, y recomendando a fray Juan Gómez, Vicario General de la Orden de Nuestra Señora de la Merced, para algún obispado en Indias.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-02-02.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.17"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

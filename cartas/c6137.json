@@ -1,0 +1,28 @@
+{
+  "id": "c6137",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364041",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Parecer de la Audiencia de México sobre si las apelaciones de Colima y Zacatula han de ir a la Audiencia de México o a la Audiencia de Guadalajara.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-06-05.",
+    "upd": null,
+    "ref": "MEXICO,72,R.10,N.143"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

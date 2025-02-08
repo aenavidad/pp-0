@@ -1,0 +1,28 @@
+{
+  "id": "c10278",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349923",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Petición de Diego de Vargas Zapata, contador interino de la provincia de Honduras, solicitando el pase con un oficial y dos criados, y el pago de los derechos de mesada en la dicha provincia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1627-06-18.",
+    "upd": null,
+    "ref": "GUATEMALA,49,N.80"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

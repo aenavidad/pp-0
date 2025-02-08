@@ -1,0 +1,28 @@
+{
+  "id": "c8700",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349282",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Petición presentada ante el Consejo de Indias por Alonso Nieto Dorantes, procurador del cabildo secular de San Salvador, solicitando se impida a la Audiencia el envio de jueces de comisión; que los oficiales reales no nombren a sus allegados como tenientes en ese distrito y que se les atiendan las rentas que tienen asignadas para reparos de la iglesia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1621-12-01.",
+    "upd": null,
+    "ref": "GUATEMALA,43,N.71"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12031",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349099",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Petición y cartas del cabildo secular de Santiago de Guatemala, sobre los incidentes con el ejército en las procesiones de la noche de Jueves Santo del año 1600.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603.",
+    "upd": null,
+    "ref": "GUATEMALA,41,N.107"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

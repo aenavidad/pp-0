@@ -1,0 +1,28 @@
+{
+  "id": "c6256",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12786319",
+    "docs": 1,
+    "title": "Carta acordada del Consejo de Indias a la Casa de la Contratación ordenándole que, no habiendo tenido efecto la cédula enviada el año anterior para llevar los bastimentos y demás cosas a La Florida en la flota que sale a Nueva España, que cumplan lo que en ella se manda, y que busquen cómo enviar los dichos bastimentos en conserva de la flota que se está aprestando para salir.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1607-03-14.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.204R-204V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

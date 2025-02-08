@@ -1,0 +1,28 @@
+{
+  "id": "c12107",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349786",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente sobre el pleito seguido entre el fiscal de la Audiencia de Guatemala y el pueblo de Chiquimula de la Sierra, a causa del retraso en el pago de tributos. Con carta de la Audiencia de 19 de junio de 1683 y otra de los oficiales reales de 13 de julio del mismo año",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-07-19.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.36"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

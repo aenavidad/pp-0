@@ -1,0 +1,28 @@
+{
+  "id": "c5917",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361239",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., en aprobación del General Juan Gutiérrez de Garibay. 2 fs. Anejos: \n1.- El General Juan Gutiérrez Garibay a S.M., capítulo de carta suplicando su retiro del sevicio del mar. 6-IV-1605. Copia de mayo de 1605 [SUP]. 1 fs. 2.- El Prior y cónsules de México a S.M., en aprobación del General Juan Gutiérrez Garibay. México, 16-V-1605. 2 fs. 3.- La Audiencia y el Virrey de México a S.M., en aprobación del General Juan Gutiérrez de Garibay. México, 28-V-1605. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1605-05-25.",
+    "upd": null,
+    "ref": "MEXICO,26,N.51"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

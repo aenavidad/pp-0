@@ -1,0 +1,28 @@
+{
+  "id": "c11500",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369890",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre los nueve pueblos reducidos en la provincia de Yucatán.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1695-05-20.",
+    "upd": "1695-06-14.",
+    "ref": "MEXICO,363,R.6,N.84"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

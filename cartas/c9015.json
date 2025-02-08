@@ -1,0 +1,28 @@
+{
+  "id": "c9015",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3595666",
+    "docs": 1,
+    "title": "Inventario de bienes: Cuenca, José",
+    "scope": "Autos de inventario de bienes de José de Cuenca, vecino de la ciudad de México, escribano real, escribano de la cofradía del Santísimo Sacramento y Caridad de México, escribano y juez del registro de la grana. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". folios 160-161",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,261,N.60"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

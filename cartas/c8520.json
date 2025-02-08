@@ -1,0 +1,28 @@
+{
+  "id": "c8520",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12818988",
+    "docs": 1,
+    "title": "Real cédula ordenando que no se incluya a Melchor López de Haro, procurador de la Audiencia de México, entre los ministros de Indias que por cédula de 19 de octubre de 1619 tienen prohibido tratar, contratar, tener minas, granjerías, negocios o cualquier otro tipo de aprovechamiento.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1620-10-24.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.49R-50R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

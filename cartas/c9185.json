@@ -1,0 +1,28 @@
+{
+  "id": "c9185",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3672606",
+    "docs": 1,
+    "title": "Inventario de bienes: Paz, Pedro de",
+    "scope": "Autos de inventario de bienes de Pedro de Paz, vecino de la ciudad de México, solicitador del fisco. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". folios 416-417",
+    "locn": null,
+    "lbd": "1622-07-19",
+    "upd": null,
+    "ref": "MEXICO,261,N.159"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

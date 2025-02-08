@@ -1,0 +1,28 @@
+{
+  "id": "c8192",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782789",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de alférez mayor de la ciudad de [Puebla] de los Ángeles para Lope de la Carrera, por renuncia de Juan García Barranco.",
+    "scope": "[Diego Fernández de Córdoba], marqués de Guadalcazar, virrey de Nueva España, remató el oficio en el interesado por 6.000 pesos de oro común, mitad del valor de dicho oficio por la renuncia.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-02-08.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.134R-135R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

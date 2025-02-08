@@ -1,0 +1,28 @@
+{
+  "id": "c6654",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782725",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México, para que informen del motivo por el cual han ordenado que se le pague a Garci López del Espinar, corregidor de dicha ciudad, menos cantidad de la que tiene consignada de los derechos del alguacil mayor.",
+    "scope": "Por el título de corregidor de México, se le señalaron a Garci López del Espinar un salario de 500.000 maravedíes al año, 350.000 pagados de los derechos del alguacil mayor de dicha ciudad, y 50.000 de las cajas de comunidades de indios.",
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1609-05-13.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.151R-151V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

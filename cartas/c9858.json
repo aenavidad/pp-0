@@ -1,0 +1,28 @@
+{
+  "id": "c9858",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350383",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ESCOBAR ESTRADA Y MEDINILLA",
+    "scope": "Expediente de Confirmación del oficio de escribano de cámara y de la gobernación de la Audiencia de Guatemala a Cristóbal Escobar estrada y Medinilla. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1623-01-09.",
+    "upd": null,
+    "ref": "GUATEMALA,83,N.1"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

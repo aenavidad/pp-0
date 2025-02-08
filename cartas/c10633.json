@@ -1,0 +1,28 @@
+{
+  "id": "c10633",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348161",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1683-07-20.",
+    "upd": null,
+    "ref": "GUATEMALA,28,R.2,N.67"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

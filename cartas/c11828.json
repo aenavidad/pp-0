@@ -1,0 +1,28 @@
+{
+  "id": "c11828",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349096",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta e información del cabildo secular de Santiago de Guatemala, sobre actuaciones de Juan Ramírez, Obispo de Guatemala, de la Orden de Santo Domingo, en defensa de los indios.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603-02-01.",
+    "upd": null,
+    "ref": "GUATEMALA,41,N.104"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

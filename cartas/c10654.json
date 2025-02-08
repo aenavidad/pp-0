@@ -1,0 +1,28 @@
+{
+  "id": "c10654",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20899",
+    "docs": 1,
+    "title": "'Planta de la nueba Veracruz'",
+    "scope": "Mención de autoridad tomada de la documentación asociada. \nTítulo en la parte superior derecha. Debajo de él notas explicativas con clave alfabética. En el centro en la parte superior rosa de los vientos, \na la izquierda la escala. \nRecinto fortificado circunvalado por una muralla en punta de diamante jalonada con diez baluartes y dos puertas en los laterales. La parte de la playa no se amuralla. Se representa el muelle. El río Tanoya extramuros, cruza la muralla por la esquina inferior izquierda. La línea de puntos en el interior de la muralla indica una estacada. \nAl dorso, en horizontal: '64'. \nNúmero de registro: 429",
+    "desc": null,
+    "locn": "Veracruz",
+    "lbd": "1683-08-20.",
+    "upd": null,
+    "ref": "MP-MEXICO,75"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

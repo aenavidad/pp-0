@@ -1,0 +1,28 @@
+{
+  "id": "c7591",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781734",
+    "docs": 1,
+    "title": "Real Cédula a [Diego Fernández de Córdoba], virrey de Nueva España, y a la Audiencia de México, ordenándoles que no se inmiscuyan en los asuntos de la flota del general Martín de Vallecilla.",
+    "scope": "Para que el general Martín de Vallecilla pueda proceder contra la gente de su flota y contra las personas que compran bastimentos de la dicha flota.",
+    "desc": null,
+    "locn": "Arévalo",
+    "lbd": "1615-06-05.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.87V-88V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

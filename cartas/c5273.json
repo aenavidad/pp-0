@@ -1,0 +1,28 @@
+{
+  "id": "c5273",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361103",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga y Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., muerte del oidor Valderrama. Vacantes de oidores. Casamiento de hijo de ministros. Cuarta vara para la sala del crimen. Minas de San Luis. Minas de Cacualpa. Proposiciones de personas para vacantes. Oidores. Hay duplicado. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1601-03-02.",
+    "upd": null,
+    "ref": "MEXICO,24,N.53"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

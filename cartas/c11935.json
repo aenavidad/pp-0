@@ -1,0 +1,28 @@
+{
+  "id": "c11935",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349128",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial y minuta de real cédula del cabildo secular de Santiago de Guatemala, solicitando la prórroga de la renta para el preceptor de gramática del Colegio Seminario de dicha ciudad.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-01-29.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.16"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

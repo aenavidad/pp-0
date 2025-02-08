@@ -1,0 +1,28 @@
+{
+  "id": "c12200",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368729",
+    "docs": 7,
+    "title": "Informaciones: Juan de Fuentes",
+    "scope": "Informaciones de oficio y parte: Juan de Fuentes, clérigo presbítero, capellán del convento de monjas de Jesús de México. Tres informaciones, una de 1608, otra de 1610 y otra de 1611. Parecer de la Audiencia de 1611, dos pareceres del deán y cabildo de México y un parecer de la ciudad de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608.",
+    "upd": null,
+    "ref": "MEXICO,228,N.7"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

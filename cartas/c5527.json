@@ -1,0 +1,28 @@
+{
+  "id": "c5527",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349095",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial y testimonio del cabildo secular de Santiago de Guatemala, sobre las actuaciones de D. Alonso Bonifaz, alguacil mayor de corte de la Audiencia de Guatemala, en las celebraciones de fiestas",
+    "desc": null,
+    "locn": null,
+    "lbd": "1602.",
+    "upd": null,
+    "ref": "GUATEMALA,41,N.103"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

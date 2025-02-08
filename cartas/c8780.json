@@ -1,0 +1,28 @@
+{
+  "id": "c8780",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3616100",
+    "docs": 1,
+    "title": "Inventario de bienes: González, Pedro",
+    "scope": "Autos de inventario de bienes de Pedro González, vecino de la villa del Nombre de Dios, alcalde ordinario. \nActuados ante el capitán Luís Pérez de la Cida, alcalde mayor de la villa del nombre de Dios.",
+    "desc": ". folios 243-244",
+    "locn": null,
+    "lbd": "1622-07-13",
+    "upd": null,
+    "ref": "MEXICO,261,N.91"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9196",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3612159",
+    "docs": 1,
+    "title": "Inventario de bienes: Río Samudio, Pedro del",
+    "scope": "Autos de inventario de bienes del alférez Pedro del Río Samudio, vecino de la ciudad de México, teniente de la villa de Atrisco, ha servido en los socorros y guarda de los puertos de Filipinas, La Habana y Nueva España. \nActuados ante Felipe Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". Folios 414-415",
+    "locn": null,
+    "lbd": "1622-07-19",
+    "upd": null,
+    "ref": "MEXICO,260,N.161"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

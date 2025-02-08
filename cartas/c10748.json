@@ -1,0 +1,28 @@
+{
+  "id": "c10748",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/345537",
+    "docs": 1,
+    "title": "Registro: Guatemala",
+    "scope": "Registro de partes: Reales Disposiciones (Reales Cédulas, Reales Provisiones, Cartas Acordadas, etc.), dirigidas a autoridades y particulares del distrito de la Audiencia de Guatemala. (Libro R 16)",
+    "desc": ". 358 folios, foliación original. 357 en total.,Observaciones: error en la foliación, salta del número 287 al 289.,Folios 44 a 128, contienen la Real Cédula de las constituciones de la Universidad de San Carlos, de Guatemala. 358 Hoja(s)",
+    "locn": null,
+    "lbd": "1685-05-14.",
+    "upd": "1700-08-02.",
+    "ref": "GUATEMALA,398,L.16"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c8428",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12816776",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México para que examine de escribano y notario público de Indias a Andrés de Jerez.",
+    "scope": "Nota de despacho.",
+    "desc": null,
+    "locn": "[Aranjuez]",
+    "lbd": "1620-05-09.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.5R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5730",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361189",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey Conde de Monterrey a S.M., servicios de Francisco de Quintana Dueñas. Cuernavaca. 2 fs. Anejo: \n1.- Resumen de lo que hizo Francisco de Quintana Dueñas en la visita de la real caja de Zacatecas. Cuernavaca, 8-I-1604. 4 fs",
+    "desc": null,
+    "locn": "Cuernavaca",
+    "lbd": "1604-01-12.",
+    "upd": null,
+    "ref": "MEXICO,26,N.2"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5565",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363979",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Traslado de un auto emitido por la Audiencia de México contra el Cabildo de esta iglesia.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1603-03-27.",
+    "upd": null,
+    "ref": "MEXICO,72,R.7,N.81"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

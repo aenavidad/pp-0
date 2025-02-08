@@ -1,0 +1,28 @@
+{
+  "id": "c10353",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361554",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco y Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., envío en la flota. Vacante de la iglesia de Michoacán. Libramientos del Virrey en caja de Guadalajara. Salinas. Estado de las minas. Situados de barlovento. Ahorro de gastos para Filipinas. Provecho en la hacienda de Acapulco. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1629-05-25.",
+    "upd": null,
+    "ref": "MEXICO,30,N.15"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

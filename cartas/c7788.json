@@ -1,0 +1,28 @@
+{
+  "id": "c7788",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349126",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, solicitando el envio de un nuevo fiscal a la Audiencia de Guatemala, en lugar de D. Antonio Coello de Portugal, y una prórroga en las deudas que los vecinos tienen con la caja real de dicha ciudad",
+    "desc": null,
+    "locn": null,
+    "lbd": "1617-01-16.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.14"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

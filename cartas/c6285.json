@@ -1,0 +1,28 @@
+{
+  "id": "c6285",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12786411",
+    "docs": 1,
+    "title": "Real Cédula a Luis de Velasco, virrey de Nueva España, para que ordene que de la Caja de México se devuelva a Juan García Barranco la cantidad que hubiere metido en ella, de la tercia parte del precio en que se le vendió el oficio de alférez mayor de la ciudad de Los Angeles, por habérsele denegado la confirmación.",
+    "scope": null,
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1607-05-01.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.207V-208R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

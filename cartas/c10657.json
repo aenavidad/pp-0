@@ -1,0 +1,28 @@
+{
+  "id": "c10657",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349443",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Cartago, informando de la mala gestión del anterior gobernador D. Juan Francisco Sanz Vázquez, quien de nuevo pretendía el cargo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-10-01.",
+    "upd": null,
+    "ref": "GUATEMALA,44B,N.80"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

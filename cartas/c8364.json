@@ -1,0 +1,28 @@
+{
+  "id": "c8364",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783863",
+    "docs": 1,
+    "title": "Real cédula al arzobispo de México, para que informe sobre la petición de los curas de aquella ciudad de que se les dé un arancel conforme al Concilio [de Trento] y la calidad de esa tierra y el acompañamiento que necesitan.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-12-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.206V(1)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

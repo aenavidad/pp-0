@@ -1,0 +1,28 @@
+{
+  "id": "c7861",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782954",
+    "docs": 1,
+    "title": "Real Cédula al general Juan de Salas de Valdés, capitán general de la flota, para que aloje a la gente de guerra que vaya en la flota de su cargo en la ciudad de Veracruz y haga cuerpo de guardia para su defensa.",
+    "scope": null,
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1617-05-07.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.199R-199V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

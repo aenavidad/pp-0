@@ -1,0 +1,28 @@
+{
+  "id": "c10652",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362958",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a S.M., recomendación del Dr. Don Gregorio López de Mendizábal, prebendado de la iglesia de Puebla de los Angeles. 2 fs",
+    "desc": null,
+    "locn": "Veracruz",
+    "lbd": "1683-08-20.",
+    "upd": null,
+    "ref": "MEXICO,54,R.1,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

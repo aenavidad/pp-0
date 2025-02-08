@@ -1,0 +1,28 @@
+{
+  "id": "c7697",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782277",
+    "docs": 1,
+    "title": "Real Cédula a [Diego Fernández de Córdoba], virrey de Nueva España, y a la Audiencia de México, para que informen sobre la venta del convento en las Minas de Zacualpa, de la orden de San Agustín, a la orden de Nuestra Señora de la Merced.",
+    "scope": "Fray Pedro de Burgos, procurador general de la Orden de Nuestra Señora de la Merced, informó sobre la necesidad de fundar conventos en esa zona.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1616-03-24.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.123V-124R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

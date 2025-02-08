@@ -1,0 +1,28 @@
+{
+  "id": "c10609",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349768",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Miguel de la Vega Valbuena, tesorero y José Fernández de Córdoba, contador, informando del salario de Juan Miguel de Agurto y Ayala, presidente de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-07-13.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.18"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

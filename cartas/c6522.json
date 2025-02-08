@@ -1,0 +1,28 @@
+{
+  "id": "c6522",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349913",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Petición de Miguel Martínez de Rivamartín, tesorero de la Caja Real de Comayagua , solicitando licencia para poder pasar a la provincia de Honduras con dos sobrinos.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608-09-01.",
+    "upd": null,
+    "ref": "GUATEMALA,49,N.70"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

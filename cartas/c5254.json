@@ -1,0 +1,28 @@
+{
+  "id": "c5254",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/372519",
+    "docs": 1,
+    "title": "Registros de oficio y partes: Nueva España",
+    "scope": "Registros de oficio y partes: Reales cédulas y provisiones, cartas acordadas, etc., conteniendo disposiciones de gobierno y gracia para autoridades seculares y eclesiásticas y particulares del distrito del Virreinato de Nueva España. Libro C 15 \nPor un error de ordenación de los pliegos en el momento en que se encuadernó este libro en el Consejo, hay determinadas cédulas cuyos folios no son consecutivo. La foliación que aparece en la signatura de dichas cédulas no tiene, por tanto, una secuencia lógica. Son las siguientes: \nMEXICO,1093,L.15,F.228V-245r: que se compone de los folios 228R y 245R \nMEXICO,1093,L.15,F.245V-231R que se compone de los folios 245V,246R,246V,229R,229V,230R,230V,231R \nMEXICO,1093,L.15,F.244V-249R que se compone de los folios 244V,247R,247V,248R,248V Y 249R \nSe han detallado en cada caso los folios que las integran.",
+    "desc": ". 339 folios. (porción 1).,Indice: 12 folios (porción 2). 339 Hoja(s)",
+    "locn": null,
+    "lbd": "1597-05-14.",
+    "upd": "1604-05-04.",
+    "ref": "MEXICO,1093,L.15"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

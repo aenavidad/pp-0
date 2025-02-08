@@ -1,0 +1,28 @@
+{
+  "id": "c10066",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4006178",
+    "docs": 1,
+    "title": "Inventario de bienes: Reyes, Juan de los",
+    "scope": "Autos del inventario de bienes de Juan de los Reyes, vecino de la ciudad de Guadalajara, del Nuevo Reino de Galicia, corregidor del pueblo de Analco y de Mexicalcingo y su partido. \nActuados ante Rodrigo Osorio de los Ríos, alcalde ordinario de la ciudad de Guadalajara.",
+    "desc": ". Folios 500-501",
+    "locn": null,
+    "lbd": "1624-04-09",
+    "upd": null,
+    "ref": "MEXICO,263,N.160"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

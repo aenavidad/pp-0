@@ -1,0 +1,28 @@
+{
+  "id": "c11660",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19997",
+    "docs": 1,
+    "title": "Planta de la cárcel del palacio de Guatemala (Casas del Presidente y Audiencia), con las innovaciones introducidas por el presidente Gabriel Sánchez de Berrospe",
+    "scope": null,
+    "desc": null,
+    "locn": null,
+    "lbd": "1698-03-13.",
+    "upd": null,
+    "ref": "MP-GUATEMALA,324"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

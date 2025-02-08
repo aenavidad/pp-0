@@ -1,0 +1,28 @@
+{
+  "id": "c6207",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361300",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., carrera de Filipinas. Socorro que pide la Audiencia de Manila. Naos de Holanda. Socorro a Manila. Pólvora, pertrechos y medicinas para las islas. Repartimieneto del dinero. Naos del Perú. Información sobre Capitán Fernández de Quiros. Necesidad de armas. Hay duplicado. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1607-01-12.",
+    "upd": null,
+    "ref": "MEXICO,27,N.6"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

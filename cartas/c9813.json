@@ -1,0 +1,28 @@
+{
+  "id": "c9813",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361532",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., despacho de Filipinas. Averiguación de excesos de los generales de flota. Inhibición de la A. en materia de guerra. 2 fs. Anejos: \n1.- El Virrey a S.M., capítulo sobre la averiguación de los excesos de los generales de flota en el puerto de Veracruz. 8-XI-1622. Hay duplicado. 1 fs. \n2.- Traslado de una real provisión de S.M. sobre las licencias que se han de dar por los gobernadores de las provincias para que las personas que en ellas residieren y moraren puedan salir e ir a otras partes. Toledo, 21-V-1534. 2 fs. \n3.- Traslado de una real cédula al Virrey del Perú sobre las licencias que se dan a las personas que han de pasar a Castilla. Segovia, 13-VII-1573. 2 fs. \n4.- Testimonio de las diligencias hechas con el General Fernando de Sousa sobre la visita de los navíos que se cometió a los oficiales de la real hacienda y al corregidor de Veracruz. México, 20-VII-1622. 6 fs. \n5.- Testimonio de la información de cómo el General Fernando de Sousa no hizo salva a la fuerza de San Juan de Ulúa y de cómo amparó tres navíos que salieron del puerto sin licencia. San Juan de Ulúa, 27-VI-1622. 4 fs. \n6.- Traslado de real cédula dirigida al Virrey sobre le crecimiento del número de soldados que ha de haber en el fuerte de San Juan de Ulúa y en que se declara que los generales de las flotas entén en todo sujetos y subordinados a los virreyes. Madrid, 27-III-1606. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1622-11-08.",
+    "upd": null,
+    "ref": "MEXICO,29,N.99"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

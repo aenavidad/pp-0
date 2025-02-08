@@ -1,0 +1,28 @@
+{
+  "id": "c7401",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781068",
+    "docs": 1,
+    "title": "Real Cédula a los oficiales de la Real Hacienda de Veracruz para que no tomen muestra a la gente de mar y guerra de las naos capitana y almiranta de la flota de Nueva España y que sólo visiten las naos en lo referente a mercancías y otras cosas que podrían llevar en ellas.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1614-05-06.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.17R-17V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

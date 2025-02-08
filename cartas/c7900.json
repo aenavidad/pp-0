@@ -1,0 +1,28 @@
+{
+  "id": "c7900",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783125",
+    "docs": 1,
+    "title": "Real Provisión concediendo el título de alférez mayor de Carrión a Juan Juárez Rallón.",
+    "scope": "Por renuncia de Francisco de Torres del Palacio. El oficio se remató en 3.000 pesos.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1617-06-20.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.221V-223R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

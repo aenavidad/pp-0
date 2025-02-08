@@ -1,0 +1,28 @@
+{
+  "id": "c6136",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361283",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey Luis de Velasco a S.M., pide merced de título. 2 fs. Anejos:\n1.- Decreto por el que S.M. manda juntar las súplicas de Merced que hace Don Luis de Velasco, para que se vean en el Consejo de Indias. Madrid, 5-II-1607. 2 fs. 2.- El Virrey a S.M., pide su promoción al Perú. México, 2-VI-1606. 2 fs",
+    "desc": null,
+    "locn": "Tultitlán",
+    "lbd": "1606-06-02.",
+    "upd": null,
+    "ref": "MEXICO,26,N.95"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c8793",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3603786",
+    "docs": 1,
+    "title": "Inventario de bienes: Muñoz Siliceo, Juan",
+    "scope": "Autos de inventario de bienes de Juan Muñoz Siliceo, escribano real y receptor del número de la Real Audiencia de México, ha servido en muchas comisiones. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". Folios 345-346",
+    "locn": null,
+    "lbd": "1622-07-14",
+    "upd": null,
+    "ref": "MEXICO,260,N.133"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

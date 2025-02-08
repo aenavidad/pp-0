@@ -1,0 +1,28 @@
+{
+  "id": "c12142",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351883",
+    "docs": 4,
+    "title": "Informaciones: Domingo López Ruiz",
+    "scope": "Informaciones de oficio y parte: Domingo López Ruiz, médico en la ciudad de Guatemala. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619.",
+    "upd": "1620.",
+    "ref": "GUATEMALA,121,N.16"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

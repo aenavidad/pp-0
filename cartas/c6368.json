@@ -1,0 +1,28 @@
+{
+  "id": "c6368",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361327",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., inundación y desagüe de la lagubna de México. Copia [S.F.]. Hay duplicado. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1607-08-31.",
+    "upd": null,
+    "ref": "MEXICO,27,N.33"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

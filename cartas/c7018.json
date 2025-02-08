@@ -1,0 +1,28 @@
+{
+  "id": "c7018",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781565",
+    "docs": 1,
+    "title": "Real cédula a los oficiales de la Real Hacienda de México ordenándoles restituir a Juan de Velasco el dinero depositado en concepto de remate del oficio de escribano de provincia de la Audiencia de aquella ciudad.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1611-10-01.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.49R-50V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

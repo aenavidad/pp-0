@@ -1,0 +1,28 @@
+{
+  "id": "c12220",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349549",
+    "docs": 13,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de carta de Melchor Ochoa de Villanueva, tesorero y de Pedro del Castillo Becerra, contador, sobre los gastos y reparaciones hechos en el edificio de la Caja Real por Antonio de Ribera Maldonado y Alonso de Coronado, oidores de la Audiencia de Guatemala. Con testimonios y duplicados",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603-04-26.",
+    "upd": "1604-07-03.",
+    "ref": "GUATEMALA,45,N.93"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11991",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351934",
+    "docs": 2,
+    "title": "Informaciones: Juan Vázquez de Espinosa",
+    "scope": "Informaciones de oficio y parte: Juan Vázquez de Espinosa, cura rector de la catedral de Guatemala y visitador del convento de Santa Catalina de Guatemala. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1628.",
+    "upd": null,
+    "ref": "GUATEMALA,123,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

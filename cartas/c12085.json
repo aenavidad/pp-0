@@ -1,0 +1,28 @@
+{
+  "id": "c12085",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351894",
+    "docs": 3,
+    "title": "Informaciones: Alonso Suárez de Merlo",
+    "scope": "Informaciones de oficio y parte: Alonso Suárez de Merlo, clérigo en la catedral de Santiago de Guatemala. Hay información de Luis de Ardón, su abuelo (1590-91), de Juan Pérez de Ardón, su bisabuelo (1570) y de su abuela, Juana de Luna (1579). Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620.",
+    "upd": null,
+    "ref": "GUATEMALA,122,N.8"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

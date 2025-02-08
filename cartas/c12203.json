@@ -1,0 +1,28 @@
+{
+  "id": "c12203",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368845",
+    "docs": 7,
+    "title": "Informaciones: Juan Vizcaino de Alzega",
+    "scope": "Informaciones de oficio y parte: Juan Vizcaino de Alzega, clérigo beneficiado del partido de Napaluca, comisario del Santo Oficio de la Inquisición y Cruzada. Con parecer de la Audiencia de México duplicado en 1628 Información contenida de 1615 y 1628",
+    "desc": null,
+    "locn": null,
+    "lbd": "1615.",
+    "upd": null,
+    "ref": "MEXICO,232,N.18"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

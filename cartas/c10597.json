@@ -1,0 +1,28 @@
+{
+  "id": "c10597",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348983",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre los motivos de Francisco de Quintana, Gobernador de Soconusco, para recusar el tomar la residencia al oidor de Guatemala, Francisco de Sarasa.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-05-21.",
+    "upd": "1684-11-29.",
+    "ref": "GUATEMALA,40,R.41,N.137"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

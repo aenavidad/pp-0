@@ -1,0 +1,28 @@
+{
+  "id": "c11071",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363104",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE LA MONCLOVA",
+    "scope": "El Virrey a S.M., entrega a su sucesor, el Conde de Galve, de todos los libros, cédulas y demás papeles. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1689-03-13.",
+    "upd": null,
+    "ref": "MEXICO,58,R.1,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

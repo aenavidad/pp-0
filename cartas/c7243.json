@@ -1,0 +1,28 @@
+{
+  "id": "c7243",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349117",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, sobre los problemas causados por Francisco de Mesa, antiguo regidor y alférez mayor de dicha ciudad.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1613-03-25.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5672",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/346963",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Alvaro Gómez de Abaunza, oidor de la Audiencia de Guatemala. (Es duplicada de la de 28 de abril de 1603)",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1603-09-26.",
+    "upd": null,
+    "ref": "GUATEMALA,11,R.6,N.45"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

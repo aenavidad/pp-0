@@ -1,0 +1,28 @@
+{
+  "id": "c8227",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783101",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de alférez mayor de Michoacán, en Nueva España, para José de Figueroa Campofrío por renuncia de Tomás González de Figueroa, su padre.",
+    "scope": "[Diego Fernández de Córdoba], marqués de Guadalcazar, virrey de Nueva España, remató el oficio en el interesado por 700 pesos de oro común, mitad de su valor por el traspaso.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-03-03.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.154R-155R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

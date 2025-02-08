@@ -1,0 +1,28 @@
+{
+  "id": "c5819",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/346980",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Peticiones de Juan de Berrio, oidor de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604-07-07.",
+    "upd": null,
+    "ref": "GUATEMALA,12,R.1,N.7"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

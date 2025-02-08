@@ -1,0 +1,28 @@
+{
+  "id": "c10453",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362887",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a S.M., ajuste con el comercio sevillano para que se le abriesen los fardos en la Aduana de aquella ciudad. 11 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1681-02-28.",
+    "upd": null,
+    "ref": "MEXICO,52,N.11"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

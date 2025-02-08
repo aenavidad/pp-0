@@ -1,0 +1,28 @@
+{
+  "id": "c10949",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348920",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre los méritos y servicios de Antonio Coello, Gobernador de Nicaragua.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1688-02-29.",
+    "upd": "1691-04-04.",
+    "ref": "GUATEMALA,40,R.21,N.74"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

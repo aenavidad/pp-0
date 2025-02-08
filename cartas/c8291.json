@@ -1,0 +1,28 @@
+{
+  "id": "c8291",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349681",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de la Audiencia de Guatemala a S.M. sobre los siguientes asuntos: autos de Pedro Castillo Becerra, envío de arcabuces, correos, doctrineros de honduras, encomiendas vacantes en Guatemala, pueblos de Chiapa, prohibición de hilados, ermita de Nuestra Señora de los Remedios, minas de plata en Honduras, indios etc",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619-06-11.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.99"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

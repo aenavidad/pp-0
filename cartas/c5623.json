@@ -1,0 +1,28 @@
+{
+  "id": "c5623",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361151",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., estanco de carne en Veracruz. 2 fs. Anejo: \n1.- Mandamiento para que se traiga en pregón el abasto de las carnicerías de la Nueva Veracruz. México, 27-II-1603. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1603-05-21.",
+    "upd": null,
+    "ref": "MEXICO,25,N.31"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10131",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4051190",
+    "docs": 1,
+    "title": "Inventario de bienes: Sarmiento, Francisco",
+    "scope": "Autos del inventario de bienes de Francisco Sarmiento, vecino de la ciudad de Guadalajara, del Nuevo Reino de Galicia. \nActuados ante Rodrigo Osorio de los Ríos, alcalde ordinario de Guadalajara.",
+    "desc": ". Folios 547-548",
+    "locn": null,
+    "lbd": "1625-01-18",
+    "upd": null,
+    "ref": "MEXICO,263,N.179"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

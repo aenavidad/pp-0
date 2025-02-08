@@ -1,0 +1,28 @@
+{
+  "id": "c10735",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363000",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a S.M., muerte del Oidor Don Juan Sáenz Moreno. 9 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1684-11-27.",
+    "upd": null,
+    "ref": "MEXICO,54,R.2,N.52"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

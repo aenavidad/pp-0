@@ -1,0 +1,28 @@
+{
+  "id": "c8444",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349591",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Baltasar Pinto de Amberes, contador, informando de la toma de cuentas, estado de la Caja Real, envio de caudales y comercio de añil y cochinilla.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-05-21.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

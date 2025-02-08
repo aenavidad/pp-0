@@ -1,0 +1,28 @@
+{
+  "id": "c6322",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12786573",
+    "docs": 1,
+    "title": "Real Cédula ordenando a los gobernadores de los puertos de Indias para que en los puertos donde fuere la flota de Nueva España, del capitán general Sancho Pardo, se provea de bastimentos necesarios a precios moderados.",
+    "scope": null,
+    "desc": null,
+    "locn": "El Escorial",
+    "lbd": "1607-06-05.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.238R-238V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

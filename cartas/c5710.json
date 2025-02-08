@@ -1,0 +1,28 @@
+{
+  "id": "c5710",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349550",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Pedro del Castillo Becerra, contador, sobre los gastos hechos en la reparación de las casas reales.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603-11-26.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.94"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

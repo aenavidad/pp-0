@@ -1,0 +1,28 @@
+{
+  "id": "c5882",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350271",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: CRISTOBAL DE VILLEGAS",
+    "scope": "Expediente de Confirmación del oficio de receptor de la Audiencia de Guatemala a Cristóbal de Villegas. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1605-03-28.",
+    "upd": null,
+    "ref": "GUATEMALA,80,N.12"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

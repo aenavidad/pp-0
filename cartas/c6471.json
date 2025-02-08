@@ -1,0 +1,28 @@
+{
+  "id": "c6471",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/21468",
+    "docs": 1,
+    "title": "Plano de la fortificación proyectada en Campeche por Carlos de Luna y Arellano, gobernador de Yucatán.",
+    "scope": "Presenta una construcciónde estructura rectangular, dispuesta en dirección este-oeste a la orilla del mar. Su interior se divide en tres espacios dieferenciados. La cortina este se prolonga para incluir en la fortificación la preexistente torre centinela de madera y terraplén al que se accede desde la plaza por una escalera, formando la construcción un ángulo recto. \n  \nEn la parte superior central una rosa de los vientos muy esquemática. Topónimos de los puntos cardinales indicando E y O. Señala medidas. \n  \nUna gran nota explicativa ocupa el centro del plano. \n  \nLa ciudad de Campeche durante el siglo XVI carecía de defensas para hacer frente a los frecuentes ataques piráticos que sufría la ciudad. Las primeras obras de fortificación permanentes de cal y canto se iniciaron durante el gobierno del mariscal Carlos de Luna, siendo la primera el fuerte de San Benito, ubi­cado al poniente de la plaza frente al mar, cuya autorización se concedió en 1609, terminándose en 1611. \n  \nNúmero de registro: 975. ",
+    "desc": null,
+    "locn": "Mérida",
+    "lbd": "1608-06-21.",
+    "upd": null,
+    "ref": "MP-MEXICO,517"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

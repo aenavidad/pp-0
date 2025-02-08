@@ -1,0 +1,28 @@
+{
+  "id": "c7914",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783180",
+    "docs": 1,
+    "title": "Real Cédula a los oficiales de la Real Hacienda de Yucatán para que informen de lo que piden sobre que el gobernador no vaya a las visitas de las naos que fueren al puerto de Sisal, por los inconvenientes que esto supone, sino sólo el oficial que por turno le toque.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1617-09-16.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.230V-231R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

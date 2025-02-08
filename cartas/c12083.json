@@ -1,0 +1,28 @@
+{
+  "id": "c12083",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368899",
+    "docs": 3,
+    "title": "Informaciones: Gaspar Cabrera",
+    "scope": "Informaciones de oficio y parte: Gaspar Cabrera, beneficiado de Tlacolula, provincia de Oaxaca. Con memorial",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620.",
+    "upd": "1621.",
+    "ref": "MEXICO,235,N.2"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

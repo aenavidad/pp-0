@@ -1,0 +1,28 @@
+{
+  "id": "c12066",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368834",
+    "docs": 3,
+    "title": "Informaciones: Alonso de Villagómez",
+    "scope": "Informaciones de oficio y parte: Alonso de Villagómez, capitán de infantería para llevar gente a las Filipinas, juez repartidor de las minas de Tasco y Pachuca. Con parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1614.",
+    "upd": "1615.",
+    "ref": "MEXICO,232,N.7"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

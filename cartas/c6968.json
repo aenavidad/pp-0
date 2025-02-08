@@ -1,0 +1,28 @@
+{
+  "id": "c6968",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12780823",
+    "docs": 1,
+    "title": "Real cédula a [fray García Guerra], virrey de Nueva España, para que remita al Consejo de Indias la renuncia de Nicolás de Escoto del cargo de escribano de cámara en la Sala del Crimen de la Audiencia de México a favor de su hijo Pedro de Escoto, menor de edad, y de Melchor de Molina, e informe sobre la edad de los candidatos.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1611-06-02.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.1V-2R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

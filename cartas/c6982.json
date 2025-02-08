@@ -1,0 +1,28 @@
+{
+  "id": "c6982",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781091",
+    "docs": 1,
+    "title": "Real cédula a [fray García Guerra], virrey de Nueva España, y a la Audiencia de México ordenando informen sobre la pretensión de la ciudad de Los Ángeles de suprimir el oficio de provincial de la Santa Hermandad.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1611-06-10.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.17R-17V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

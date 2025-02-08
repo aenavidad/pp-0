@@ -1,0 +1,28 @@
+{
+  "id": "c10121",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368939",
+    "docs": 1,
+    "title": "Informaciones: Fernando de Angulo Reinoso",
+    "scope": "Informaciones de oficio y parte: Fernando de Angulo Reinoso, regidor de México, receptor general de penas de cámara, estrados y gastos de justicia de Nueva España.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1624.",
+    "upd": null,
+    "ref": "MEXICO,236,N.13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

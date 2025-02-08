@@ -1,0 +1,28 @@
+{
+  "id": "c6970",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12780883",
+    "docs": 1,
+    "title": "Real cédula a [fray García Guerra], virrey de Nueva España, y a las Audiencias de México y Manila para que averigüen los bienes que quedaron del difunto Juan de Cuéllar, vecino de las islas Filipinas, a petición de su hija y heredera Luisa de Cuéllar, vecina de la villa de Madrid, y los envíen a la Casa de la Contratación de Sevilla.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1611-06-02.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.3R-4R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c6365",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361319",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., negocios de cruzada. Cobro de bulas a niños e indios impedidos. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1607-08-29.",
+    "upd": null,
+    "ref": "MEXICO,27,N.25"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

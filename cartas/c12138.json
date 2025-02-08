@@ -1,0 +1,28 @@
+{
+  "id": "c12138",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368812",
+    "docs": 4,
+    "title": "Informaciones: Juan de Quesada",
+    "scope": "Informaciones de oficio y parte: Juan de Quesada, maestro en artes por la Universidad de México, rector de la Universidad de México. Información contenida de 1612 Con parecer de la Audiencia de México de 1613",
+    "desc": null,
+    "locn": null,
+    "lbd": "1614.",
+    "upd": "1615.",
+    "ref": "MEXICO,231,N.7"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

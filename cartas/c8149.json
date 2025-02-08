@@ -1,0 +1,28 @@
+{
+  "id": "c8149",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782629",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México, para que vean el memorial remitido por Hernán Carrillo Altamirano, vecino de la ciudad de México y le hagan justicia en lo que pide con Diego de Ochandiano, contador de la Real caja de México.",
+    "scope": "Según Carrillo, el contador Diego de Ochandiano, tiene muchas haciendas y granjerías entorno a la ciudad e México y otras partes de su reino, con las que ocasiona daños y molestias a otros vasallos, pues saca de los virreyes muchas mercedes de tierras y aguas, contraviniendo las órdenes que hay en contra de estas prácticas.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-12-03.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.119R-120R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10441",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348843",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Miguel Gómez de Lara, Gobernador de Costa Rica.",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1680-09-06.",
+    "upd": null,
+    "ref": "GUATEMALA,39,R.45,N.203"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

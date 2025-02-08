@@ -1,0 +1,28 @@
+{
+  "id": "c7003",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781380",
+    "docs": 1,
+    "title": "Real cédula concediendo a Francisco de Espinosa y a sus herederos una renta del 3 por ciento sobre un arbitrio que ofrece, no excediendo los 6.000 ducados anuales.",
+    "scope": "Nota al margen: 'Habiéndose visto en el Consejo este arbitrio en 27 de julio 1612 se mando que no se entregase la cédula al dicho Espinosa y en cuanto a la renta se proveyó que se haga lo que se anota aquí para noticia de ello'.",
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1611-08-13.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.31R-32R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c6576",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351827",
+    "docs": 1,
+    "title": "Informaciones: Pedro de Bustamante Quevedo",
+    "scope": "Informaciones de oficio y parte: Pedro de Bustamante Quevedo, corregidor de Acasabastlán [sic por Acasaguastlán] y vecino de Guatemala. Información contenida de 1607",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608.",
+    "upd": null,
+    "ref": "GUATEMALA,118,N.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

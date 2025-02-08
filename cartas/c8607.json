@@ -1,0 +1,28 @@
+{
+  "id": "c8607",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12874343",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México, para que informen sobre qué monasterios hay en aquella ciudad y qué hacienda dará Gonzalo Gutiérrez Gil, vecino de ella, para el monasterio de monjas Nuestra Señora de Belén, de la Orden de San Jerónimo, que quiere fundar allí.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1621-06-07.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.93R-93V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

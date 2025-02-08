@@ -1,0 +1,28 @@
+{
+  "id": "c6566",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368538",
+    "docs": 1,
+    "title": "Informaciones: Antonio Ortiz de Zúñiga",
+    "scope": "Informaciones de oficio y parte: Antonio Ortiz de Zúñiga, racionero de la catedral de México. Traslado de 1608 de una información comenzada en 1595 y de 1600",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608.",
+    "upd": null,
+    "ref": "MEXICO,221,N.34"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

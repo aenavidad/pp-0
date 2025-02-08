@@ -1,0 +1,28 @@
+{
+  "id": "c12134",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368799",
+    "docs": 4,
+    "title": "Informaciones: Juan Tello Guzmán",
+    "scope": "Informaciones de oficio y parte: Juan Tello Guzmán, vecino de México. Dos informaciones con parecer de la Audiencia Información de 1609 incluye memorial, poder a favor de don Antonio de Villasañe, y fe de que no se hizo cargo de la visita del licenciado don Francisco Tello",
+    "desc": null,
+    "locn": null,
+    "lbd": "1611.",
+    "upd": null,
+    "ref": "MEXICO,230,N.18"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

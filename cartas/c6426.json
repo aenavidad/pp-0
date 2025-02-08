@@ -1,0 +1,28 @@
+{
+  "id": "c6426",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781198",
+    "docs": 1,
+    "title": "Real cédula a Francisco de Varte [sic por Duarte], del Consejo de Indias, informándole de haber concedido licencia para que pueda ir a la provincia de Yucatán un navío de menor porte, cargado de provisiones, que se unirá a los otros dos que van cada año con la flota de Nueva España.",
+    "scope": "Por real cédula de 6 de marzo de 1590, los vecinos de Mérida de Yucatán tienen concedida la merced de recibir cada año dos navíos de menor porte, cargados de bastimentos para su sustento.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1608-03-06.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.58R-60R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

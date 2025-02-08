@@ -1,0 +1,28 @@
+{
+  "id": "c8427",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349280",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de San Salvador, aprobando la gestión de Pedro de Aguilar Laso de la Vega, alcalde mayor de dicha provincia y caballero de la Orden de Calatrava.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-04-26.",
+    "upd": null,
+    "ref": "GUATEMALA,43,N.69"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

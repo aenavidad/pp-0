@@ -1,0 +1,28 @@
+{
+  "id": "c8356",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783953",
+    "docs": 1,
+    "title": "Real cédula ordenando seguir la costumbre que se ha seguido hasta ahora en cuanto al modo de salir el cabildo de la Iglesia Metropolitana de México a recibir a los inquisidores de esta ciudad.",
+    "scope": "La diferencia entre ambas instituciones surge en el contexto de la recepción del cabildo catedral a Tribunal de la Inquisición cuando este acude a la catedral a la publicación del edicto general de la fe.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-12-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.211R-212R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7358",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12780833",
+    "docs": 1,
+    "title": "Real Provisión concediendo el título de escribano público de la ciudad de México a Antonio López Gallego.",
+    "scope": "Por renuncia de Cristóbal de Aguilar Acevedo. Se remató en 17.088 pesos y 7 tomines de oro común.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1614-03-07.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.8R-9R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

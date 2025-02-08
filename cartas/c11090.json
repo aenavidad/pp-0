@@ -1,0 +1,28 @@
+{
+  "id": "c11090",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351281",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE GUATEMALA",
+    "scope": "Expediente de Confirmación de Encomienda en el distrito de la Audiencia de Guatemala a María Antonia y Manuela Tomasa Calvo de Estrada y Azpeitia. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1689-04-01.",
+    "upd": null,
+    "ref": "GUATEMALA,108,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

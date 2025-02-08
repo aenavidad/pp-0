@@ -1,0 +1,28 @@
+{
+  "id": "c9187",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3743168",
+    "docs": 1,
+    "title": "Inventario de bienes: Vázquez, Pedro",
+    "scope": "Autos de inventario de bienes de Pedro Vázquez, vecino de la ciudad de México, intérprete de la Real Audiencia de México. \nActuados ante Miguel Ruiz de la Torre alcalde del crimen y juez de provincia.",
+    "desc": ". folios 620-621",
+    "locn": null,
+    "lbd": "1622-07-19",
+    "upd": null,
+    "ref": "MEXICO,261,N.239"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

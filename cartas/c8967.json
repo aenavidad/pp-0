@@ -1,0 +1,28 @@
+{
+  "id": "c8967",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4052587",
+    "docs": 1,
+    "title": "Inventario de bienes: Villena, Bartolomé",
+    "scope": "Autos de inventario de bienes de Bartolomé Villena, vecino de la ciudad de México, amparador de los indios de Santiago de Tlatelolco. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". Folios 742-744",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,262,N.272"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

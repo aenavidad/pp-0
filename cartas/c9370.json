@@ -1,0 +1,28 @@
+{
+  "id": "c9370",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3593719",
+    "docs": 1,
+    "title": "Inventario de bienes: Guijarro, Lorenzo",
+    "scope": "Autos del inventario de bienes de Lorenzo Guijarro, natural de la ciudad de México y alguacil mayor de las minas y provincia de Tonalá. \nActuados ante el capitán Sebastián Hidalgo Rengel, alcalde mayor y juez repartidor y administrador de los reales azogues de las Minas de la Concepción.",
+    "desc": ". Folios 319-322",
+    "locn": null,
+    "lbd": "1622-07-27",
+    "upd": null,
+    "ref": "MEXICO,259,N.109"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

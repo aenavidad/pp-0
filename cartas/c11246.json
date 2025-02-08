@@ -1,0 +1,28 @@
+{
+  "id": "c11246",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363196",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., mercedes para Don Manuel Tirado. 4 fs. y 2 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1691-01-30.",
+    "upd": null,
+    "ref": "MEXICO,60,R.3,N.8"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

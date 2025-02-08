@@ -1,0 +1,28 @@
+{
+  "id": "c10471",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348050",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre la confirmación del oficio de contador mayor de penas de cámara, gastos y justicia y estrados de la Audiencia de Guatemala en Patricio Roche.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1681-05-09.",
+    "upd": "1681-12-03.",
+    "ref": "GUATEMALA,27,R.1,N.18"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

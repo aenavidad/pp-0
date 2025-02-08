@@ -1,0 +1,28 @@
+{
+  "id": "c7108",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782082",
+    "docs": 1,
+    "title": "Real cédula a los oficiales de la Real Hacienda de Veracruz ordenándoles no tomar muestra a la gente de mar y guerra de las naos capitana y almiranta de la flota que va a Nueva España, ciñéndose a lo relacionado con mercancías y otras existencias.",
+    "scope": null,
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1612-05-08.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.95R-95V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

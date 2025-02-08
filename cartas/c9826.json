@@ -1,0 +1,28 @@
+{
+  "id": "c9826",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3901201",
+    "docs": 1,
+    "title": "Inventario de bienes: Ramírez, Antonio",
+    "scope": "Autos de inventario de bienes de Antonio Ramírez, escribano real y público de la ciudad de Pátzcuaro. \nActuados ante Fernando Bocanegra, alcalde mayor de la ciudad de Pátzcuaro.",
+    "desc": ". Folios 554-555",
+    "locn": null,
+    "lbd": "1622-11-23",
+    "upd": null,
+    "ref": "MEXICO,262,N.206"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

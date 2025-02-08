@@ -1,0 +1,28 @@
+{
+  "id": "c12174",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368822",
+    "docs": 5,
+    "title": "Informaciones: Lorenzo Cuello",
+    "scope": "Informaciones de oficio y parte: Lorenzo Cuello, vecino de Valladolid de Yucatán. Con petición decretada en 1615 y parecer del cabildo de Valladolid de Yucatán",
+    "desc": null,
+    "locn": null,
+    "lbd": "1613.",
+    "upd": "1614.",
+    "ref": "MEXICO,231,N.17"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

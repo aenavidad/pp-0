@@ -1,0 +1,28 @@
+{
+  "id": "c11327",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363215",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., recomendación de Don Teobaldo Gorráez, comisario de la caballería de aquel reino. 10 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1693-01-09.",
+    "upd": null,
+    "ref": "MEXICO,60,R.5,N.27"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

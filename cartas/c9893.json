@@ -1,0 +1,28 @@
+{
+  "id": "c9893",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3834098",
+    "docs": 1,
+    "title": "Inventario de bienes: Hidalgo de Sierra, Blas",
+    "scope": "Autos del inventario de bienes de Blas Hidalgo de Sierra, escribano real y escribano público de la villa de Toluca, en el estado del Marqués del Valle de Oaxaca y de la villa de Cuyoacán y su jurisdicción. \nActuados ante Juan Cortés, corregidor de la villa de Toluca.",
+    "desc": ". Folios 293-294",
+    "locn": null,
+    "lbd": "1623-03-10",
+    "upd": null,
+    "ref": "MEXICO,263,N.92"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

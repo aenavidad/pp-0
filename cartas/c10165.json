@@ -1,0 +1,28 @@
+{
+  "id": "c10165",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361544",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco y Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., materia de cruzada. 2 fs. Anejos:\n1.- Traslado de un auto del Virrey sobre las diferncias en materia de jurisdicción entre los tribunales de cruzada de México y Guadalajara. México, 24-XI-1625. 2 fs. 2.- Traslado de los autos que se siguieron en la toma de asiento de Don Juan de Ontiveros Barrera para tesorero general de la cruzada de la Nueva España y sus provincias. México, 15-VII-1625. 26 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1625-07-15.",
+    "upd": null,
+    "ref": "MEXICO,30,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

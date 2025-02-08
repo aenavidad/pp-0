@@ -1,0 +1,28 @@
+{
+  "id": "c12093",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349601",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Pedro del Castillo Becerra, contador, informando de la visita de Juan de Ibarra, oidor de la Audiencia de México y visitador de la Hacienda Real en la provincia de Guatemala. Con duplicado de 12 de octubre de 1623",
+    "desc": null,
+    "locn": null,
+    "lbd": "1623-06-07.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.19"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

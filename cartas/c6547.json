@@ -1,0 +1,28 @@
+{
+  "id": "c6547",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782282",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México, para que informen sobre la conveniencia o no de unas ordenanzas que Martín Enríquez, virrey que fue de Nueva España, hizo para el uso y ejercicio del oficio de escribano mayor de las entradas de la cárcel de dicha ciudad.",
+    "scope": "Real cédula dada a petición de Pedro de Arencho, escribano mayor de las entradas de la cárcel de México.",
+    "desc": null,
+    "locn": "El Pardo",
+    "lbd": "1608-11-08.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.124R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

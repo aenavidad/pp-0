@@ -1,0 +1,28 @@
+{
+  "id": "c8375",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368889",
+    "docs": 1,
+    "title": "Informaciones: Juan de Cuéllar y Aranda",
+    "scope": "Informaciones de oficio y parte: Juan de Cuéllar y Aranda, alférez de infantería en la compañía de Juan Cortés Hermosilla, cabo de la escuadra de Fernando Altamirano.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619.",
+    "upd": null,
+    "ref": "MEXICO,234,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

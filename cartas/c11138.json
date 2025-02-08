@@ -1,0 +1,28 @@
+{
+  "id": "c11138",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20910",
+    "docs": 1,
+    "title": "'Planta de la ciudad de la Nueva Veracruz y su Castillo de San Juan de Ullúa con el disinio de una ciudadela sobre un aresife enfrente del baluarte de la Caleta'.",
+    "scope": "Título en cartela en la parte superior. Mención de autoridad al final del título: 'Por el capitan don Jayme Franck, ingeniero militar por S[u] M[ajestad]. \nA la izquierda se sitúa la plaza de Veracruz circundada por una muralla, situada en una zona de pantanos y abierta a la costa con un baluarte al norte de la misma [de la Caleta]. La ciudad se representa en blanco. Extramuros se dibuja el arroyo Tenoya. \nA la derecha, la isla de San Juan de Ulúa enfrente de la ciudad, representada como una fortificación cerrada de planta rectangular; en el interior de la misma se abre una dársena para el desembarco y embarque de las mercancías. Se indica en nota: 'Este Arecife, como también el otro de la Caleta, cubierto de la Mar, se descubre algo en tiempo de bajas mares por sus hiervas'. \nAl dorso, en horizontal: ' Vino con carta del Ingeniero Don Jayme Franc del 23 de Jullio de 1689' \nNúmero de registro: 438",
+    "desc": null,
+    "locn": "San Juan de Ulúa",
+    "lbd": "1689-07-23.",
+    "upd": null,
+    "ref": "MP-MEXICO,85"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

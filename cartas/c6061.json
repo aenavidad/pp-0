@@ -1,0 +1,28 @@
+{
+  "id": "c6061",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361270",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., frailes que van para otras provincias. Fraudes que hacen para pasar. 2 fs. Anejos: \n1.- Testimonio del auto que el Virrey proveyó sobre que ninguno de los religiosos de la orden de Santo Domingo que vinieren de España para la China, se quede en dicha Nueva España. México, 27-I-1606. 2 fs. 2.- Testimonio de los decretos y notificaciones que se hicieron a los religiosos de la Compañia de Jesus destinados a Filipinas, sobre su obligación de pasar a ellas y no quedarse en la Nueva España. México, 24-I-1606. Traslado hecho en México en 13-II-1606. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-02-17.",
+    "upd": null,
+    "ref": "MEXICO,26,N.82"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

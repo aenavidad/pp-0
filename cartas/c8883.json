@@ -1,0 +1,28 @@
+{
+  "id": "c8883",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3564828",
+    "docs": 1,
+    "title": "Inventario de bienes: Carrasco, Francisco",
+    "scope": "Autos de inventario de bienes de Francisco Carrasco, vecino de la ciudad de México, contador del juzgado de bienes de difuntos de Nueva España. \nActuados ante Felipe de Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". 99 - 101",
+    "locn": null,
+    "lbd": "1622-07-16",
+    "upd": null,
+    "ref": "MEXICO,261,N.39"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

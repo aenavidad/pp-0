@@ -1,0 +1,28 @@
+{
+  "id": "c10370",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349925",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Petición de Antonio de Urzuriaga, tesorero de la provincia de Honduras, en la que solicita licencia para pasar a dicha provincia con tres criados, armas y joyas.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1629-09-27.",
+    "upd": null,
+    "ref": "GUATEMALA,49,N.82"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5900",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/370629",
+    "docs": 1,
+    "title": "Registros de oficio para las autoridades de Nueva España",
+    "scope": "Registro de oficio: Reales Cédulas y Provisiones, Cartas Reales, etc. conteniendo disposiciones de gobierno y gracia para las autoridades seculares y eclesiásticas del distrito del virreinato de Nueva España. Libro F 4",
+    "desc": ". 211 Hoja(s)",
+    "locn": null,
+    "lbd": "1605-04-26.",
+    "upd": "1607-10-18.",
+    "ref": "MEXICO,1064,L.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10939",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348268",
+    "docs": 1,
+    "title": "Cartas de Audiencia",
+    "scope": "Expediente sobre el ataque enemigo a Guayaquil, en el Mar del Sur, y a Tehuantepec en Nueva España.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1687-10-23.",
+    "upd": "1689-03-15.",
+    "ref": "GUATEMALA,29,R.4,N.87"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

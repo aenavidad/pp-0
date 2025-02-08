@@ -1,0 +1,28 @@
+{
+  "id": "c10931",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363067",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE LA MONCLOVA",
+    "scope": "El Virrey a S.M., envía los pliegos que tenía ejecutados antes de la llegada del aviso que entró en Veracruz. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1687-08-26.",
+    "upd": null,
+    "ref": "MEXICO,57,R.1,N.12"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

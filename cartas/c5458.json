@@ -1,0 +1,28 @@
+{
+  "id": "c5458",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12737951",
+    "docs": 1,
+    "title": "Real cédula concediendo a Pedro Franco el título de procurador de la Audiencia de México",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1602-07-24.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.239R-239V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

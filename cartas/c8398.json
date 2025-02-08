@@ -1,0 +1,28 @@
+{
+  "id": "c8398",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12786462",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México para que viendo el memorial que les remite del conde de Santiago de Calimaya, en el que solicita que el alcalde mayor de Istlabaca [sic por Istlahuaca o Ixtlahuaca], resida en la cabecera de su jurisdicción y no en el pueblo de Metepeque [sic por Metepec], y guardando lo que está mandado en leyes y ordenanzas, haga justicia.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-02-18.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.242V(3)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

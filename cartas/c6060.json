@@ -1,0 +1,28 @@
+{
+  "id": "c6060",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361272",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., excesos de soldados. Ordenanzas que hizo para gente de guerra. 2 fs. Anejos: \n1.- El Virrey a S.M., sobre la leva anticipada de gente para Filipinas y los excesos que cometen. Copia [S.F.]. 1 f. 2.- Testiminio de las ordenanzas compuesta y mandadas a pregonar por el Virrey sobre la jurisdicción y gente de guerra, sus prisiones y castigos. México, 17-IX-1604. Testimonio hecho en 10 de mayo de 1606. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-02-17.",
+    "upd": null,
+    "ref": "MEXICO,26,N.84"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

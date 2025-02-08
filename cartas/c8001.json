@@ -1,0 +1,28 @@
+{
+  "id": "c8001",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12780897",
+    "docs": 1,
+    "title": "Real cédula a los gobernadores de los puertos y partes de las Indias a donde llega la flota, para que provean de los bastimentos necesarios, a precios moderados, a la que irá a Nueva España a cargo del general Carlos de Ibarra.",
+    "scope": null,
+    "desc": null,
+    "locn": "El Pardo",
+    "lbd": "1618-02-26.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.9R-9V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

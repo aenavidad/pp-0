@@ -1,0 +1,28 @@
+{
+  "id": "c7090",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350292",
+    "docs": 1,
+    "title": "Confirmación de oficio: Sebastián Rodríguez de Ávila",
+    "scope": "Expediente de confirmación del oficio de receptor de la Audiencia de Guatemala a Sebastián Rodríguez de Avila. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1612-04-12",
+    "upd": null,
+    "ref": "GUATEMALA,80,N.33"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

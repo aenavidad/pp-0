@@ -1,0 +1,28 @@
+{
+  "id": "c7360",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12780840",
+    "docs": 1,
+    "title": "Real Cédula a los oficiales reales de la ciudad de México para que paguen a Pedro de Avendaño Villela cincuenta mil doscientos treinta y dos maravedíes para la compra de armas.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1614-03-07.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.9V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

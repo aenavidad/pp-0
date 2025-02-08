@@ -1,0 +1,28 @@
+{
+  "id": "c5389",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361124",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., navegación de Filipinas. Pérdida de la nao Santo Tomás. Corsario holandés. Socorro a Filipinas. Fábrica de navíos en Filipinas. Subida de fletes. Residencia de oficiales de mar y guerra. Sueldo de infantería. Ayuda de costa a doncellas. Indios acaxíes. Provisión para la armada. Paso de gente, sin licencia, de Nuevo México. Hay duplicado. 11 fs. Anejo: \n1.- El Virrey a la Audiencia de Manila sobre la pérdida de ciertas naos y la refriega que hubo con el corsario. México, 29-I-1602. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1602-03-08.",
+    "upd": null,
+    "ref": "MEXICO,25,N.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

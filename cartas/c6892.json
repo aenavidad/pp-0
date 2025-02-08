@@ -1,0 +1,28 @@
+{
+  "id": "c6892",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368768",
+    "docs": 1,
+    "title": "Informaciones: Juan Mansilla Hinojosa",
+    "scope": "Informaciones de oficio y parte: Juan Mansilla Hinojosa, capitán, vecino de México.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1610.",
+    "upd": null,
+    "ref": "MEXICO,229,N.20"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

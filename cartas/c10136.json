@@ -1,0 +1,28 @@
+{
+  "id": "c10136",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3900952",
+    "docs": 1,
+    "title": "Inventario de bienes: Medina Valdivia, Juan de",
+    "scope": "Autos del inventario de bienes de Juan de Medina Valdivia, vecino de la ciudad de Guadalajara, en Nueva Galicia, y alcalde mayor de las minas de Tinamache. \nActuados ante Rodrigo Osorio de los Ríos, alcalde ordinario de Guadalajara.",
+    "desc": ". Folios 390-391",
+    "locn": null,
+    "lbd": "1625-01-23",
+    "upd": null,
+    "ref": "MEXICO,263,N.121"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

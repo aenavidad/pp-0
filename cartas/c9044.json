@@ -1,0 +1,28 @@
+{
+  "id": "c9044",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3538567",
+    "docs": 1,
+    "title": "Inventario de bienes: Busto de Mendoza, Lorenzo",
+    "scope": "Autos de inventario de bienes de Lorenzo Busto de Mendoza, vecino de México, corregidor de los pueblos de Guautlatlauca (Huautlatlauca) y Huehuetlán. \nActuados ante Juan de Canseco, alcalde y juez de provincia de la Audiencia de México.",
+    "desc": ". Folios 84-85",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,260,N.33"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

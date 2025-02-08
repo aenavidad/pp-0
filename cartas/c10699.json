@@ -1,0 +1,28 @@
+{
+  "id": "c10699",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362979",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a Don Francisco de Salazar, recibo de diferentes presentaciones de las iglesias de México, Puebla y Oaxaca. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1684-08-10.",
+    "upd": null,
+    "ref": "MEXICO,54,R.2,N.31"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9483",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4046130",
+    "docs": 1,
+    "title": "Inventario de bienes: Torres, Juan Andrés de",
+    "scope": "Autos de inventario de bienes de Juan Andrés de Torres, escribano real, vecino de la ciudad de Puebla de los Ángeles; escribano de la obra de la catedral de esta ciudad. \nActuados ante Juan de Cervantes Carvajal, alcalde mayor y teniente de capitán general de la ciudad de Puebla de los Ángeles.",
+    "desc": ". Folios 688-689",
+    "locn": null,
+    "lbd": "1622-08-02",
+    "upd": null,
+    "ref": "MEXICO,262,N.253"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

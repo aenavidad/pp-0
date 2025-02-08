@@ -1,0 +1,28 @@
+{
+  "id": "c12034",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368629",
+    "docs": 3,
+    "title": "Informaciones: Pedro de Aranda Cidrón",
+    "scope": "Informaciones de oficio y parte: Pedro de Aranda Cidrón. Dos ejemplares de traslados de 1604 y 1607, de una información iniciada en 1603 y sigue en 1604. Copia de 1607 de un parecer que se dió en 1604",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": "1607.",
+    "ref": "MEXICO,224,N.29"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5499",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12752173",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y la Audiencia de México para que informen sobre la petición de los mineros de Nueva España de no ser ejecutadas sus deudas en las minas sino en el oro y plata que de ellas se saque",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1602-11-26.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.262R-262V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

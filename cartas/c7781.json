@@ -1,0 +1,28 @@
+{
+  "id": "c7781",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351874",
+    "docs": 1,
+    "title": "Informaciones: Francisco de Ovando",
+    "scope": "Informaciones de oficio y parte: Francisco de Ovando, capitán de infantería de la Nueva Segovia, y vecino de Santiago de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1616.",
+    "upd": null,
+    "ref": "GUATEMALA,121,N.7"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

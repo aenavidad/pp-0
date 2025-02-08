@@ -1,0 +1,28 @@
+{
+  "id": "c5498",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12752632",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México para que vean las ordenanzas nuevas de minas del cuaderno que se promulgaron en 1592 y se practiquen las que resulten convenientes.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1602-11-26.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.264R-265R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

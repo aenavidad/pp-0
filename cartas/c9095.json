@@ -1,0 +1,28 @@
+{
+  "id": "c9095",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3535286",
+    "docs": 1,
+    "title": "Inventario de bienes: Albistur, Juan de",
+    "scope": "Autos del inventario de bienes de Juan de Albistur, vecino de México, receptor de alcabalas. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". Folios 31-32",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,259,N.12"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

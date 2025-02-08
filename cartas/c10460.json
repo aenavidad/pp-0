@@ -1,0 +1,28 @@
+{
+  "id": "c10460",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362890",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a S.M., piedras del paraje de la Peñuela, jurisdicción de la villa de Córdoba, para la obra de San Juan de Ulúa. 10 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1681-02-28.",
+    "upd": null,
+    "ref": "MEXICO,52,N.14"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7236",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782801",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de alférez mayor de la villa de Nexapa [sic por Nejapa] a favor de Gaspar Ravelo.",
+    "scope": "Se remató en 500 pesos de oro.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1613-03-06.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.151V-153R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

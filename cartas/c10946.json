@@ -1,0 +1,28 @@
+{
+  "id": "c10946",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363084",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE LA MONCLOVA",
+    "scope": "El Virrey a S.M., reparto en los parajes más convenientes de su gobernación, los trece reformados enviados por S.M. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1688-02-20.",
+    "upd": null,
+    "ref": "MEXICO,57,R.2,N.29"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

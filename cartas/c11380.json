@@ -1,0 +1,28 @@
+{
+  "id": "c11380",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349399",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Ciudad Real de Chiapa, informando del nombramiento hecho por D. Manuel de Maisterra, alcalde mayor de dicha ciudad, de un vecino como teniente de alcalde mayor, en lugar de hacerlo de entre los alcaldes ordinarios como era costumbre, y el litigio que por ello se sigue en la Audiencia de Guatemala",
+    "desc": null,
+    "locn": null,
+    "lbd": "1693-06-03.",
+    "upd": null,
+    "ref": "GUATEMALA,44B,N.36"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

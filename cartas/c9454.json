@@ -1,0 +1,28 @@
+{
+  "id": "c9454",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361523",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., Inquisición. Tribunal de cuentas. Excesos del General Sousa. Pasajeros sin licencia en flota. Muerte del fiscal Arteaga. Breve de los franciscanos. Plata enviada en flota. Inquisición. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1622-07-30.",
+    "upd": null,
+    "ref": "MEXICO,29,N.90"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

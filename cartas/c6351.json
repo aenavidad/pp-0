@@ -1,0 +1,28 @@
+{
+  "id": "c6351",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361313",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., advertimientos generales. Religiones y religiosos. Visita de la tierra. Oidores y alcaldes del crimen. Visitas de oficiales y cajas reales. Gratificación a beneméritos. Gobernación de los indios. Concierto entre ambas repúblicas. Población y aprovechamiento de baldíos. Hay duplicado. 7 fs",
+    "desc": null,
+    "locn": "Acapulco",
+    "lbd": "1607-08-02.",
+    "upd": null,
+    "ref": "MEXICO,27,N.19"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

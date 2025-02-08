@@ -1,0 +1,28 @@
+{
+  "id": "c9768",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3577751",
+    "docs": 1,
+    "title": "Inventario de bienes: Castillo y Mendoza, Andrés del",
+    "scope": "Autos de inventario de bienes de Andrés del Castillo y Mendoza, vecino de la ciudad de México, corregidor de Tilantongo, sirvió de soldado y de alférez en el reino de Nápoles, sirvió también en el Levante y en la costa de África. \nActuados ante Felipe de Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". folios 120-122",
+    "locn": null,
+    "lbd": "1622-09-07",
+    "upd": null,
+    "ref": "MEXICO,261,N.46"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

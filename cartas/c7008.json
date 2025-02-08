@@ -1,0 +1,28 @@
+{
+  "id": "c7008",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781436",
+    "docs": 1,
+    "title": "Real cédula confirmando el aumento de sueldo, por vía de ayuda de costa, para Antonio Martín, carpintero mayor de las obras del presidio de San Agustín de la Florida, y Cristóbal González, herrero.",
+    "scope": "Hasta llegar a 500 y 450 ducados anuales, respectivamente.",
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1611-09-03.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.33V-35R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

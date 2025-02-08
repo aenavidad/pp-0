@@ -1,0 +1,28 @@
+{
+  "id": "c9507",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3534399",
+    "docs": 1,
+    "title": "Inventario de bienes: Alfaro, Francisco de",
+    "scope": "Autos del inventario de bienes de Francisco de Alfaro, procurador del número de la ciudad y provincia de Tlaxcala. \nActuados ante el licenciado Alonso de Córdoba y Bocanegra, teniente de corregidor de dicha provincia.",
+    "desc": ". Folios 23-24",
+    "locn": null,
+    "lbd": "1622-08-03",
+    "upd": null,
+    "ref": "MEXICO,259,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

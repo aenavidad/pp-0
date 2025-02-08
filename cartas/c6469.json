@@ -1,0 +1,28 @@
+{
+  "id": "c6469",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20873",
+    "docs": 1,
+    "title": "'Descripción de la comarca de Mexico i obra del desagve de la Lagvna.'",
+    "scope": "Mención de autoridad y fima en el borde inferior derecho: 'Enrico Martinez'. \nIndicación de los puntos cardinales en los márgenes con el norte al este. \nMuestra la cuenca lacustre del valle de México y los cursos de agua que la irrigaban, representados desde su nacimiento en las cordilleras que rodean el valle. En el centro las lagunas de México y Chalco, a la izquierda la de Zumpango. \nSe indica parte del proyecto de desagüe de la laguna de México por medio de la canalización del río San Cristóbal hasta el lago Zumpango y desde éste hasta Huehuetoca. \nTabla explicativa con clave alfabética de las letras que figuran en el mapa relativas a las obras del desagüe, en el ángulo inferior izquierdo. \nIndica calzadas. Ciudades por medio de signos convencionales con campanario y cruz. Destacan por su mayor tamaño México, dentro de la laguna, y Nuestra Señora de los Remedios [posiblemente Cholula]. \nAl dorso, en horizontal: 'Discrepsión de la comarca de Mex[i]co y obra del desagüe de la Laguna'. \nLa destrucción y degradación del sistema de canalización prehispánico hizo necesario acometer obras para el desagüe de la laguna. Tanto ésta como sus desaguaderos se fueron progresivamente colmatando a medida que se ampliaba el terreno de uso agrícola. El sistema de drenaje resultaba insuficiente provocando inundaciones periódicas. \nNúmero de registro: 407",
+    "desc": ". 1 hoja",
+    "locn": null,
+    "lbd": "1608-06-20",
+    "upd": null,
+    "ref": "MP-MEXICO,54"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

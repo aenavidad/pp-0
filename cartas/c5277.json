@@ -1,0 +1,28 @@
+{
+  "id": "c5277",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12723718",
+    "docs": 1,
+    "title": "Real cédula al doctor Luis López de Azoca para que pueda llevar a Nueva España hasta 1000 ducados en joyas de oro y plata labrada.",
+    "scope": "Nota de despacho",
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1601-03-16.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.195V(4)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

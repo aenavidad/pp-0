@@ -1,0 +1,28 @@
+{
+  "id": "c12003",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349781",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Miguel de la Vega Valbuena, tesorero y José Fernández de Córdoba, contador y testimonio de autos, sobre las relaciones con Juan de Ortega Montañés, obispo de Guatemala y Verapaz.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-07-15.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.31"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

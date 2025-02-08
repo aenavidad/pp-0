@@ -1,0 +1,28 @@
+{
+  "id": "c5558",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361147",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., envío de hacienda. Reparo de casas reales. Acuerdo de hacienda. Sucesión de encomiendas. Salario señalado en tributos. Encabezamiento de alcabala. Rezagos de Zacatecas. 8 fs. Anejos: \n1.- Testimonio de los recaudos tocantes al encabezamiento de la alcabala que se tomó con la villa de Carrión. Villa de Carrión, 5-II-1602. 18 fs. 2.- Testimonio sobre el encabezamiento de la alcabala hecho por la Villa de Carrión ante el Virrey. México, 15-X-1602. 2 fs. 3.- El Virrey a S.M., apuntamiento de materias de hacienda. 20-III-1603. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1603-03-20.",
+    "upd": null,
+    "ref": "MEXICO,25,N.27"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

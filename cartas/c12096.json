@@ -1,0 +1,28 @@
+{
+  "id": "c12096",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351918",
+    "docs": 3,
+    "title": "Informaciones: Juana de Benavides",
+    "scope": "Informaciones de oficio y parte: Juan de Benavides. Con documentación anexa de 1630 y 1635",
+    "desc": null,
+    "locn": null,
+    "lbd": "1624.",
+    "upd": "1629.",
+    "ref": "GUATEMALA,123,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

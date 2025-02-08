@@ -1,0 +1,28 @@
+{
+  "id": "c12106",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368971",
+    "docs": 3,
+    "title": "Informaciones: Juan de Alcocer",
+    "scope": "Informaciones de oficio y parte: Juan de Alcocer, contador de la Inquisición y prior del Consulado de Mercaderes, vecino de México. Con información de oficio y parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1629.",
+    "upd": null,
+    "ref": "MEXICO,237,N.13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

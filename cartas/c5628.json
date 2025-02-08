@@ -1,0 +1,28 @@
+{
+  "id": "c5628",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12761183",
+    "docs": 1,
+    "title": "Relación de reales disposiciones para Juan de Mendoza y Luna, marqués de Montesclaros que va por virrey de Nueva España.",
+    "scope": "Esta relación hace referencia a las real provisiones y cédulas contenidas en folios 291 a 302.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603-05-26",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.304V-305R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

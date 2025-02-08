@@ -1,0 +1,28 @@
+{
+  "id": "c10809",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/21585",
+    "docs": 1,
+    "title": "Esquema del beneficio eclesiástico de Valladolid de Yucatán y sus anejos.",
+    "scope": "Presenta un diseño esquemático del beneficio eclesiástico de Valladolid, en Yucatán, sus anejos y distancias. Límites más alejados: los pueblos de Ebtún y Motul. ",
+    "desc": null,
+    "locn": null,
+    "lbd": "1686-01-30.",
+    "upd": null,
+    "ref": "MP-MEXICO,617"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12223",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368842",
+    "docs": 22,
+    "title": "Informaciones: Pedro de Arismendi Palomino",
+    "scope": "Informaciones de oficio y parte: Pedro de Arismendi Palomino. Con documentación acreditativa de sus méritos de 1617-1625. Con pareceres de la Audiencia de México y del obispo de Michoacán. Con petición",
+    "desc": null,
+    "locn": null,
+    "lbd": "1615.",
+    "upd": "1616.",
+    "ref": "MEXICO,232,N.15"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

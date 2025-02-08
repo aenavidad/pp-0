@@ -1,0 +1,28 @@
+{
+  "id": "c8005",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12780935",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México para que averigüe los bienes que quedaron de Juan de Silva, que fue gobernador fe Filipinas, difunto en dichas islas, a petición de Vasco de Silva y Mendoza y los envíen a la Casa de la Contratación.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-02-26.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.10V-11R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

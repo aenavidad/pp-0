@@ -1,0 +1,28 @@
+{
+  "id": "c11117",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20907",
+    "docs": 1,
+    "title": "Diseño de la cúpula de remate de las torres de la Iglesia Catedral de Guadalajara, en Nueva Galicia.",
+    "scope": "Dibujo de la cúpula proyectada como remate de las torres de la Catedral de Guadalajara. \n  \nSe representa el primer cuerpo del campanario bajo el que se adivina una torre de base cuadrangular que lo sostiene. Formado por dos arcos de medio punto en cada frente y flanqueados por pilastras cuadradas. Los rodea una cornisa con capiteles toscanos rematados por pináculos. La cubierta es una bóveda semiesférica coronada por la escultura de San Miguel Arcángel. \n  \nMención de autoridad en la documentación asociada: 'Juan Agustín, maestro mayor de la obra que se ha hecho y actualmente se está haciendo en esta Santa Iglesia Catedral'. \n  \nNúmero de registro: 435. ",
+    "desc": null,
+    "locn": "Guadalajara",
+    "lbd": "1689-06-25.",
+    "upd": null,
+    "ref": "MP-MEXICO,82B"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

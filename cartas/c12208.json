@@ -1,0 +1,28 @@
+{
+  "id": "c12208",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368757",
+    "docs": 8,
+    "title": "Informaciones: Juan de la Cueva Guevara",
+    "scope": "Informaciones de oficio y parte: Juan de la Cueva Guevara, vecino de México. Cuatro informaciones, dos de 1609, una de 1609-1610, una de 1610. Tres memoriales de Juan de la Cueva Guevara y un resúmen del expediente",
+    "desc": null,
+    "locn": null,
+    "lbd": "1609.",
+    "upd": null,
+    "ref": "MEXICO,229,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

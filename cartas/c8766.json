@@ -1,0 +1,28 @@
+{
+  "id": "c8766",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3599807",
+    "docs": 1,
+    "title": "Inventario de bienes: Morán, Manuel",
+    "scope": "Autos de inventario de bienes de Manuel Morán, vecino de la ciudad de México, descendiente de conquistadores, corregidor del pueblo y partido de Atitalaquia.",
+    "desc": ". Folios 331-332",
+    "locn": null,
+    "lbd": "1622-07-09",
+    "upd": null,
+    "ref": "MEXICO,260,N.127"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

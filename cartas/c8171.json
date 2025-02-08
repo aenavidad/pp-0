@@ -1,0 +1,28 @@
+{
+  "id": "c8171",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351877",
+    "docs": 1,
+    "title": "Informaciones: Juan Fernández de Luna",
+    "scope": "Informaciones de oficio y parte: Juan Fernández de Luna, contador de Nicaragua.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1618.",
+    "upd": null,
+    "ref": "GUATEMALA,121,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

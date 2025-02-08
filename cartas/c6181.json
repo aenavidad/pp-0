@@ -1,0 +1,28 @@
+{
+  "id": "c6181",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347011",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Bartolomé de la Canal de la Madrid, fiscal de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1606-11-11.",
+    "upd": null,
+    "ref": "GUATEMALA,12,R.3,N.38"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

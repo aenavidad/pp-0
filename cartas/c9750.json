@@ -1,0 +1,28 @@
+{
+  "id": "c9750",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3560466",
+    "docs": 1,
+    "title": "Inventario de bienes: Carrillo y Alarcón, Luís",
+    "scope": "Inventario de bienes de Luís Carrillo y Alarcón, vecino de la ciudad de Tehuacan, contador y alcalde mayor de Tehuacan, juez administrador general de las salinas de Tehuacan y de Cuzcatlan y Teotlitan y de la cobranza de los reales tributos, alcabalas y matanzas.",
+    "desc": ". folios 104-108",
+    "locn": null,
+    "lbd": "1622-08-23",
+    "upd": null,
+    "ref": "MEXICO,261,N.41"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

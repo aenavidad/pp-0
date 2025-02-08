@@ -1,0 +1,28 @@
+{
+  "id": "c10158",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349137",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, solicitando protección para las naves que salen cargadas del Puerto de Trujillo, ante el peligro de corsarios.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625-05-22.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.25"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

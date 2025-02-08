@@ -1,0 +1,28 @@
+{
+  "id": "c8516",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366354",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO DE TOLEDO",
+    "scope": "Expediente de Confirmación del oficio de tallador de la Casa de la Moneda de México a Pedro de Toledo. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-10-23.",
+    "upd": null,
+    "ref": "MEXICO,182,N.23"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

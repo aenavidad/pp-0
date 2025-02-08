@@ -1,0 +1,28 @@
+{
+  "id": "c10711",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362990",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a Don Francisco de Salazar, prorrogación del gobierno. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1684-08-15.",
+    "upd": null,
+    "ref": "MEXICO,54,R.2,N.42"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

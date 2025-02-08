@@ -1,0 +1,28 @@
+{
+  "id": "c8123",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782522",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de escribano público y del número de la ciudad de Nuestra Señora de los Zacatecas para Francisco Tello de Oria, por renuncia de Hernando de Arguelles",
+    "scope": "El oficio se remató en Arguelles en 12.000 pesos, de los cuales Tello ingresó 6.000, mitad del valor del oficio por la renuncia.",
+    "desc": null,
+    "locn": "Guadalupe",
+    "lbd": "1618-10-20.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.105V-107V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

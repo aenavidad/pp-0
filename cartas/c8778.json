@@ -1,0 +1,28 @@
+{
+  "id": "c8778",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3595654",
+    "docs": 1,
+    "title": "Inventario de bienes: Cuéllar, Melchor de",
+    "scope": "Autos de inventario de bienes de Melchor de Cuellar, vecino de la ciudad de México, regidor de la ciudad de la Puebla de los Ángeles, fundidor mayor y ensayador mayor de la casa de la moneda de México. \nActuados ante Jerónimo de Cervantes y Carvajal alcalde ordinario de la ciudad de México.",
+    "desc": ". folios 157-159",
+    "locn": null,
+    "lbd": "1622-07-13",
+    "upd": null,
+    "ref": "MEXICO,261,N.59"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

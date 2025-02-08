@@ -1,0 +1,28 @@
+{
+  "id": "c10086",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349388",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Ciudad Real de Chiapa, recomendando al licenciado Pedro de Castañeda, clérigo, para la concesión de alguna merced.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1624-07-02.",
+    "upd": null,
+    "ref": "GUATEMALA,44B,N.25"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10201",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366443",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DOMINGO DE URQUIZA",
+    "scope": "Expediente de Confirmación del oficio de escribano público y de registros de Queretaro y San Juan del Río a Domingo de Urquiza. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1626-01-29.",
+    "upd": null,
+    "ref": "MEXICO,182,N.112"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

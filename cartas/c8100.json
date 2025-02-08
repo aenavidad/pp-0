@@ -1,0 +1,28 @@
+{
+  "id": "c8100",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782253",
+    "docs": 1,
+    "title": "Real cédula a [Diego Fernández de Córdoba] marqués de Guadalcázar, virrey de Nueva España, para que informe, en secreto y también junto con la Audiencia, sobre lo que pide el Colegio de San Pedro y San Pablo de la ciudad de México, de la Compañía de Jesús, en razón de que el arzobispado y los obispados sufragáneos sustenten cada uno por los menos a dos colegiales.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-10-10.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.97R-97V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

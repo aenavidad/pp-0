@@ -1,0 +1,28 @@
+{
+  "id": "c6417",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361371",
+    "docs": 1,
+    "title": "Carta de Fernando de Oñate",
+    "scope": "Traslado de una carta de Fernando de Oñate, vecino de México, al virrey, sobre la remoción que hizo la Audiencia de Guadalajara en el oficio de ensayador que tenía Francisco de Frías. Zacatecas. Copia hecha en México en 23 de febrero de 1608. 2 fs",
+    "desc": null,
+    "locn": "Zacatecas",
+    "lbd": "1608-02-23.",
+    "upd": null,
+    "ref": "MEXICO,27,N.77"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

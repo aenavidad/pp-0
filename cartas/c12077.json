@@ -1,0 +1,28 @@
+{
+  "id": "c12077",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349127",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial y testimonios del cabildo secular de Santiago de Guatemala, solicitando la confirmación del voto hecho en favor de la Limpia y Pura Concepción.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619-05-24.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.15"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

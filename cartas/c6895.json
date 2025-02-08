@@ -1,0 +1,28 @@
+{
+  "id": "c6895",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368773",
+    "docs": 1,
+    "title": "Informaciones: Martín de Ibarra",
+    "scope": "Informaciones de oficio y parte: Martín de Ibarra, tesorero de la Real Hacienda de Nueva Vizcaya.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1610.",
+    "upd": null,
+    "ref": "MEXICO,229,N.25"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12044",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349557",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Melchor Ochoa de Villanueva, tesorero, y Pedro del Castillo Becerra, contador, informando del embargo de los bienes de Juan Rodríguez Coutiño, Gonzalo Vaz Coutiño y Juan Núñez Correa. Con testimonio de autos",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608-06-09.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.101"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

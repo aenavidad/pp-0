@@ -1,0 +1,28 @@
+{
+  "id": "c10500",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362904",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a S.M., estado de las dependencias de Don Fernando de Solís y Don Diego Largache, de la ciudad de Veracruz. 3 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1681-07-12.",
+    "upd": null,
+    "ref": "MEXICO,52,N.28"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

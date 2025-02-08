@@ -1,0 +1,28 @@
+{
+  "id": "c5831",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361222",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "EL Virrey a S.M., estado del reino. Servicios personales. Congregaciones de indios. Ordenanzas de la ciudad. Recatonería de la carne. Comedias del Hospitañ. Obrajes: Gratificación a procurador de mineros. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1604-10-20.",
+    "upd": null,
+    "ref": "MEXICO,26,N.34"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

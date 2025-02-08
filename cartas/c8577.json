@@ -1,0 +1,28 @@
+{
+  "id": "c8577",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349596",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Pedro del Castillo Becerra, contador y Ambrosio Espinosa de Porres, tesorero, informando del envio de caudales.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1621-04-16.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.14"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

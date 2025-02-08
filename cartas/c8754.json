@@ -1,0 +1,28 @@
+{
+  "id": "c8754",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361518",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., residencia de Yucatán. 2 fs. Anejos: \n1.- Testimonio de las provisiones que se despacharon por el Virrey sobre la comisión que se dio al Dr. Diego de Porras Villerías para tomar la residencia de Yucatán (Campeche). México, 10-I-1622. 8 fs. 2.- Traslado de la del Dr. Diego de Porras Villerías, juez de residencia de Yucatán, al Virrey, sobre la residencia que le ha hecho el gobernador de dicha provincia. Mérida, 22-V-1622. 4 fs. 3.- Testimonio del requerimiento que el Dr Diego de Porras Villerías, juez de residencia de Yucatán, al gobernador de Yucatán, con lo respondido por éste sobre ausentarse los residenciados sin dar residencia ni fianza. Mérida, 4-IV-1622. 6 fs. 4.- Testimonio de las contradicciones hechas por Don Diego de Cárdenas, gobernador de Yucatán, y su teniente, al cumplimiento de las reales provisiones para tomar la residencia en aquella provincia, hechas por el juez de ella el Dr. Diego de Porras Villerías. Mérida, 9-V-1622. 18 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1622-06-15.",
+    "upd": null,
+    "ref": "MEXICO,29,N.85"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

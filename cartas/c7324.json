@@ -1,0 +1,28 @@
+{
+  "id": "c7324",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349429",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo de San Miguel, Informando de la visita que hizo Pedro Sánchez de Araque, oidor de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": "San Miguel",
+    "lbd": "1613.",
+    "upd": null,
+    "ref": "GUATEMALA,44B,N.66"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

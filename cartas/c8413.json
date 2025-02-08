@@ -1,0 +1,28 @@
+{
+  "id": "c8413",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12784042",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de escribano de minas y registros de la villa y puerto de San Francisco de Campeche en la provincia de Yucatána favor de Cristóbal Ruiz, por renuncia que en él hizo Bernardino de Valencia.",
+    "scope": "El Cristóbal Ruiz ha seguido pleito por este oficio en la Audiencia de México con Luis Pérez Payán.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-03-09.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.249V-250V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

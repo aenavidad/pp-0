@@ -1,0 +1,28 @@
+{
+  "id": "c7016",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350291",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: MARCOS DE BERRIAZA",
+    "scope": "Expediente de Confirmación del oficio de escribano de cabildo de Chiapas, en Guatemala a Marcos de Berriaza. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1611-09-20.",
+    "upd": null,
+    "ref": "GUATEMALA,80,N.32"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

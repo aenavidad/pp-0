@@ -1,0 +1,28 @@
+{
+  "id": "c9946",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4005379",
+    "docs": 1,
+    "title": "Inventario de bienes: Polanco, Gregorio de",
+    "scope": "Autos del inventario de bienes de Gregorio de Polanco, vecino de la ciudad de Santiago de Guatemala, corregidor del partido de Chiquimula de la Sierra y encomendero del pueblo de Ziquinala.",
+    "desc": ". Folios 487-489",
+    "locn": null,
+    "lbd": "1623-05-18",
+    "upd": null,
+    "ref": "MEXICO,263,N.155"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

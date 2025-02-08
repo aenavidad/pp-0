@@ -1,0 +1,28 @@
+{
+  "id": "c5373",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20869",
+    "docs": 1,
+    "title": "'Pintura que por mandado de d[on] Francisco Balverde de Mercado factor de S.M. hizo Mi[guel] yndio natural de las provincias del Nuevo México [del] modo de las poblaciones de las dichas provincias [con] la declaración en ellas como el lo dixo y dió á entender por señas, y el nombre de los pueblos pronun]ciá]dolos como están escriptos. Don Fran[cis]co Balverde de M[er]cado. Hernando Estevan, escribano real. / Va çierto e verdadero este traslado / Hernando Esteva, escribano real'.",
+    "scope": "Representación esquemática de los asentamientos indígenas al norte de San Gabriel, en Nuevo México, hasta las Grandes Praderas. Las poblaciones se representan en círculos. Los caminos se indican por medio de líneas rectas. Los ríos por medio de líneas onduladas. \nNota explicativa y mención de autoridad en el centro del mapa, que indica que fue dibujado por Miguel, indio, con toponimia y notas por Hernando Esteban, escribano real. \nCorresponde a los asentamientos de los indios aguacane o escanjaque y de los wichita o rayados, territorio explorado por Juan de Oñate en la expedición a Quivira en 1601. \nNúmero de registro:403",
+    "desc": null,
+    "locn": null,
+    "lbd": "1602",
+    "upd": null,
+    "ref": "MP-MEXICO,50"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

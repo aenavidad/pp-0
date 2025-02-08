@@ -1,0 +1,28 @@
+{
+  "id": "c7010",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781464",
+    "docs": 1,
+    "title": "Real cédula a [fray García Guerra], virrey de Nueva España, y a la Audiencia de México para que informen sobre el trato que los indios de Oculma denuncian por parte de los alguaciles españoles y mestizos, enviados allí por los corregidores y alcaldes mayores de Tesuco, y los desagravien.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1611-09-03.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.37R-38V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

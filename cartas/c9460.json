@@ -1,0 +1,28 @@
+{
+  "id": "c9460",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3658940",
+    "docs": 1,
+    "title": "Inventario de bienes: Zamudio, Alonso",
+    "scope": "Autos de inventario de bienes de Alonso Zamudio, teniente de corregidor de la ciudad de Xochimilco y su jurisdicción.",
+    "desc": ". Folios 569-571",
+    "locn": null,
+    "lbd": "1622-08-01",
+    "upd": null,
+    "ref": "MEXICO,260,N.217"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

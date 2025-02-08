@@ -1,0 +1,28 @@
+{
+  "id": "c8201",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782962",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México, para que cumplan la cédula inserta de a 17 de junio de 1617, referente a la división de aguas del río que va de Tacuba al pueblo de Escapusalco [sic por Azcapotzalco] y realice tal división con brevedad.",
+    "scope": "Se expide esta cédula a petición del mismo interesado Luis de Villanueva Zapata, por el retraso en su cumplimiento so pretexto de otro pleito sobre las mismas aguas pendiente ante el corregidor.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-02-19.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.145V-146V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

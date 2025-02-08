@@ -1,0 +1,28 @@
+{
+  "id": "c12035",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368580",
+    "docs": 3,
+    "title": "Informaciones: Convento de la Merced de México",
+    "scope": "Informaciones de oficio y parte: Convento de la Merced de México. Traslado de 1604 de una información de 1599. Parecer de la Audiencia de 1603",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": null,
+    "ref": "MEXICO,223,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

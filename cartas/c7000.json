@@ -1,0 +1,28 @@
+{
+  "id": "c7000",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781370",
+    "docs": 1,
+    "title": "Real cédula a los oficiales de la Real Hacienda de Veracruz para que informen de la conveniencia de trasladar a la banda de tierra firme a Gerónimo Farfan, maestro mayor de cantería de San Juan de Ulúa, para supervisar las obras del muelle del puerto.",
+    "scope": "Con un salario anual de 200 pesos de oro. Nota de despacho.",
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1611-08-13.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.30R(2)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

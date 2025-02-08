@@ -1,0 +1,28 @@
+{
+  "id": "c6463",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361341",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., llegada del Gobernador de Filipinas Don Juan de Silva. Demora en su viaje a las islas. Hay duplicado. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1608-06-15.",
+    "upd": null,
+    "ref": "MEXICO,27,N.47"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

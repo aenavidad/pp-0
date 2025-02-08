@@ -1,0 +1,28 @@
+{
+  "id": "c9093",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3533646",
+    "docs": 1,
+    "title": "Inventario de bienes: Aguilar, Juan de",
+    "scope": "Autos del inventario de bienes de Juan de Aguilar, vecino de la ciudad de México, escribano real y guarda para el despacho de los navíos de Filipinas en el puerto de Acapulco. \nActuados ante Felipe de Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". Folios 11-12",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,259,N.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

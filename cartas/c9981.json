@@ -1,0 +1,28 @@
+{
+  "id": "c9981",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4047763",
+    "docs": 1,
+    "title": "Inventario de bienes: Rodríguez de Quiroga, Juan",
+    "scope": "Autos del inventario de bienes de Juan Rodríguez de Quiroga, vecino y residente de la ciudad de Santiago de Guatemala, receptor de la Real Audiencia de Guatemala y comisionado de varios asuntos en las Islas Canarias.",
+    "desc": ". Folios 525-526",
+    "locn": null,
+    "lbd": "1623-05-19",
+    "upd": null,
+    "ref": "MEXICO,263,N.169"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

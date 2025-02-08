@@ -1,0 +1,28 @@
+{
+  "id": "c12131",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368476",
+    "docs": 4,
+    "title": "Informaciones: Juan Fernández",
+    "scope": "Informaciones de oficio y parte: Juan Fernández, racionero de la catedral de México y maestro de capilla de la catedral de México. Información contenida de 1591. Con parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1609.",
+    "upd": "1614.",
+    "ref": "MEXICO,220,N.8"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

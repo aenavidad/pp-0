@@ -1,0 +1,28 @@
+{
+  "id": "c10578",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362934",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a S.M., remate de las salinas de Santa María y Peñol Blanco, en el General Pedro de la Campa. 428 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1682-12-25.",
+    "upd": null,
+    "ref": "MEXICO,53,R.2,N.17"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

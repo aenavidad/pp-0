@@ -1,0 +1,28 @@
+{
+  "id": "c6170",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361285",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., contratación con Filipinas y Perú. Paz de los chichimecas. Corsario inglés. Artillería que llevó el Conde de Monterrey. Azogue de China. Limitación de navegación con Perú. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-10-28.",
+    "upd": null,
+    "ref": "MEXICO,26,N.97"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

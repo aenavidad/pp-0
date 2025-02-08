@@ -1,0 +1,28 @@
+{
+  "id": "c12193",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349771",
+    "docs": 6,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente sobre el cobro de la ayuda de costa de Jacinto Jaime Moreno, del tiempo que fue fiscal interino de la Audiencia. Acompaña expediente anterior de 16 de enero 1679 a 28 de febrero de 1680",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-07-14.",
+    "upd": "1684-06-10.",
+    "ref": "GUATEMALA,48,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

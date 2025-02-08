@@ -1,0 +1,28 @@
+{
+  "id": "c12156",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349626",
+    "docs": 4,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de memorial de Pedro del Castillo Becerra, contador, sobre la deuda y prisión de Baltasar Pinto de Amberes y actuación en dicha causa del licenciado Juan de Ibarra, visitador en la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1627-05-31.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.44"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

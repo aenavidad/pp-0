@@ -1,0 +1,28 @@
+{
+  "id": "c6189",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12786331",
+    "docs": 1,
+    "title": "Real cédula a [Pedro de Valdés], gobernador de Cuba, ordenando permita salir de sus puertos los bastimentos y víveres, con la aprobación del gobernador y oficiales reales de la Florida, asegurándose que su destino final sea el presidio de allí.",
+    "scope": null,
+    "desc": null,
+    "locn": "El Pardo",
+    "lbd": "1606-12-02.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.188V-189R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

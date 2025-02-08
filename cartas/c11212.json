@@ -1,0 +1,28 @@
+{
+  "id": "c11212",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363171",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., determinación sobre el informe del Arzobispo de Manila acerca de la libertad de los indios. Aproximadamente 500 fs. de testimonio. 537 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1690-06-10.",
+    "upd": null,
+    "ref": "MEXICO,59,R.3,N.24"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

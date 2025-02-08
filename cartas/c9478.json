@@ -1,0 +1,28 @@
+{
+  "id": "c9478",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3642632",
+    "docs": 1,
+    "title": "Inventario de bienes: Pérez de Varaiz, Melchor",
+    "scope": "Autos del inventario de bienes de Melchor Pérez de Varaiz, caballero de la Orden de Santiago y alcalde mayor del partido de Istlahuaca, en Nueva España. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". Folios 592-594",
+    "locn": null,
+    "lbd": "1622-08-01",
+    "upd": null,
+    "ref": "MEXICO,259,N.207"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

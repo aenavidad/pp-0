@@ -1,0 +1,28 @@
+{
+  "id": "c11931",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349583",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Pedro del Castillo Becerra, contador, y Alvaro de Fuentes y de la Cerda, tesorero, informando del estado de la hacienda real, y solicitando alguna renta para el convento de monjas de la Concepción de dicha ciudad.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619-10-10.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.1"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5340",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12728153",
+    "docs": 1,
+    "title": "Real cédula para que Pedro de Rojas [Marocho] que está en Nueva España beneficiando unas minas, no sea molestado por ser casado por no haber llegado a tiempo de embarcar su mujer Isabel de Salazar, vecina de Jerez de la Frontera.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1601-07-29.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.211R-211V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

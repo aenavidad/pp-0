@@ -1,0 +1,28 @@
+{
+  "id": "c10464",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348917",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre el estado en que se encuentra la provincia tras la entrada del enemigo y lo llevado a cabo con los obrajes y nombramiento del castellano.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1681-03-10.",
+    "upd": "1682-05-07.",
+    "ref": "GUATEMALA,40,R.21,N.71"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

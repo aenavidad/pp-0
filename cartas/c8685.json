@@ -1,0 +1,28 @@
+{
+  "id": "c8685",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361503",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., hurto en las casas reales y monasterio de México. 2 fs. Anejo:\n1.- Testimonio del pleito sobre el robo de las cajas reales, Tacubaya, 11-XI-1621. 4 fs",
+    "desc": null,
+    "locn": "Tacubaya",
+    "lbd": "1621-11-14.",
+    "upd": null,
+    "ref": "MEXICO,29,N.70"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

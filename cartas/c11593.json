@@ -1,0 +1,28 @@
+{
+  "id": "c11593",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363320",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY JUAN DE ORTEGA Y MONTAÑES",
+    "scope": "El Virrey a S.M., remite el informe de gobierno que le hizo a su sucesor. 8 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1697-03-07.",
+    "upd": null,
+    "ref": "MEXICO,64,R.3,N.24"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

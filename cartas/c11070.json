@@ -1,0 +1,28 @@
+{
+  "id": "c11070",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363123",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., proposición de sujetos para las canonjías lectoral y magistral de la iglesia de Michoacán. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1689-03-12.",
+    "upd": null,
+    "ref": "MEXICO,58,R.1,N.28"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

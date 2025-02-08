@@ -1,0 +1,28 @@
+{
+  "id": "c6574",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368743",
+    "docs": 1,
+    "title": "Informaciones: Juan Romero de la Puerta",
+    "scope": "Informaciones de oficio y parte: Juan Romero de la Puerta, alguacil, portero y ejecutor del Tribunal de Cuentas de Nueva España.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608.",
+    "upd": null,
+    "ref": "MEXICO,228,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

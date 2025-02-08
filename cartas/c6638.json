@@ -1,0 +1,28 @@
+{
+  "id": "c6638",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782687",
+    "docs": 1,
+    "title": "Real cédula ordenando a los gobernadores de los puertos de Indias, que tomen las medidas necesarias para suministrar a la flota de Nueva España los bastimentos que necesite, a precios moderados.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1609-04-14.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.148V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

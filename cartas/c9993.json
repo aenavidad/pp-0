@@ -1,0 +1,28 @@
+{
+  "id": "c9993",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4049463",
+    "docs": 1,
+    "title": "Inventario de bienes: Salmerón, Pedro",
+    "scope": "Autos del inventario de bienes del licenciado Pedro Salmerón, abogado de la Real Audiencia de México y de la Real Audiencia de Guatemala, relator, fiscal, abogado de pobres y tasador de la Audiencia de Guatemala, repartidor de indios, corregidor del partido de Izquintepeque, comisionado para tomar varias residencias.",
+    "desc": ". Folios 538-539",
+    "locn": null,
+    "lbd": "1623-05-19",
+    "upd": null,
+    "ref": "MEXICO,263,N.175"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

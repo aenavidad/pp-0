@@ -1,0 +1,28 @@
+{
+  "id": "c6178",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361288",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., aumento de oidores para Guatemala. Idem en las Audiencias de Nueva España. Consultores del Santo Oficio. Comisarios de Nueva Galicia. Población de las minas de Vizcaya. Número de extranjeros. Juzgado de los indios. Adminstración de avería. Ensayes. Escribano de Cámara de Guadalajara. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-11-06.",
+    "upd": null,
+    "ref": "MEXICO,26,N.100"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

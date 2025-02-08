@@ -1,0 +1,28 @@
+{
+  "id": "c11995",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349197",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, informando de los daños ocasionados por las invasiones de piratas en sus costas, y solicitando la dotación de una armada que les haga frente, certificando para ello como contribuyen en la dotación de la armada de Barlovento.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1680-04-05.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.85"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

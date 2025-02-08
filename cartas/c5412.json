@@ -1,0 +1,28 @@
+{
+  "id": "c5412",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12730609",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México para que provean lo que convengan sobre la petición de Francisco Martínez, vecino de la ciudad de los Ángeles, de que los alguaciles del campo, nombrados por el alguacil mayor, no traigan vara alta de justicia dentro de la ciudad de los Ángeles",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1602-04-28.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.245R-245V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

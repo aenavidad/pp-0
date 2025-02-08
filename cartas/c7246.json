@@ -1,0 +1,28 @@
+{
+  "id": "c7246",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347087",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Testimonio de autos de no haberse vendido nada, por orden del visitador Pedro Sánchez de Araque, para satisfacción de condenaciones en general ni particular.",
+    "desc": null,
+    "locn": "Santiago de Guatemala",
+    "lbd": "1613-04-01.",
+    "upd": null,
+    "ref": "GUATEMALA,13,R.5,N.48"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

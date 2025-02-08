@@ -1,0 +1,28 @@
+{
+  "id": "c5563",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361149",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., navegación de Filipinas. Descubrimiento de puertos del Mar del Sur por Vizcaíno. Corsarios. Bastimentos para La Habana. Conmutación del servicio de Don Francisco de Zúñiga. Texcuco. 4 fs. Anejos: \n1.- Gaspar Rodríguez, del Puerto de Caballos, al presidente de Guatemala, con aviso de haber entrado el inglés en aquel puerto. San Pedro, 18-II-1603. 2 fs. 2.- El Presidente de Guatemala al Virrey, con noticia del corsario que entró en el puerto de Caballos. 26-II-1603. 2 fs. 3.- El Virrey a S.M., capítulos en materia de guerra. Texcoco, 26-III-1602. 2 fs",
+    "desc": null,
+    "locn": "Tezcuco",
+    "lbd": "1603-03-26.",
+    "upd": null,
+    "ref": "MEXICO,25,N.29"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

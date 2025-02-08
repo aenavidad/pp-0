@@ -1,0 +1,28 @@
+{
+  "id": "c8484",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349594",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Baltasar Pinto de Amberes, contador, informando de la visita general hecha por el doctor Juan Galdós de Valencia, Juez Visitador de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-09-28.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.12"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

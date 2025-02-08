@@ -1,0 +1,28 @@
+{
+  "id": "c9164",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3616091",
+    "docs": 1,
+    "title": "Inventario de bienes: García del Castillo, Juan",
+    "scope": "Autos de inventario de bienes de Juan García del Castillo, vecino de México, presidente, regidor y procurador mayor en la ciudad de los Ángeles. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". folios 232-235",
+    "locn": null,
+    "lbd": "1622-07-19",
+    "upd": null,
+    "ref": "MEXICO,261,N.87"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

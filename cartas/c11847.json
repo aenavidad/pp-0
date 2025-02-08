@@ -1,0 +1,28 @@
+{
+  "id": "c11847",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351803",
+    "docs": 2,
+    "title": "Informaciones: Francisco de Peralta",
+    "scope": "Informaciones de oficio y parte: Francisco de Peralta, sacristán mayor y cura de la catedral de Santiago de Guatemala. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": null,
+    "ref": "GUATEMALA,117,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

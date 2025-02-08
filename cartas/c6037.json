@@ -1,0 +1,28 @@
+{
+  "id": "c6037",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364051",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de la Audiencia de México. (Duplicada de 1697-01-08)",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-01-10.",
+    "upd": null,
+    "ref": "MEXICO,72,R.11,N.153"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

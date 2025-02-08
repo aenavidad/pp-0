@@ -1,0 +1,28 @@
+{
+  "id": "c10766",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/367428",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN ANTONIO DE VERA",
+    "scope": "Expediente de Confirmación del oficio de balanzario de la casa de la Moneda de México a Juan Antonio de Vera. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1685-08-31.",
+    "upd": null,
+    "ref": "MEXICO,197,N.29"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

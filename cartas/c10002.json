@@ -1,0 +1,28 @@
+{
+  "id": "c10002",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4065177",
+    "docs": 1,
+    "title": "Inventario de bienes: Zapata de Cárdenas, Alonso",
+    "scope": "Autos del inventario de bienes del capitán Alonso Zapata de Cárdenas, vecino de la ciudad de Santiago de Guatemala, encomendero de Santiago, Cozumaluapa, Santo Domingo y Zinacamecayo, corregidor del pueblo de Chiapa de los Indios y tesorero de la ciudad de San Felipe de Portobelo.",
+    "desc": ". Folios 664-665",
+    "locn": null,
+    "lbd": "1623-05-20",
+    "upd": null,
+    "ref": "MEXICO,263,N.217"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

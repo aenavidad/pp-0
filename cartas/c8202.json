@@ -1,0 +1,28 @@
+{
+  "id": "c8202",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782974",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México, para que hagan justicia sumariamente en la causa que sigue Pedro de Valverde, vecino de la ciudad de México, con Gaspar Bello de Acuña por una deuda de 200 pesos de oro común y otra por 378 pesos.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-02-19.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.146V-147R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c8040",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781417",
+    "docs": 1,
+    "title": "Real cédula concediendo al sargento mayor de la gente de guerra de los presidios de San Cristóbal de la Habana, capitán Diego de Arroyo Argüello, el goce del aprovechamiento de las tablas de juegos.",
+    "scope": "Nota al margen: 'Pasose al libro de la Isla Española de partes'",
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1618-05-05.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.59V-60R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

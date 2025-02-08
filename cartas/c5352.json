@@ -1,0 +1,28 @@
+{
+  "id": "c5352",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361119",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga y Acevedo, conde de Monterrey.",
+    "scope": "El Contador de cuentas de México al Virrey, apuntamientos de cosas tocantes a la contaduría y real hacienda. 4 fs",
+    "desc": null,
+    "locn": null,
+    "lbd": "1601-10-13.",
+    "upd": null,
+    "ref": "MEXICO,24,N.69"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

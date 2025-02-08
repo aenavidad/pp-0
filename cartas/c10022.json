@@ -1,0 +1,28 @@
+{
+  "id": "c10022",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3749328",
+    "docs": 1,
+    "title": "Inventario de bienes: Fuente Arévalo, Diego de la",
+    "scope": "Autos del inventario de bienes de Diego de la Fuente Arévalo, vecino, depositario general, fiel ejecutor y alcalde ordinario de la ciudad de San Miguel y su jurisdicción. \nActuados ante Pedro de Aguilar Lasso de la Vega, caballero del hábito de Calatrava y alcalde mayor de San Salvador, San Miguel y sus provincias.",
+    "desc": ". Folios 262-264",
+    "locn": null,
+    "lbd": "1623-09-18",
+    "upd": null,
+    "ref": "MEXICO,263,N.80"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

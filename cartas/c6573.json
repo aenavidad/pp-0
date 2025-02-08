@@ -1,0 +1,28 @@
+{
+  "id": "c6573",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368741",
+    "docs": 1,
+    "title": "Informaciones: Juan Páez de la Magdalena",
+    "scope": "Informaciones de oficio y parte: Juan Páez de la Magdalena, ensayador de las minas de Tasco, vecino de Minas de Tasco.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608.",
+    "upd": null,
+    "ref": "MEXICO,228,N.19"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

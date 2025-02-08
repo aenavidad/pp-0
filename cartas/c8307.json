@@ -1,0 +1,28 @@
+{
+  "id": "c8307",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783486",
+    "docs": 1,
+    "title": "Real Cédula al virrey de Nueva España y Audiencia de México para que informen de la petición de la catedral de Yucatán, sobre que las personas a las que en adelante se conceda una encomienda en su distrito paguen de diezmo una de cada diez mantas.",
+    "scope": null,
+    "desc": null,
+    "locn": "Lisboa",
+    "lbd": "1619-07-28.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.185R-185V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

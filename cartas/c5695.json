@@ -1,0 +1,28 @@
+{
+  "id": "c5695",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361170",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., guardia de la flota. Gobernación de Nueva Vizcaya. Frontera de los Chichimecas. Otumba. Hay duplicado. 6 fs. Anejos: \n1.- Dos reales cédulas para la Audiencia de la Nueva Galicia en materia de diferencias de jurisdicción con el Virrey de Nueva España. San Lorenzo, 24 VII-1589 y San Lorenzo 22-VI-1591. 2 fs. 2.- Testimonio de auto pronunciado por la Audiencia de Guadalajara mandando sobreseer sobre ciertas comisiones dadas por el V. hasta tanto éste no exhiba poderes de S.M. para proveerlas en la jurisdicción de dicha Audiencia. Guadalajara, 5-IX-1603. Hay duplicado. 2 fs. 3.- El Virrey a S.M., de Guadalajara en respuesta a cierto auto por el que se le piden algunos papeles tocantes a la jurisdicción del Virrey, de cuyos términos y procedimientos se queja dicho conde. Otumba, 14-X-1603. Hay duplicado. 2 fs. 4.- El Virrey a S.M., capítulo sobre haber llegado a su fin la guerra de Nueva Vizcaya, la provisión de su nuevo gobernador y el encuentro de jurisdicción que tiene con la Audiencia de Guadalajara. 19-XI-1603 [SUP]. 2 fs",
+    "desc": null,
+    "locn": "Otumba",
+    "lbd": "1603-11-19.",
+    "upd": null,
+    "ref": "MEXICO,25,N.50"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

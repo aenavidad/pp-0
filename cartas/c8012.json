@@ -1,0 +1,28 @@
+{
+  "id": "c8012",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781480",
+    "docs": 1,
+    "title": "Real provisión concediendo el título de notario de Indias a favor de Fernando Alfonso Carrillo.",
+    "scope": "Nota de despacho. Incluye signo.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-03-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.61V(1)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

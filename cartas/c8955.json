@@ -1,0 +1,28 @@
+{
+  "id": "c8955",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3563014",
+    "docs": 1,
+    "title": "Inventario de bienes: García, Andrés",
+    "scope": "Autos de inventario de bienes de Andrés García, alguacil del campo de la ciudad de México. \nActuados ante el doctor Lorenzo de Terrones, alcalde del crimen de la Audiencia de México y juez de provincias.",
+    "desc": ". Folios 204-205",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,260,N.79"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

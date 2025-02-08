@@ -1,0 +1,28 @@
+{
+  "id": "c7500",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369142",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE SAN PEDRO, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de San Pedro, Mazagua y Ateo en San Salvador de Guatemala a Pedro de León Mejía. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1614-12-12.",
+    "upd": null,
+    "ref": "MEXICO,242B,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

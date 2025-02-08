@@ -1,0 +1,28 @@
+{
+  "id": "c8061",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781540",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México para que informe sobre la conveniencia de admitir la postura hecha al estanco y almacén de jabón por Pedro López Muñoz.",
+    "scope": "La postura presentada es por 20.000 pesos al año durante 10 años.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-06-09.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.69R-70R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9970",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3705061",
+    "docs": 1,
+    "title": "Inventario de bienes: Arriaza, Diego de",
+    "scope": "Autos del inventario de bienes de Diego de Arriaza, regidor de la ciudad de Santigo de Guatemala, comisionado para contar algunos pueblos y milpas de indios, y juez de las reales alcabalas.",
+    "desc": ". Folios 40-42",
+    "locn": null,
+    "lbd": "1623-05-19",
+    "upd": null,
+    "ref": "MEXICO,263,N.14"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

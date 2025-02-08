@@ -1,0 +1,28 @@
+{
+  "id": "c8633",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12876245",
+    "docs": 1,
+    "title": "Real cédula a Juan de Salinas, gobernador de la Florida, ordenándole, a petición de Andrés de las Salas, capitán de infantería del presidio [de San Agustín], que de aquí en adelante no nombre a ningún oficial real para que le sustituya en el cargo durante sus ausencias del presidio, ya que corresponde a uno de los capitanes de infantería gobernar la milicia en estas situaciones.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1621-08-14.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.114V-115R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

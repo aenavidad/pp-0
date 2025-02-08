@@ -1,0 +1,28 @@
+{
+  "id": "c6081",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/365956",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN DE LEON",
+    "scope": "Expediente de Confirmación del oficio de escribano real a Juan de León. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1606-03-17.",
+    "upd": null,
+    "ref": "MEXICO,177,N.29"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

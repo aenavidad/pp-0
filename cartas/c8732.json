@@ -1,0 +1,28 @@
+{
+  "id": "c8732",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361512",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., materias de Filipinas. Camino de San Juan de Ulúa a Acapulco. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1622-02-26.",
+    "upd": null,
+    "ref": "MEXICO,29,N.79"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

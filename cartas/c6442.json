@@ -1,0 +1,28 @@
+{
+  "id": "c6442",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781374",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México, para que informen sobre el aumento de sueldo que piden los oficiales reales.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1608-03-17.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.66V-67R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

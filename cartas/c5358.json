@@ -1,0 +1,28 @@
+{
+  "id": "c5358",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361112",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga y Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., fábrica de la catedral. Ordenanza sobre acompañamiento de criados. Cosechas. Enfermedad de los indios. Hay duplicado. 3 fs. Anejo: \n1.- Copia de la ordenanza sobre la moderación de acompañarse de negros en la Nueva España. México, 17-VII-1601. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1601-10-29.",
+    "upd": null,
+    "ref": "MEXICO,24,N.62"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9610",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3740043",
+    "docs": 1,
+    "title": "Inventario de bienes: Fernández de Tene, Juan",
+    "scope": "Autos de inventario de bienes de Juan Fernández de Tene, encomendero del pueblo de Alcozahui, perteneciente a su mujer; regidor perpetuo, juez diputado y alcalde de la villa de Colima. \nActuados ante el capitán Cristóbal Gallegos Osorio, alcalde mayor de la villa de Colima.",
+    "desc": ". Folios 269-272",
+    "locn": null,
+    "lbd": "1622-08-11",
+    "upd": null,
+    "ref": "MEXICO,262,N.99"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

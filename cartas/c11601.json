@@ -1,0 +1,28 @@
+{
+  "id": "c11601",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349943",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Carta de Juan López de Ruano, tesorero de la Caja Real de Comayagua, informando del cobro de derechos de almojarifazgo y del pago del flete de treinta y ocho religiosos llegados de España, al puerto de Santo Tomás de Castilla. Solicita aumento de salario",
+    "desc": null,
+    "locn": null,
+    "lbd": "1697-05-17.",
+    "upd": null,
+    "ref": "GUATEMALA,49,N.100"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

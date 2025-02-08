@@ -1,0 +1,28 @@
+{
+  "id": "c8129",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782524",
+    "docs": 1,
+    "title": "Real Provisión confirmando el título de alférez mayor de la villa de León de Nueva España a Alonso de Bustos, por muerte de Rodrigo Muñoz.",
+    "scope": "El virrey [Diego Fernández de Córdoba] marques de Guadalcázar remató el oficio en 500 pesos de oro común.",
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1618-10-31.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.108V-109R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

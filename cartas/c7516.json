@@ -1,0 +1,28 @@
+{
+  "id": "c7516",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368556",
+    "docs": 1,
+    "title": "Informaciones: Melchor de Molina Ayala",
+    "scope": "Informaciones de oficio y parte: Melchor de Molina Ayala, vecino de México. Traslado de 1614 de una información de 1597",
+    "desc": null,
+    "locn": null,
+    "lbd": "1614.",
+    "upd": null,
+    "ref": "MEXICO,222,N.16"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

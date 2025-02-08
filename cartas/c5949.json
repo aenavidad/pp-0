@@ -1,0 +1,28 @@
+{
+  "id": "c5949",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348725",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre el salario que debe pagarse a Juan Guerra de Ayala, Gobernador de Honduras.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1605-09-08.",
+    "upd": "1609-08-29.",
+    "ref": "GUATEMALA,39,R.14,N.84"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

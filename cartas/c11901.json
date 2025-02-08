@@ -1,0 +1,28 @@
+{
+  "id": "c11901",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349118",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial de D. Carlos Vázquez Coronado, procurador de la ciudad de Santiago de Guatemala, recomendando al doctor López Ruiz, médico, para pasar a Guatemala; y parecer del doctor Luis Carrillo, médico de S.M",
+    "desc": null,
+    "locn": null,
+    "lbd": "1613-05-06.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.6"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

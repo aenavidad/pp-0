@@ -1,0 +1,28 @@
+{
+  "id": "c6671",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782762",
+    "docs": 1,
+    "title": "Real provisión concediendo el título de notario de Indias a favor de Luis Sánchez de Escobar.",
+    "scope": "Nota de despacho. Incluye signo.",
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1609-05-16.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.153R(1)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10719",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362947",
+    "docs": 1,
+    "title": "CARTA DEL ARZOBISPO DE MEXICO",
+    "scope": "El Arzobispo a S.M., informa sobre los encuentros entre el Presidente de la Audiencia y el Arzobispado de Guadalajara. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1684-08-21.",
+    "upd": null,
+    "ref": "MEXICO,53,R.3,N.30"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

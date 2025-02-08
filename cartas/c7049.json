@@ -1,0 +1,28 @@
+{
+  "id": "c7049",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351866",
+    "docs": 1,
+    "title": "Informaciones: Pedro García de la Manadera",
+    "scope": "Informaciones de oficio y parte: Pedro García de la Manadera, portero de la Audiencia de Guatemala, y vecino de Santiago de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1611.",
+    "upd": null,
+    "ref": "GUATEMALA,120,N.20"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

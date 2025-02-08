@@ -1,0 +1,28 @@
+{
+  "id": "c10040",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350387",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DIEGO DE FUENTE AREVALO",
+    "scope": "Expediente de Confirmación del oficio de depositario general de San Miguel de Guatemala a Diego de Fuente Arevalo. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1623-10-20.",
+    "upd": null,
+    "ref": "GUATEMALA,83,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

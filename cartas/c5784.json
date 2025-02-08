@@ -1,0 +1,28 @@
+{
+  "id": "c5784",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361208",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., servicios del Lic. Espinosa de la Plaza. 2 fs. Anejo:\n1.- La Audiencia de Méxicoy el Virrey a S.M., capítulo de carta en recomendación del Licenciado Espinosa de la Plaza, fiscal de ella. 20-V-1604. Copia [S.F.]. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1604-05-10.",
+    "upd": null,
+    "ref": "MEXICO,26,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

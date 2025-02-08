@@ -1,0 +1,28 @@
+{
+  "id": "c7964",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368856",
+    "docs": 1,
+    "title": "Informaciones: Francisco de Loya",
+    "scope": "Informaciones de oficio y parte: Francisco de Loya, provisor y vicario general de la ciudad de México y su Arzobispado, beneficiado de Istapalapa, vecino de México. Información contenida de 1576-1590",
+    "desc": null,
+    "locn": null,
+    "lbd": "1617.",
+    "upd": null,
+    "ref": "MEXICO,233,N.1"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

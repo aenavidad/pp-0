@@ -1,0 +1,28 @@
+{
+  "id": "c10680",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349397",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Ciudad Real de Chiapa, informando sobre la situación económica de la ciudad, y solicitando la provisión de rentas para propios y para el Colegio de la Compañía de Jesús allí fundado.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1684-06-13.",
+    "upd": null,
+    "ref": "GUATEMALA,44B,N.34"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

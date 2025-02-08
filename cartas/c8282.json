@@ -1,0 +1,28 @@
+{
+  "id": "c8282",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783331",
+    "docs": 1,
+    "title": "Real Cédula concediendo a Juan de Ávila y Rivera, uno de los capitanes de la infantería española, la sucesión de la plaza de almirante de la flota que este año va Nueva España, en caso de vacante durante el viaje, pese a ir embarcado en la almiranta y lo contenido en la cédula que se ha dado a Juan de Leóz, capitán de la otra compañía, que va en la capitana, dispensarlo por esta vez.",
+    "scope": null,
+    "desc": null,
+    "locn": "Évora",
+    "lbd": "1619-05-18.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.175R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

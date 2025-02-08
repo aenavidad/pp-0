@@ -1,0 +1,28 @@
+{
+  "id": "c11479",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363245",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "Testimonio de la averiguación ejecutada con orden de S.M. sobre los ministros y demás personas que no asistieron a su ejecución y a su obligación la noche del 8 de junio de 1692. 222 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1694.",
+    "upd": null,
+    "ref": "MEXICO,61,R.1,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

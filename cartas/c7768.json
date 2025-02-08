@@ -1,0 +1,28 @@
+{
+  "id": "c7768",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782668",
+    "docs": 1,
+    "title": "Real Cédula a [Diego Fernández de Córdoba], virrey de Nueva España, y a la Audiencia de México, para que informen sobre los jueces de comisión que se envían al distrito del alcalde mayor de las Minas de Huautla, el almirante Pedro de Izaguirre, resultando más inconvenientes que necesarios, a pesar de las cédulas que hay enviadas sobre este asunto.",
+    "scope": null,
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1616-11-07.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.170R-170V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

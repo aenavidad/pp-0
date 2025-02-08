@@ -1,0 +1,28 @@
+{
+  "id": "c12088",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368901",
+    "docs": 3,
+    "title": "Informaciones: Juan de Padilla",
+    "scope": "Informaciones de oficio y parte: Juan de Padilla, Confesor de la Compañía de Jesús de la Casa Profesa de México, vecino de México. Con memorial decretado en 1621",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620.",
+    "upd": null,
+    "ref": "MEXICO,235,N.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

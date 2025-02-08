@@ -1,0 +1,28 @@
+{
+  "id": "c11724",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363346",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE MOCTEZUMA",
+    "scope": "El Virrey a S.M., remisión a España de los religiosos agustinos. 65 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1699-04-07.",
+    "upd": null,
+    "ref": "MEXICO,66,R.3,N.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

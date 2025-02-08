@@ -1,0 +1,28 @@
+{
+  "id": "c5909",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783558",
+    "docs": 1,
+    "title": "Real cédula a [Juan de Mendoza y Luna], virrey de Nueva España, y a la Audiencia de México ordenándoles no entorpecer las actuaciones de Alonso de Chaves Galindo, general de la Flota de Nueva España, contra quienes compren bastimentos y otros bienes de dicha Flota.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1605-05-21.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.59R-59V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9489",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3563017",
+    "docs": 1,
+    "title": "Inventario de bienes: Gasca, Pedro de la",
+    "scope": "Autos de inventario de bienes de Pedro de la Gasca, escribano público y del número de la ciudad y provincia de Tlaxcala. \nActuados ante Luis de Córdoba Bocanegra, gobernador de Tlaxcala.",
+    "desc": ". Folios 213-216",
+    "locn": null,
+    "lbd": "1622-08-02",
+    "upd": null,
+    "ref": "MEXICO,260,N.82"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

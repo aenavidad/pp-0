@@ -1,0 +1,28 @@
+{
+  "id": "c8715",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/21521",
+    "docs": 1,
+    "title": "Plano de la planta de 150 pies proyectada para la catedral de Valladolid de Michoacán.",
+    "scope": "En la parte superior central la nota: 'esta es de 150 pies'. Escala gráfica en la parte inferior central. \n  \nPresenta el plano de la planta proyectada para la nueva catedral de Valladolid de Michoacán de 150 pies (50 varas) de tamaño. Es una planta rectangular con testero plano. Tres naves longitudinales y 8  tramos, sin capillas, destacando por su mayor anchura el inmediato a la fachada y el del crucero en los que se indica una cúpula. Los soportes son pilares con medias columnas adosadas. La cabecera se sitúa al este y el acceso principal al poniente. El acceso se hace por tres partes, en la fachada y en los laterales. \n  \nNotas explicativas diseminadas en el plano. Mención de autoría en la documentación asociada, que incluye padrón de los habitantes de Valladolid. \n  \nAl dorso: Ocupa toda la parte trasera del plano un testimonio ante Juan Bautista Vergara, escribano, por el que Alonso Martínez López, obrero mayor de la fábrica de la catedral y Alonso del Arco y Alonso Hernández, maestros de arquitectura, vecinos de Valladolid, hacen constar que el plano de la planta de la catedral fue hecho por estos últimos en conformidad a lo mandado para dicha obra. México, 16 de junio de 1621. \n  \nEn 1618 el virrey marqués de Guadalcázar comisionó a los arquitectos Alonso Martínez López, maestro mayor de la fábrica de la catedral de México, Alonso del Arco y Alonso Hernández para hacer una planta 'moderada, decente y de autoridad' de la nueva catedral que se debía fabricar en Valladolid de Michoacán. Éstos hicieron un reconocimiento de la 'iglesia vieja' que hacía dichas funciones y trazaron la planta de un edificio nuevo de 100 varas de largo, que el Consejo de Indias consideró excesivo y costoso encargándoles una nueva planta mas reducida de 80 varas. Aún así, el tamaño siguió pareciendo demasiado grande y por Real Cédula de 27 de junio de 1620 se les mandó hacer otra planta para un templo de 50 varas (150 pies), que es la correspondiente al presente plano. El obispo y cabildo de Michoacán manifestaron su desacuerdo solicitando que se aprobase la planta de 80 varas levantada en 1618, basándose en que la 'iglesia vieja' era de 60 varas y resultaba demasiado pequeña e insuficiente a las necesidades del culto. \n  \nNúmero de registro: 1028. ",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1621.",
+    "upd": null,
+    "ref": "MP-MEXICO,564"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

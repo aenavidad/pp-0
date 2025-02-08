@@ -1,0 +1,28 @@
+{
+  "id": "c6058",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361266",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., derechos de mercaderías a Filipinas. 2 fs. Anejo: \n1.- Certificación dada por el contador de cuentas de la Nueva España del registro de mercaderías y dineros que por cuenta de diferentes personas iban en al nao San Antonio de Padua, que salió de Acapulco para las Filipinas, el 18 de Marzo de 1603. México, 30-I-1606. 10 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-02-17.",
+    "upd": null,
+    "ref": "MEXICO,26,N.78"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

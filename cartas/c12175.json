@@ -1,0 +1,28 @@
+{
+  "id": "c12175",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368815",
+    "docs": 5,
+    "title": "Informaciones: Francisco Pacho",
+    "scope": "Informaciones de oficio y parte: Francisco Pacho, beneficiado de Yztlán, provincia de Michoacán, beneficiado de Pajacoran, provincia de Michoacán.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1613.",
+    "upd": null,
+    "ref": "MEXICO,231,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

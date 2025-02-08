@@ -1,0 +1,28 @@
+{
+  "id": "c6741",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368762",
+    "docs": 1,
+    "title": "Informaciones: Mariana de Ibarra",
+    "scope": "Informaciones de oficio y parte: Mariana de Ibarra, viuda de Francisco Velasco.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1609.",
+    "upd": "1610.",
+    "ref": "MEXICO,229,N.14"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

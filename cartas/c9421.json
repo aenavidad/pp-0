@@ -1,0 +1,28 @@
+{
+  "id": "c9421",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3745596",
+    "docs": 1,
+    "title": "Inventario de bienes: Juárez de la Barrera, Gaspar",
+    "scope": "Autos de inventario de bienes de Gaspar Juárez de la Barrera, vecino de la ciudad de México, alcalde mayor de Coatzacoalco y capitán a guerra de su costa. Acudió al socorro de los puertos de Huatulco y Tehuantepec.",
+    "desc": ". Folios 359-360",
+    "locn": null,
+    "lbd": "1622-07-29",
+    "upd": null,
+    "ref": "MEXICO,262,N.135"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

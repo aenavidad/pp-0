@@ -1,0 +1,28 @@
+{
+  "id": "c9400",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3546546",
+    "docs": 1,
+    "title": "Inventario de bienes: Dávila, Lorenzo",
+    "scope": "Autos de inventario de bienes de Lorenzo Dávila, vecino y escribano público del número de la ciudad de Huejotzingo. \nActuados ante Juan Alonso de Sosa, alcalde mayor de Huejotzingo.",
+    "desc": ". Folios 155-159",
+    "locn": null,
+    "lbd": "1622-07-28",
+    "upd": null,
+    "ref": "MEXICO,260,N.62"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

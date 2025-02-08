@@ -1,0 +1,28 @@
+{
+  "id": "c5251",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/345094",
+    "docs": 1,
+    "title": "Registro: Guatemala",
+    "scope": "Registro de oficio: Reales Disposiciones (Reales Cédulas, Reales Provisiones, etc) dirigidas a las autoridades del distrito de la Audiencia de Guatemala. (Libro Q 2)",
+    "desc": ". 368 folios, foliación actual; 369 folios en total.,Observaciones: Folio 142 duplicado, salvado con lis. 368 Hoja(s)",
+    "locn": null,
+    "lbd": "1573-04-16.",
+    "upd": "1620-08-08.",
+    "ref": "GUATEMALA,386,L.2"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5561",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12755513",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México para que la Justicia de Nueva España no se entremeta en conocer causas que se ofrecieren a la gente de la flota del cargo del capitán general Fulgencio de Meneses Toledo sino que le den favor y ayuda para prenderlos.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1603-03-22.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.281V-282V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5533",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/346954",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de la Audiencia de Guatemala. (Duplicada de otra de 22 de abril de 1602)",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1603-02-01.",
+    "upd": null,
+    "ref": "GUATEMALA,11,R.6,N.36"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

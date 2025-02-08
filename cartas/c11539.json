@@ -1,0 +1,28 @@
+{
+  "id": "c11539",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363301",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey Conde de Galve a S.M., méritos y servicios de Don Gerónimo de la Reguera. 14 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1696-01-10.",
+    "upd": null,
+    "ref": "MEXICO,64,R.2,N.6"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

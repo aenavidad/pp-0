@@ -1,0 +1,28 @@
+{
+  "id": "c7042",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781779",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de escribano del registro de la grana de [Puebla] de los Ángles a favor de Ambrosio Guerrero, por renuncia de Juan Pérez de la Fuente.",
+    "scope": "Se remató en 700 pesos de oro.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1611-12-31.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.73V-75V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

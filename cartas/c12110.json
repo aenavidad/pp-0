@@ -1,0 +1,28 @@
+{
+  "id": "c12110",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349822",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de carta de Miguel de la Vega Valbuena, tesorero y Felipe Maiz y Lizárraga, contador, sobre la administración de la encomienda de Doña María de Vera, hecha por José Agustín de Estrada, Maestre de Campo.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1688-05-22.",
+    "upd": "1691-05-09.",
+    "ref": "GUATEMALA,48,N.72"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11964",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349135",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por el cabildo secular de Santiago de Guatemala, y copia de real cédula, sobre prohibición de voto en las elecciones a alcaldes ordinarios a los deudores de la Real Hacienda.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1624-10-05.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.23"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

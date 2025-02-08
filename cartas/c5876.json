@@ -1,0 +1,28 @@
+{
+  "id": "c5876",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783725",
+    "docs": 1,
+    "title": "Real Cédula a la Audiencia de México para que examine de escribano y notario público de Indias a Mateo Ortiz de Arri.",
+    "scope": "Nota de despacho \nNota al margen: 'Diose duplicada'.",
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1605-03-16.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.50R(1)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

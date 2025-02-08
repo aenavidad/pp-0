@@ -1,0 +1,28 @@
+{
+  "id": "c5248",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/345824",
+    "docs": 1,
+    "title": "Registro de Reales Disposiciones: Nicaragua",
+    "scope": "Registro de Reales Disposiciones (Reales Cédulas, Reales Provisiones, etc.) dirigidas a autoridades y corporaciones de la provincia de Nicaragua. (Libro S 4)",
+    "desc": ". 187 Hoja(s)",
+    "locn": null,
+    "lbd": "1560-11-27.",
+    "upd": "1604-10-20.",
+    "ref": "GUATEMALA,401,L.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

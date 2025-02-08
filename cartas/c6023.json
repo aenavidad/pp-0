@@ -1,0 +1,28 @@
+{
+  "id": "c6023",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368635",
+    "docs": 1,
+    "title": "Informaciones: Convento de Nuestra Señora de la Concepción",
+    "scope": "Informaciones de oficio y parte: hecha de parte del convento de Nuestra Señora de la Concepción sobre la necesidad de que se le haga merced y limosna en remuneración de los servicios de muchas hijas y nietas de conquistadores que profesan en dicho convento. Traslado de 1605 de una información iniciada en 1604 y seguida en 1605",
+    "desc": null,
+    "locn": null,
+    "lbd": "1605.",
+    "upd": null,
+    "ref": "MEXICO,225,N.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

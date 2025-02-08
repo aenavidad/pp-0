@@ -1,0 +1,28 @@
+{
+  "id": "c9541",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3584320",
+    "docs": 1,
+    "title": "Inventario de bienes: Gaínza, Lope de",
+    "scope": "Autos del inventario de bienes de Lope de Gaínza, natural de la universidad de Irun-Uranzu (Irún), en la provincia de Guipúzcoa, y alguacil mayor de la provincia de Orizaba. \nActuados ante Luis Marín Quiñones, corregidor de Orizaba y su jurisdicción.",
+    "desc": ". Folios 289-290",
+    "locn": null,
+    "lbd": "1622-08-05",
+    "upd": null,
+    "ref": "MEXICO,259,N.97"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

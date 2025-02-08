@@ -1,0 +1,28 @@
+{
+  "id": "c10173",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349619",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Memorial de los oficiales reales de Guatemala, y copia de real cédula, sobre los asientos que deben ocupar en los actos públicos.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625-09-20.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.37"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

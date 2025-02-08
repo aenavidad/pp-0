@@ -1,0 +1,28 @@
+{
+  "id": "c8916",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3618527",
+    "docs": 1,
+    "title": "Inventario de bienes: Roque, Antonio",
+    "scope": "Autos de inventario de bienes del doctor Antonio Roque, abogado de la Real Audiencia de México, juez de residencia en la ciudad de Zacatecas y justicia mayor de ciudad de Guadalajara. \nActuados ante Juan de Canseco y Quiñones, alcalde del crimen y juez de provincia de la Audiencia de México.",
+    "desc": ". Folios 439-441",
+    "locn": null,
+    "lbd": "1622-07-16",
+    "upd": null,
+    "ref": "MEXICO,260,N.172"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c8592",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361483",
+    "docs": 1,
+    "title": "Carta del virrey Diego Fernández de Córdoba, marqués de Guadalcázar.",
+    "scope": "El Virrey a S.M., tratamiento y correspondencia con la Audiencia. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1621-05-26.",
+    "upd": null,
+    "ref": "MEXICO,29,N.50"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

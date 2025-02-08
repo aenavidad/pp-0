@@ -1,0 +1,28 @@
+{
+  "id": "c8600",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12875042",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México, para que el cabildo de la catedral de dicha ciudad reciba, sin perjudicar a la Real Hacienda, los dos novenos del diezmo a un moderado precio, o por lo que se pudiera sacar en almoneda.",
+    "scope": "En respuesta a la carta del cabildo de la catedral de México de 22 de octubre de 1620.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1621-06-07.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.96R-96V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

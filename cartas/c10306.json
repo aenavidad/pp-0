@@ -1,0 +1,28 @@
+{
+  "id": "c10306",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368965",
+    "docs": 1,
+    "title": "Informaciones: Bartolomé de la Torre y Arizmendi",
+    "scope": "Informaciones de oficio y parte: Bartolomé de la Torre y Arizmendi, capitán, alcaide y guarda mayor del puerto de Santa María de Sisal. Cuaderno con información de 1627 así como una información de filiación hecha en Amezqueta en 1631",
+    "desc": null,
+    "locn": null,
+    "lbd": "1627.",
+    "upd": null,
+    "ref": "MEXICO,237,N.7"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

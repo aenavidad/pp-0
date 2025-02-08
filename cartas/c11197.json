@@ -1,0 +1,28 @@
+{
+  "id": "c11197",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349825",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Miguel de la Vega Valbuena, tesorero y Felipe Maiz y Lizárraga, contador, informando del cobro del resto del beneficio que debía Juan Jacinto López de Andravide, contador de la caja real de Honduras.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1690-04-30.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.75"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

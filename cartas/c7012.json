@@ -1,0 +1,28 @@
+{
+  "id": "c7012",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781466",
+    "docs": 1,
+    "title": "Real cédula ordenado que mientras Francisco de la Torre ejerza el cargo de tesorero general de la Santa Cruzada de México tenga voz y voto en el Cabildo de allí, y demás actos públicos, como los oficiales reales.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1611-09-03.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.38V-39V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

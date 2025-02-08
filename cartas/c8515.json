@@ -1,0 +1,28 @@
+{
+  "id": "c8515",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12818920",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México, para que informen sobre si sería conveniente que aumentase el número de procuradores y letrados de esa Audiencia que se encargan de las causas y pleitos de indios, y si convendría dar licencia a dichos indios para que puedan pagar sus derechos.",
+    "scope": "Real cédula dada a petición de Juan Fernández de Córdoba.",
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1620-10-22.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.45R-46R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

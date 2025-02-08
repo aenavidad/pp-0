@@ -1,0 +1,28 @@
+{
+  "id": "c8635",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12876229",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de alguacil mayor de la Audiencia de México para Martín Ruiz de Zabala, por renuncia a su favor de su tío Juan de Zabala.",
+    "scope": "[Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España, remató el oficio en el interesado por 50.000 pesos de oro común, la mitad de su valor.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1621-08-27.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.112V-113V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

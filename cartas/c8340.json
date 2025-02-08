@@ -1,0 +1,28 @@
+{
+  "id": "c8340",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783856",
+    "docs": 1,
+    "title": "Real provisión concediendo el título de notario de Indias a favor de Francisco de Albistur.",
+    "scope": "Nota de despacho. Incluye signo.",
+    "desc": null,
+    "locn": "Badajoz",
+    "lbd": "1619-10-23.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.205V(1)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

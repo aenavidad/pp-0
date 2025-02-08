@@ -1,0 +1,28 @@
+{
+  "id": "c11127",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363129",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., remite los cajones que vinieron de Filipinas. 14 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1689-07-02.",
+    "upd": null,
+    "ref": "MEXICO,58,R.1,N.34"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

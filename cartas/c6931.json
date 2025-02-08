@@ -1,0 +1,28 @@
+{
+  "id": "c6931",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349115",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, protestando por la intromisión de los oidores de la Audiencia de Guatemala, y en especial de Diego Gómez Cornejo en la elección de Alcaldes.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1611-03-28.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

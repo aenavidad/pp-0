@@ -1,0 +1,28 @@
+{
+  "id": "c12030",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368628",
+    "docs": 3,
+    "title": "Informaciones: Juan Martínez",
+    "scope": "Informaciones de oficio y parte: Juan Martínez, receptor de la Audiencia de México y general de los indios de Nueva España. Traslado de 1603 de una información del mismo año. (Son dos traslados). Parecer de la Audiencia de 1603",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603.",
+    "upd": null,
+    "ref": "MEXICO,224,N.28"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12210",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368914",
+    "docs": 8,
+    "title": "Informaciones: Pedro Garcés de Portillo",
+    "scope": "Informaciones de oficio y parte: Pedro Garcés de Portillo, canónigo de la catedral de Tlaxcala, juez provisor y vicario general del arzobispado de México, abogado de los presos y del Real Fisco de la Inquisición de Nueva España y catedrático de la Universidad de México. Con memorial y documentación acreditativa de sus méritos",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619.",
+    "upd": "1621.",
+    "ref": "MEXICO,235,N.17"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

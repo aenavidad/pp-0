@@ -1,0 +1,28 @@
+{
+  "id": "c11884",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349114",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial de Bernardino de la Torre, procurador de la ciudad de Santiago de Guatemala, solicitando una prórroga en la concesión de las rentas de encomiendas vacantes, para propios de la ciudad.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1610-12-01.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.2"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

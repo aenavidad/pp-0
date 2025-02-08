@@ -1,0 +1,28 @@
+{
+  "id": "c5682",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361163",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., empréstito o donativo que hizo a S.M. Otumba. 2 fs",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603-11-13.",
+    "upd": null,
+    "ref": "MEXICO,25,N.43"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

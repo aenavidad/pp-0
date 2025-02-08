@@ -1,0 +1,28 @@
+{
+  "id": "c12007",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349792",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Miguel de la Vega Valbuena, tesorero y José Fernández de Córdoba, contador, informando del cobro de la mesada eclesiástica del obispo y canónigos. Con informe de Lope de Sierra Osorio, presidente de la Audiencia de Guatemala, de 9 de agosto de 1686",
+    "desc": null,
+    "locn": null,
+    "lbd": "1685-02-18.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.42"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

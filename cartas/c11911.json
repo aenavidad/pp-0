@@ -1,0 +1,28 @@
+{
+  "id": "c11911",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351869",
+    "docs": 2,
+    "title": "Informaciones: Luis de Avalos Ayala",
+    "scope": "Informaciones de oficio y parte: Luis de Avalos Ayala, capitán, vecino de Guatemala y natural de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1614.",
+    "upd": "1619.",
+    "ref": "GUATEMALA,121,N.2"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

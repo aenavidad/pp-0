@@ -1,0 +1,28 @@
+{
+  "id": "c10103",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349136",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por el cabildo secular de Santiago de Guatemala, solicitando la prohibición de elegir alcaldes y regidores a extranjeros, a la vez que denuncia la elección de Juan Tobias Justiniano, genovés, como alcalde, y su hermano Antonio Justiniano, regidor.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1624-10-12.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.24"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

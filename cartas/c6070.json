@@ -1,0 +1,28 @@
+{
+  "id": "c6070",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783949",
+    "docs": 1,
+    "title": "Real Provisión concediendo el título de regidor de Mérida de Yucatán a Luis de Ceballos de Herrada.",
+    "scope": "Se remató en 400 pesos de oro común.",
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1606-02-19.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.122V-123V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10367",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361562",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco y Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., sobre proceder del arzobispo. 2 fs. Anejo:\n1.- Relación que de Veracruz se envió al Virrey sobre ciertas cartas tocantes al proceder del arzobispo para inquietud del reino. 19-VII-1629 [SUP]. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1629-07-19.",
+    "upd": null,
+    "ref": "MEXICO,30,N.23"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

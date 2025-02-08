@@ -1,0 +1,28 @@
+{
+  "id": "c6942",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12786245",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de fundidor y ensayador mayor de la Casa de la Moneda de México para Melchor de Cuellar, regidor de [Puebla] de los Ángeles, por renuncia en él de Luis Nuñez Pérez.",
+    "scope": "[Luis de Velasco], virrey de Nueva España, remató el oficio en el interesado por 150.000 pesos de oro común.",
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1611-05-08.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.272R-274V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

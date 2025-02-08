@@ -1,0 +1,28 @@
+{
+  "id": "c11427",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363239",
+    "docs": 1,
+    "title": "Carta del virrey conde de Galve",
+    "scope": "El Virrey a S.M., ejecución de las honras por los militares difuntos. 15 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1694-05-02.",
+    "upd": null,
+    "ref": "MEXICO,61,R.1,N.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

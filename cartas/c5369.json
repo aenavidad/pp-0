@@ -1,0 +1,28 @@
+{
+  "id": "c5369",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348718",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Jorge de Alvarado, Gobernador de Honduras.",
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1601-11-29.",
+    "upd": null,
+    "ref": "GUATEMALA,39,R.13,N.77"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

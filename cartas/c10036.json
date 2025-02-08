@@ -1,0 +1,28 @@
+{
+  "id": "c10036",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349605",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Minuta del decreto dado por el Consejo de Indias a los oficiales reales de Guatemala, solicitando la renta asignada a la dotación del Patriarca de las Indias.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1623-10-13.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.23"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

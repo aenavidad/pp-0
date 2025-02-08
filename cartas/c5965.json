@@ -1,0 +1,28 @@
+{
+  "id": "c5965",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361248",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., mejora de la hacienda. Venta de oficios a plazos. Ventas de alguacilazgo de México y de escribanía mayor de gobernación. Competencia de la Audiencia de Guadalajara en hacienda. Pleitos de encomiendas. Fletes de China. 4 fs. Anejo: \n1.- Relación de los negocios tocantes a la real hacienda del reino de la Nueva Galicia. 31-III-1603. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1605-10-28.",
+    "upd": null,
+    "ref": "MEXICO,26,N.60"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

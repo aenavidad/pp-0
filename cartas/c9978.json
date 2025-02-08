@@ -1,0 +1,28 @@
+{
+  "id": "c9978",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3708410",
+    "docs": 1,
+    "title": "Inventario de bienes: Beltrán, Juan",
+    "scope": "Autos del inventario de bienes de Juan Beltrán, escribano real, escribano público de la Real Caja y mayor de minas y registros de la ciudad de Guatemala, y teniente de oficiales reales en la provincia de Zapotitlán, administrando la Real Hacienda.",
+    "desc": ". Folios 71-73",
+    "locn": null,
+    "lbd": "1623-05-19",
+    "upd": null,
+    "ref": "MEXICO,263,N.24"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

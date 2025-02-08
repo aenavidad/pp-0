@@ -1,0 +1,28 @@
+{
+  "id": "c6431",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347022",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre el casamiento de Diego de Arredondo Bracamonte, oidor de la Audiencia de Guatemala, con jerónima Peña, en contra de las provisiones de S.M",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608-03-09.",
+    "upd": "1609-01-07.",
+    "ref": "GUATEMALA,12,R.5,N.49"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

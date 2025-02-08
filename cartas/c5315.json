@@ -1,0 +1,28 @@
+{
+  "id": "c5315",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349090",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, solicitando una renta para el Colegio de Nuestra Señora de la Asunción de dicha ciudad.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1601-04-28.",
+    "upd": null,
+    "ref": "GUATEMALA,41,N.98"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

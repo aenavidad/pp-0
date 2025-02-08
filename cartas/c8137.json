@@ -1,0 +1,28 @@
+{
+  "id": "c8137",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782529",
+    "docs": 1,
+    "title": "Real Cédula a los gobernadores de los puertos de Indias y a los alcaides de sus castillos y fuertes, para que dejen y consientan a los generales de las flotas de las Indias hacer las visitas a sus castillos y puertos para ver su estado y la artillería y demás cosas de sus defensas.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-11-10.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.112R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

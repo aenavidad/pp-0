@@ -1,0 +1,28 @@
+{
+  "id": "c10342",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20875",
+    "docs": 1,
+    "title": "Diseño de la península de California y costa del Pacífico del virreinato de Nueva España, desde los 22º a 40º grados de latitud Norte, por Juan López de Vicuña.",
+    "scope": "Autor y título tomados de la documentación asociada. \n  \nDibujo esquemático que comprende las tierras descubiertas desde el cabo San Lucas, en el extremo sur de la península de California, al puerto de Monterrey y cabo Mendocino, en la costa de la California continental. \n  \nTopónimos indicando el norte y del este. Al este, la ciudad de Guadalajara y el lago Chapala. Señala puertos, bahías, islas y desembocaduras de los ríos. \n  \nNúmero de registro: 409. ",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1629-05-05.",
+    "upd": null,
+    "ref": "MP-MEXICO,56"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

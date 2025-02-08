@@ -1,0 +1,28 @@
+{
+  "id": "c7277",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782979",
+    "docs": 1,
+    "title": "Real cédula autorizando a Miguel Jiménez, portero de la Audiencia de México, a renunciar a su cargo sin obligación de abonar a la Caja Real de México.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1613-05-26.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.166V-167R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

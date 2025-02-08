@@ -1,0 +1,28 @@
+{
+  "id": "c12100",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368941",
+    "docs": 3,
+    "title": "Informaciones: Juan de Aranguren",
+    "scope": "Informaciones de oficio y parte: Juan de Aranguren, beneficiado de Huisquiluca, beneficiado de Acapulco, beneficiado de Ystapalapa. Con parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625.",
+    "upd": null,
+    "ref": "MEXICO,236,N.15"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

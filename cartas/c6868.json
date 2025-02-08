@@ -1,0 +1,28 @@
+{
+  "id": "c6868",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783811",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México para que informen sobre la petición de Antonio de Figueroa, procurador general de los mineros de Nueva España, Nueva Galicia y Nueva Vizcaya, de que los pleitos sobre minas se fenezcan en ellas, nombrando para ello dos jueces en cada real de minas a modo de consulado, como tienen los mercaderes.",
+    "scope": null,
+    "desc": null,
+    "locn": "El Pardo",
+    "lbd": "1610-12-01.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.240V-242R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

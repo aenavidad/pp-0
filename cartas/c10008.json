@@ -1,0 +1,28 @@
+{
+  "id": "c10008",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3741955",
+    "docs": 1,
+    "title": "Inventario de bienes: Carrillo de Mendoza Pimentel, Diego",
+    "scope": "Autos del inventario de bienes de Diego Carrillo de Mendoza Pimentel, conde de Priego, marqués de Gelves, del Consejo de Guerra, virrey, lugarteniente, gobernador y capitán general de Nueva España, encomendero de Villanueva de la Fuente y presidente de la Audiencia y Chancillería Real. \nPresentados ante Luis de Tovargo Dinez, escribano mayor de la gobernación de Nueva España.",
+    "desc": ". Folios 115-120",
+    "locn": null,
+    "lbd": "1623-06-03",
+    "upd": null,
+    "ref": "MEXICO,263,N.37"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

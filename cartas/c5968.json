@@ -1,0 +1,28 @@
+{
+  "id": "c5968",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/365943",
+    "docs": 1,
+    "title": "Confirmación de oficio: Juan de Rivera y del Castillo",
+    "scope": "Expediente de confirmación del oficio de Chanciller de la Audiencia de México. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1605-11-02",
+    "upd": null,
+    "ref": "MEXICO,177,N.16"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

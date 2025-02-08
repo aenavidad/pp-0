@@ -1,0 +1,28 @@
+{
+  "id": "c9928",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3703466",
+    "docs": 1,
+    "title": "Inventario de bienes: Álvarez de Vega, Alonso",
+    "scope": "Autos del inventario de bienes de Alonso Álvarez de Vega, casado con descendiente de primeros pobladores, vecino, encomendero y alcalde ordinario de la ciudad de Santiago de los Caballeros, en la provincia de Guatemala.",
+    "desc": ". Folios 30-32",
+    "locn": null,
+    "lbd": "1623-05-15",
+    "upd": null,
+    "ref": "MEXICO,263,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5428",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361129",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., residencias de corregidores y alcaldes mayores. Oidores. Fiscales. Alcalde del crimen. Relatoría. 5 fs. Anejo: \n1.- El Virrey a S.M., capítulo sobre las vacantes en audiencias y en recomendación de sujetos para servir en esos oficios. 2-III-1601. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1602-05-30.",
+    "upd": null,
+    "ref": "MEXICO,25,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

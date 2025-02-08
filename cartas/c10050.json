@@ -1,0 +1,28 @@
+{
+  "id": "c10050",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4025318",
+    "docs": 1,
+    "title": "Inventario de bienes: Ribera Ponce de León, Juan de",
+    "scope": "Autos del inventario de bienes de Juan de Ribera Ponce de León, vecino y alcalde de la Santa Hermandad de la ciudad de San Salvador y encomendero de Cojutepeque, Ostuma, Suchitoto y Texacuango. \nActuados ante Pedro de Aguilar Lasso de la Vega, caballero del hábito de Calatrava y alcalde mayor de San Salvador, San Miguel y sus provincias.",
+    "desc": ". Folios 504-505",
+    "locn": null,
+    "lbd": "1623-12-05",
+    "upd": null,
+    "ref": "MEXICO,263,N.162"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7641",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781950",
+    "docs": 1,
+    "title": "Real Cédula a los oficiales de la Real Hacienda de La Florida para que informen la cantidad del empeño del situado de su presidio, que de aquí en adelante se envíe dicho situado a México, también por lo que montaren los gastos con los indios caciques que vienen a convertirse y los frailes que residen allí y el sueldo de sus plazas.",
+    "scope": null,
+    "desc": null,
+    "locn": "Burgos",
+    "lbd": "1615-11-21.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.101V-102R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

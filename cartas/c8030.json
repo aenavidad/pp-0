@@ -1,0 +1,28 @@
+{
+  "id": "c8030",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781408",
+    "docs": 1,
+    "title": "Real cédula el virrey de Nueva España y a la Audiencia de México, para que informen, enviando relación al Consejo, sobre la petición de los indios de del pueblo de Tancítaro de que no se les ocupe en los tratos y granjerías de los corregidores donde reciben muchos agravios, ni se concedan caballerías ni estancias de ganado en sus tierras, ni se venda la escribanía pública del pueblo.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-04-09.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.51V-52R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

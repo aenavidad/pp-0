@@ -1,0 +1,28 @@
+{
+  "id": "c9403",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3747019",
+    "docs": 1,
+    "title": "Inventario de bienes: Ladrón de Guevara, Pedro",
+    "scope": "Autos de inventario de bienes de Pedro Ladrón de Guevara, descendiente de conquistadores, vecino de la ciudad de Puebla de los Ángeles, corregidor de Jonotla y Tetela; corregidor de Chietla.",
+    "desc": ". Folios 361-362",
+    "locn": null,
+    "lbd": "1622-07-28",
+    "upd": null,
+    "ref": "MEXICO,262,N.136"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

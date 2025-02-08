@@ -1,0 +1,28 @@
+{
+  "id": "c5749",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361290",
+    "docs": 1,
+    "title": "Testimonio de autos visita Audiencia de Charcas",
+    "scope": "Testimonio de escritura que Juan Martínez de Foronda, escribano de la visita que se hizo a la Audiencia de Charcas y oficiales reales de la Villa Imperial de Potosí, otorgó del recibo de los originales de dicha visita para llevarlos al Real Consejo. Testimonio hecho en Potosí en 1 de abril de 1604. 8 fs",
+    "desc": null,
+    "locn": "Potosí",
+    "lbd": "1604-03-30.",
+    "upd": null,
+    "ref": "MEXICO,26,N.102"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

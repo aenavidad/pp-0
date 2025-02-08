@@ -1,0 +1,28 @@
+{
+  "id": "c6439",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781323",
+    "docs": 1,
+    "title": "Real cédula a Francisco de Varte [sic por Duarte], del Consejo de Indias, [comisionado en Sevilla para el despacho de las flotas], ordenándole que dé licencia y visita al filibote Nuestra Señora de la Concepción, para que su dueño Melchor López Palomo pueda ir de merchante, en conserva de la flota de Nueva España.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1608-03-17.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.65R-66R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

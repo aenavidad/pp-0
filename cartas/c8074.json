@@ -1,0 +1,28 @@
+{
+  "id": "c8074",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781773",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México, para que se cumpla la cédula inserta del Consejo de Castilla de Aranjuez a 26 de marzo de 1618, sobre que no sea juez de los negocios del marquesado del Valle el oidor más antiguo de la Audiencia de México.",
+    "scope": "A petición de Luis Carrillo de Alarcón, gobernador y administrador del marquesado del Valle.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-07-13.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.79V-81V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

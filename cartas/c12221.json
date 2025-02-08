@@ -1,0 +1,28 @@
+{
+  "id": "c12221",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351924",
+    "docs": 13,
+    "title": "Informaciones: Diego de Orozco",
+    "scope": "Informaciones de oficio y parte: Diego de Orozco, alférez de las naos de Honduras. Información contenida de 1616-1624, con petición",
+    "desc": null,
+    "locn": null,
+    "lbd": "1626.",
+    "upd": null,
+    "ref": "GUATEMALA,123,N.11"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10987",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348932",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Expediente sobre lo realizado por el Gobernador de Nicaragua, Gabriel Rodríguez, con motivo de la cercanía de los piratas al puerto de Honduras.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1688-05-16.",
+    "upd": "1691-03-06.",
+    "ref": "GUATEMALA,40,R.22,N.86"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

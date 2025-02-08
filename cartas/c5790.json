@@ -1,0 +1,28 @@
+{
+  "id": "c5790",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349552",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Memorial de Melchor Ochoa de Villanueva, tesorero, solicitando una habitación dentro de las casas reales, al igual que la tuvo su antecesor en el cargo Alonso de Valdés.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604-05-21.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.96"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

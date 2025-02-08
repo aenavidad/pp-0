@@ -1,0 +1,28 @@
+{
+  "id": "c9807",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3628853",
+    "docs": 1,
+    "title": "Inventario de bienes: Páez de la Magdalena, Juan",
+    "scope": "Autos del inventario de bienes de Juan Páez de la Magdalena, natural de la ciudad de México, vecino de Minas de Tasco, ensayador de dichas minas y teniente de alcalde mayor de ellas.",
+    "desc": ". Folios 547-548",
+    "locn": null,
+    "lbd": "1622-10-26",
+    "upd": null,
+    "ref": "MEXICO,259,N.194"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11894",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368791",
+    "docs": 2,
+    "title": "Informaciones: Juan de Herrera",
+    "scope": "Informaciones de oficio y parte: Juan de Herrera, escribano. Dos informaciones, una de 1611, y otra de 1611-1614",
+    "desc": null,
+    "locn": null,
+    "lbd": "1611.",
+    "upd": null,
+    "ref": "MEXICO,230,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

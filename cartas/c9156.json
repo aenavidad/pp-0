@@ -1,0 +1,28 @@
+{
+  "id": "c9156",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3741826",
+    "docs": 1,
+    "title": "Inventario de bienes: Tristán, Juan Bautista",
+    "scope": "Autos de inventario de bienes de Juan Bautista Tristán, vecino de la ciudad de México, teniente de alguacil mayor del campo en México. \nActuados ante Felipe de Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". folios 587-588",
+    "locn": null,
+    "lbd": "1622-07-19",
+    "upd": null,
+    "ref": "MEXICO,261,N.227"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

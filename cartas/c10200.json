@@ -1,0 +1,28 @@
+{
+  "id": "c10200",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350407",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: BERNARDO DE QUIROS",
+    "scope": "Expediente de Confirmación del oficio de escribano público y de gobernación de Valladolid de Comayagua, en Honduras a Bernardo de Quiros. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1626-01-29.",
+    "upd": null,
+    "ref": "GUATEMALA,83,N.25"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

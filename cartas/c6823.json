@@ -1,0 +1,28 @@
+{
+  "id": "c6823",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783513",
+    "docs": 1,
+    "title": "Real cédula a los oficiales de la Real Hacienda de México, ordenándoles que cumplan la cédula inserta y envíen el dinero procedente de la venta de los libros del nuevo rezado a la Casa de la Contratación, para poder entregárselo a Alonso de San Eugenio, procurador y administrador del monasterio de San Lorenzo el Real.",
+    "scope": "Inserta el tenor de la real cédula de 15 de mayo 1581, dirigida a los oficiales reales de México.",
+    "desc": null,
+    "locn": "Aranda",
+    "lbd": "1610-07-03.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.213V-215R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

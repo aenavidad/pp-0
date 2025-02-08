@@ -1,0 +1,28 @@
+{
+  "id": "c6816",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361377",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., alzamientos de indios en Nueva Vizcaya. Merced que pide el Gobernador Urdinola. Negros alzados. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1610-05-30.",
+    "upd": null,
+    "ref": "MEXICO,28,N.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

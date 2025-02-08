@@ -1,0 +1,28 @@
+{
+  "id": "c11928",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349237",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por el cabildo secular de León, solicitando la confirmación del traslado de dicha ciudad a un emplazamiento cercano al pueblo de Sutiava, más sano y a propósito que el actual, destruido tras el terremoto. Presenta información favorable de la Audiencia de Guatemala",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619-03-09.",
+    "upd": null,
+    "ref": "GUATEMALA,43,N.26"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

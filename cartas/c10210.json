@@ -1,0 +1,28 @@
+{
+  "id": "c10210",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349623",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Ambrosio Espinosa Porres, tesorero y Cristóbal de Salazar, contador, informando sobre el envio de caudales.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1626-04-17.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.41"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

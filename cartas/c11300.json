@@ -1,0 +1,28 @@
+{
+  "id": "c11300",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351290",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE CASTILLO DE GRANADA",
+    "scope": "Expediente de Confirmación de Encomienda de Castillo de Granada a José Antonio de Vega. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1692-06-12.",
+    "upd": null,
+    "ref": "GUATEMALA,108,N.19"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

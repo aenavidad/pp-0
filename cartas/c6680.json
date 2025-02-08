@@ -1,0 +1,28 @@
+{
+  "id": "c6680",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347044",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Decreto del Consejo para que la Audiencia informe sobre lo actuado por Alonso de Ortigosa con un gobernador y regidores de un pueblo de Indios.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1609-06-27.",
+    "upd": null,
+    "ref": "GUATEMALA,13,R.1,N.6"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

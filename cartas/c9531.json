@@ -1,0 +1,28 @@
+{
+  "id": "c9531",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3691074",
+    "docs": 1,
+    "title": "Inventario de bienes: Riquel de Hinojosa, Hernando",
+    "scope": "Autos de inventario de bienes de Hernando Riquel de Hinojosa, vecino de la ciudad de México, criado de Su Majestad en tiempos de guerra, teniente de alcalde mayor en la provincia de Guautitlan, teniente en la provincia de Jilotepec. \nActuados ante Gonzalo de Carvajal, regidor de la ciudad de México.",
+    "desc": ". folios 491-492",
+    "locn": null,
+    "lbd": "1622-08-05",
+    "upd": null,
+    "ref": "MEXICO,261,N.189"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

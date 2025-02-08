@@ -1,0 +1,28 @@
+{
+  "id": "c5832",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361221",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., infantería de España. Socorro a Filipinas. Licencias a soldados para pasar dinero. Defensa del reino. Auditor de guerra. 3 fs. Anejo: \n1.- Real Cédula al Virrey sobre que informe si será bien que un oidor o alcalde de la Audiencia de México sea auditor de la gente de guerra. Valladolid, 9-VI-1604. Copia [S.F.] 1 f",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1604-10-20.",
+    "upd": null,
+    "ref": "MEXICO,26,N.33"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7840",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366256",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ANDRES DE VALMASEDA",
+    "scope": "Expediente de Confirmación del oficio de alguacil mayor de las minas de Sultepeque a Andrés de Valmaseda. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1617-04-12.",
+    "upd": null,
+    "ref": "MEXICO,181,N.15"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

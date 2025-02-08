@@ -1,0 +1,28 @@
+{
+  "id": "c11803",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351318",
+    "docs": 1,
+    "title": "PENSION SOBRE ENCOMIENDA DE LA COMPAÑIA DE JESUS",
+    "scope": "Expediente relativo a la pensión de dos mil ducados que se le concedió a la casa profesa de Madrid, de la compañía de Jesús, en indios vacos de Guatemala por 25 años. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1700-03-24.",
+    "upd": null,
+    "ref": "GUATEMALA,109,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

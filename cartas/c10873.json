@@ -1,0 +1,28 @@
+{
+  "id": "c10873",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363045",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE LA MONCLOVA",
+    "scope": "El Virrey Marqués de la Laguna a S.M., situado a la Condesa de las Amayuelas, en indios vacos, 2.000 ducados de renta, por dos vidas. 14 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1686-12-20.",
+    "upd": null,
+    "ref": "MEXICO,56,R.1,N.22"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

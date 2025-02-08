@@ -1,0 +1,28 @@
+{
+  "id": "c8723",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361506",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Marqués de Guadalcázar que fué Virrey de México a S.M., en recomendación del presbítero Dr. Bartolomé González. 2 fs",
+    "desc": null,
+    "locn": "Istla",
+    "lbd": "1622-01-16.",
+    "upd": null,
+    "ref": "MEXICO,29,N.73"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7005",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781413",
+    "docs": 1,
+    "title": "Real cédula concediendo asiento a Tomás de Cardona y Sancho de Mera para utilizar su invento para sacar perlas en aguas profundas de las pesquerías abiertas y por descubrir.",
+    "scope": "Se utilice ese invento para buscar cuatro galeones hundidos en 1605, cargados de plata de la provincia de Tierra Firme.",
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1611-08-13.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.32R-33V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

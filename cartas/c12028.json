@@ -1,0 +1,28 @@
+{
+  "id": "c12028",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368617",
+    "docs": 3,
+    "title": "Informaciones: Juan Colmenero de Andrada",
+    "scope": "Informaciones de oficio y parte: Juan Colmenero de Andrada. Dos traslados de 1603 y 1611 de la misma información de 1602-1603. Parecer de la Audiencia de 1603",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603.",
+    "upd": "1611.",
+    "ref": "MEXICO,224,N.17"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

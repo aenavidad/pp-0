@@ -1,0 +1,28 @@
+{
+  "id": "c10521",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350836",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: FRANCISCO DE SOMOZA",
+    "scope": "Expediente de Confirmación del oficio de procurador del número de la Audiencia de Guatemala a Francisco de Somoza. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1682-01-15.",
+    "upd": null,
+    "ref": "GUATEMALA,93,N.12"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

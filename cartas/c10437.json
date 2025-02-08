@@ -1,0 +1,28 @@
+{
+  "id": "c10437",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362872",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY PAYO ENRIQUEZ DE RIVERA",
+    "scope": "El Virrey a S.M., prohibición de pagar su salario al Dr. Juan de Gárate, hasta que éste haya pagado las multas y salarios de diferentes comisiones que tuvo. 10 fs. y 4 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1680-08-22.",
+    "upd": null,
+    "ref": "MEXICO,51,R.2,N.39"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

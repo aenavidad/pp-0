@@ -1,0 +1,28 @@
+{
+  "id": "c12038",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368434",
+    "docs": 3,
+    "title": "Informaciones: Rodrigo de Vivero",
+    "scope": "Informaciones de oficio y parte: Rodrigo de Vivero, soldado contra los Chichimecas. Información contenida de 1587 Con parecer de la Audiencia de 1603 duplicado en 1607",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": null,
+    "ref": "MEXICO,218,N.25"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5387",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361123",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., alumbramiento de la reina. Encabezamiento de las alcabalas. Reducciones de los indios. Provisión de corregimientos y tenentazgos. Flota. Hay duplicado. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1602-03-08.",
+    "upd": null,
+    "ref": "MEXICO,25,N.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

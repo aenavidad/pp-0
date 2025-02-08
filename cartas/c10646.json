@@ -1,0 +1,28 @@
+{
+  "id": "c10646",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20898",
+    "docs": 1,
+    "title": "'Plata Rial de la nueua Veracruz'",
+    "scope": "Mención de autoridad tomada de la documentación asociada. \n  \nTítulo en la parte interior derecha. Debajo de él notas explicativas. En el centro la escala. \n  \nRecinto fortificado de planta rectangular circunvalado en su totalidad por una muralla jalonada con doce baluartes y tres puertas, dos en los laterales y una el frente del mar. Extramuros se representan el muelle y el río Tanoya. La línea de puntos que la rodea indica una estacada. \n  \nAl dorso, en horizontal: '60'. \n  \nNúmero de registro: 429. ",
+    "desc": null,
+    "locn": "Veracruz",
+    "lbd": "1683-08-13.",
+    "upd": null,
+    "ref": "MP-MEXICO,74"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

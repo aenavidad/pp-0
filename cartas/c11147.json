@@ -1,0 +1,28 @@
+{
+  "id": "c11147",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363142",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., competencia del Tribunal del Consulado de esta corte con el juzgado de provincia. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1689-10-20.",
+    "upd": null,
+    "ref": "MEXICO,58,R.1,N.47"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

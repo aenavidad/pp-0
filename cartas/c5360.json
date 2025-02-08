@@ -1,0 +1,28 @@
+{
+  "id": "c5360",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361115",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga y Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., navegación de Filipinas. Fábrica de naos en Filipinas. Gente para Filipinas. Artillería para las naos. Factor de Acapulco. Alzamiento indios en Nueva Vizcaya. Pacificaión del Nuevo Reino de León. Corsario inglés. Conquista de Terrenate en las Molucas. 7 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1601-11-01.",
+    "upd": null,
+    "ref": "MEXICO,24,N.65"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

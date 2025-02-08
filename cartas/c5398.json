@@ -1,0 +1,28 @@
+{
+  "id": "c5398",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348721",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Carga de Jorge de Alvarado, Gobernador de Honduras.",
+    "desc": null,
+    "locn": "Puerto de Caballos",
+    "lbd": "1602-04-10.",
+    "upd": null,
+    "ref": "GUATEMALA,39,R.13,N.80"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c6767",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783233",
+    "docs": 1,
+    "title": "Real cédula a [Luis de Velasco], virrey de Nueva España, remitiéndole información sobre el pago de los salarios de los ministros y oficiales de la cárcel de México, que están consignados en condenaciones de penas de cámara y gastos de justicia.",
+    "scope": "Por real cédula de 13 de agosto de 1605 se ordenó al marqués de Montesclaros, anterior virrey de Nueva España, que informase sobre esto asunto.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1610-02-08.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.190V-191R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

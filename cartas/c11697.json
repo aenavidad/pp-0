@@ -1,0 +1,28 @@
+{
+  "id": "c11697",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19162",
+    "docs": 1,
+    "title": "Diseño de la bahía de Santa María de Galve, con las Barrancas Bermejas.",
+    "scope": "Explicación sobre el mapa. \nSignos convencionales. \nNúmero de registro: 4259",
+    "desc": null,
+    "locn": null,
+    "lbd": "1698-12-01.",
+    "upd": null,
+    "ref": "MP-FLORIDA_LUISIANA,27"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

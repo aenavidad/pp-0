@@ -1,0 +1,28 @@
+{
+  "id": "c8535",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12819421",
+    "docs": 1,
+    "title": "Real cédula ordenando que se cumpla lo dispuesto en otra de 12 de diciembre de 1619, sobre lo que se ha de guardar en relación a los servicios personales de los indios.",
+    "scope": "Inserta el tenor de la real cédula de 12 de diciembre de 1619, que a su vez inserta dos capítulos de otra de 22 de mayo de 1609, dirigida al virrey de Nueva España.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-12-13.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.67R-68V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9967",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4005815",
+    "docs": 1,
+    "title": "Inventario de bienes: Ramírez de Vargas, Antonio",
+    "scope": "Autos del inventario de bienes de Antonio Ramírez de Vargas, vecino y regidor de la ciudad de Santiago de Guatemala y encomendero de indios en la provincia de Chiapa.",
+    "desc": ". Folios 496-497",
+    "locn": null,
+    "lbd": "1623-05-19",
+    "upd": null,
+    "ref": "MEXICO,263,N.158"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

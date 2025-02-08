@@ -1,0 +1,28 @@
+{
+  "id": "c7946",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349571",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Decreto del Consejo de Indias sobre las cuentas de los oficiales reales de Guatemala y la causa que se sigue contra Antonio Coello de Portugal, fiscal de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1617-11-27.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.115"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11375",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363211",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey al secretario del Consejo, epidemias de tabardillos y sarampiones. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1693-05-28.",
+    "upd": null,
+    "ref": "MEXICO,60,R.5,N.23"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

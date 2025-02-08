@@ -1,0 +1,28 @@
+{
+  "id": "c7701",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782269",
+    "docs": 1,
+    "title": "Real Cédula a los alcaldes del crimen de la Audiencia de México, avisándoles de lo que se le ha ordenado a la Audiencia sobre el cumplimiento de la cédula de 20 de enero de 1615 sobre las visitas de las cárceles, y que guarden la cédula despachada en 1592.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1616-03-24.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.122V-123R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

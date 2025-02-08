@@ -1,0 +1,28 @@
+{
+  "id": "c10372",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349139",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial del cabildo secular de Santiago de Guatemala, solicitando la provisión de encomiendas vacantes en hijos y descendientes de conquistadores y pobladores.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1629-10-31.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.27"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

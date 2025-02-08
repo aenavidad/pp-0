@@ -1,0 +1,28 @@
+{
+  "id": "c8320",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361459",
+    "docs": 1,
+    "title": "Carta del virrey Diego Fernández de Córdoba, marqués de Guadalcázar.",
+    "scope": "El Virrey a S.M., llegada de flota. Composición de portugueses. Obra del desagüe. Proceder de ministros. Oficios que provee el cabildo de México. Preeminencias de fiscal del crimen. Estrado de la Audiencia en las Iglesias. Residencia del alcalde mayor de Tabasco. Corregidor de Zacatecas. Licenciado Juan Paz de Vallecillo. 4 fs. Anejos: \n1.- Relación de los portugueses que se han compuesto en la Nueva España. México, 11-IX-1619. 8 fs. 2.- Testimonio de las diligencias hechas sobre el proceder de los ministros de justicia y real hacienda. México, 6-IX-1619. 52 fs. 3.- Real Cédula para que los oidores guarden la orden acostumbrada en poner el estrado en los días de tabla y en las iglesias. Barcelona, 13-VI-1599. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1619-09-27.",
+    "upd": null,
+    "ref": "MEXICO,29,N.26"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

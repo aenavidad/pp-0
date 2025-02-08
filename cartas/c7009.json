@@ -1,0 +1,28 @@
+{
+  "id": "c7009",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781522",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de alguacil mayor de la villa de Espíritu Santo a favor de Cristóbal de Ávila.",
+    "scope": "Se remató en 2.200 pesos de oro.",
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1611-09-03.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.39V-41V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

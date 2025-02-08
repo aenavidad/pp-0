@@ -1,0 +1,28 @@
+{
+  "id": "c10828",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363037",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a S.M., méritos del Licenciado Don Simón Ibáñez, alcalde del crimen. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1686-04-27.",
+    "upd": null,
+    "ref": "MEXICO,56,R.1,N.13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

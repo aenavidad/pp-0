@@ -1,0 +1,28 @@
+{
+  "id": "c6907",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783906",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México para que informen sobre el oficio de provincial de la Santa Hermandad que el marqués de Montesclaros, anterior virrey, introdujo en dicha ciudad, contraviniendo la cédula de 23 de junio de 1603, que le ordenaba poner alcaldes de hermandad.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1611-01-18.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.255R-255V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

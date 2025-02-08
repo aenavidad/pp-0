@@ -1,0 +1,28 @@
+{
+  "id": "c10550",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348984",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Juan Ramirez de Valdés, Gobernador de Soconusco.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1682-04-29.",
+    "upd": null,
+    "ref": "GUATEMALA,40,R.42,N.138"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

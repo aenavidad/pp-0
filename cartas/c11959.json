@@ -1,0 +1,28 @@
+{
+  "id": "c11959",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349604",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Pedro del Castillo Becerra, contador y Ambrosio Espinosa de Porres, tesorero, solicitando incremento de salario e informando del valor y administración de tributos. Con relación",
+    "desc": null,
+    "locn": null,
+    "lbd": "1623-10-12.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.22"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12118",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351811",
+    "docs": 4,
+    "title": "Informaciones: Francisco Jerez Serrano",
+    "scope": "Informaciones de oficio y parte: Francisco Jerez Serrano, procurador síndico de Santiago de Guatemala, vecino de Los Caballeros (Guatemala), y natural de Sevilla.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": "1610.",
+    "ref": "GUATEMALA,117,N.13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

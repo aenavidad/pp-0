@@ -1,0 +1,28 @@
+{
+  "id": "c9029",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3891871",
+    "docs": 1,
+    "title": "Inventario de bienes: Ortega, Juan de",
+    "scope": "Autos de inventario de bienes de Juan de Ortega, vecino de la ciudad de México, armero mayor y encargado de visitar la fábrica y molinos de pólvora y lugares donde se beneficia el salitre en esta ciudad y 20 leguas a su entorno. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". Folios 477-479",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,262,N.178"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

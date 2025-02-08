@@ -1,0 +1,28 @@
+{
+  "id": "c5298",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349909",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Expediente instruido a instancia de memorial de los oficiales reales de la provincia de Honduras, solicitando aumento de salario y concesión de la ayuda de un oficial. Incluye una probanza e información y parecer de Jorge de Alvarado, gobernador de Honduras",
+    "desc": null,
+    "locn": null,
+    "lbd": "1601-04-02.",
+    "upd": "1602-07-04.",
+    "ref": "GUATEMALA,49,N.66"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

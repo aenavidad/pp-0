@@ -1,0 +1,28 @@
+{
+  "id": "c10005",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4005583",
+    "docs": 1,
+    "title": "Inventario de bienes: Quirós y de Aguilera, Bernardo de",
+    "scope": "Autos del inventario de bienes del capitán Bernardo de Quirós y de Aguilera, vecino de la ciudad de Santiago de Guatemala, alcalde mayor de la provincia de Chiapa y corregidor del partido de Chiquimula de la Sierra.",
+    "desc": ". Folios 490-493",
+    "locn": null,
+    "lbd": "1623-05-23",
+    "upd": null,
+    "ref": "MEXICO,263,N.156"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

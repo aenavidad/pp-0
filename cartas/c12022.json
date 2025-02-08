@@ -1,0 +1,28 @@
+{
+  "id": "c12022",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368579",
+    "docs": 3,
+    "title": "Informaciones: Alonso del Castillo Menor",
+    "scope": "Informaciones de oficio y parte: Alonso del Castillo Menor, natural de Nombela. Información iniciada en 1599 y probanza de 1612",
+    "desc": null,
+    "locn": null,
+    "lbd": "1599.",
+    "upd": "1612.",
+    "ref": "MEXICO,223,N.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11163",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20913",
+    "docs": 1,
+    "title": "'Viage que el año 1690 hizo el Governador Alonso de León desde Cuahuila hasta La Carolina, Provincia habitada de Texas y otras naciones al Nordeste de la Nueva España'.",
+    "scope": "Presenta la ruta que siguió la expedición del gobernador Alonso de León, desde su partida del presidio de Coahuila el 24 de marzo de 1690 hasta llegar a la población de los indios hasinai en al río San Miguel [Neches], en la provincia de Carolina [Texas]. \nA la izquierda título enmarcado en la parte superior. Tabla explicativa del derrotero con clave alfabética y expresión de las distancias en leguas. \nIndicación de todos los ríos que cruzan el camino y la zona costera del lago. Coahuila se representa de forma convencional (edificios) mientras el asentamiento indígena muestra un hábitat disperso. \nIncluye en la parte inferior derecha: 'Descripción exacta del Lago de S[an] Bernardo y del de Todos los Santos que nuevamente se halló este año de 1690'. Representa de forma muy detallada la bahía de Matagorda y los ríos que desembocan en ella, especialmente el río de los Franceses sobre el que se situó Fort Saint Louis, la colonia francesa establecida por René-Robert Cavelier de la Salle en 1685. Escala [ca. 1:766.000]; 10 leguas [=7,25 cm]. \nConsecuencia de esta expedición fue el establecimiento de la misión de San Francisco de los Tejas, la primera en dicha provincia y que la ruta abierta se consolidase como una parte del Camino Real de los Tejas, que fue la principal vía de comunicación entre el sur y este de Texas durante varios siglos. Es el primer mapa que representa el río Bravo o río Grande. \nNúmero de registro: 441",
+    "desc": null,
+    "locn": null,
+    "lbd": "1690",
+    "upd": null,
+    "ref": "MP-MEXICO,88"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

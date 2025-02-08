@@ -1,0 +1,28 @@
+{
+  "id": "c7218",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347085",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Testimonio de autos del remate de los diezmos de la gobernación de Granada y obispado de Nicaragua.",
+    "desc": null,
+    "locn": "Santiago de Guatemala",
+    "lbd": "1613-02-04.",
+    "upd": null,
+    "ref": "GUATEMALA,13,R.5,N.46"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

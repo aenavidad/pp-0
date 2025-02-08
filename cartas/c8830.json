@@ -1,0 +1,28 @@
+{
+  "id": "c8830",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3534111",
+    "docs": 1,
+    "title": "Inventario de bienes: Aguirre, Juan Luis",
+    "scope": "Autos de inventario de bienes de Juan Luis de Aguirre, vecino de México, escribano real y notario de Indias en diversas partes de Nueva España entre ellas en Acapulco y la ciudad de México, asistiendo en esta ciudad a las notificaciones y causas criminales en la Real Audiencia como escribano en varios oficios de escribanos públicos; asiste a las residencias y a lo que le mandan los corregidores y alcaldes mayores. \nActuados ante Gonzalo de Carvajal, corregidor de México.",
+    "desc": ". Folios 12-13",
+    "locn": null,
+    "lbd": "1622-07-15",
+    "upd": null,
+    "ref": "MEXICO,260,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12111",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368352",
+    "docs": 4,
+    "title": "Informaciones: Bernardina del Castillo",
+    "scope": "Informaciones de oficio y parte: Bernardina del Castillo. Con parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1582.",
+    "upd": "1602.",
+    "ref": "MEXICO,216,N.41"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

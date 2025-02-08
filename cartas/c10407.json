@@ -1,0 +1,28 @@
+{
+  "id": "c10407",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349196",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, aprobando la labor de gobierno de D. Lope de Sierra Osorio, presidente de la Audiencia y recomienda su continuidad en dicho cargo",
+    "desc": null,
+    "locn": null,
+    "lbd": "1680-04-05.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.84"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

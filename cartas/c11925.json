@@ -1,0 +1,28 @@
+{
+  "id": "c11925",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351876",
+    "docs": 2,
+    "title": "Informaciones: Gonzalo de Alvarado",
+    "scope": "Informaciones de oficio y parte: Gonzalo de Alvarado, encomendero y vecino de Guatemala. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1618.",
+    "upd": null,
+    "ref": "GUATEMALA,121,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

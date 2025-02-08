@@ -1,0 +1,28 @@
+{
+  "id": "c6272",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12786447",
+    "docs": 1,
+    "title": "Real Provisión concediendo el título de correo mayor de México a Alonso Díaz de la Barrera, vecino de dicha ciudad.",
+    "scope": "Inserta el traslado del título, así como de todas las diligencias realizadas para la venta del oficio, el cual fue rematado en 58.000 pesos de oro común.",
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1607-05-01.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.208V-220V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c8293",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783481",
+    "docs": 1,
+    "title": "Real cédula a [Diego Fernández de Córdoba, marqués de Guadalcázar], virrey de Nueva España y Audiencia de México, ordenándoles guardar para con los receptores de esa Audiencia la cédula inserta de Cáceres a 10 de marzo de 1583, y teniendo algún inconveniente, hagan justicia a las dos partes.",
+    "scope": "La cédula inserta se anota en extracto.",
+    "desc": null,
+    "locn": "Belem",
+    "lbd": "1619-06-15.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.182R-182V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

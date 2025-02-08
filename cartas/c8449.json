@@ -1,0 +1,28 @@
+{
+  "id": "c8449",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12817839",
+    "docs": 1,
+    "title": "Real provisión concediendo el título de notario de Indias a favor de Cristóbal de Medrano, natural de Zamora.",
+    "scope": "Incluye signo. \nNota al margen: 'Ojo. Los papeles de este título se llevaron al oficio del Perú porque tocava allá el despacho'.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-05-23.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.16V-18R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

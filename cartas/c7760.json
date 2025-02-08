@@ -1,0 +1,28 @@
+{
+  "id": "c7760",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782631",
+    "docs": 1,
+    "title": "Real Cédula para que en la flota del general Juan de la Cueva se ejecute lo dispuesto en las ordenanzas y cédulas sobre castigos a los que traigan plata, oro, piedras, perlas y otras mercancías sin registrar, teniéndolo que manifestar en veinticuatro horas de la publicación de esta cédula, pagando la avería que le corresponde.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1616-10-15.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.167V-169R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12098",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368933",
+    "docs": 3,
+    "title": "Informaciones: Pedro Montero",
+    "scope": "Informaciones de oficio y parte: Pedro Montero, tesorero de las provincias de Yucatán, factor de las provincias de Yucatán. Con dos cartas de Diego de Cárdenas, gobernador y capitán general de Yucatán",
+    "desc": null,
+    "locn": null,
+    "lbd": "1624.",
+    "upd": null,
+    "ref": "MEXICO,236,N.7"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

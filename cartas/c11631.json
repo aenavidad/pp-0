@@ -1,0 +1,28 @@
+{
+  "id": "c11631",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363325",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE MOCTEZUMA",
+    "scope": "El Virrey a S.M., orden para que los indios que viven en casa de españoles se retiren a sus barrios. 7 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1697-10-31.",
+    "upd": null,
+    "ref": "MEXICO,65,R.2,N.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

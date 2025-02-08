@@ -1,0 +1,28 @@
+{
+  "id": "c6714",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364109",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Expediente sobre las preheminencias de los contadores de la Real Hacienda de México.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1609-10-21.",
+    "upd": "1610-06-28.",
+    "ref": "MEXICO,73,R.1,N.14"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

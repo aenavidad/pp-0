@@ -1,0 +1,28 @@
+{
+  "id": "c12033",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351801",
+    "docs": 3,
+    "title": "Informaciones: Diego de Santa Cruz",
+    "scope": "Informaciones de oficio y parte: Diego de Santa Cruz, beneficiado de Tilapetaltzingo, Tumbalá y el Palenque. Información contenida de 1603. Con petición",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": "1605.",
+    "ref": "GUATEMALA,117,N.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

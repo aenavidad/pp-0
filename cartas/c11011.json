@@ -1,0 +1,28 @@
+{
+  "id": "c11011",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348315",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de Francisco de Sarasa, oidor que fué de Guatemala y alcalde del crimen de México en esa fecha.",
+    "desc": null,
+    "locn": "Oaxaca",
+    "lbd": "1688-06-14.",
+    "upd": null,
+    "ref": "GUATEMALA,30,R.1,N.45"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10484",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349763",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero, informando del recibo de tres reales cédulas para el cobro de mesadas.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1681-06-03.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

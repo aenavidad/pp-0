@@ -1,0 +1,28 @@
+{
+  "id": "c5324",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361104",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga y Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., servicios de los condenados. La justicia ordinaria sentencia a muerte. Pleitos de maestres. Necesidad de oidores. Mercedes. Vacantes de la A. Proposiciones de personas para vacantes. Hay duplicado. 5 fs. Anejo: \n1.- Testimonio del auto que proveyó la A. de México en que se declaró poder las justicias sentenciar cualquier causa por grave que sea. otorgando las apelaciones. México, 1-III-1601. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1601-05-18.",
+    "upd": null,
+    "ref": "MEXICO,24,N.54"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

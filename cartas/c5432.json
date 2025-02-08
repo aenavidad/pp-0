@@ -1,0 +1,28 @@
+{
+  "id": "c5432",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361131",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., competencia entre inquisición y cruzada. Convento de monjas de Yucatán. División de la provincia de la orden de San Agustín. Jueces conservadores. Provincial de San Agustín. Hay duplicado. 6 fs. Anejos: \n1.- Fray Alfonso de Riofrío al Virrey, sobre lo del convento de monjas de Yucatán. Mérida, 8-II-1602. 2 fs. 2.- El obispo de Yucatán al Virrey, sobre lo de la fundación del convento de monjas de la ciudad de Mérida. Mérida, 10-II-1602. 3 fs. 3.- Diego Fernández de Velasco, gobernador de Yucatán, al Virrey, sobre la fundación del convento de monjas de la ciudad de Mérida. Mérida, 4-IV-1602. 2 fs. 4.- Relación sobre lo tocante a la fundación y convento de monjas de la ciudad de Mérida de Yucatán, 4-IV-1602. 3 fs. 5.- El Virrey al Deán Don Luis de Robles, comisario de cruzada, advertimiento en la competencia de jurisdicción que tuvo con los inquisidores. 23-V-1602. 4 fs. 6.- Lo que se representó por orden del Virrey a los inquisidores de la Nueva España, por parte del maestrescuela de Tlaxcala, sobre la competencia de jurisdicción con el subdelegado de cruzada. 22-V-1602. Hay duplicado. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1602-06-02.",
+    "upd": null,
+    "ref": "MEXICO,25,N.11"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

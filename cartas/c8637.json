@@ -1,0 +1,28 @@
+{
+  "id": "c8637",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12876216",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México, para que informen sobre lo que pide [Juan Pérez de la Serna], arzobispo de dicha ciudad, para el aderezo y reparaciones de las casas arzobispales.",
+    "scope": "Dada a petición de Pedro Rodríguez de Castro, [provisor y vicario general del arzobispado de México], en nombre del mencionado arzobispo.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1621-09-02.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.110V-112R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

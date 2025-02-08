@@ -1,0 +1,28 @@
+{
+  "id": "c11780",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363400",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE MOCTEZUMA",
+    "scope": "El Virrey a S.M., sobre haber dado cumplimiento a todas las alcaldías mayores que han venido provistas por S.M. 12 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1699-06-22.",
+    "upd": null,
+    "ref": "MEXICO,66,R.3,N.57"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9827",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361535",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., aviso de retraso en la flota. Apresto de la Tierra Firme. 2 fs. Anejos: \n1.- Acuerdo de la junta de hacienda de México sobre la pérdida de los galeones y auxilio que ha pedido el Marqués de Cadereita, general de la flota de Tierra Firme. México, 17-XI-1622. 2 fs. 2.- Traslado de un mandamiento que el Virrey dio para que el administrador y proveedor de la avería o el proveedor de la flota sobre el auxilio que se ha de enviar a La Habana para la flota de Tierra Firme. México, 18-XI-1622. 2 fs. 3.- Relación de los bastimentos, pertrechos y municiones que se han de traer de la Nueva España para provisión de la real armada de la guardia de las Indias y flota de Tierra Firme. La Habana, 27-X-1622. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1622-11-28.",
+    "upd": null,
+    "ref": "MEXICO,29,N.102"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

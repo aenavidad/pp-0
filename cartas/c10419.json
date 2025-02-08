@@ -1,0 +1,28 @@
+{
+  "id": "c10419",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20896",
+    "docs": 1,
+    "title": "[Cruz] / 'Planta de la Ciudad de San Francisco de Campeche en la provincia de Yucatán. Hecha por el Alférez i Ingeniero Militar don Martín de la Torre'.",
+    "scope": "Título en parte superior central. Mención de autoridad al final del mismo. \n  \nPlanta de un recinto urbano de estructura reticular ubicado en la costa y circunvalado en su totalidad por una muralla que forma un hexágono irregular. \nLa muralla está jalonada por ocho baluartes medianos y abierta con cinco puertas. Del lado del mar figura el fuerte de Nuestra Señora de la Soledad, el puerto y su batería. \n  \nLa parte interior presenta una traza en damero de cuatro hileras de manzanas cuadradas y rectangulares y abarca cuatro manzanas hacia San Román y tres hacia San Francisco. \n  \nIntramuros se representan la plaza y dos iglesias en su entorno, la 'yglesia caída' y 'la Catedral', además del hospital de San Juan de Dios junto a la muralla. Extramuros, a izquierda y derecha, quedan algunos barrios, las iglesias de la Mejorada y Nuestra Señora de Guadalupe, el castillo, el reducto y la iglesia de San Román. \n  \nInserta perfil de la muralla. \n  \nTablas explicativas con clave alfabética en las partes izquierda y derecha. Explicación detallada del proyecto en la documentación asociada. \n  \nEscala [ca. 1:165]; 'escala ortográfica de 30 pies' [=5 cm]. Escala [ca. 1:4458] 'escala de 1200 pies de á 3 en vara [=7,5 cm]. \n  \nAl dorso, en horizontal: 'Vino con carta del gou[ernad]or D[o]n Ant[oni]o de Layseca de 19 de Mayo 1680'. \n  \nEl plano representa el proyecto de amurallar la ciudad de Campeche consecuencia de las frecuentes invasiones de enemigos. \n  \nNúmero de registro: 427. ",
+    "desc": null,
+    "locn": "Campeche",
+    "lbd": "1680-05-18.",
+    "upd": null,
+    "ref": "MP-MEXICO,72BIS"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

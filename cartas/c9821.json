@@ -1,0 +1,28 @@
+{
+  "id": "c9821",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3618077",
+    "docs": 1,
+    "title": "Inventario de bienes: Núñez de Vega, Santos",
+    "scope": "Autos del inventario de bienes de Santos Núñez de Vega, vecino de Nueva Veracruz, residente en el pueblo de Alvarado, en Nueva España, escribano público del partido de Guaspaltepec, y teniente de corregidor y teniente de oficiales reales del pueblo y partido de Alvarado.",
+    "desc": ". Folios 482-484",
+    "locn": null,
+    "lbd": "1622-11-10",
+    "upd": null,
+    "ref": "MEXICO,259,N.172"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

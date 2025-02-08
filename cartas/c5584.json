@@ -1,0 +1,28 @@
+{
+  "id": "c5584",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12756319",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México para que hagan salir a las personas que fueren penitenciadas por el Santo Oficio de la Inquisición e informen si hay allí penitenciados.",
+    "scope": null,
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1603-04-29.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.285R-285V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

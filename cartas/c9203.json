@@ -1,0 +1,28 @@
+{
+  "id": "c9203",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3744967",
+    "docs": 1,
+    "title": "Inventario de bienes: Vergara Gaviria, Pedro de",
+    "scope": "Autos de inventario de bienes del licenciado Pedro de Vergara Gaviria, vecino de la ciudad de México, oidor de la Real Audiencia de México. \nActuados ante Felipe de Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". folios 635-646",
+    "locn": null,
+    "lbd": "1622-07-19",
+    "upd": null,
+    "ref": "MEXICO,261,N.245"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

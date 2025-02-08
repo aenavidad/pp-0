@@ -1,0 +1,28 @@
+{
+  "id": "c11863",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368682",
+    "docs": 2,
+    "title": "Informaciones: Pedro de Escobar Mújica",
+    "scope": "Informaciones de oficio y parte: Pedro de Escobar Mújica, beneficiado del partido de Cucamala, vecino de Valladolid Michoacán (Nueva España). Traslado de 1605 de una información del mismo año",
+    "desc": null,
+    "locn": null,
+    "lbd": "1605.",
+    "upd": null,
+    "ref": "MEXICO,226,N.23"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

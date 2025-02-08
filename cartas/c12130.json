@@ -1,0 +1,28 @@
+{
+  "id": "c12130",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349914",
+    "docs": 4,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Memorial de Miguel Martínez de Rivamartín, tesorero de la Caja Real de Comayagua, solicitando Real Cédula para que el pago de sus fianzas se efectue en la provincia de Honduras o en la Audiencia de Guatemala. Acompaña copia del título de tesorero, real cédula y auto de la Casa de Contratación",
+    "desc": null,
+    "locn": null,
+    "lbd": "1609-04-29.",
+    "upd": null,
+    "ref": "GUATEMALA,49,N.71"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

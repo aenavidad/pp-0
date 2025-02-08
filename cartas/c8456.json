@@ -1,0 +1,28 @@
+{
+  "id": "c8456",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12817887",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México, para que informen sobre la petición de los oficiales de la Real Hacienda de dicha ciudad, de que no se les quite la jurisdicción que les compete en causas civiles y criminales.",
+    "scope": "Real cédula dada en virtud de la carta de los oficiales reales de 17 de octubre de 1618.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-06-03.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.19R-22R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

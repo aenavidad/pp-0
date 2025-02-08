@@ -1,0 +1,28 @@
+{
+  "id": "c11855",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368640",
+    "docs": 2,
+    "title": "Informaciones: Miguel Sánchez de Trujillo",
+    "scope": "Informaciones de oficio y parte: Miguel Sánchez de Trujillo, clérigo presbítero.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": null,
+    "ref": "MEXICO,225,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

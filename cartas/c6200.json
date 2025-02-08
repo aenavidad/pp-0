@@ -1,0 +1,28 @@
+{
+  "id": "c6200",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351821",
+    "docs": 1,
+    "title": "Informaciones: Juan Muñoz de Santa Cruz",
+    "scope": "Informaciones de oficio y parte: Juan Muñoz de Santa Cruz, beneficiado de Tuztla y Ayutla, provincia de Soconusco, Jiquipilas, Comitlán y Copanabaztla. Contiene información de Alonso Díaz de Santa Cruz, su hermano (1597)",
+    "desc": null,
+    "locn": null,
+    "lbd": "1606.",
+    "upd": "1607.",
+    "ref": "GUATEMALA,117,N.23"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

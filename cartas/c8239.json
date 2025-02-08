@@ -1,0 +1,28 @@
+{
+  "id": "c8239",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783167",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México, para que informen con sus pareceres , sobre la petición del arzobispo de México de que le deje ejecutar las leyes sobre los que no guardan las fiestas y entre tanto guarden lo dispuesto en esta materia.",
+    "scope": "A petición del licenciado Pedro Rodríguez de Castro, provisor y vicario general del arzobispado de México, en nombre del arzobispo Juan [Pérez de] la Serna, que pretende que los infractores del precepto de guardar las fiestas sean llamados por el juez eclesiástico.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-03-17.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.160R-161R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

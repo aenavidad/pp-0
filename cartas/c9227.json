@@ -1,0 +1,28 @@
+{
+  "id": "c9227",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4049119",
+    "docs": 1,
+    "title": "Inventario de bienes: Ruiz de Zabala, Martín",
+    "scope": "Autos del inventario de bienes del capitán Martín Ruiz de Zabala, vecino y minero de las minas de San Luis Potosí, alguacil mayor de la Real Audiencia de México y encomendero de indios. \nActuados ante Felipe de Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". Folios 533-535",
+    "locn": null,
+    "lbd": "1622-07-19",
+    "upd": null,
+    "ref": "MEXICO,263,N.173"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

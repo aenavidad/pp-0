@@ -1,0 +1,28 @@
+{
+  "id": "c5390",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12730213",
+    "docs": 1,
+    "title": "Real cédula al cabildo de la ciudad de los Ángeles para que no consientan que en las elecciones de los oficios del concejo se nombren familiares de los regidores.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1602-03-11.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.225V-226R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5995",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/346999",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta de la Audiencia de Guatemala. (Duplicada de otra de 8 de octubre de 1605)",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1605-12-01.",
+    "upd": null,
+    "ref": "GUATEMALA,12,R.2,N.26"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

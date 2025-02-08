@@ -1,0 +1,28 @@
+{
+  "id": "c5851",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368641",
+    "docs": 1,
+    "title": "Informaciones: Mateo Hernández",
+    "scope": "Informaciones de oficio y parte: Mateo Hernández, vecino de Sevilla. Información de 1604",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": null,
+    "ref": "MEXICO,225,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

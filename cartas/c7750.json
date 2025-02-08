@@ -1,0 +1,28 @@
+{
+  "id": "c7750",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782565",
+    "docs": 1,
+    "title": "Real Cédula a [Diego Fernández de Córdoba], virrey de Nueva España, y a la Audiencia de México, para que no envíen jueces de comisión a la provincia de Yucatán, con causas leves, y se las remitan al gobernador de dicha provincia.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1616-08-25.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.156V-157R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

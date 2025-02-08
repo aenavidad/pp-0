@@ -1,0 +1,28 @@
+{
+  "id": "c11579",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363316",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY JUAN DE ORTEGA Y MONTAÑES",
+    "scope": "El Virrey a S.M., certificación de lo que se ha remitido a España de lo procedente de tributos y azogues. 60 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1696-07-14.",
+    "upd": null,
+    "ref": "MEXICO,64,R.2,N.20"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

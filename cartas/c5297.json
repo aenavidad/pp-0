@@ -1,0 +1,28 @@
+{
+  "id": "c5297",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12725907",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y la Audiencia de México dando cuenta de haber provisto haya un nuevo relator para la Audiencia de México y se pague a los cuatro su salario de gastos de justicia y si no llega se recurra a penas de cámara",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1601-03-29.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.202R-202V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

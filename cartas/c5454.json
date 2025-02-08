@@ -1,0 +1,28 @@
+{
+  "id": "c5454",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/365881",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: JUAN DE CHAVES",
+    "scope": "Expediente de Confirmación del oficio de escribano mayor de minas y registros de la ciudad y puerto de Veracruz a Juan de Chaves. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1602-07-24.",
+    "upd": null,
+    "ref": "MEXICO,176,N.32"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

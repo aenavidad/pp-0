@@ -1,0 +1,28 @@
+{
+  "id": "c11219",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363184",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., pretensión del franciscano Fray Juan Fernández Cejudo de fundar un convento de recolección en la ciudad de Toluca. 20 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1690-07-05.",
+    "upd": null,
+    "ref": "MEXICO,59,R.3,N.37"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5372",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368621",
+    "docs": 1,
+    "title": "Informaciones: Juan Bautista Quijada",
+    "scope": "Informaciones de oficio y parte: Juan Bautista Quijada, vecino de Mérida (Yucatán). Cuadernillo que contiene un traslado de 1601 de informaciones de 1585 y 1600; y otro traslado de 1603 de informaciones de 1602 y 1603",
+    "desc": null,
+    "locn": null,
+    "lbd": "1601.",
+    "upd": "1603.",
+    "ref": "MEXICO,224,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

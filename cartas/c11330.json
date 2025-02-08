@@ -1,0 +1,28 @@
+{
+  "id": "c11330",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/365119",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Carta del virrey y Audiencia de México.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1693-01-10.",
+    "upd": null,
+    "ref": "MEXICO,87,R.5,N.61"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

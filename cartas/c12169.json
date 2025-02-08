@@ -1,0 +1,28 @@
+{
+  "id": "c12169",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351807",
+    "docs": 5,
+    "title": "Informaciones: Ambrosio Lezcano",
+    "scope": "Informaciones de oficio y parte: Ambrosio Lezcano, administrador y capellán del hospital real de Santiago de Guatemala y natural de Guatemala. Con parecer de la Audiencia. Con carta de Ambrosio Lezcano a S.M",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": "1605.",
+    "ref": "GUATEMALA,117,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

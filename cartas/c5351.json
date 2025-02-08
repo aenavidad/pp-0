@@ -1,0 +1,28 @@
+{
+  "id": "c5351",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361118",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga y Acevedo, conde de Monterrey.",
+    "scope": "El Contador de cuentas de la ciudad de México al Virrey, apuntamientos para lo que toca a la real hacienda del puerto de Acapulco. 4 fs",
+    "desc": null,
+    "locn": null,
+    "lbd": "1601-10-09.",
+    "upd": null,
+    "ref": "MEXICO,24,N.68"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

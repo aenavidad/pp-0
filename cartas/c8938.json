@@ -1,0 +1,28 @@
+{
+  "id": "c8938",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3588070",
+    "docs": 1,
+    "title": "Inventario de bienes: Lezama, Martín de",
+    "scope": "Autos de inventario de bienes de Martín de Lezama, contador ordenador del Tribunal de Cuentas de Nueva España; sirvió en los libros de mercedes antes de pasar a México. \nActuados ante el licenciado Miguel Ruiz de la Torre, alcalde del crimen y juez de provincia de la Audiencia de México.",
+    "desc": ". Folios 271-273",
+    "locn": null,
+    "lbd": "1622-07-17",
+    "upd": null,
+    "ref": "MEXICO,260,N.103"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

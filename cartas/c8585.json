@@ -1,0 +1,28 @@
+{
+  "id": "c8585",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12821050",
+    "docs": 1,
+    "title": "Real cédula a [Gonzalo de Salazar], obispo de Yucatán, a instancias del deán y cabildo eclesiástico de aquella catedral, para que en las causas contra los prebendados guarde lo dispuesto por el Concilio de Trento y la costumbre que se ha seguido hasta ahora.",
+    "scope": "Por real cédula de 13 de febrero de 1619 se le ordenó lo mismo al obispo de Panamá.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1621-05-11.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.90R-90V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

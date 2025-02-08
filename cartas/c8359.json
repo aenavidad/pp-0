@@ -1,0 +1,28 @@
+{
+  "id": "c8359",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12784005",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y la Audiencia de México para que informen acerca de lo que pide Juan de Zavala, alguacil mayor de esa Audiencia, sobre que se le conceda tener asiento en la sala de lo civil, en el banco de los oidores a la izquierda.",
+    "scope": "Propone el estilo de las Chancillerías de Valladolid y Granada.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-12-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.229R-229V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

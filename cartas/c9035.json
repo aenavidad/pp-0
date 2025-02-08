@@ -1,0 +1,28 @@
+{
+  "id": "c9035",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3610755",
+    "docs": 1,
+    "title": "Inventario de bienes: Fernández de la Fuente, Juan",
+    "scope": "Autos de inventario de bienes de Juan Fernández de la Fuente, vecino de la ciudad de México, escribano real y uno de los nombrados del oficio de Juan de Porras Farfán escribano público del número de la ciudad de México. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". folios 203-204",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,261,N.79"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

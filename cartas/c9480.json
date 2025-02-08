@@ -1,0 +1,28 @@
+{
+  "id": "c9480",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3668923",
+    "docs": 1,
+    "title": "Inventario de bienes: Sarmiento de Lobera, Pedro",
+    "scope": "Autos del inventario de bienes de Pedro Sarmiento de Lobera, juez repartidor de los indios de las minas de Pachuca, gentilhombre entretenido y alférez para las islas Filipinas.",
+    "desc": ". Folios 683-684",
+    "locn": null,
+    "lbd": "1622-08-01",
+    "upd": null,
+    "ref": "MEXICO,259,N.239"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

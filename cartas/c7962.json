@@ -1,0 +1,28 @@
+{
+  "id": "c7962",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351885",
+    "docs": 1,
+    "title": "Informaciones: Andrés de Escobar",
+    "scope": "Informaciones de oficio y parte: Andrés de Escobar, escribano de cámara de la Audiencia de Guatemala, y vecino de Guatemala. Información contenida de 1616",
+    "desc": null,
+    "locn": null,
+    "lbd": "1617.",
+    "upd": null,
+    "ref": "GUATEMALA,121,N.18"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

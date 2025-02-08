@@ -1,0 +1,28 @@
+{
+  "id": "c11016",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349823",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Miguel de la Vega Valbuena, tesorero y Felipe Maiz y Lizárraga, contador, informando del pago hecho a los curas beneficiados de indios.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1688-09-28.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.73"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

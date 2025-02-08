@@ -1,0 +1,28 @@
+{
+  "id": "c5800",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783442",
+    "docs": 1,
+    "title": "Real Provisión concediendo el título de receptor de la Audiencia de México a Pedro de Morales.",
+    "scope": "Por renuncia de Juan Serrano. Se remató en 500 pesos de oro común.",
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1604-06-02.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.7R-7V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

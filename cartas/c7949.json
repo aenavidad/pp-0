@@ -1,0 +1,28 @@
+{
+  "id": "c7949",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782980",
+    "docs": 1,
+    "title": "Real Cédula a la Audiencia de México para que examine de escribano y notario público de Indias a Domingo de Urquiza.",
+    "scope": "Nota de despacho",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1617-11-28.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.236VBIS"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

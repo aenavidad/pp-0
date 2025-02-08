@@ -1,0 +1,28 @@
+{
+  "id": "c12160",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349777",
+    "docs": 4,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente instruido a instancia de carta de Miguel de la Vega Valbuena, tesorero y José Fernández de Córdoba, contador, sobre el litigio que mantienen con el cabildo eclesiástico de dicha ciudad por los asientos que deben ocupar en la Juntas de remates de diezmos. Con carta del cabildo eclesiástico de 20 de julio de 1683",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-07-15.",
+    "upd": "1684-05-05.",
+    "ref": "GUATEMALA,48,N.27"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

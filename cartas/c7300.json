@@ -1,0 +1,28 @@
+{
+  "id": "c7300",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783155",
+    "docs": 1,
+    "title": "Real cédula a los contadores del Consejo de Indias ordenando tomar de los 16.000 ducados librados a Pedro de Avendaño Villela, vecino de Sevilla, para la compra de armamento destinado a México y Manila, el equivalente al 2 por 100 de su encomienda.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1613-08-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.182V-183R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

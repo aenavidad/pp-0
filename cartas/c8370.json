@@ -1,0 +1,28 @@
+{
+  "id": "c8370",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12784037",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y la Audiencia de México para que informen acerca de la pretensión de Pablo de Cisneros, vecino dela ciudad de Valladolid en Michoacán, que pide se cometa la visita de un obraje de paños de lana que tiene a las justicias ordinarias de esta villa de Valladolid",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-12-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.228R-228V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

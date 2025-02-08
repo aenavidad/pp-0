@@ -1,0 +1,28 @@
+{
+  "id": "c12181",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368946",
+    "docs": 5,
+    "title": "Informaciones: Diego de Novela",
+    "scope": "Informaciones de oficio y parte: Diego de Novela, vicario de San Miguel y sus anejos, vicario del partido de Tecpa, visitador de las minas del Palmar de Vega, beneficiado de Muquili. Con parecer de la Audiencia de México y petición",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625.",
+    "upd": null,
+    "ref": "MEXICO,236,N.20"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

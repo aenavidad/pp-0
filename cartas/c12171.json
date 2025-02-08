@@ -1,0 +1,28 @@
+{
+  "id": "c12171",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368679",
+    "docs": 5,
+    "title": "Informaciones: Diego de León Plaza",
+    "scope": "Informaciones de oficio y parte: Diego de León Plaza, cura beneficiado de la catedral de México, natural de Sevilla. - 2 ejemplares de traslado de 1606 de una información de 1605\n- 2 traslados del testimonio del título de cualificador y patrocinador\ndel Santo Oficio de la Inquisición de México de 1605\n- 2 traslados de 1619 y 1606 de la misma información de 1605 1 parecer de la Audiencia de 1605",
+    "desc": null,
+    "locn": null,
+    "lbd": "1606.",
+    "upd": "1619.",
+    "ref": "MEXICO,226,N.20"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

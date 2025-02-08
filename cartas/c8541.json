@@ -1,0 +1,28 @@
+{
+  "id": "c8541",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12819488",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México, para que no ordenen tomar residencia a Diego de Cárdenas, gobernador de Yucatán, durante el tiempo que ocupe el cargo, sin dar antes previo aviso.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-12-29.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.69V-70R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

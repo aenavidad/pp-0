@@ -1,0 +1,28 @@
+{
+  "id": "c8068",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781762",
+    "docs": 1,
+    "title": "Real cédula a las justicias de Nueva España, para que busquen y manden de vuelta con sus bienes a Jerónimo de la Cuadra, que reside en Puebla de los Ángeles, a que venga a hacer vida maridable con su mujer, y con sus hijos.",
+    "scope": "Victoria Rodríguez, su mujer, solicitó licencia para pasar a Puebla a hacer vida maridable.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-06-10.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.74R-74V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

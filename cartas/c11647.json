@@ -1,0 +1,28 @@
+{
+  "id": "c11647",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19505",
+    "docs": 1,
+    "title": "Plano del territorio reconocido por fray Diego de Ribas en los alrededores del lago Petén Itzá.",
+    "scope": "Doble folio con leyenda explicativa a la izquierda, y plano a la derecha. \nNúmero de registro: 1284.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1698",
+    "upd": null,
+    "ref": "MP-GUATEMALA,13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

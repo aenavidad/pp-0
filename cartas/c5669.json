@@ -1,0 +1,28 @@
+{
+  "id": "c5669",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/346962",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Minuta de Real Cédula a la Audiencia de Guatemala sobre fortificación del puerto de Caballos.",
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1603-08-06.",
+    "upd": null,
+    "ref": "GUATEMALA,11,R.6,N.44"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

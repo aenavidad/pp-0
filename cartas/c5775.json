@@ -1,0 +1,28 @@
+{
+  "id": "c5775",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12764900",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México para que informen sobre la petición del prior y cónsules de la Universidad de mercaderes de México de que la Audiencia no se entremeta en el conocimiento de sus elecciones.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1604-05-04.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.337V-339R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

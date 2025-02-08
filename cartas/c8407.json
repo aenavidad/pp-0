@@ -1,0 +1,28 @@
+{
+  "id": "c8407",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12786516",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de regidor de la ciudad de México para Cristóbal de Molina por renuncia que hizo en él Alonso de Valdés.",
+    "scope": "[Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España, lo remató en el interesado por 5.000 de oro común, la mitad del valor de dicho oficio por el traspaso.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-03-01.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.245V-246V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

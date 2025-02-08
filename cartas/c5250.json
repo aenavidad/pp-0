@@ -1,0 +1,28 @@
+{
+  "id": "c5250",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/374578",
+    "docs": 1,
+    "title": "Registro de oficio para autoridades de Yucatán",
+    "scope": "Registro de oficio: reales cédulas y provisiones, cartas acordadas, etc., conteniendo disposiciones de gobierno y gracia para autoridades seculares y eclesiásticas de la provincia de Yucatán. Libro D 3",
+    "desc": ". 87 folios, numerados también del 656 al 743 (porción 1).,Indice: no tiene. 87 Hoja(s)",
+    "locn": null,
+    "lbd": "1572-12-08.",
+    "upd": "1604-06-02.",
+    "ref": "MEXICO,2999,L.3"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

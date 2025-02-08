@@ -1,0 +1,28 @@
+{
+  "id": "c6852",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361383",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., sobre gobierno eclesiástico. 10 fs. Anejos: \n1.- Memorial del Virrey sobre el estado de la doctrina del pueblo de Tepotzotlán que tienen los religiosos de la Compañía. 1610 [SUP]. 2 fs. 2.- Relación de los autos proveídos por el Virrey tocantes a que en los puestos de indios nuevamente congregados de la orden de San Agustín no haya religiosos con nombre de priores y vicarios, ni se funde convento. 1607-1608. 6 fs. 3.- Testimonio de los autos hechos por mandado del Virrey sobre las diferencias y encuentros que entre sí tienen los de la orden de San Agustín de la provincia de Michoacán, con haberse quitado el oficio de provincial a Fray Diego del Aguila. 30-IV-1610. Testimonio hecho en México en 21 de octubre de 1610. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1610-10-23.",
+    "upd": null,
+    "ref": "MEXICO,28,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

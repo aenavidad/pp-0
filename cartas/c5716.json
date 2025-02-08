@@ -1,0 +1,28 @@
+{
+  "id": "c5716",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361182",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey Conde de Monterrey a S.M., leva de gente para Filipinas. Sochimilco. Hay duplicado. 3 fs. Anejo: \n1.- Don Pedro de Acuña, gobernador de Filipinas, al Virrey. Manila, 3-VI-1603. Hay duplicado. 12 fs",
+    "desc": null,
+    "locn": "Xochimilco",
+    "lbd": "1603-11-30.",
+    "upd": null,
+    "ref": "MEXICO,25,N.62"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

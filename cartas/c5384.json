@@ -1,0 +1,28 @@
+{
+  "id": "c5384",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12730023",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México y Guadalajara para que averigüen los bienes que quedaron de Damián de Lupiana, por otro nombre Francisco de la Parra, difunto en la ciudad de México, a petición de su viuda, Lucía Delgada, vecina de la villa de Ciempozuelos y los envíen a la Casa de la Contratación.",
+    "scope": null,
+    "desc": null,
+    "locn": "Zamora",
+    "lbd": "1602-02-16.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.223R-224R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

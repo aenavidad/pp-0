@@ -1,0 +1,28 @@
+{
+  "id": "c11562",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348561",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Testimonio de autos hechos por Jacinto de Barrios Leal, presidente de la Audiencia de Guatemala, sobre la parcialidad y coaligación de los oidores de la Audiencia. (Vino con carta del presidente Gabriel Sánchez Berrospe de 30 de junio de 1696)",
+    "desc": null,
+    "locn": "Guatemala",
+    "lbd": "1696-06-27.",
+    "upd": null,
+    "ref": "GUATEMALA,36,R.3,N.74"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

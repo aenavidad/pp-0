@@ -1,0 +1,28 @@
+{
+  "id": "c9081",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3657158",
+    "docs": 1,
+    "title": "Inventario de bienes: Rueda, Alonso de",
+    "scope": "Autos del inventario de bienes de Alonso de Rueda, natural de Sevilla y escribano real. \nActuados ante Felipe de Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". Folios 634-637",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,259,N.222"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

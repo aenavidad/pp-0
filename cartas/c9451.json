@@ -1,0 +1,28 @@
+{
+  "id": "c9451",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3590082",
+    "docs": 1,
+    "title": "Inventario de bienes: Gómez de Villanueva, Luis",
+    "scope": "Autos del inventario de bienes de Luis Gómez de Villanueva, natural de la villa de Torrijos del reino de Toledo y teniente de alcalde mayor del partido de Istlahuaca.",
+    "desc": ". Folios 306",
+    "locn": null,
+    "lbd": "1622-07-30",
+    "upd": null,
+    "ref": "MEXICO,259,N.104"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

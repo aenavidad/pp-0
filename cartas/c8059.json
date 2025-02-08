@@ -1,0 +1,28 @@
+{
+  "id": "c8059",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781727",
+    "docs": 1,
+    "title": "Real cédula a las justicias del puerto de San Francisco de Campeche y de los demás puertos de Nueva España, para que guarde lo que está ordenado que respecto de no tener jurisdicción sobre maestres y gentes de las naos.",
+    "scope": "A petición de los diputados de la Universidad de Mareantes de Sevilla.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-06-09.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.73V-74R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

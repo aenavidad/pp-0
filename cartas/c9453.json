@@ -1,0 +1,28 @@
+{
+  "id": "c9453",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361524",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., excesos del General Fernando de Sousa. El ingeniero flamenco y la liga de los rebeldes de Holanda. Formación de gente de guerra. 3 fs. Anejos: \n1.- Testimonio de la información que se hizo sobre haber embarcado el General Fernando de Sousa a un Diego Cabrera contra expresas órdenes de S.M. y del Virrey. México, 8-VII-1622. 12 fs. 2.- Aviso de la Compañía de las Indias Occidentales que hizo en las islas rebeldes para las personas que quisieren entrar en ella con la cantidad que a cada uno pareciere. 30-VII-1622 2 fs. 3.- Angel Vangosten a Doña Margarita Blonmart, su sobrina, en que se alude al contrabando para estobar el comercio de España. Hamburgo, 22-VII-1621. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1622-07-30.",
+    "upd": null,
+    "ref": "MEXICO,29,N.91"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7345",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783332",
+    "docs": 1,
+    "title": "Sobrecarta a [Diego Fernández de Córdoba], virrey de Nueva España, y a la Audiencia de México ordenando se ejecute la cédula inserta sobre el pleito de acreedores del Estado y marquesado del Valle [de Oaxaca].",
+    "scope": "Emitida en San Lorenzo, a 31 de agosto de 1613.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1614-02-10.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.201V-202V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

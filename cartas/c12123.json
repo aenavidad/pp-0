@@ -1,0 +1,28 @@
+{
+  "id": "c12123",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349278",
+    "docs": 4,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Expediente sobre la residencia y prisión de Francisco Osorio, alcalde mayor de San Salvador.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1605-10-21.",
+    "upd": "1605-11-14.",
+    "ref": "GUATEMALA,43,N.67"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

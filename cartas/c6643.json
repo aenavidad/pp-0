@@ -1,0 +1,28 @@
+{
+  "id": "c6643",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366035",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: ANDRES MORENO",
+    "scope": "Expediente de Confirmación del oficio de escribano de provincia de México a Andrés Moreno. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1609-05-04.",
+    "upd": null,
+    "ref": "MEXICO,178,N.39"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

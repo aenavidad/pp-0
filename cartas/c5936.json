@@ -1,0 +1,28 @@
+{
+  "id": "c5936",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/346994",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Minuta de Real Cédula sobre que no se cobre al Hospital Real de Guatemala el dinero que debe.",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1605-07-11.",
+    "upd": null,
+    "ref": "GUATEMALA,12,R.2,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

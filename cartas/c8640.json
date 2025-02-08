@@ -1,0 +1,28 @@
+{
+  "id": "c8640",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12876341",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de escribano público de Zacatecas para Pedro Alonso Bayo, por renuncia a su favor de Francisco Tello Doria.",
+    "scope": "[Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España, remató el oficio en el interesado por 4.000 pesos de oro común, la tercera parte de su valor.",
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1621-10-13.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.117R-119V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

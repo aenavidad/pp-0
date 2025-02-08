@@ -1,0 +1,28 @@
+{
+  "id": "c8747",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361516",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., extranjeros. Falta de defensa en las costas. 2 fs. Anejos:\n1.- Testimonio de la propuesta hecha por el Virrey en el acuerdo de hacienda de México, sobre la conveniencia de prohibir que los extranjeros residan en las Indias. México, 7-VI-1622. 2 fs. 2.- Relación de los que por las cuentas del tribunal de la Nueva España aparece que montan las composiciones de extranjeros. México, 8-VI-1622. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1622-06-07.",
+    "upd": null,
+    "ref": "MEXICO,29,N.83"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

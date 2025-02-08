@@ -1,0 +1,28 @@
+{
+  "id": "c11523",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363279",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., recomendación de Don García de Legazpi, Obispo de Durango. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1695-11-30.",
+    "upd": null,
+    "ref": "MEXICO,62,R.3,N.18"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

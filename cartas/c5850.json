@@ -1,0 +1,28 @@
+{
+  "id": "c5850",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368652",
+    "docs": 1,
+    "title": "Informaciones: Luis Marín",
+    "scope": "Informaciones de oficio y parte: Luis Marín, conquistador. Traslado de 1604 de una información hecha en 1532",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": null,
+    "ref": "MEXICO,225,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

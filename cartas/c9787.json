@@ -1,0 +1,28 @@
+{
+  "id": "c9787",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3573655",
+    "docs": 1,
+    "title": "Inventario de bienes: Fernández de Ribera, Pedro",
+    "scope": "Inventario de bienes del capitán Pedro Fernández de Ribera, regidor y depositario general de la provincia de Tabasco.",
+    "desc": ". Folios 246-247",
+    "locn": null,
+    "lbd": "1622-09-20",
+    "upd": null,
+    "ref": "MEXICO,259,N.88"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

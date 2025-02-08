@@ -1,0 +1,28 @@
+{
+  "id": "c5745",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349102",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, recomendando al licenciado Tomás Espinosa de la Plaza, fiscal de la Audiencia de Guatemala, para algún oficio de justicia o gobierno superior.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604-02-12.",
+    "upd": null,
+    "ref": "GUATEMALA,41,N.110"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12041",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351808",
+    "docs": 3,
+    "title": "Informaciones: Diego de Alvarado",
+    "scope": "Informaciones de oficio y parte: Diego de Alvarado, beneficiado de Naolingo y Aguachapa y vecino de Santiago de Guatemala. Información contenida de 1604. Con parecer de la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1605.",
+    "upd": null,
+    "ref": "GUATEMALA,117,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

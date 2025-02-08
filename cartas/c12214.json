@@ -1,0 +1,28 @@
+{
+  "id": "c12214",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368874",
+    "docs": 9,
+    "title": "Informaciones: Gabriel de Soria",
+    "scope": "Informaciones de oficio y parte: Gabriel de Soria, mayordomo y administrador de la catedral de México. Con petición y pareceres de la Audiencia, del obispo y cabildo eclesiástico de México de 1625 y 1628",
+    "desc": null,
+    "locn": null,
+    "lbd": "1618.",
+    "upd": null,
+    "ref": "MEXICO,234,N.6"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

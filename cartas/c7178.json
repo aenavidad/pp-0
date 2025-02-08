@@ -1,0 +1,28 @@
+{
+  "id": "c7178",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20874",
+    "docs": 1,
+    "title": "'Diseño de la ciudad de México y del virreinato de Nueva España desde el mar del Norte al del Sur, para instrucción del desagüe de la laguna de México'",
+    "scope": "Diseño, muy elemental, que representa el territorio del virreinato de Nueva España con lmítes entre el golfo de México y el océano Pacífico. La ciudad de México en el centro, construida sobre la laguna e indicándose las calzadas que la unían a tierra firme, mientras que el resto del territorio aparece casi en blanco. Se indican los ríos y montañas. \nEl mapa, poco realista, al parecer se basó en el dibujo atribuido a Hernán Cortés que se agregó a la edición alemana de las Cartas de Relación. \nNúmero de registro: 408",
+    "desc": null,
+    "locn": "París",
+    "lbd": "1612-07-29.",
+    "upd": null,
+    "ref": "MP-MEXICO,55"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

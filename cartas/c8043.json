@@ -1,0 +1,28 @@
+{
+  "id": "c8043",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781537",
+    "docs": 1,
+    "title": "Sobrecarta a las justicias de España e Indias para que cumplan el capítulo inserto de la cédula dada en Madrid a 6 de febrero de 1610, relativa al asiento de Tomás de Cardona, Sancho de Merás y consortes, en que se ordena que nadie pueda embargar los bajeles, gente de mar, pertrechos y bastimentos de la empresa.",
+    "scope": "El asiento con Tomás de Cardona y consortes es para sacar perlas mediante el uso de ciertos navíos e instrumentos.",
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1618-05-14.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.64V-66R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

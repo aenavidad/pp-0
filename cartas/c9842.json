@@ -1,0 +1,28 @@
+{
+  "id": "c9842",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3747850",
+    "docs": 1,
+    "title": "Inventario de bienes: Fernández Moradillo, Juan",
+    "scope": "Autos del inventario de bienes de Juan Fernández Moradillo, labrador, escribano real y alcalde de la Santa Hermandad de la villa de Cuernavaca y su jurisdicción del estado del Marqués del Valle de Oaxaca. \nActuados ante Alonso Martín, teniente de alcalde mayor de Cuernavaca.",
+    "desc": ". Folios 246-247",
+    "locn": null,
+    "lbd": "1622-12-14",
+    "upd": null,
+    "ref": "MEXICO,263,N.74"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11785",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363405",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE MOCTEZUMA",
+    "scope": "El Virrey a S.M., sobre la orden que ha dado el castellano de San Juan de Ulúa, gobernador y oficiales reales de Veracruz, para que no entren embarcaciones sin haber sido previamente visitadas. 15 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1699-07-07.",
+    "upd": null,
+    "ref": "MEXICO,66,R.3,N.62"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

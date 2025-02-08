@@ -1,0 +1,28 @@
+{
+  "id": "c12043",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351830",
+    "docs": 3,
+    "title": "Informaciones: Juan de Leyva",
+    "scope": "Informaciones de oficio y parte: Juan de Leyva, beneficiado de Mataquezquintla y vecino de Guatemala. Información contenida de 1606 y 1607",
+    "desc": null,
+    "locn": null,
+    "lbd": "1607.",
+    "upd": "1608.",
+    "ref": "GUATEMALA,118,N.6"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

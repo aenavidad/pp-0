@@ -1,0 +1,28 @@
+{
+  "id": "c6364",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361321",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., iglesias y prebendas vacas, con relación de personas para ellas. Vacantes de real hacienda. Hay duplicado. 3 fs. Anejos: \n1.- Relacion de las prebendas que están vacas en al iglesia de México. 24-VIII-1607. 1 f. 2.- Relación de iglesias y prebendas vacas en esta Nueva España. [S/F]. Hay duplicado. 1 f. 3.- Relación de las iglesias y prebendas que están vacas en Nueva España. 9-III-1608. 2 fs. 4.- Representacion de Francisco Díaz de Vargas, vecino de Los Angeles de la Nueva España, despojado de la vara de alguacil de dicha ciudad y que tenía por méritos de su padre, conquistador, en suplica a S.M. de Merced de una ración de la catedral para su hijo. 1607. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1607-08-29.",
+    "upd": null,
+    "ref": "MEXICO,27,N.27"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

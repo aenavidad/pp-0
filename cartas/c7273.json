@@ -1,0 +1,28 @@
+{
+  "id": "c7273",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782952",
+    "docs": 1,
+    "title": "Real cédula a [Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España, ordenando vea la conveniencia de dispensar la ida de comisarios al puerto de Acapulco a fiscalizar el posible contrabando de plata hacia Filipinas.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1613-05-23.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.164R-164V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

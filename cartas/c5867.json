@@ -1,0 +1,28 @@
+{
+  "id": "c5867",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349384",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Ciudad Real de Chiapa, recomendando a Diego de Santa Cruz, clérigo presbítero y visitador general del obispado de Chiapa, para la concesión de alguna merced.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1605-02-10.",
+    "upd": null,
+    "ref": "GUATEMALA,44B,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

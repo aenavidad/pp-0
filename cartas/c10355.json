@@ -1,0 +1,28 @@
+{
+  "id": "c10355",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361556",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco y Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., servicios de sus antepasados y suyos. Estado en que halló el reino. Donativo. Renta de naipes. Suplica reconocimiento al dejar este gobierno de reputación y hacienda. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1629-05-25.",
+    "upd": null,
+    "ref": "MEXICO,30,N.17"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

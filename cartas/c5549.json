@@ -1,0 +1,28 @@
+{
+  "id": "c5549",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361146",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., sobre poblaciones de indios en las minas. Prohibición de los tamemes. Esclavos para los obrajes. Ingenios de azúcar. Alquiler de los indios. Repartimiento de indios para labranza. 5 fs. \nAnejo: \n1.- Memorial sobre los inconvenientes que se podrán seguir de ir los indios a servir un año entero a las minas. 1603 [SUP]. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1603-03-01.",
+    "upd": null,
+    "ref": "MEXICO,25,N.26"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

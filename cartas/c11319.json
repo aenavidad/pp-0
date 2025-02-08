@@ -1,0 +1,28 @@
+{
+  "id": "c11319",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349831",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Miguel de la Vega Valbuena, tesorero y Felipe Maiz y Lizárraga, contador, avisando del recibo de los despachos de los años de 1690, 1691 y 1692.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1692-11-11.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.81"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

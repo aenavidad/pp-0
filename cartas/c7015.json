@@ -1,0 +1,28 @@
+{
+  "id": "c7015",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781502",
+    "docs": 1,
+    "title": "Real cédula a [fray García Guerra], virrey de Nueva España, y a la Audiencia de México ordenando informen de la conveniencia de que los pueblos San Mateo, Xocotlán y San Felipe se integren nuevamente en Columa.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1611-09-17.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.41V-45V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

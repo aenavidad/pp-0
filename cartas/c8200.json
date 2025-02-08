@@ -1,0 +1,28 @@
+{
+  "id": "c8200",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782887",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México, para que reformen las personas y salarios que se puedan suprimir y excusar en la administración de la superintendencia de la fábrica de la catedral de México.",
+    "scope": "A petición del Dr. Diego Guerra, canónigo magistral de Sagrada escritura de la catedral de México, en nombre de su deán y cabildo.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-02-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.145R-145V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

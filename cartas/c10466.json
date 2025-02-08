@@ -1,0 +1,28 @@
+{
+  "id": "c10466",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362896",
+    "docs": 1,
+    "title": "CARTAS DE FERNANDO DE SOLIS Y MENDOZA",
+    "scope": "Expediente correspondiente a las diligencias sobre la muerte que un soldado dió a Francisco Maldonado de Tejada. 166 fs. y 2 ho. en 4º",
+    "desc": null,
+    "locn": null,
+    "lbd": "1681-03-12.",
+    "upd": "1682-11-16.",
+    "ref": "MEXICO,52,N.20"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

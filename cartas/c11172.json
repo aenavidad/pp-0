@@ -1,0 +1,28 @@
+{
+  "id": "c11172",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363163",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., estado de la nueva erección de tres parroquias en México. 27 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1690-01-29.",
+    "upd": null,
+    "ref": "MEXICO,59,R.3,N.16"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

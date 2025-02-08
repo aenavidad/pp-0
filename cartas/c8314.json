@@ -1,0 +1,28 @@
+{
+  "id": "c8314",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783747",
+    "docs": 1,
+    "title": "Real cédula a [Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España ordenándole que junto con el arzobispo informe y envíe relación sobre el concierto que se pretende hacer entre la Iglesia Metropolitana de México y la Compañía de Jesús sobre el pago del diezmo de las haciendas que pose dicha orden.",
+    "scope": "Nota al margen: 'Ojo esta çedula y la que sigue para el Arzobispo se torno a hazer por horden del Consejo y están sentadas adelante'",
+    "desc": null,
+    "locn": "Lisboa",
+    "lbd": "1619-08-10.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.193V-196R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10812",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363026",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a S.M., averiguación de los excesos de los oficiales reales de México en lo referente a las fianzas de las mesadas eclesiásticas. 67 fs. y 2 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1686-03-06.",
+    "upd": null,
+    "ref": "MEXICO,56,R.1,N.2"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

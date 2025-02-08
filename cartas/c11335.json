@@ -1,0 +1,28 @@
+{
+  "id": "c11335",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363217",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., méritos y servicios del bachiller Antonio del Río, cura beneficiado del partido de San Felipe, de la jurisdicción de Tlaxcala. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1693-01-11.",
+    "upd": null,
+    "ref": "MEXICO,60,R.5,N.29"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

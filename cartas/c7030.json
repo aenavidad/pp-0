@@ -1,0 +1,28 @@
+{
+  "id": "c7030",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/348810",
+    "docs": 1,
+    "title": "CARTAS DE GOBERNADORES",
+    "scope": "Memorial de Juan de Mendoza y Medrano, Gobernador de Costa Rica.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1611-11-23.",
+    "upd": null,
+    "ref": "GUATEMALA,39,R.36,N.169"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

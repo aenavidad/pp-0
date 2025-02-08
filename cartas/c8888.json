@@ -1,0 +1,28 @@
+{
+  "id": "c8888",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3703471",
+    "docs": 1,
+    "title": "Inventario de bienes: Córdoba, Gonzalo de",
+    "scope": "Autos de inventario de bienes de Gonzalo de Córdoba, natural de Zalamea de la Serena, en los reinos de Castilla, regidor y provincial de la Santa Hermandad, juez de la policía y obrero mayor de la ciudad de México. \nActuados ante Felipe de Samano Turcios, alcalde ordinario de la ciudad de México.",
+    "desc": ". Folios 190-192",
+    "locn": null,
+    "lbd": "1622-07-16",
+    "upd": null,
+    "ref": "MEXICO,262,N.70"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

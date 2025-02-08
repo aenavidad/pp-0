@@ -1,0 +1,28 @@
+{
+  "id": "c11729",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363355",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE MOCTEZUMA",
+    "scope": "El Virrey a S.M., visitas de hospitales. 9 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1699-04-07.",
+    "upd": null,
+    "ref": "MEXICO,66,R.3,N.12"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

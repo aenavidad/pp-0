@@ -1,0 +1,28 @@
+{
+  "id": "c10026",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4045934",
+    "docs": 1,
+    "title": "Inventario de bienes: Robles, Bartolomé de",
+    "scope": "Autos del inventario de bienes del sargento mayor Bartolomé de Robles, vecino, alguacil mayor y alcalde ordinario de la ciudad de San Miguel. \nActuados ante Pedro de Aguilar Lasso de la Vega, caballero del hábito de Calatrava y alcalde mayor de San Salvador, San Miguel y sus provincias.",
+    "desc": ". Folios 510-512",
+    "locn": null,
+    "lbd": "1623-09-22",
+    "upd": null,
+    "ref": "MEXICO,263,N.164"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11344",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349203",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Testimonio de Nicolás de Paniagua, escribano interino público del cabildo secular de Santiago de Guatemala, sobre el repartimiento para el abasto de la carne de dicha ciudad, correspondiente a los años 1686,1690, 1691 y 1693.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1693-04-27.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.91"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

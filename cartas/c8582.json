@@ -1,0 +1,28 @@
+{
+  "id": "c8582",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12820849",
+    "docs": 1,
+    "title": "Real cédula a [Gonzalo de Salazar], obispo de Yucatán, ordenándole que no contravenga lo dispuesto en el Concilio de Trento y celebre los cabildos en la sala capitular de la catedral de dicha provincia.",
+    "scope": "Real cédula dada a petición del deán y cabildo de la catedral de Yucatán, ante la pretensión del obispo de hacer los cabildos en su casa.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1621-05-08.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.87R-87V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c6999",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781278",
+    "docs": 1,
+    "title": "Real cédula ordenando a los oficiales de la Real Hacienda de la provincia de la Florida e islas de Barlovento presentar las cuentas en la forma acostumbra, antes de que se implantaran los tribunales de cuentas de las Indias, y las envíen a la contaduría del Consejo de Indias y al tribunal de cuentas de México, respectivamente.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1611-07-31.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.26R-27V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9111",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3678281",
+    "docs": 1,
+    "title": "Inventario de bienes: Toste, Pedro",
+    "scope": "Autos del inventario de bienes del capitán Pedro Toste, natural de la ciudad de Valencia y corregidor de Tustepec y Quimixtlán. \nActuados ante Felipe de Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". Folios 732-733",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,259,N.258"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

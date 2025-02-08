@@ -1,0 +1,28 @@
+{
+  "id": "c12196",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349205",
+    "docs": 6,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Expediente instruido a instancia de memorial presentado por D. Juan González Calderón, procurador general del cabildo secular de Santiago de Guatemala, sobre el lugar que ha de ocupar dicho cabildo en los días de fiestas de Tabla con la Audiencia",
+    "desc": null,
+    "locn": null,
+    "lbd": "1694-08-17.",
+    "upd": "1694-12-14.",
+    "ref": "GUATEMALA,42,N.93"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

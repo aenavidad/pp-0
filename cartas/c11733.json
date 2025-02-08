@@ -1,0 +1,28 @@
+{
+  "id": "c11733",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363365",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE MOCTEZUMA",
+    "scope": "El Virrey a S.M., publicación de la paz ajustada con Francia. 7 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1699-04-29.",
+    "upd": null,
+    "ref": "MEXICO,66,R.3,N.22"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

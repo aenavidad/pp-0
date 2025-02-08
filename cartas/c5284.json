@@ -1,0 +1,28 @@
+{
+  "id": "c5284",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12723918",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México para que examinen de escribano y notario público de Indias a Juan de Castro.",
+    "scope": "Nota de despacho.",
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1601-03-22.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.198V(2)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

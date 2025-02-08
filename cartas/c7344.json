@@ -1,0 +1,28 @@
+{
+  "id": "c7344",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349120",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por D. Carlos Vázquez Coronado, procurador general del cabildo secular de Santiago de Guatemala, solicitando la concesión de las penas de cámara y gastos de justicia para propios",
+    "desc": null,
+    "locn": null,
+    "lbd": "1614-02-10.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.8"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

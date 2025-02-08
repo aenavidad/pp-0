@@ -1,0 +1,28 @@
+{
+  "id": "c11998",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349760",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Alonso de Mesa, contador y Miguel de la Vega Valbuena, tesorero, informando de la redención de juros con el dinero procedente de las carmelitas descalzas de Santa Teresa, de dicha ciudad. Con carta de Catalina de San Joaquín, priora del convento de carmelitas descalzas de la misma fecha",
+    "desc": null,
+    "locn": null,
+    "lbd": "1681-05-19.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

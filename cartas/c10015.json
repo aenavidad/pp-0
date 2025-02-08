@@ -1,0 +1,28 @@
+{
+  "id": "c10015",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361543",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., donativo o empréstito. 2 fs. Anejos: \n1.- Testimonio de la información que se hizo en la Nueva España tocante a las personas que tratan de impedir el donativo y empréstito a S.M. México, 18-V-1623. 4 fs. 2.- Certificación de los oficiales reales de México tocante a lo que en la caja a su cargo ha entrado por vía de donativo y empréstito. México, 5-VI-1623. 14 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1623-06-07.",
+    "upd": null,
+    "ref": "MEXICO,30,N.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

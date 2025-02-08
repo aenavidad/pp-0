@@ -1,0 +1,28 @@
+{
+  "id": "c10169",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350402",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: DIEGO DE LUNA",
+    "scope": "Expediente de Confirmación del oficio de procurador de la Audiencia de Guatemala a Diego de Luna. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1625-08-11.",
+    "upd": null,
+    "ref": "GUATEMALA,83,N.20"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c6209",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361299",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., muerte del Oidor Ribera Maldonado. Personas para la vacante. Hay duplicado. 2 fs. Anejos:\n1.- Representación del Licenciado Bartolomé Morquecho sobre sus méritos y sevicios y en súplica de merced de algún oficio de juez u oidor. 3-II-1607 [SUP]-8-V-1607 2 ho. en 4º 2.- Relación de las partes y suficiencia del Licenciado Bartolomé Morquecho. 1607 [SUP]. 1 f. 3.- Relación de las partes y suficiencia del Dr. Antonio de Ibarra. 1607 [SUP]. 1 f. 4.- Relación de las partes y suficiencias del Dr. Francisco Cerio de Esquivel. 1607 [SUP]. 1 f. 5.- Relación de las partes y suficiencia del Licenciado Juan Luis Pereyra Dobidas, abogado de la Audiencia de Guatemala. 1607 [SUP]. 1 f",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1607-01-12.",
+    "upd": null,
+    "ref": "MEXICO,27,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12072",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368864",
+    "docs": 3,
+    "title": "Informaciones: Leonardo González Correa",
+    "scope": "Informaciones de oficio y parte: Leonardo González Correa, cura de la catedral de Yucatán, cura vicario de Santa Ana, Santiago, San Sebastián y Santa Catalina extramuros de Mérida de Yucatán, cura vicario de Tiscocob, Hocaba y Zotuta. Con parecer del gobernador de Yucatán, Antonio de Figueroa",
+    "desc": null,
+    "locn": null,
+    "lbd": "1617.",
+    "upd": "1618.",
+    "ref": "MEXICO,233,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

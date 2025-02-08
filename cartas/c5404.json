@@ -1,0 +1,28 @@
+{
+  "id": "c5404",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361126",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., custodia de San Francisco de Zacatecas. Viaje de Fray Juan Gómez a la corte. 2 fs. \nAnejos: \n1.- Fray Buenaventura de Paredes, de la orden de San Francisco, a S.M., sobre la ida a la corte de Fray Juan Gómez y la conveniencia de erigir en provincia la custodia de Zacatecas. México, 20-IV-1602. 2 fs. \n2.- Fray Diego Muñoz, prelado superior de la orden de San Francisco, a S.M., sobre que se envía a la corte a Fray Juan Gómez, guardián de Zacatecas, a pedir lo conveniente para aquella custodia. Tlaxcala, 26-IV-1602. 3 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1602-04-20.",
+    "upd": null,
+    "ref": "MEXICO,25,N.6"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

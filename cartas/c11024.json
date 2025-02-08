@@ -1,0 +1,28 @@
+{
+  "id": "c11024",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20911",
+    "docs": 1,
+    "title": "'Camino que el año de 1689 hizo el governador Alonso de León desde Cuahuila hasta hallar cerca del Lago de S[an] Bernardo el lugar donde havian poblado los Franceses'.",
+    "scope": "Comprende la extensión costera entre el río Bravo o Grande y el lago San Bernardo, actual bahía de Matagorda, en el golfo de México. \n  \nTítulo en filacteria en la parte superior central. A la izquierda, tabla explicativa del derrotero con clave alfabética de las distancias, señaladas en leguas. Escala inscrita en filacteria en la parte inferior. Mención de autoridad y fecha debajo de la escala: 'Siguenza'. '1689'. \n  \nAmplia red hidrográfica. El lago y la zona costera cercana se dibujan de forma detallada. Dentro del lago un barco, con la nota 'barco quebrado', indica los restos de un navío la expedición francesa, posiblemente el 'Belle', que naufragó en 1686. \n  \nAl dorso, en horizontal invertido, etiqueta del Archivo General de Indias con número de registro 482. \n  \nIndica la ruta seguida por Alonso de León, gobernador de Coahuila, en la expedición que partió desde la ciudad de Coahuila en 1689, con el fin de localizar la colonia francesa establecida por René-Robert Cavelier, Sieur de La Salle. El autor es Carlos de Sigüenza y Góngora, que lo delineó en fecha posterior a la expedición a partir de datos que le fueron suministrados y no por medio de observación directa. \n  \nNúmero de registro: 439. ",
+    "desc": null,
+    "locn": null,
+    "lbd": "1689",
+    "upd": null,
+    "ref": "MP-MEXICO,86"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7965",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368860",
+    "docs": 1,
+    "title": "Informaciones: Francisco de Saldaña",
+    "scope": "Informaciones de oficio y parte: Francisco de Saldaña, síndico general de la provincia de Zacatecas. Información contenida de 1612 sobre la cédula concediendo medicinas a los curas enfermos",
+    "desc": null,
+    "locn": null,
+    "lbd": "1617.",
+    "upd": null,
+    "ref": "MEXICO,233,N.5"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

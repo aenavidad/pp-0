@@ -1,0 +1,28 @@
+{
+  "id": "c6011",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783699",
+    "docs": 1,
+    "title": "Real Cédula al deán y cabildo de la Iglesia de México por la que se le da licencia para enviar a la corte a una persona a tratar sus negocios, eligiendo a la que menos falta haga en dicha iglesia, y manda al arzobispo y al virrey que dejen venir a esta persona.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1605-12-22.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.104R-104V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

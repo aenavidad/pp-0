@@ -1,0 +1,28 @@
+{
+  "id": "c12198",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368479",
+    "docs": 7,
+    "title": "Informaciones: Miguel de Chaves",
+    "scope": "Informaciones de oficio y parte: Miguel de Chaves, abogado de la Audiencia de México. Con parecer de la Audiencia de México. Traslado de información de parte de 1598",
+    "desc": null,
+    "locn": null,
+    "lbd": "1591.",
+    "upd": "1607.",
+    "ref": "MEXICO,220,N.11"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

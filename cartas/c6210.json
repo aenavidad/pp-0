@@ -1,0 +1,28 @@
+{
+  "id": "c6210",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361302",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., sospecha en muerte del Gobernador Acuña, de Filipinas. Necesidad de proveerle del presidente de Guatemala. Advertencias que le hizo. Quejas contra él. Que se le provea sucesor. Hay duplicado. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1607-01-12.",
+    "upd": null,
+    "ref": "MEXICO,27,N.8"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

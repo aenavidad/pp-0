@@ -1,0 +1,28 @@
+{
+  "id": "c10055",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/369103",
+    "docs": 1,
+    "title": "ZUAZNABAR, TOMAS DE",
+    "scope": "Confirmación hecha a Tomás de Zuaznabar de dos caballerías de tierra, que se le remataron en 120 pesos de oro. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1623-12-09.",
+    "upd": null,
+    "ref": "MEXICO,242A,N.37"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

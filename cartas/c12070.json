@@ -1,0 +1,28 @@
+{
+  "id": "c12070",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349125",
+    "docs": 3,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial y poder del cabildo secular de Santiago de Guatemala, solicitando la prórroga de la renta para el preceptor de gramática del Colegio Seminario de dicha ciudad.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1616-08-31.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

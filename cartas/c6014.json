@@ -1,0 +1,28 @@
+{
+  "id": "c6014",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351815",
+    "docs": 1,
+    "title": "Informaciones: Arias Gonzalo",
+    "scope": "Informaciones de oficio y parte: Arias Gonzalo, canónigo, y coadjutor de los prebendados, y vecino de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1605.",
+    "upd": "1606.",
+    "ref": "GUATEMALA,117,N.17"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

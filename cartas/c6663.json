@@ -1,0 +1,28 @@
+{
+  "id": "c6663",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782802",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de alférez mayor de León, en Nueva España, para Rodrigo Muñoz.",
+    "scope": "[Juan de Mendoza Luna], marqués de Montesclaros, virrey de Nueva España, remató el oficio en el interesado por 500 pesos de oro común.",
+    "desc": null,
+    "locn": "San Lorenzo el Real",
+    "lbd": "1609-05-16.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.17,F.156R-157R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

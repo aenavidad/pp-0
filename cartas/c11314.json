@@ -1,0 +1,28 @@
+{
+  "id": "c11314",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349202",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial del cabildo secular de Santiago de Guatemala, solicitando que los oficios y administración de justicia de la provincia no se provean desde el Consejo de Indias, sino que lo haga el Presidente de la Audiencia.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1692-09-30.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.90"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

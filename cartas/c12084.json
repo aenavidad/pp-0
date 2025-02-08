@@ -1,0 +1,28 @@
+{
+  "id": "c12084",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368911",
+    "docs": 3,
+    "title": "Informaciones: Jerónimo de Benavides",
+    "scope": "Informaciones de oficio y parte: Jerónimo de Benavides, juez repartidor del partido y minas de Guanajuato, juez del ganado lanar en veinticuatro leguas de la provincia de Guanajuato, juez y veedor de la corambre para Nueva España, corregidor de la Nueva Veracruz y juez comisario de los obrajes de Los Angeles. Con parecer de la Audiencia de México",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620.",
+    "upd": "1621.",
+    "ref": "MEXICO,235,N.14"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

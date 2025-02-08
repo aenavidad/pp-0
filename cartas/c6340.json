@@ -1,0 +1,28 @@
+{
+  "id": "c6340",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12786830",
+    "docs": 1,
+    "title": "Real cédula al alguacil mayor de [Puebla] de los Ángeles ordenando guarde la costumbre de presentar en el Cabildo a los alguaciles nombrados por él con los títulos para ser aprobados.",
+    "scope": null,
+    "desc": null,
+    "locn": "San Lorenzo",
+    "lbd": "1607-07-07.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.243V-244V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

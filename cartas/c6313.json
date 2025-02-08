@@ -1,0 +1,28 @@
+{
+  "id": "c6313",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361309",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., muerte del tesorero de México Paredes de Bribiesca. Personas para la vacante. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1607-05-26.",
+    "upd": null,
+    "ref": "MEXICO,27,N.15"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7615",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781784",
+    "docs": 1,
+    "title": "Real Cédula a la Audiencia de México para que informe si convendría mandar a esta Audiencia los pleitos y causas con grado de apelación que se presentan en la Isla de Cuba, y no a la de Santo Domingo como lo ahora lo hacen.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1615-07-11.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.91V-92R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

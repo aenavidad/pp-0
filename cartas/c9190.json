@@ -1,0 +1,28 @@
+{
+  "id": "c9190",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3681569",
+    "docs": 1,
+    "title": "Inventario de bienes: Ramirez de Cisneros, Diego",
+    "scope": "Autos de inventario de bienes de Ramirez de Cisneros, Diego, vecino de la ciudad de México, escribano real y del juzgado de los indios naturales de México y de la Santa Hermandad. \nActuados ante Gonzalo de Carvajal corregidor de la ciudad de México.",
+    "desc": ". folios 468-469",
+    "locn": null,
+    "lbd": "1622-07-19",
+    "upd": null,
+    "ref": "MEXICO,261,N.179"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

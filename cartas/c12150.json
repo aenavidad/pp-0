@@ -1,0 +1,28 @@
+{
+  "id": "c12150",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351906",
+    "docs": 4,
+    "title": "Informaciones: Juan de Ayala",
+    "scope": "Informaciones de oficio y parte: Juan de Ayala, tesorero de la provincia de Honduras, y vecino de Comayagua. Informaciones contenidas de 1622",
+    "desc": null,
+    "locn": null,
+    "lbd": "1623.",
+    "upd": null,
+    "ref": "GUATEMALA,122,N.20"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

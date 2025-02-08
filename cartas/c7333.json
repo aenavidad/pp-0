@@ -1,0 +1,28 @@
+{
+  "id": "c7333",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783312",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de escribano de provincia de México a favor de Juan Pérez de Ribera, por renuncia de Rodrigo Pérez de Ribera.",
+    "scope": "Se remató en 1.333 pesos de oro.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1614-01-26.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.199V-201R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

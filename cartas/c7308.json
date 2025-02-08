@@ -1,0 +1,28 @@
+{
+  "id": "c7308",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783246",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de receptor de la Audiencia de México a favor de Juan Méndez de Jara, vacante tras el fallecimiento de Juan Martínez.",
+    "scope": "Se remató en 2.700 pesos de oro.",
+    "desc": null,
+    "locn": "El Pardo",
+    "lbd": "1613-12-02.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.192V-193V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

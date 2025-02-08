@@ -1,0 +1,28 @@
+{
+  "id": "c7048",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368803",
+    "docs": 1,
+    "title": "Informaciones: Luis de Cifuentes",
+    "scope": "Informaciones de oficio y parte: Luis de Cifuentes, abogado de la Audiencia de México, doctor.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1611.",
+    "upd": null,
+    "ref": "MEXICO,230,N.22"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

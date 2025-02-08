@@ -1,0 +1,28 @@
+{
+  "id": "c9906",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4046172",
+    "docs": 1,
+    "title": "Inventario de bienes: Rodríguez, Marcos",
+    "scope": "Inventario de bienes de Marcos Rodríguez, vecino y teniente de alguacil mayor de la villa de Toluca.",
+    "desc": ". Folios 516-517",
+    "locn": null,
+    "lbd": "1623-03-12",
+    "upd": null,
+    "ref": "MEXICO,263,N.166"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

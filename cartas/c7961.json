@@ -1,0 +1,28 @@
+{
+  "id": "c7961",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368867",
+    "docs": 1,
+    "title": "Informaciones: Ambrosio de Argüelles",
+    "scope": "Informaciones de oficio y parte: Ambrosio Argüelles, alguacil mayor de la Santa Inquisición en la provincia de Yucatán. Con información de su suegro Juan de Aranda de 1572 Información contenida de 1612",
+    "desc": null,
+    "locn": null,
+    "lbd": "1617.",
+    "upd": null,
+    "ref": "MEXICO,233,N.12"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

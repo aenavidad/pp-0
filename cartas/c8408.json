@@ -1,0 +1,28 @@
+{
+  "id": "c8408",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12784039",
+    "docs": 1,
+    "title": "Real cédula a los oficiales reales de la ciudad e la Veracruz, mandándoles entregar el pliego que se le remite con esta cédula a Lope de Hoces y Córdoba, capitán general dela flota que está en ese puerto, y si ya he hubiese partido se la envíen al puerto de La Habana, de manera que llegue a sus manos.",
+    "scope": "Nota al margen: 'pasose al libro de Nueva España de oficio donde toca'",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-03-01.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.248R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

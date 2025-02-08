@@ -1,0 +1,28 @@
+{
+  "id": "c8290",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783478",
+    "docs": 1,
+    "title": "Real cédula, conformando y aprobando la ordenanza inserta realizada por el prior y cónsules de la Universidad de mercaderes de México, dada en esa ciudad a 18 de enero de 1619, ordenando al virrey, Audiencia y demás justicias de Nueva España velar por su cumplimiento.",
+    "scope": null,
+    "desc": null,
+    "locn": "Almada",
+    "lbd": "1619-06-01.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.177R-178V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

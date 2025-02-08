@@ -1,0 +1,28 @@
+{
+  "id": "c7347",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349122",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial del cabildo secular de Santiago de Guatemala, solicitando no se conmuten tributos en especie por dinero.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1614-02-15.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

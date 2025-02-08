@@ -1,0 +1,28 @@
+{
+  "id": "c9919",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3707432",
+    "docs": 1,
+    "title": "Inventario de bienes: Bello de Alvarado, Juan",
+    "scope": "Autos del inventario de bienes de Juan Bello de Alvarado, vecino de la ciudad de México, descendiente de conquistadores y corregidor del partido de Atlatlauca, de Iguala, de Tetela del Volcán y del partido de Chinantla.",
+    "desc": ". Folios 62-64",
+    "locn": null,
+    "lbd": "1623-04-26",
+    "upd": null,
+    "ref": "MEXICO,263,N.21"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

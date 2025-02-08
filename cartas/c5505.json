@@ -1,0 +1,28 @@
+{
+  "id": "c5505",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361135",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., mal estado de las cosechas. La reducción de los indios. Poblaciones de indios en las minas. Ensaye de la plata. Dinero a Filipinas y mercaderías de China. Rector de la Universidad. Oficio de correo mayor. 7 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1602-12-02.",
+    "upd": null,
+    "ref": "MEXICO,25,N.15"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

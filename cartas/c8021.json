@@ -1,0 +1,28 @@
+{
+  "id": "c8021",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781123",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de escribano público y del juzgado de minas y real de la Veracruz y Topia en Nueva Vizcaya a Juan de Torres, por muerte de Francisco González Carrasco.",
+    "scope": "[Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España, remató el oficio en el interesados por 12.100 pesos de oro común.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1618-03-28.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.47R-47V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

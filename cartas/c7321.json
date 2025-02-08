@@ -1,0 +1,28 @@
+{
+  "id": "c7321",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368814",
+    "docs": 1,
+    "title": "Informaciones: Isabel de Arellano",
+    "scope": "Informaciones de oficio y parte: Isabel de Arellano.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1613.",
+    "upd": null,
+    "ref": "MEXICO,231,N.9"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

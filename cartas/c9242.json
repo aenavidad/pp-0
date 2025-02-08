@@ -1,0 +1,28 @@
+{
+  "id": "c9242",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3622136",
+    "docs": 1,
+    "title": "Inventario de bienes: Gutiérrez Arévalo, Juan",
+    "scope": "Autos de inventario de bienes de Juan Gutiérrez Arévalo, vecino de la ciudad de México, alguacil encargado de la cobranza de los tributos reales en la ciudad de México. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". folios 253-254",
+    "locn": null,
+    "lbd": "1622-07-20",
+    "upd": null,
+    "ref": "MEXICO,261,N.96"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7869",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/364167",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Parecer de la Audiencia de México, en favor de Pedro Sñanchez de Erbas.",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1617-05-22.",
+    "upd": null,
+    "ref": "MEXICO,73,R.9,N.72"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

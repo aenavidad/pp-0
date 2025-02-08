@@ -1,0 +1,28 @@
+{
+  "id": "c11236",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/20914",
+    "docs": 1,
+    "title": "'[cruz] Planta cosmographica del lago de San Bernardo con los senos y ríos que a el se comunican, descubierto por horden del Ex[celentísi]mo Señor Conde de Galue Vi[rrey], G[obernad]or y Cap[itá]n G[enera]l desta N[uev]a España, obserbada y delineada por D[o]n Man[ue]l Joseph de Cardenas, Afic[iona]do a las Mat[emátic]as. A[ñ]o de 1691'.",
+    "scope": "Mención de autoridad y fecha en el titulo: 'Obserbada y delineada por D[o]n Man[ue]l Joseph de Cárdenas, Afic[iona]do a las Mat[emátic]as. A[ñ]o de 1691'. \n  \nComprende la zona explorada por la expedición de Francisco de Llanos y Manuel José de Cárdenas que partió de Veracruz en 1691 con el objetivo de localizar el asentamiento francés de Fort St. Louis, establecido por René-Robert Cavelier de la Salle en 1685. Buscaba también una ruta navegable hasta la recién fundada misión de San Francisco de los Texas en el interior, evaluar la posibilidad de establecer un presidio y cartografiar la zona. El recorrido de la expedición se marca en línea de puntos. \n  \nSe representan los lagos San Bernardo y Todos los Santos y la laguna de Aguadulce y su sistema hidrográfico: ríos Espíritu Santo, de los Franceses, Guadalupe, Medina y Santísima Trinidad. \n  \nSe indican los principales sitios de interés por medio de cruces, números y letras. \n  \nLa localización del asentamiento francés se indica en texto: 'pueblo de los franceses,' en el río de los Franceses. \n  \nLa zona corresponde en la actualidad a las bahías de Matagorda y Lavaca y área circundante. \n  \nNúmero de registro: 442 ",
+    "desc": null,
+    "locn": null,
+    "lbd": "1691",
+    "upd": null,
+    "ref": "MP-MEXICO,89"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

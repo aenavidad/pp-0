@@ -1,0 +1,28 @@
+{
+  "id": "c5342",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361110",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga y Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., juez conservador para monasterios. Nuevo México. 4 fs. Anejos: \n1.-Testimonio del recaudo que el Virrey dio a los prelados del convento de Santo Domingo sobre la fundación que tratan de hacer los carmelitas descalzos. México, 24-VI-1601. 2 fs. 2.- El Virrey al Cabildo sede vacante de México, testimonio del auto de ruego y encargo sobre la fundación del colegio de los carmelitas descalzos. México, 28-VII-1601. 2 fs. 3.- El Virrey al cabildo sede vacante de la iglesia de México, testimonio tocante a la erección del Colegio del Carmen. México, 3-VIII-1601. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1601-08-03.",
+    "upd": null,
+    "ref": "MEXICO,24,N.60"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

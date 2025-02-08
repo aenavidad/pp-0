@@ -1,0 +1,28 @@
+{
+  "id": "c8665",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361490",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., recibimiento de los virreyes. 2 fs. Anejos: \n1.- Real Cédula sobre que ningún virrey del Perú ni Nueva España pueda ser recibido con palio en los pueblos de su distrito ni a titulo de sus entradas en ellos. Madrid, 7-VI-1620. 4 fs. 2.- Certificación dada por el escribano de cámara del Virrey de los presentes que se le hicieron en el camino desde que salió de Veracruz hasta su llegada a la ciudad de México. México, 1-XI-1621. 2 fs. 3.- Certificación dada por el escribano de gobierno del virrey de los presentes que se le hicieron en el camino desde que salió de Veracruz hasta su llegada a la ciudad de México. México, 2-XI-1621. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1621-11-04.",
+    "upd": null,
+    "ref": "MEXICO,29,N.57"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

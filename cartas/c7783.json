@@ -1,0 +1,28 @@
+{
+  "id": "c7783",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368849",
+    "docs": 1,
+    "title": "Informaciones: Francisco Ortiz de Saavedra",
+    "scope": "Informaciones de oficio y parte: Francisco Ortiz de Saavedra, clérigo de órdenes menores, natural de México.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1616.",
+    "upd": null,
+    "ref": "MEXICO,232,N.22"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

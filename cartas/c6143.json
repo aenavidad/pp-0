@@ -1,0 +1,28 @@
+{
+  "id": "c6143",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783968",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de alguacil mayor de Veracruz y puerto de San Juan de Ulúa a favor de Antonio de Robles.",
+    "scope": "Se remató en 12.000 pesos de oro.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1606-06-17.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.150V-153V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

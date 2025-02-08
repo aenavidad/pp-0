@@ -1,0 +1,28 @@
+{
+  "id": "c11909",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349119",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial y copia de reales cédulas del cabildo secular de Santiago de Guatemala, sobre no intromisión de la Audiencia en las elecciones hechas en el cabildo.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1614-01-30.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.7"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c8179",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782644",
+    "docs": 1,
+    "title": "Real cédula a Lope de Hoces y Córdoba, capitán general de la flota de Nueva España de ese año de 1619, dándole la orden que se ha de guardar para que no se derroten bajeles.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-01-19.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.127V-128V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

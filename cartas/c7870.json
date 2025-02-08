@@ -1,0 +1,28 @@
+{
+  "id": "c7870",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783066",
+    "docs": 1,
+    "title": "Real Cédula a [Gonzalo de Salazar y Ávila], obispo de Yucatán, para que informe sobre lo que los oficiales reales de su provincia piden se derogue una cédula de 1580, que se dio a pedimento de la Hacienda Real para ciertos pueblos y que se les de licencia para poner tenientes en las zonas que les parecieren necesarios.",
+    "scope": "Nota de despacho",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1617-05-24.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.211R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

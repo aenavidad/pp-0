@@ -1,0 +1,28 @@
+{
+  "id": "c5640",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361156",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., corregidor de México. Venta de regimientos. Cofradías de negros. Relación del factor. Castellano de San Juan de UIúa. Reducción general de los indios. Protomédico. 8 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1603-05-27.",
+    "upd": null,
+    "ref": "MEXICO,25,N.36"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

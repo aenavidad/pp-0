@@ -1,0 +1,28 @@
+{
+  "id": "c9953",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3747713",
+    "docs": 1,
+    "title": "Inventario de bienes: Estrada y Medinilla, Pedro de",
+    "scope": "Autos del inventario de bienes de Pedro de Estrada y Medinilla, vecino, alcalde ordinario y corregidor del valle de la ciudad de Santiago de Guatemala.",
+    "desc": ". Folios 242-243",
+    "locn": null,
+    "lbd": "1623-05-18",
+    "upd": null,
+    "ref": "MEXICO,263,N.72"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

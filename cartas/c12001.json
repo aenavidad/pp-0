@@ -1,0 +1,28 @@
+{
+  "id": "c12001",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349766",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Miguel de la Vega Valbuena, tesorero y José Fernández de Córdoba, contador, informando de la ejecución de la real cédula sobre embargo de cien mantas pertenecientes a Juan Bautista González del Alamo, alcalde mayor de Chiapa. Con copia de real cédula de 22 de noviembre de 1680",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-07-13.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.16"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

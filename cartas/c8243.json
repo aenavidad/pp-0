@@ -1,0 +1,28 @@
+{
+  "id": "c8243",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783166",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México, ordenándoles informen, con su parecer, sobre lo que pide el arzobispo de México a cerca de que las iglesias de la ciudad guarden la reverencia a la catedral y la sigan en los toques de campañas y las demás exenciones que deben.",
+    "scope": "A petición del licenciado Pedro Rodríguez de Castro, provisor y vicario general del arzobispado de México, en nombre del arzobispo Juan [Pérez de] la Serna.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-03-17.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.159V-160V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

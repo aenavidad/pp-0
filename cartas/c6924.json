@@ -1,0 +1,28 @@
+{
+  "id": "c6924",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361386",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., despachos para Filipinas y Japón. Descubrimiento de islas ricas. Provisión de oficiales en naos de Filipinas. Relación de lo del Maluco. Navío que se compró en el Japón. Castigo de indios alzados en Nueva Vizcaya. Despacho de la hacienda. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1611-03-18.",
+    "upd": null,
+    "ref": "MEXICO,28,N.13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

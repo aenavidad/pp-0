@@ -1,0 +1,28 @@
+{
+  "id": "c7359",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12780830",
+    "docs": 1,
+    "title": "Real Provisión concediendo el título de alférez mayor de las villas de San Miguel y San Felipe a Alonso Fernández de Porras.",
+    "scope": "Se remató en 1.000 pesos de oro común.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1614-03-07.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.7R-8R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10705",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362985",
+    "docs": 1,
+    "title": "Carta del virrey marqués de la Laguna.",
+    "scope": "El Virrey a S.M., invasiones de los piratas en las costas, particularmente en el puerto de Tampico. 30 fs. y 1 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1684-08-12.",
+    "upd": null,
+    "ref": "MEXICO,54,R.2,N.37"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

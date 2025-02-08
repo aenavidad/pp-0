@@ -1,0 +1,28 @@
+{
+  "id": "c9344",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3703020",
+    "docs": 1,
+    "title": "Inventario de bienes: Cervantes Carvajal, Juan de",
+    "scope": "Autos de inventario de bienes de Juan de Cervantes Carvajal, descendiente de conquistadores y primeros pobladores, encomendero, alcalde mayor y teniente de capitán general de la ciudad de Puebla de los Ángeles; alcalde mayor de la provincias de Actopan y Teposcolula; y alcalde ordinario de México.",
+    "desc": ". Folios 170-178",
+    "locn": null,
+    "lbd": "1622-07-27",
+    "upd": null,
+    "ref": "MEXICO,262,N.65"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

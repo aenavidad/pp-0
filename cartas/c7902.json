@@ -1,0 +1,28 @@
+{
+  "id": "c7902",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783123",
+    "docs": 1,
+    "title": "Real Provisión concediendo el título de escribano de la provincia de México a Pedro Sánchez García.",
+    "scope": "Por renuncia de Juan Enríquez de Arguijo. El oficio se remató en 3.500 pesos.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1617-06-20.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.220V-221V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

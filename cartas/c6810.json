@@ -1,0 +1,28 @@
+{
+  "id": "c6810",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/350286",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: SIMON ORTIZ DE MIRANDA",
+    "scope": "Expediente de confirmación del oficio de depositario general de Guatemala a Simón Ortiz de Miranda. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1610-05-17.",
+    "upd": null,
+    "ref": "GUATEMALA,80,N.27"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

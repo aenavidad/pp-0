@@ -1,0 +1,28 @@
+{
+  "id": "c6094",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12784069",
+    "docs": 1,
+    "title": "Real Cédula a [Juan de Mendoza y Luna], virrey de Nueva España, y a la Audiencia de México para que informen sobre la petición de fray Pedro de las Casas, procurador general de la orden de la Merced de esa provincia, de separarse de la provincia de Guatemala, a la cual están sujetos, por la gran distancia que supone ir allí y por el buen gobierno de sus conventos.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1606-03-27.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.137R(1)"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

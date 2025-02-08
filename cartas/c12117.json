@@ -1,0 +1,28 @@
+{
+  "id": "c12117",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368618",
+    "docs": 4,
+    "title": "Informaciones: Juan de Aranguren",
+    "scope": "Informaciones de oficio y parte: Juan de Aranguren, clérigo presbítero. Dos ejemplares de traslados, uno de 1603 de la misma información de 1603. Otro traslado de 1603 de información de ese año. Parecer de la Audiencia de 1603",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603.",
+    "upd": null,
+    "ref": "MEXICO,224,N.18"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

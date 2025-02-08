@@ -1,0 +1,28 @@
+{
+  "id": "c8350",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783732",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México y demás justicias de Nueva España, mandándoles ver los dos capítulos insertos de la cédula de 22 de mayo de 1609 dirigida al virrey de Nueva España, sobre el modo en que se han de prestar los servicio personales de los indios, ordenando su estricto cumplimiento.",
+    "scope": "Además del cumplimiento estricto de dicha orden, el rey declara que el fiscal de la Audiencia de México asistirá de oficio o a petición del arzobispo, cabildo eclesiástico o interesados en la ejecución de dicha orden.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-11-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.213V-215V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

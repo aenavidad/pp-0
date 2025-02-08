@@ -1,0 +1,28 @@
+{
+  "id": "c6129",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361280",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., estado común. Reducciones. Devolución de extranjero. Salarios de corregimientos. Ordenanzas de minas. Jurisdicción de cruzada. Socorro a La Habana. 4 fs. Anejo:\n1.- El Virrey a S.M., capítulo de carta sobre lo que ha pasado con el deán, delegado general de cruzada, acerca de los que dicho Virrey le escribió tocante a la jurisdicción de cruzada. 30-V-1606. Copia [S.F.]. 1 f",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-05-30.",
+    "upd": null,
+    "ref": "MEXICO,26,N.92"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

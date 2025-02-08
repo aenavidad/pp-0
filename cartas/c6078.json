@@ -1,0 +1,28 @@
+{
+  "id": "c6078",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349555",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Melchor Ochoa de Villanueva, tesorero, y Pedro del Castillo Becerra, contador, informando sobre el envío de caudales.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1606-03-07.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.99"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

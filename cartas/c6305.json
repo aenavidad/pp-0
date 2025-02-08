@@ -1,0 +1,28 @@
+{
+  "id": "c6305",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349110",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial presentado por Alonso de Aybar, procurador del cabildo secular de Santiago de Guatemala, suplicando que la nao Capitana de cada flota sea de armada no mercante, para preservarla de los corsarios.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1607-05-16.",
+    "upd": null,
+    "ref": "GUATEMALA,41,N.118"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

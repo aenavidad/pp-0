@@ -1,0 +1,28 @@
+{
+  "id": "c8545",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368898",
+    "docs": 1,
+    "title": "Informaciones: Cristóbal de Rojas",
+    "scope": "Informaciones de oficio y parte: Cristóbal de Rojas, oficial mayor de la Contaduría de los tributos reales.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620.",
+    "upd": null,
+    "ref": "MEXICO,235,N.1"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

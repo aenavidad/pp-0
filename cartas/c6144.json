@@ -1,0 +1,28 @@
+{
+  "id": "c6144",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783971",
+    "docs": 1,
+    "title": "Real provisión confirmando título de alguacil mayor de México a favor de Francisco Rodríguez de Guevara, vacante tras el fallecimiento de Baltasar Mejía Salmerón.",
+    "scope": "Se remató en 122.790 pesos de oro.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1606-06-17.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.16,F.154R-155V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

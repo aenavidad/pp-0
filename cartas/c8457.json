@@ -1,0 +1,28 @@
+{
+  "id": "c8457",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12817921",
+    "docs": 1,
+    "title": "Real cédula a los alcaldes del crimen de la Audiencia de México para que informen del motivo por el que encarcelaron a los oficiales de la Real Hacienda de dicha ciudad y a su escribano, y ordenándoles que en adelante tengan buena correspondencia con ellos.",
+    "scope": "Real cédula dada en virtud de la carta de los oficiales reales de 27 de septiembre de 1619.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-06-03.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.23R-24V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c9876",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3738807",
+    "docs": 1,
+    "title": "Inventario de bienes: Cantoral Cabanzón, Pedro de",
+    "scope": "Autos del inventario de bienes de Pedro de Cantoral Cabanzón, vecino, teniente de alcalde mayor, alcalde ordinario y alcalde de la Santa Hermandad de la ciudad de Valladolid, cabeza del obispado y provincia de Michoacán. \nActuados ante Fernando de Bocanegra, alcalde mayor de la ciudad de Valladolid, en Michoacán.",
+    "desc": ". Folios 94-96",
+    "locn": null,
+    "lbd": "1623-01-30",
+    "upd": null,
+    "ref": "MEXICO,263,N.30"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

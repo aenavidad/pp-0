@@ -1,0 +1,28 @@
+{
+  "id": "c10217",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349436",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Memorial del cabildo de Cartago, sobre lo innecesario del nombramiento de cuatro corregidores por parte del Presidente de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1626-05-27.",
+    "upd": null,
+    "ref": "GUATEMALA,44B,N.73"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

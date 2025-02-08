@@ -1,0 +1,28 @@
+{
+  "id": "c10101",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351001",
+    "docs": 1,
+    "title": "CONFIRMACION DE ENCOMIENDA DE TIPILAPA, ETC",
+    "scope": "Expediente de Confirmación de Encomienda de Tipilapa, Comolapa, Guaslaguina, Jaltena y Nandayme a Andrés López de Moraga. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1624-09-24.",
+    "upd": null,
+    "ref": "GUATEMALA,98,N.39"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

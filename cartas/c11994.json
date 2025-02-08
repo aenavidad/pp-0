@@ -1,0 +1,28 @@
+{
+  "id": "c11994",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349198",
+    "docs": 2,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, informando de la necesidad de apertura del comercio de vinos con el Perú. Acompaña carta del convento de Nuestra Señora de la Merced sobre el mismo tema",
+    "desc": null,
+    "locn": null,
+    "lbd": "1680-04-05.",
+    "upd": null,
+    "ref": "GUATEMALA,42,N.86"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

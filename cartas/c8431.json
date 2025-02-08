@@ -1,0 +1,28 @@
+{
+  "id": "c8431",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349586",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Pedro del Castillo Becerra, contador, informando de los oficios de Maestres de Campo dados por Alonso Criado de Castilla, presidente de la Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1620-05-11.",
+    "upd": null,
+    "ref": "GUATEMALA,46,N.4"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

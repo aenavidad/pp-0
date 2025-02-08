@@ -1,0 +1,28 @@
+{
+  "id": "c8950",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4052586",
+    "docs": 1,
+    "title": "Inventario de bienes: Villa Gómez, Alonso de",
+    "scope": "Autos de inventario de bienes de Alonso de Villa Gómez, vecino de la ciudad de México; capitán de infantería en Filipinas; alcalde mayor y capitán a guerra de la villas de San Felipe y San Miguel en la frontera de los chichimecas. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". Folios 736-737",
+    "locn": null,
+    "lbd": "1622-07-18",
+    "upd": null,
+    "ref": "MEXICO,262,N.269"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

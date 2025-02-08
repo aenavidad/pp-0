@@ -1,0 +1,28 @@
+{
+  "id": "c8770",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3618575",
+    "docs": 1,
+    "title": "Inventario de bienes: Rodríguez de Guevara, Francisco",
+    "scope": "Autos de inventario de bienes de Francisco Rodríguez de Guevara, alguacil mayor y regidor de la ciudad de México. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". Folios 226-427",
+    "locn": null,
+    "lbd": "1622-07-12",
+    "upd": null,
+    "ref": "MEXICO,260,N.167"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

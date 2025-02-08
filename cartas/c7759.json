@@ -1,0 +1,28 @@
+{
+  "id": "c7759",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782604",
+    "docs": 1,
+    "title": "Real Cédula a [Juan Pérez de la Serna], arzobispo de México, para que informe sobre la conveniencia de acrecentar en aquella ciudad el número de parroquias y anexos.",
+    "scope": "Nota al margen: 'Está el decreto de esto en carta del virrey de este año'.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1616-10-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.166R-167V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

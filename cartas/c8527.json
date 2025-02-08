@@ -1,0 +1,28 @@
+{
+  "id": "c8527",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12819200",
+    "docs": 1,
+    "title": "Real provisión confirmando el título de tallador de la Casa de la Moneda de México para Pedro de Toledo, vacante por muerte de Francisco de Valdés y Cervantes.",
+    "scope": "[Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España, remató el oficio en el interesado por 26.666 pesos, 5 tomines y 4 granos de oro común, la tercera parte de su valor.",
+    "desc": null,
+    "locn": "El Pardo",
+    "lbd": "1620-11-09.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.59V-61R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

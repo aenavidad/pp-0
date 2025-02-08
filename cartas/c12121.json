@@ -1,0 +1,28 @@
+{
+  "id": "c12121",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368637",
+    "docs": 4,
+    "title": "Informaciones: Manuel de Cárcamo",
+    "scope": "Informaciones de oficio y parte: Manuel de Cárcamo, cura de la parroquia de la Veracruz, de México. Dos ejemplares de traslados de 1604 y 1609 de informaciones de 1604. Parecer de la Audiencia de 1604",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": null,
+    "ref": "MEXICO,225,N.6"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

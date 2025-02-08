@@ -1,0 +1,28 @@
+{
+  "id": "c8756",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361519",
+    "docs": 1,
+    "title": "Carta del virrey Diego Carrillo de Mendoza, marqués de Gelves.",
+    "scope": "El Virrey a S.M., materia de Filipinas. Encabalgamiento de artillería. 2 fs. Anejos: \n1.- Relación de lo que de la real caja de México se ha pagado y enviado al puerto de Acapulco por cuenta de gastos de Filipinas, así para despacho de naos como en socorro. México, 21-V-1622. 2 fs. 2.- Relación de la plata, reales, enseres y géneros que por la real caja de México se han enviado de socorro a las islas Filipinas. México, 10-VI-1622. 2 fs. 3.- Relación de la gente de guerra, mar, religiosos y forzados, armas y municiones, que se han enviado de la Nueva España para las islas Filipinas. 1622. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1622-06-16.",
+    "upd": null,
+    "ref": "MEXICO,29,N.86"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

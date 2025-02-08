@@ -1,0 +1,28 @@
+{
+  "id": "c8436",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12817498",
+    "docs": 1,
+    "title": "Real cédula a la Audiencia de México para que no se entrometa en los asuntos tocantes al arzobispo de dicha ciudad.",
+    "scope": "Dada a petición de Pedro Rodríguez de Castro, provisor y vicario general del arzobispado de México, en nombre de Juan [Pérez] de la Serna, arzobispo de dicha ciudad, tras contravenir el fiscal de la Audiencia la cédula de 7 de mayo de 1577, y entrometerse en la orden que dio dicho arzobispo para que la estación que hacían los fieles en cuaresma entre el humilladero y la ciudad, en busca de indulgencias, se hiciese a pie y no en coches, sillas, literas o a caballo.",
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-05-20.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.14V-16R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c12054",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349563",
+    "docs": 3,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Pedro del Castillo Becerra, contador, sobre cobro de tributos a los naturales; gastos de defensa en el Puerto de Santo Tomás de Castilla; ayuda de costa a los oidores que visitan la provincia y cobro de salarios del licenciado Diego de Arredondo Bracamonte, oidor de de la Audiencia de Guatemala. Con duplicado y copia de real cédula",
+    "desc": null,
+    "locn": null,
+    "lbd": "1610-05-11.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.107"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

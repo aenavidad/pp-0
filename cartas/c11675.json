@@ -1,0 +1,28 @@
+{
+  "id": "c11675",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363335",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE MOCTEZUMA",
+    "scope": "El Virrey a S.M., sobre las rondas de la ciudad de México. 10 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1698-04-20.",
+    "upd": null,
+    "ref": "MEXICO,65,R.3,N.13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

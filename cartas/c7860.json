@@ -1,0 +1,28 @@
+{
+  "id": "c7860",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12782889",
+    "docs": 1,
+    "title": "Real Cédula a los oficiales de la Real Hacienda de Veracruz para que de aquí en adelante no se paguen los fletes de la hacienda a los maestres de plata sino que se haga en la Casa de Contratación de Sevilla.",
+    "scope": null,
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1617-05-07.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.19,F.196R-196V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

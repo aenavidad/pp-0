@@ -1,0 +1,28 @@
+{
+  "id": "c8045",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781481",
+    "docs": 1,
+    "title": "Real Cédula a [Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España, ordenándole llegado el caso, provea del azogue necesario para el laboreo de las minas que descubran Tomas de Cardona y consortes, con quienes por mandato real se ha tomado asiento para nuevos descubrimientos de perlas y otros efectos.",
+    "scope": null,
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1618-05-14.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.62R-62V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

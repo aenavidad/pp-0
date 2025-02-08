@@ -1,0 +1,28 @@
+{
+  "id": "c11929",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349579",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Melchor Ochoa de Villanueva, tesorero y Pedro del Castillo Becerra, contador, informando de la visita a la Caja Real hecha por Juan Galdós de Valencia, oidor de la Audiencia de México, y de las fianzas pedidas por el presidente y Audiencia de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1619-06-14.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.123"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

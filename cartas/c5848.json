@@ -1,0 +1,28 @@
+{
+  "id": "c5848",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351809",
+    "docs": 1,
+    "title": "Informaciones: Juan Bautista Bartolomé",
+    "scope": "Informaciones de oficio y parte: Juan Bautista Bartolomé, escribano real y procurador general y síndico de Santiago de Guatemala, y vecino de Santiago de Guatemala.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": "1607.",
+    "ref": "GUATEMALA,117,N.11"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c7241",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347086",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Testimonio de lo que ofreció dar a cuenta en razón de condenaciones de penas de cámara y gastos de justicia, su depositario Juan López, en la visita de Pedro Sánchez Araque, a la provincia de Nicaragua.",
+    "desc": null,
+    "locn": "Santiago de Guatemala",
+    "lbd": "1613-03-13.",
+    "upd": null,
+    "ref": "GUATEMALA,13,R.5,N.47"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

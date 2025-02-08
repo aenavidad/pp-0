@@ -1,0 +1,28 @@
+{
+  "id": "c9972",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4005260",
+    "docs": 1,
+    "title": "Inventario de bienes: Polanco, Fernando de",
+    "scope": "Autos del inventario de bienes de Fernando de Polanco, vecino de la ciudad de Santiago de Guatemala, descendiente de conquistador, corregidor del partido de Guazacapán y encomendero de un tercio del pueblo de Mita.",
+    "desc": ". Folios 484-486",
+    "locn": null,
+    "lbd": "1623-05-19",
+    "upd": null,
+    "ref": "MEXICO,263,N.154"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

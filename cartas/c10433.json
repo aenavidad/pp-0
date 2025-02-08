@@ -1,0 +1,28 @@
+{
+  "id": "c10433",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362875",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY PAYO ENRIQUEZ DE RIVERA",
+    "scope": "Expediente sobre que se provean las cátedras de Leyes y Medicina en la Universidad de Guatemala. 12 fs",
+    "desc": null,
+    "locn": null,
+    "lbd": "1680-08-07.",
+    "upd": "1681-10-14.",
+    "ref": "MEXICO,51,R.2,N.42"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

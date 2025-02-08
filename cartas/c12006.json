@@ -1,0 +1,28 @@
+{
+  "id": "c12006",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349790",
+    "docs": 2,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Miguel de la Vega Valbuena, tesorero y José Fernández de Córdoba, contador, y testimonio de autos, informando del aumento de 67 pesos en el salario de Pedro de la Barrena, capitán de la sala de armas de la ciudad, hecho por la Junta de Hacienda.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1684-08-03.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.40"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c11744",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363375",
+    "docs": 1,
+    "title": "Cartas del virey conde de Moctezuma",
+    "scope": "El virrey a S.M., reintegro a la Real Hacienda del préstamo que se hizo a la minería de San Luis de Potosí. 12 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1699-05-09.",
+    "upd": null,
+    "ref": "MEXICO,66,R.3,N.32"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5434",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361133",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "el Virrey a S.M., noticias de paz de Nueva Vizcaya. Hay duplicado. 2 fs. Anejos: \n1.- Relación y testimonio que envió el gobernador de la Nueva Vizcaya de ciertos pueblos de la nación rebelada que habían venido de paz. Minas de Topia, 24-IV-1602. Hay duplicado. 7 fs 2.- Don Rodrigo de Vivero, gobernador de la Nueva Vizcaya, al Virrey, sobre la guerra y otras necesidades de la provincia. San Andrés, 14-V-1602. Hay duplicado. 2 fs. 3.- Don Rodrigo de Vivero, gobernador de la Nueva Vizcaya, al conde de Monterrey, con envío de testimonio de indios que vinieron de Paz. Minas de San Andrés, 18-V-1602. Hay duplicado. 1 f",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1602-06-06.",
+    "upd": null,
+    "ref": "MEXICO,25,N.13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

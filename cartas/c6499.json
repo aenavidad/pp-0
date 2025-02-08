@@ -1,0 +1,28 @@
+{
+  "id": "c6499",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349912",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Honduras",
+    "scope": "Relación hecha por Miguel Martínez de Rivamartín, tesorero de la Caja Real de Comayagua, de las cosas que solicita para pasar a la provincia de Honduras.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1608-08-01.",
+    "upd": null,
+    "ref": "GUATEMALA,49,N.69"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10315",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361549",
+    "docs": 1,
+    "title": "Carta del virrey Rodrigo Pacheco y Osorio, marqués de Cerralbo.",
+    "scope": "El Virrey a S.M., unión de las armas. 2 fs. Anejos:\n1.- Testimonio de los autos hechos por la ciudad de México de la Nueva España en razón de la unión de armas y servicios que hace a S.M. con 250.000 ducados en cada año. México, 14-I-1628. 28 fs. 2.- Razonamiento que el Virrey hizo al cabildo de México sobre la unión de las armas. México, 10-X-1628. 4 fs. 3.- Razonamiento que el Virrey hizo al cabildo de México sobre la unión de las armas. México, 19-X-1628. 2 fs. 4.- Copia de capítulo de carta del Virrey a S.M. en materia de gobierno. 11-X-1628. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1628-01-14.",
+    "upd": null,
+    "ref": "MEXICO,30,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

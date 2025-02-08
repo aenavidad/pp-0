@@ -1,0 +1,28 @@
+{
+  "id": "c6062",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361269",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., quebrantamiento dela cárcel de Puebla por clérigos de ella. 2 fs. Anejo:\n1.- Decreto del Consejo de Indias sobre que se responda al Virrey sobre lo que escribe de las resistencias y desacatos de eclesiásticos de México y Los Angeles y lo mismo al arzobispo. 21-VIII-1606. 2 ho. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1606-02-17.",
+    "upd": null,
+    "ref": "MEXICO,26,N.81"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

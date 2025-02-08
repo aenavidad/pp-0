@@ -1,0 +1,28 @@
+{
+  "id": "c10240",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351923",
+    "docs": 1,
+    "title": "Informaciones: Tomás de Buín",
+    "scope": "Informaciones de oficio y parte: Tomás de Buín, clérigo de órdenes menores.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1626.",
+    "upd": null,
+    "ref": "GUATEMALA,123,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

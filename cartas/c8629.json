@@ -1,0 +1,28 @@
+{
+  "id": "c8629",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12875925",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y a la Audiencia de México para que informen, a petición del doctor Cristóbal Hidalgo Bendoval, sobre que no existe en dicha ciudad una cátedra de práctica de cirugía y anatomía, y dispongan lo que más convenga al respecto.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1621-07-10.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.107R-107V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

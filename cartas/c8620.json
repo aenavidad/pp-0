@@ -1,0 +1,28 @@
+{
+  "id": "c8620",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12875824",
+    "docs": 1,
+    "title": "Real cédula a los oficiales de la Real Hacienda de Yucatán para que cobren a Juan Jiménez de Tejada, escribano de gobernación de dicha provincia, y a Diego de Solís Osorio y Miguel de Argáez, alcaldes ordinarios de la misma, las cantidades que debe el primero de la renunciación que de dicho oficio de escribano hizo en él su hijo Juan de Tejada.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1621-06-14.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.21,F.104V-105R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

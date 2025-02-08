@@ -1,0 +1,28 @@
+{
+  "id": "c11540",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363303",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE GALVE",
+    "scope": "El Virrey a S.M., pleito entre la Audiencia de México y Don Juan Gerónimo López de Peralta, por las tierras que sus antecesores dieron para la fundación de la ciudad de San Andrés. 597 fs., 2 h. en 4º",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1696-01-30.",
+    "upd": null,
+    "ref": "MEXICO,64,R.2,N.8"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

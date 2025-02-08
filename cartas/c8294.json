@@ -1,0 +1,28 @@
+{
+  "id": "c8294",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783480",
+    "docs": 1,
+    "title": "Real Cédula a [Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España, ordenándole guardar y cumplir la cédula inserta de El Pardo a 24 de octubre de 1576 en lo que se refiere a informar, con su parecer, sobre el número de conventos y religiosos que hay en Nueva España, orden a la que pertenecen, las propiedades que poseen, su forma de adquisición.",
+    "scope": "La cédula inserta se anota en extracto.",
+    "desc": null,
+    "locn": "Belem",
+    "lbd": "1619-06-15.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.181R-182R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

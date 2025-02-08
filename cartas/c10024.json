@@ -1,0 +1,28 @@
+{
+  "id": "c10024",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3744793",
+    "docs": 1,
+    "title": "Inventario de bienes: Cortés de Reina, Fabián",
+    "scope": "Autos del inventario de bienes del alférez Fabián Cortés de Reina, vecino, alcalde ordinario y de la Santa Hermandad de la ciudad de San Miguel y alcalde de la Santa Hermandad de la ciudad de Comayagua. \nActuados ante Pedro de Aguilar Lasso de la Vega, caballero del hábito de Calatrava y alcalde mayor de San Salvador, San Miguel y sus provincias.",
+    "desc": ". Folios 180-181",
+    "locn": null,
+    "lbd": "1623-09-20",
+    "upd": null,
+    "ref": "MEXICO,263,N.54"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

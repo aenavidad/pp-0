@@ -1,0 +1,28 @@
+{
+  "id": "c10885",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/19155",
+    "docs": 1,
+    "title": "'Planta de la costa de la Florida, la más occidental, desde 27 grados de latitud Norte hasta 29 grados'",
+    "scope": "Título en cartela en ángulo inferior derecho. \nExplicación y leyenda con referencias alfabéticas en ángulo superior izquierdo. \nAl dorso: Sello del archivo General de Indias con número de registro 481. \nNúmero de registro: 4252",
+    "desc": ". En hoja de 45,8 X 57,7 cm.",
+    "locn": null,
+    "lbd": "1687-01-20",
+    "upd": null,
+    "ref": "MP-FLORIDA_LUISIANA,20"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

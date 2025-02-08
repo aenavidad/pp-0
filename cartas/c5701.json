@@ -1,0 +1,28 @@
+{
+  "id": "c5701",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361179",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., diferencias entre arzobispo y cabildo eclesiástico. Nominaciones para el obispado de Oaxaca. Hay duplicado. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1603-11-20.",
+    "upd": null,
+    "ref": "MEXICO,25,N.59"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

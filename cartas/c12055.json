@@ -1,0 +1,28 @@
+{
+  "id": "c12055",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368514",
+    "docs": 3,
+    "title": "Informaciones: Francisco Tello de Orozco",
+    "scope": "Informaciones de oficio y parte: Francisco Tello de Orozco. Traslado de 1610 de una información iniciada en 1593 que sigue en 1594",
+    "desc": null,
+    "locn": null,
+    "lbd": "1610.",
+    "upd": null,
+    "ref": "MEXICO,221,N.10"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

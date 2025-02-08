@@ -1,0 +1,28 @@
+{
+  "id": "c6421",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361332",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., capítulo provincial de la orden de San Francisco. 2 fs. Anejos: \n1.- Copia de carta que se leyó en el capítulo provincial de la orden de San Francisco en la ciudad de México. México, 11-I-1608. Hay duplicado. 2 fs. 2.- Fray Juan de Cieza, comisario de la orden de San Francisco en la Nueva España, a S.M., en que suplica se tomen las medidas que apunta para remediar el estado de discordia que ha hallado entre los religiosos. México, 27-II-1608. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1608-03-05.",
+    "upd": null,
+    "ref": "MEXICO,27,N.38"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5781",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361209",
+    "docs": 1,
+    "title": "Carta del virrey Juan de Mendoza y Luna, marqués de Montesclaros.",
+    "scope": "El Virrey a S.M., naos a Filipinas, Infantes que se envian. Cantidad de dinero. Socorro al Gobernador Acuña. Manifestaciones de dinero y mercaderías a Filipinas. Carrera de las islas. Licencias de dinero. Partida del Conde de Monterrey, Estado del Conde de Monterret. Estado de la Nueva Vizcaya. Chichimecas. Artillería. Provisión a La Habana. Generales y almirantes. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1604-05-10.",
+    "upd": null,
+    "ref": "MEXICO,26,N.22"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

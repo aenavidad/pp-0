@@ -1,0 +1,28 @@
+{
+  "id": "c9173",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3740363",
+    "docs": 1,
+    "title": "Inventario de bienes: García de la Gandara, Luis",
+    "scope": "Autos de inventario de bienes de Luis García de la Gandara, vecino de la ciudad de México, escribano real, alguacil ejecutor de las alcabalas de esta ciudad. \nActuados ante Felipe de Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". Folios 286-287",
+    "locn": null,
+    "lbd": "1622-07-19",
+    "upd": null,
+    "ref": "MEXICO,262,N.105"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

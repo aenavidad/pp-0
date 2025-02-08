@@ -1,0 +1,28 @@
+{
+  "id": "c6607",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/21474",
+    "docs": 1,
+    "title": "Plano de San Francisco de Campeche con el proyecto de fortificación de la plaza y traza de la iglesia nueva.",
+    "scope": "Muestra el trazado urbano en forma de cuadrícula de la ciudad de San Francisco de Campeche. Las manzanas forman un cuadrado regular con cuatro solares cada una. La plaza ocupa las dos primeras manzanas formando un recinto amurallado frente al mar con entrada por la parte de tierra y dos baluartes. El recinto interior se divide en dos áreas: la plaza, con una representación en alzado de la 'iglesia vieja' [posiblemente la iglesia de Nuestra Señora de la Concepción], entrada lateral frente al mar y torre; y la planta de la nueva iglesia, elevada sobre la plaza a la que se accede por gradas, con tres naves y capilla abierta. Anejo a la iglesia el cementerio. \nEn el centro de la plaza una gran nota explicativa indica que el plano es copia certificada del original hecha por Francisco de Sanabria, escribano real y minas y registros de Mérida de Yucatán, y datas tópica y crónica: 'En la ciudad de Mérida en v[ein]te y ocho días del mes de hen[er]o de mil y seiscientos y n[uev]e años'. \n  \nAl dorso: '24'. \n  \nPor Real Cédula de 23 de octubre de 1597 se ordenó la reedificación de las iglesias de la provincia de Yucatán que tuviesen necesidad de ello. El 26 de enero de 1609 un acuerdo del mariscal Carlos de Luna y Arellano y Diego Vázquez del Mercado, gobernador y obispo de Yucatán, respectivamente,  determinó la construcción de una nueva iglesia con más capacidad por estar la existente muy arruinada y despojada de ornamentos debido al ataque de piratas ingleses. \n  \nNúmero de registro: 981. ",
+    "desc": ". 1 hoja",
+    "locn": "Mérida de Yucatán",
+    "lbd": "1609-01-28.",
+    "upd": null,
+    "ref": "MP-MEXICO,521"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c5394",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12730215",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México para que informen sobre la petición de Pedro de Uribe, regidor de la ciudad de los Ángeles de ser administrador de los diezmos del obispado de dicha ciudad a la vez que regidor.",
+    "scope": null,
+    "desc": null,
+    "locn": "Valladolid",
+    "lbd": "1602-03-20.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.226R-226V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

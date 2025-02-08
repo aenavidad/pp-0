@@ -1,0 +1,28 @@
+{
+  "id": "c5576",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361150",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., canonjía magistral de Tlaxcala. 2 fs. Anejos:\n1.- Representación del obispo, deán y cabildo de la iglesia de Tlaxcala ante S.M., sobre la provisión de una canonjía vacante para magistral. Los Angeles, 24-IV-1603. 2 fs. 2.- El obispo, deán y cabildo de Tlaxcala al Virrey, sobre la vacante de la canonjía de aquella iglesia. México, 26-V-1603. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1603-04-24.",
+    "upd": null,
+    "ref": "MEXICO,25,N.30"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

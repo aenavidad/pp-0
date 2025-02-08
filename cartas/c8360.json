@@ -1,0 +1,28 @@
+{
+  "id": "c8360",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12783960",
+    "docs": 1,
+    "title": "Real cédula a [Diego Fernández de Córdoba], marqués de Guadalcázar, virrey de Nueva España, para que procure encaminar y disponer con los provinciales de la orden de San Agustín de aquellas provincias envíen al prior del convento de San Felipe de Madrid 6.000 ducados o la cantidad mayor que puedan, para la fábrica de la hospedería que construye.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1619-12-12.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.217V-218V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

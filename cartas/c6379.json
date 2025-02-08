@@ -1,0 +1,28 @@
+{
+  "id": "c6379",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/347021",
+    "docs": 1,
+    "title": "CARTAS DE AUDIENCIA",
+    "scope": "Cartas de autoridades y particulares del distrito de la Audiencia de Guatemala en contra de Alonso Criado de Castilla, presidente de dicha Audiencia. (Guatemala 6 de mayo de 1605 a S.L [Consejo] 16 de octubre de 1607)",
+    "desc": null,
+    "locn": "Consejo",
+    "lbd": "1607-10-16.",
+    "upd": null,
+    "ref": "GUATEMALA,12,R.4,N.48"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

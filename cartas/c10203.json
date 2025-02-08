@@ -1,0 +1,28 @@
+{
+  "id": "c10203",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/366437",
+    "docs": 1,
+    "title": "CONFIRMACION DE OFICIO: PEDRO DE BUSTOS",
+    "scope": "Expediente de Confirmación del oficio de alferez mayor de León a Pedro de Bustos. Resuelto",
+    "desc": null,
+    "locn": null,
+    "lbd": "1626-01-31.",
+    "upd": null,
+    "ref": "MEXICO,182,N.106"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

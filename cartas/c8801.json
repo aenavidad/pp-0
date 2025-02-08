@@ -1,0 +1,28 @@
+{
+  "id": "c8801",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3646561",
+    "docs": 1,
+    "title": "Inventario de bienes: Puebla, Francisco de",
+    "scope": "Autos del inventario de bienes de Francisco de Puebla, natural de Sevilla, en los reinos de España, vecino de México, alcalde mayor de la provincia de Igualapa, en la costa del mar de Sur, y comisionado para tomar residencia a su antecesor en el dicho oficio. \nActuados ante Gonzalo de Carvajal, corregidor de la ciudad de México.",
+    "desc": ". Folios 608-610",
+    "locn": null,
+    "lbd": "1622-07-14",
+    "upd": null,
+    "ref": "MEXICO,259,N.213"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

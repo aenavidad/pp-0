@@ -1,0 +1,28 @@
+{
+  "id": "c11655",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349841",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Carta de Pedro de la Vega Valbuena, tesorero y Manuel de Medrano y Solórzano, contador, avisando del recibo del despacho de 11 de febrero de 1697, sobre la suspensión de libramientos en aquella caja.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1698-02-01.",
+    "upd": null,
+    "ref": "GUATEMALA,48,N.91"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

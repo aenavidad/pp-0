@@ -1,0 +1,28 @@
+{
+  "id": "c12095",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351911",
+    "docs": 3,
+    "title": "Informaciones: Juan Vázquez de Espinosa",
+    "scope": "Informaciones de oficio y parte: Juan Vázquez de Espinosa, cura de la catedral de Guatemala. Con petición",
+    "desc": null,
+    "locn": null,
+    "lbd": "1623.",
+    "upd": null,
+    "ref": "GUATEMALA,122,N.25"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

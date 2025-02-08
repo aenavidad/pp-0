@@ -1,0 +1,28 @@
+{
+  "id": "c6585",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361361",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., paz en la tierra. Presidio de San Juan. Artillería a Filipinas. Camino Coatzacoalcos-Tehuantepec. Islas Rica de Oro y Rica de Plata. Hay duplicado. 4 fs. \nAnejos: \n1.- El Virrey a S.M., dos capítulos del Virrey sobre la fuerza de San Juan de Ulúa y la artillería que se dio al gobernador de Filipinas. 4 de mayo de 1609. Copia [S/S]. 2 fs. \n2.- Relación de las armas, pertrechos, bastimentos para el socorro de las Islas Filipinas y Maluco y que se embarcaron en las cuatro naos que partieron del puerto de Acapulco, a cargo de Juan de Silva, gobernador de aquella isla. 16 de enero de 1609. 6 fs. \n3.- Relación de lo que se ha proveido para el despacho del gobernador Juan de Silva. 1609 [SUP]. 6 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1609-01-16.",
+    "upd": null,
+    "ref": "MEXICO,27,N.67"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

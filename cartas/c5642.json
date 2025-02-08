@@ -1,0 +1,28 @@
+{
+  "id": "c5642",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361153",
+    "docs": 1,
+    "title": "Carta del virrey Gaspar de Zúñiga Acevedo, conde de Monterrey.",
+    "scope": "El Virrey a S.M., contador de cuentas de Guadalajara y Zacatecas. Juez contador de resultas. Cuentas de Nueva Vizcaya. Cobre de Nueva Galicia. Alcabala. Oidor visitador de Guadalajara. Envío de hacienda. Cobro de oficiales de Veracruz. Conmutación de tributo. Hay duplicado. 12 fs. Anejos: \n1.- Fe del contador de resultas de la Nueva España por donde consta no deber los oficiales reales de Veracruz los cien marcos de plata que se les piden. México, 16-IV-1603. 2 fs. 2.- Relación de la junta que se hizo por mandado del Virrey en lo tocante a la conmutación que pretenden los indios para tributar en dinero por la falta de cosechas. México, 11-IV-1603. 2 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1603-05-28.",
+    "upd": null,
+    "ref": "MEXICO,25,N.33"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

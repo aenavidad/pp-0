@@ -1,0 +1,28 @@
+{
+  "id": "c12162",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349794",
+    "docs": 4,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente sobre el pleito seguido con los indios de Chimaltenango, sobre la cobranza del medio real que pagan por cada indio los labradores.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1685-10-10.",
+    "upd": "1687-10-29.",
+    "ref": "GUATEMALA,48,N.44"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

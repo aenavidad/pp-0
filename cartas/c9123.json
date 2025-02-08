@@ -1,0 +1,28 @@
+{
+  "id": "c9123",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/4060033",
+    "docs": 1,
+    "title": "Inventario de bienes: Ximénez de Castilla, Alonso",
+    "scope": "Autos de inventario de bienes de Alonso Ximénez (sic por Jiménez) de Castilla, vecino y procurador de la Real Audiencia de la ciudad de México; mayordomo del colegio de Santa Cruz de Santiago Tlatelolco; procurador del juzgado de indios. \nActuados ante Felipe de Samano, alcalde ordinario de la ciudad de México.",
+    "desc": ". Folios 752-754",
+    "locn": null,
+    "lbd": "1622-07-19",
+    "upd": null,
+    "ref": "MEXICO,262,N.276"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

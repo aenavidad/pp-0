@@ -1,0 +1,28 @@
+{
+  "id": "c9942",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3843165",
+    "docs": 1,
+    "title": "Inventario de bienes: Jerez Serrano, Francisco de",
+    "scope": "Autos del inventario de bienes de Francisco de Jerez Serrano, casado con descendiente de primeros pobladores, vecino y regidor de la ciudad de Santiago de Guatemala, mayordomo de la catedral de dicha ciudad, procurador síndico general, electo por el cabildo de Santiago, y cobrador y administrador de diezmos.",
+    "desc": ". Folios 301-303",
+    "locn": null,
+    "lbd": "1623-05-18",
+    "upd": null,
+    "ref": "MEXICO,263,N.96"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

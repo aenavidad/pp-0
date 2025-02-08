@@ -1,0 +1,28 @@
+{
+  "id": "c5419",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12730815",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y la Audiencia de México para que hagan justicia breve y sumariamente sobre lo que piden los indios de la ciudad y provincia de Texcoco de no recibir daño ni agravio en sus sementeras por la abundancia de bueyes, caballos, mulas y otros ganados menores que se las comen y destruyen.",
+    "scope": null,
+    "desc": null,
+    "locn": "Aranjuez",
+    "lbd": "1602-05-15.",
+    "upd": null,
+    "ref": "MEXICO,1093,L.15,F.234V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

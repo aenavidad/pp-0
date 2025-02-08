@@ -1,0 +1,28 @@
+{
+  "id": "c6616",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349559",
+    "docs": 1,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Memorial presentado por los oficiales reales de Guatemala, solicitando una solución a los problemas que les plantea el ir a dar las cuentas al Tribunal de Cuentas de México.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1609-03-02.",
+    "upd": null,
+    "ref": "GUATEMALA,45,N.103"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

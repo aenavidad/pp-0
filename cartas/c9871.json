@@ -1,0 +1,28 @@
+{
+  "id": "c9871",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3594731",
+    "docs": 1,
+    "title": "Inventario de bienes: Cisneros, Juan de",
+    "scope": "Autos de inventario de bienes de Juan de Cisneros, vecino de la ciudad de Valladolid, alcalde de la Santa Hermandad en la ciudad de Valladolid de Michoacán. \nActuados ante Fernando de Bocanegra, alcalde ordinario.",
+    "desc": ". folios 149-150",
+    "locn": null,
+    "lbd": "1623-01-18",
+    "upd": null,
+    "ref": "MEXICO,261,N.55"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

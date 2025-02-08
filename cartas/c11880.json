@@ -1,0 +1,28 @@
+{
+  "id": "c11880",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/351840",
+    "docs": 2,
+    "title": "Informaciones: Jerónimo Cabrillo de Aldana",
+    "scope": "Informaciones de oficio y parte: Jerónimo Cabrillo de Aldana, vecino de Santiago de Guatemala. Con petición",
+    "desc": null,
+    "locn": null,
+    "lbd": "1609.",
+    "upd": null,
+    "ref": "GUATEMALA,118,N.16"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

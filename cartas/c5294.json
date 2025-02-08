@@ -1,0 +1,28 @@
+{
+  "id": "c5294",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349089",
+    "docs": 1,
+    "title": "Cartas de cabildos seculares",
+    "scope": "Carta del cabildo secular de Santiago de Guatemala, solicitando la prórroga por una vida de la encomienda que tenía D. García de Castellanos, alcalde ordinario de Santiago de Guatemala",
+    "desc": null,
+    "locn": null,
+    "lbd": "1601-03-24.",
+    "upd": null,
+    "ref": "GUATEMALA,41,N.97"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "c10502",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/362899",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY MARQUES DE LA LAGUNA",
+    "scope": "El Virrey a S.M., nombramiento de factor y tesorero de las Cajas de Sombrerete a Don Gregorio Cucio de Barreda y contador a Don Alonso de León. 3 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1681-07-12.",
+    "upd": null,
+    "ref": "MEXICO,52,N.23"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

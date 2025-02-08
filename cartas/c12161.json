@@ -1,0 +1,28 @@
+{
+  "id": "c12161",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/349780",
+    "docs": 4,
+    "title": "Cartas de oficiales reales de Guatemala",
+    "scope": "Expediente sobre la presencia de los oficiales reales en las Juntas de Real Acuerdo de la Audiencia, portando espadas.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1683-07-15.",
+    "upd": "1688-01-08.",
+    "ref": "GUATEMALA,48,N.30"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

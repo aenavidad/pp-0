@@ -1,0 +1,28 @@
+{
+  "id": "c11834",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368623",
+    "docs": 2,
+    "title": "Informaciones: Juan Jordán y Gaitán",
+    "scope": "Informaciones de oficio y parte: Juan Jordán y Gaitán, vecino de Valladolid. Información de 1603",
+    "desc": null,
+    "locn": null,
+    "lbd": "1603.",
+    "upd": null,
+    "ref": "MEXICO,224,N.23"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

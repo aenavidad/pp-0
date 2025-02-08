@@ -1,0 +1,28 @@
+{
+  "id": "c7041",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12781738",
+    "docs": 1,
+    "title": "Real cédula ordenado que los alguaciles mayores de la Audiencia de México mantengan el privilegio de sentarse en los estrados durante las audiencias.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1611-12-22.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.18,F.65V-66R"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

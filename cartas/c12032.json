@@ -1,0 +1,28 @@
+{
+  "id": "c12032",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368644",
+    "docs": 3,
+    "title": "Informaciones: Carlos Samano y Quiñones",
+    "scope": "Informaciones de oficio y parte: Carlos Samano y Quiñones, alcalde mayor de la provincia de Guautitlán. Traslados de 1604 y 1615 de la misma información de 1604. Parecer de 1615, copia de otro de 1604",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": "1615.",
+    "ref": "MEXICO,225,N.13"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

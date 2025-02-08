@@ -1,0 +1,28 @@
+{
+  "id": "c11674",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/363334",
+    "docs": 1,
+    "title": "CARTAS DEL VIRREY CONDE DE MOCTEZUMA",
+    "scope": "El Virrey a S.M., orden al escribano de cámara de suspender el despacho de un proveído de 200 pesos al justicia mayor, y otros tantos al teniente de San Miguel el Grande. 28 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1698-04-19.",
+    "upd": null,
+    "ref": "MEXICO,65,R.3,N.12"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

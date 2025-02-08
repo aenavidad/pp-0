@@ -1,0 +1,28 @@
+{
+  "id": "c9852",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3611638",
+    "docs": 1,
+    "title": "Inventario de bienes: Machado, Andrés",
+    "scope": "Autos del inventario de bienes de Andrés Machado, natural de la isla de San Miguel de Portugal, vecino y labrador del pueblo de San Agustín, jurisdicción de la villa de Cuyoacán. \nActuados ante el licenciado Alonso Trujillo, corregidor de la villa de Cuyuacán.",
+    "desc": ". Folios 421-422",
+    "locn": null,
+    "lbd": "1622-12-30",
+    "upd": null,
+    "ref": "MEXICO,259,N.148"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

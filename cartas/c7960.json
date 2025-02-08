@@ -1,0 +1,28 @@
+{
+  "id": "c7960",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368857",
+    "docs": 1,
+    "title": "Informaciones: Alonso Sánchez de Aguilar",
+    "scope": "Informaciones de oficio y parte: Alonso Sánchez de Aguilar, alférez mayor de Valladolid y su jurisdicción.",
+    "desc": null,
+    "locn": null,
+    "lbd": "1617.",
+    "upd": null,
+    "ref": "MEXICO,233,N.2"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

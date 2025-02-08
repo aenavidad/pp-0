@@ -1,0 +1,28 @@
+{
+  "id": "c12122",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/368648",
+    "docs": 4,
+    "title": "Informaciones: Tomás de Velasco",
+    "scope": "Informaciones de oficio y parte: Tomás de Velasco, clérigo beneficiado del pueblo de Huehuetoca y su partido en la Nueva España. Dos traslados de 1604 y 1605 de dos informaciones de 1604. Parecer de la Audiencia y arzobispado de México 1604",
+    "desc": null,
+    "locn": null,
+    "lbd": "1604.",
+    "upd": null,
+    "ref": "MEXICO,225,N.17"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

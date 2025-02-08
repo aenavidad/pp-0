@@ -1,0 +1,28 @@
+{
+  "id": "c6470",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/361342",
+    "docs": 1,
+    "title": "Carta del virrey Luis de Velasco y Castilla.",
+    "scope": "El Virrey a S.M., Nuevo México. 2 fs. Anejo: \n1.- El Virrey a S.M., sobre la conquista del Nuevo México. México, 7-III-1608. 4 fs",
+    "desc": null,
+    "locn": "México",
+    "lbd": "1608-06-20.",
+    "upd": null,
+    "ref": "MEXICO,27,N.48"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

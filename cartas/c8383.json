@@ -1,0 +1,28 @@
+{
+  "id": "c8383",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/12784010",
+    "docs": 1,
+    "title": "Real cédula al virrey de Nueva España y Audiencia de México, para que informen sobre la petición de los vecinos de [Puebla] de los Ángeles y los hermanos de la mesta de su obispado, de que se confirmen las ordenanzas que en 1557 y 1550, aprobó en virrey Luis de Velasco.",
+    "scope": null,
+    "desc": null,
+    "locn": "Madrid",
+    "lbd": "1620-01-27.",
+    "upd": null,
+    "ref": "MEXICO,1094,L.20,F.235R-235V"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

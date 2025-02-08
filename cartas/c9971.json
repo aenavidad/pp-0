@@ -1,0 +1,28 @@
+{
+  "id": "c9971",
+  "work": {
+    "cod": null,
+    "cod_n": null,
+    "stat": null,
+    "stat_n": null
+  },
+  "cat": {
+    "url": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/3905840",
+    "docs": 1,
+    "title": "Inventario de bienes: Ordóñez de Villaquirán, Diego",
+    "scope": "Autos del inventario de bienes de Diego Ordóñez de Villaquirán, vecino de la ciudad de Santiago de Guatemala, encomendero de Amatán, Soyaltepec, Opico y Sitalá, en las provincias de Chiapa y de San Salvador.",
+    "desc": ". Folios 440-441",
+    "locn": null,
+    "lbd": "1623-05-19",
+    "upd": null,
+    "ref": "MEXICO,263,N.140"
+  },
+  "data": {
+    "mil": null,
+    "pir": null,
+    "def": null,
+    "lit_n": null,
+    "codg_n": null,
+    "mil_n": null
+  }
+}

@@ -7,8 +7,8 @@
     "pir_n": "counting cruise/trade"
   },
   "data": {
-    "lbd": "1606-01-01",
-    "upd": null,
+    "lbd": "1606-05-23",
+    "upd": "1606-05-23",
     "name": null,
     "desc": "Tres años después, en Puerto de Caballos, una fragata con seis ingleses a bordo llegó a ese lugar",
     "locn": "Pto Caballos, Xequexa [Sp Hon]",
@@ -18,7 +18,7 @@
     "press_n": null,
     "prim_n": "GT 39 ram 13 num 83 f 1r [Carta de Gregorio de Alvarado, teniente de gobernador de Honduras, Trujillo a 18 de junio de 1606] / GT 39 ram 13 num 83 f 3r [Carta de Gregorio de Alvarado, teniente de gobernador de Honduras, San Pedro de Honduras a 24 de mayo de 1606]",
     "lit_n": "O Torres p 331",
-    "note": null,
+    "note": "dice como entro enel puerto de cavallos Vn navichuelo cargado de pasas y pipas de bino y enel benian seis hombres al pareçer de naçion yngleses los quales dixeron benian perdidos y lo andavan seis meses hay que desenbarcaron algunos dellos y preguntaron por el gover.or, y por no haver quien sepiese la lengua no seles havia Tomado sus confisiones envia testimonio de lo que en esto a pasado /GUATEMALA,39,R.13,N.83 img 4",
     "via": "harv"
   }
 }

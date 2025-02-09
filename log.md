@@ -159,6 +159,8 @@
     - [x] fill 1605
     - [ ] fill to 1606-1610
         - [x] fill 1606
+        - [x] fill 1607
+    - [ ] check 1601-1607 years to ensure all relevant events are included in `notes` key
 - [ ] fix duplicate or dubious `events`
     - [x] add Garcia P *Memorias*[^per Lujan 2 472, 478]
     - [x] check all Lujan 2 472 refs are present
@@ -170,7 +172,7 @@
         - [x] code 1606-dated GUAT `cartas` to sort out 1606
         - [x] sort 1606 events
         - [x] code 1607 dated GUAT `cartas` to sort out 1607
-        - [ ] sort 1607 events
+        - [x] sort 1607 events
 - [x] get all missing `cartas`
     - [x] get PARES ids 
         - [x] for GT Uc and Us for 1606[^31 hits]

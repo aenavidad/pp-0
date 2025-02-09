@@ -1,6 +1,6 @@
 {
   "yr": "1607",
-  "tally": 2,
+  "tally": 6,
   "tally_n": null,
   "incident0": {
     "conf": null,
@@ -25,5 +25,53 @@
     "desc": "Pirates assault",
     "note": null,
     "via": "e187"
+  },
+  "incident2": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "03-20",
+    "upd": "03-20",
+    "locn": "Sto Tomas",
+    "desc": "Mauricio de Nasau assaults shipping, and Izaguirre defends",
+    "note": null,
+    "via": "e1837"
+  },
+  "incident3": {
+    "conf": true,
+    "conf_n": "may be compound",
+    "pir": true,
+    "pir_n": null,
+    "lbd": "03-21",
+    "upd": "03-31",
+    "locn": "Sto Tomas",
+    "desc": "Mauricio de Nasau cruises port, and raids settlement",
+    "note": null,
+    "via": "e1837"
+  },
+  "incident4": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "03-21",
+    "upd": "03-31",
+    "locn": "Golfo Dulce",
+    "desc": "Mauricio de Nasau raids and torches settlement(s)",
+    "note": null,
+    "via": "e1837"
+  },
+  "incident5": {
+    "conf": true,
+    "conf_n": null,
+    "pir": false,
+    "pir_n": null,
+    "lbd": "04-01",
+    "upd": "05-15",
+    "locn": "Sto Tomas",
+    "desc": "Men and arms from Guat arrive to defend",
+    "note": null,
+    "via": "e1837"
   }
 }

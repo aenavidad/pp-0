@@ -227,6 +227,8 @@
     - [x] 1629
     - [x] 1700
     - [x] 1690s
+    - [ ] 1680s
+        - [ ] check `cartas` to 1685 for tricky `events`
 
 ## prior log
 ### any cartas

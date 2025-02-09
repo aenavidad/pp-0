@@ -1,17 +1,29 @@
 {
   "yr": "1685",
-  "tally": null,
+  "tally": 2,
   "tally_n": null,
   "incident0": {
     "conf": null,
-    "conf_n": null,
+    "conf_n": "may be compound",
     "pir": null,
+    "pir_n": null,
+    "lbd": "01-01",
+    "upd": "07-96",
+    "locn": null,
+    "desc": "Graaf gathers pirates or cruises for planned Campeachy raid",
+    "note": null,
+    "via": "e1919"
+  },
+  "incident1": {
+    "conf": null,
+    "conf_n": "may be compound - may be misdated",
+    "pir": true,
     "pir_n": null,
     "lbd": null,
     "upd": null,
-    "locn": null,
-    "desc": null,
-    "note": null,
-    "via": null
+    "locn": "Amatique",
+    "desc": "Zanques raids coast and inland incl Golfo Dulce and Verapaz",
+    "note": "compare to 1683, 1684",
+    "via": "e1919"
   }
 }

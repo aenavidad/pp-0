@@ -1,17 +1,17 @@
 {
   "yr": "1684",
-  "tally": null,
+  "tally": 1,
   "tally_n": null,
   "incident0": {
     "conf": null,
-    "conf_n": null,
-    "pir": null,
+    "conf_n": "may be compound - may be misdated",
+    "pir": true,
     "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": null,
-    "desc": null,
-    "note": null,
-    "via": null
+    "lbd": "04-27",
+    "upd": "05-05",
+    "locn": "Golfo Dulce",
+    "desc": "Zanques raids",
+    "note": "compare to 1683, 1685",
+    "via": "e1915"
   }
 }

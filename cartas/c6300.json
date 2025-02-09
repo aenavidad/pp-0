@@ -1,7 +1,7 @@
 {
   "id": "c6300",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,41,N.116"
   },
   "data": {
-    "mil": null,
-    "pir": null,
+    "mil": true,
+    "pir": true,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Por otras abemos avizado a VM del nuebo puerto de santo thomas de castilla y aberse poblado en lugar del puerto de cavallos [...] [img 1] Y cada dia se va manifestando su bondad pues demas de que el año pazado dos naos pequeñas y Vn patache se defendieron de siete V ocho belas de naos y lanchas de cosarios con gran fuerça que se rretiraron y fueron con mucho daño y este año ottras dos o ttres q avia muy poqueñas Y como fragatas, y cassi sin Jente que no avia sino hasta treinta y çinco o quarenta ombres con muy Poca artilleria se defendieron de ocho naos de enemigos olandeses del Conde maurizio las mas de a quatroçientas Y quinientas toneladas y con mucha artilleria y mas de mill hombres, haziendoles mucho daño los nuesttros en su Jente Y echandoles Vna nao a poque que dejaron y se fueron sin rreçevirse de nuestra parte cassi ninguno por estar en el abrigo de Vn morro grande de piedra y aislado que ay en tres braças de ffondo y çerca de tierra, donde sitiaron parte dela artilleria Y con el rresto delas naos se defendieron y les ofendieron que si fuera en puerto de cavallos Sin Remedio las rrindieran, como cassi siempre les subçedio con ottras de mas fuerça que manifiesta bien Su natural fortificazion y bondad y quan con poco gasto se pudiera fortificar y defender aunq biniesen a el grandes armadas de enemigos.= [etc] /v img 1-2"
   }
 }

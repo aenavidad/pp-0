@@ -1,7 +1,7 @@
 {
   "id": "c6295",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,41,N.113"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
-    "def": null,
+    "def": true,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "for Sto Tomas discovery",
+    "mil_n": "que como se a bisto enel consejo la ciudad ynbio vno delos alc.des ordin.os al descubrim.o del puerto nuevo de santo Tomas en q hiço muchos gastos a su costa demas delos grandes Riesgos y peligro q Tubieron /v img 2\n la dha çiudad ynbio al descubrim.o del puerto nuevo de santo Tomas a Vno delos alc.es ordinarios a su costa minsion [?] en que hiço En el dho descubrim.o y viaje muchas y muy estraordinarias costas demas delos travaxos y peligros suçesivos que se padeçieron en aquella Jornada en cuya consideracion suplica a V Al.a [etc] /v img 1"
   }
 }

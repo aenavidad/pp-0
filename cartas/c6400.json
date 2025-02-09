@@ -1,7 +1,7 @@
 {
   "id": "c6400",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,39,R.14,N.85"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "sobre que quiso tomar quenta alos ofiçiales reales de alli y ni allo libros ni ofiçiales a quien tomarlas /v img 14"
   }
 }

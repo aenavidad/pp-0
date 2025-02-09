@@ -169,6 +169,8 @@
         - [x] get `xml` files for them[^loop `for i in $(cat ids.txt); do curl -o $i.xml http://pares.mcu.es/ParesBusquedas20/catalogo/description/exportEAD/$i; done` for PARES ids in `ids.txt`]
         - [x] code 1606-dated GUAT `cartas` to sort out 1606
         - [x] sort 1606 events
+        - [x] code 1607 dated GUAT `cartas` to sort out 1607
+        - [ ] sort 1607 events
 - [x] get all missing `cartas`
     - [x] get PARES ids 
         - [x] for GT Uc and Us for 1606[^31 hits]

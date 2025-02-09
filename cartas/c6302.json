@@ -1,7 +1,7 @@
 {
   "id": "c6302",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.4,N.45"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Sobre la Refriega que las naos de onduras tubieron con las del enemigo y como se defendieron y que Conviene fortificar el puerto de amatique /v img 16"
   }
 }

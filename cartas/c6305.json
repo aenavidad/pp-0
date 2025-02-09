@@ -1,7 +1,7 @@
 {
   "id": "c6305",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,41,N.118"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "no specific incident noted, except soldiers in naos",
+    "mil_n": "diçe que como es notorio de muchos años a esta parte aquel Reyno a pag.do y paga a SM el averia que sele a rrepartido y Reparte cada ano de Todas las mercaduria oro plata y otras cosas que se an traido y navegado a estos Reynos p.a ayuda al gasto y conservaçion delos galeones q andan en la guardia dela carrera delas yndias. y aunque de pocos años a esta parte se a ordenado Vayan a aquella tierra çinquenta o sesenta soldados cada año en las naos que a ella Van de merchante Respeto de ser tan pocos y de tan poca sustançia esta defensa como se a Visto por espiriençia muchas Veçes se an llebado y lleban los henemigos de aquellos puertos las naos y haz.das de[ill].os a cuya causa y la pobreça dela tierra a venido en notable quiebra y diminuçion y el trato y comerçio della. y pues aquel Rey.o siempre como s[ill] [ill] a servido y sirve a SM con tanta fidelidad seria cosa muy dis[ill] de su grandeça sean socorridos y amparados con el remedio, suplica a V al.a [?] sea servido que page ell [?] pueda haver mande que de aqui adelante la nao cap.na q cada ano va aquel Reyno de marchante, sea de armada pues con ello aquel Reyno y comerçio yra en mucho augmento y seran Vastantes las Averias q se sacaran delas mercadurias de aquel Rey.o y quando a eso falte se podra siendo Val.a servido q se supl.a delas q se sacare orde[ill] firme y n.a spana pues hasta aqui las de Guatemala sean gastado en su defensa y demas de q por este camino se biene a asegurar las haz.das de aquel Rey.o y puertos della. Vendra a aorrar [ill] q cada ano se gastan de su haz.da en llebarla q le [ill] de aquel Rey.o ala Veracruz. [=] /v img 1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c6379",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.4,N.48"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "start and end imgs skimmed only, but seem mostly re personal matters, etc\n que a mas de tres años que trata pleito en aquella audiençia con xpoval de aviel y manuel esteves sobre averle quitado y descaminado el p.o avril [?] Vna cargazon que yba de spaña [etc] /v img 3\n que el presidente probe los ofiçios y encomiendas en personas allegadas y criados suyos y en mercaderes /v img 160"
   }
 }

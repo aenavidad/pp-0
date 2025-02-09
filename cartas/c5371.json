@@ -1,7 +1,7 @@
 {
   "id": "c5371",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,39,R.13,N.78"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Supp.ca solam.te den cedulas p.a q los españoles q estuvieren en sus encomiendas salgan luego dellas como se hizo con Don Di.o de gustavan /v img 2"
   }
 }

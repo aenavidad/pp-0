@@ -1,7 +1,7 @@
 {
   "id": "c5327",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,39,R.13,N.76"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "found no particular defence event",
+    "mil_n": "Halle la dha caxa [Rl en Truxillo] tan falta quanto ajustada con las quentas y esto lo a caussado lo poco que los derechos De las Mercaderias que en estas naos Binieron balieron [...] y algunos Gastos que se an Hecho en tener en defensa esta ciudad con algun Pressidio desde la perdida de puerto Rico. y aunque V.ro Pressidente Y oydores dela Real audiençia de guatemala me an mandado que por escussa[r] en parte esta costa, Reforme y despida Veynte soldado que aqu[i] Asisten de pressidio, la ciudad A suplicado y Pedido se esten, Pues ay catorze pieças de artilleria muchas Armas y muniçion y Por su guardia y defensa no ay cinquenta Vz.os que tomen armas. Y anque sea Verdad questos Pocos con a[l]gunos forasteros q se an hallado en la cuidad con lo que les A faboresçido el sitio fuerte An hecho diberssas defensas que an paresçido milagros, es de consideracion que ay tiempo del año en que no se hallan quinze Vz.os en la cuidad Por acudir los demas A Sus Haziendas Y negociaciones y el enemigo quando Viene [img 1] No da lugar a que se Junten. Y la dha çiudad Y artilleria correra mucho Riezgo Si VM no manda que asistan estos Veynte Soldados de Hordinario [etc] /v img 1-2"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5318",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.4,N.25"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possibly incl Nic piracy",
+    "mil_n": "Para que se ymbiase Relaçion delo que se havia hecho çerca delas Posturas de Vino y otros mantenimientos que el cabildo desta çiudad ymformo a VM [etc] /v img 1\n ha tenido esta audiençia el año Pasado despues que Respondio ala de VM y este año diversos avissos de cosarios por la mar del sur y por la del norte despachados por los Virreyes de piru y mexico [...] [=] Para los dela mar del norte cuyo designo hera segun la Relazion de don Juan de aguirre que el Virrey de mexico embio a esta audiençia por el mes de X.bre del año de 99 benir sobre la havana y si pudiesen en poco tiempo apoderarse della hazerlo y luego Venir al desaguadero de nicaragua y hechar por alli gente en tierra [etc] /v img 5"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5319",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.4,N.24"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re state of Hond defence but found no specific defence event / possibly incl Nic piracy",
+    "mil_n": "lo que a esta audiençia paresçe y ha visto por experiençia es que la venta destos offiçios es generalemnte mas vtil a v.ro Rl patrimonio con liçençia de poderse quando quisieren renunçiar [etc] /v img 1\n Por carta de VM de madrid 17 de nobienbre de 99 respuesta dela de 11 de nobienbre de 98 desta real audiençia Manda VM se le avise el recado y deffenssa que tienen los puertos de truxillo y cavallos [...] [=] en Puerto de cavallos que esta mas çerca desta çibdad que el de truxillo, no ay aora deffensa alguna de fuerça ni artilleria, [...] [=] Al puerto de truxillo se llevaron las dos pieças de artilleria que VM enbio para el de cavallos el año de 97 y despues [img 2] [...] [=] La orden que se tiene en proveer estos puertos quando la neçesidad se ofresca es que el governador de honduras saca para yr a su deffensa de los lugares de hespañoles de la provinçia el numero de gente que se puede sacar [...] [=] /v img 2-3\n en la propria carta de 14 de mayo del año de 600 se aviso a VM que por haver tenido nueba de cosarios y resçibido del virrey de mexico copia de vna carta de don juan de aguirre con aviso de çiertos designos de la Reina de inglaterra, y por otras causas referidas en ella se tomo resoluçion de enbiar a haçer un fuerte en el desaguadero de la laguna de nicarahua, [etc] /v img 12\n Mediado este mes de abril se tubo aviso por cartas de panama que a 17 de hebrero deste año intr[ill] guillier[ill] porque [?] ingles con tres lanchas en puerto belo y hiço daño en el [etc] /v img 13"
   }
 }

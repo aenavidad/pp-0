@@ -201,6 +201,7 @@
     - [x] get to `cartas` `json` format[^c5240 to c12225 ids assigned]
     - [x] add to `/cartas`
 - [x] update relevant readmes
+- [x] code 1601 GUAT `cartas`[^just to check `events` completeness, as no Guat events present for said year - none found]
 
 ## prior log
 ### any cartas

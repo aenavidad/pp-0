@@ -1,7 +1,7 @@
 {
   "id": "c5330",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.4,N.27"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que algunos emulos suyos quiriendo desacreditar su persona con VM deçia que se le avian echo muchas recuzaçiones y pidio que para que constaze en V.ro Rl consejo de yndias el estado deellas y el proçeder delos jueçes /v img 1"
   }
 }

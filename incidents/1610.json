@@ -1,17 +1,17 @@
 {
   "yr": "1610",
-  "tally": null,
+  "tally": 1,
   "tally_n": null,
   "incident0": {
     "conf": null,
-    "conf_n": null,
-    "pir": null,
+    "conf_n": "missg prim source",
+    "pir": true,
     "pir_n": null,
     "lbd": null,
     "upd": null,
-    "locn": null,
-    "desc": null,
+    "locn": "Pto Caballos",
+    "desc": "Du pirates raid or assault",
     "note": null,
-    "via": null
+    "via": "e1843"
   }
 }

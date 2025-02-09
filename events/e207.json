@@ -1,8 +1,8 @@
 {
   "id": "e207",
   "work": {
-    "cod": null,
-    "cod_n": "not sure if assault in Hond Bay",
+    "cod": false,
+    "cod_n": "assuming assaults off Nic",
     "pir": null,
     "pir_n": null
   },

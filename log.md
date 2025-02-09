@@ -149,7 +149,7 @@
     - [x] Uc in GUAT for 1630 - yes
     - [x] Us in GUAT for 1630 - yes
     - [x] ~~Us and Uc in MEX for 1630~~[^assume yes]
-- [ ] extract `events` into annual `incidents`
+- [x] ~~extract `events` into annual `incidents`~~
     - [x] write `/incidents/readme.md`
     - [x] write null `incidents` `jsons`
     - [x] fill in 1601 year
@@ -157,25 +157,25 @@
     - [x] fill 1603
     - [x] fill 1604
     - [x] fill 1605
-    - [ ] fill to 1606-1610
+    - [x] ~~fill to 1606-1610~~
         - [x] fill 1606
         - [x] fill 1607
-        - [ ] fill 1608
+        - [x] ~~fill 1608~~
     - [x] check 1601-1607 years to ensure all relevant events are included in `notes` key
     - [x] check duplicate/dubious events to 1607 do not have `true` in `cod`
-- [ ] fix duplicate or dubious `events`
+- [x] ~~fix duplicate or dubious `events`~~
     - [x] add Garcia P *Memorias*[^per Lujan 2 472, 478]
     - [x] check all Lujan 2 472 refs are present
     - [x] check all Lujan 2 823-831 refs are present
     - [x] check events up to 1605 are sorted
-    - [ ] sort 1606-1610 events
+    - [x] ~~sort 1606-1610 events~~
         - [x] get PARES ids for all 1606 Uc and Us AGI records in GUAT[^31 records, but couldn't `curl` results, had to manually get `html` table of hits in `ids.txt`, then get ids by `grep -Eo 'value=.{0,8}' results.txt`]
         - [x] get `xml` files for them[^loop `for i in $(cat ids.txt); do curl -o $i.xml http://pares.mcu.es/ParesBusquedas20/catalogo/description/exportEAD/$i; done` for PARES ids in `ids.txt`]
         - [x] code 1606-dated GUAT `cartas` to sort out 1606
         - [x] sort 1606 events
         - [x] code 1607 dated GUAT `cartas` to sort out 1607
         - [x] sort 1607 events
-        - [ ] sort 1608 events
+        - [x] ~~sort 1608 events~~
 - [x] get all missing `cartas`
     - [x] get PARES ids 
         - [x] for GT Uc and Us for 1606[^31 hits]
@@ -202,6 +202,20 @@
     - [x] add to `/cartas`
 - [x] update relevant readmes
 - [x] code 1601 GUAT `cartas`[^just to check `events` completeness, as no Guat events present for said year - none found]
+- [ ] fix duplicate or dubious `events`, then extract into annual `incidents`[^combined from previous items]
+    - [x] for 1608
+    - [x] 1609
+    - [x] 1610
+    - [x] 1611
+    - [x] 1612
+    - [x] 1613
+    - [x] 1614
+    - [x] 1615
+    - [x] 1616
+    - [x] 1617
+    - [x] 1618
+    - [x] 1619
+    - [x] 1620
 
 ## prior log
 ### any cartas

@@ -1,7 +1,7 @@
 {
   "id": "c10786",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,29,R.2,N.48"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da quenta â VM del Resivo delas dos zedulas [...] la vna sobre la administraçion de Alcavalas y la otra sobre la compra dela Cassa de Aduana[=] /v img 1"
   }
 }

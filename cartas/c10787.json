@@ -1,7 +1,7 @@
 {
   "id": "c10787",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,29,R.2,N.52"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "found no specific incident to img 4",
+    "mil_n": "Remite testim.o dela demanda que en n.re del Real fisco ha puesto al s.or Gran Prior Dn fern.do francisco de escovedo por las perjuicias que han Resultado ala Rl hacienda de no haver executado puntualmente lo que se le mando quando se dio el Gov.o dela Provy.a de Honduras â Dn fran.co de Castro Ayala con oblig.on dela fabrica del Castillo del Puerto de Ômoa /v img 4\n Remitese a lo que tiene Representado en carta de 11 de otu.re de 85 sobre la ymposibilidad de que pudiese cumplir Dn thomas de Castro Ayala con la oblig.on que hiço su P.e dela fabrica de vn Castillo en el Puerto de Ômoa; y añade que por esta Causa y la orden que vltimam.te se le dio en Despacho de 14 de Mayo de 85 paso a proveer en ynterin el Gov.o de Onduras en Dn Ju.o de estensero, y Repress.ta q se emvie p.a la propiedad persona de toda aprovaz.on p.a que defienda aquella Provy.a /v img 26"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c10636",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,28,R.2,N.83"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "no specific incidents found",
+    "mil_n": "remite Copia del yndiçe de los despachos de SM que sele emviaron en la flota del Cargo del gen.l Dn Diego de zaldivar /v img 3\n - Otro de 24 del mesmo mes y año para que embie relacion de las armas que se han remitido a los puertos de aquella provinçia de diez años a esta perte, y ordenandole lo qui ha de observar en adelante en su distribucion y beneficio [=] /v img 6\n - Otro de 20 del mismo mes y año avisandole como continuan Celandeses en despachar dos navios para correr las costas de las indias, y encargandole la defensa y seguridad de los puertos desu govierno.= - Otro de 22 del mesmo mes y año con las noticias que se han tenido de que vn navio frances sale de françia para comerciar en los puertos de las indias.= /v img 7"
   }
 }

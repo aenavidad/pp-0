@@ -1,7 +1,7 @@
 {
   "id": "c10635",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,28,R.2,N.81"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "found none on piracy nor defence / possibly incl smuggling",
+    "mil_n": "Con Copia delos Yndiçes de los Despachos que sehan remitido ala Audiencia desde la flota del año de 81, hasta la vltima de Don Diego de Zaldivar /v img 3\n - otra del dho dia mes y año, ala Audienzia que cumpla y execute lo dispuesto por Çedula de 19 de Sept.e de 1678 s.e el conocimiento de las causas de comisso, y contrabando que se ofrecieren en los puertos de su distrito= /v img 11"
   }
 }

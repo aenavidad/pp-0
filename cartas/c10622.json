@@ -1,7 +1,7 @@
 {
   "id": "c10622",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,28,R.2,N.53"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que se verificavá los sugetos que han servido en interin las plazas de oficiales Reales en aquellas Provincia /v img 3"
   }
 }

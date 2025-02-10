@@ -1,7 +1,7 @@
 {
   "id": "c10632",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,28,R.2,N.74"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere los motivos que tiene para solicitar que SM mande que en adelante en las ocasiones que se ofrezcan de tomar quentas a los oficiales reales, no se perjudique a los ministro /v img 4"
   }
 }

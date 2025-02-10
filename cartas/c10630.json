@@ -1,7 +1,7 @@
 {
   "id": "c10630",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,28,R.2,N.73"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "es de pareçer que al escrivano del juzgado del papel sellado de aquellas Provincias se le señalen 300 pesos de salario en cada vienio /v img 3"
   }
 }

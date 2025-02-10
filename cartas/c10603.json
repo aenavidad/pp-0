@@ -1,7 +1,7 @@
 {
   "id": "c10603",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,28,R.2,N.36"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "found no specific defence incident",
+    "mil_n": "con las notiçias que se han tenido de que un Navio françes sale de françia para comerciar en aquellos Puertos /v img 8\n Por çedula de 22 de nov.re del año passado de 682, se sirbe VM de partiçiparme las notiçias, de que vn Cavo del rey christianissimo, llamado Meintembon, salia dela Corte de Paris dentro de quince dias, para hir a Corsso, contra los piratas, y lo demas, que Contiene, para q se prebenga lo nessesario al maior resguardo, y seguridad de estas privinçias y no permitir Comerçio con este, ni otro navio de estranjeros. Y he dado Orden, para que los Governadores de Comaiagua, nicaragua, y Costarica y el Castellano de el Golpho la executen con Cuidado /v img 1"
   }
 }

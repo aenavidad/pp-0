@@ -1,7 +1,7 @@
 {
   "id": "c10690",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,29,R.1,N.20"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Avisa el recivo dela Çedula de 13 de x.re de 1683 p.a la represaria de françeses, y que luego expidio las ordenes comben.tes para su cimplim.to.= /v img 3\n sobre el embargo y repressaria delos Vienes de françeses tengo obedeçida /v img 1"
   }
 }

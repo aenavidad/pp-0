@@ -1,7 +1,7 @@
 {
   "id": "c10695",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,29,R.1,N.29"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "remite â VM (en conformidad de lo que tiene mandado) testimonio del dia en que tomo posession de este govierno= /v img 1"
   }
 }

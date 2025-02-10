@@ -230,7 +230,8 @@
     - [ ] 1680s
         - [ ] check GUAT `cartas` 1683-1685 for tricky `events`
             - [x] 1683
-            - [ ] 1684
+            - [x] 1684
+            - [ ] 1685
 
 ## prior log
 ### any cartas

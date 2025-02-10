@@ -1,17 +1,41 @@
 {
   "yr": "1686",
-  "tally": null,
+  "tally": 3,
   "tally_n": null,
   "incident0": {
     "conf": null,
-    "conf_n": null,
-    "pir": null,
+    "conf_n": "may be compound - check prim source",
+    "pir": true,
     "pir_n": null,
     "lbd": null,
     "upd": null,
-    "locn": null,
-    "desc": null,
+    "locn": "Golfo Dulce",
+    "desc": "Pirates raid up to Verapaz",
     "note": null,
-    "via": null
+    "via": "e1923"
+  },
+  "incident1": {
+    "conf": null,
+    "conf_n": "may be compound - check prim source",
+    "pir": true,
+    "pir_n": null,
+    "lbd": "03-01",
+    "upd": "03-31",
+    "locn": "Ascension",
+    "desc": "Graaf raids up to Valladolid",
+    "note": null,
+    "via": "e1925"
+  },
+  "incident2": {
+    "conf": null,
+    "conf_n": "check prim source",
+    "pir": true,
+    "pir_n": null,
+    "lbd": "03-01",
+    "upd": "03-31",
+    "locn": "Rattan",
+    "desc": "Graaf cruises",
+    "note": null,
+    "via": "e1925"
   }
 }

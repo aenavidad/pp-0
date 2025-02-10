@@ -1,17 +1,53 @@
 {
   "yr": "1688",
-  "tally": null,
+  "tally": 4,
   "tally_n": null,
   "incident0": {
-    "conf": null,
+    "conf": true,
     "conf_n": null,
-    "pir": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "02-01",
+    "upd": "02-28",
+    "locn": null,
+    "desc": "Willems and Evertsen cruise, or surprise Sp ship",
+    "note": null,
+    "via": "e1929"
+  },
+  "incident1": {
+    "conf": null,
+    "conf_n": "missg prim source",
+    "pir": true,
+    "pir_n": null,
+    "lbd": "01-01",
+    "upd": "11-17",
+    "locn": "Golfo Dulce",
+    "desc": "Pirates surprise Sp ships, incl of Guat Pres",
+    "note": null,
+    "via": "e1929"
+  },
+  "incident2": {
+    "conf": null,
+    "conf_n": "missg prim source",
+    "pir": true,
     "pir_n": null,
     "lbd": null,
     "upd": null,
-    "locn": null,
-    "desc": null,
+    "locn": "Pto Caballos",
+    "desc": "Pirates surpise Sp ships",
     "note": null,
-    "via": null
+    "via": "e1929"
+  },
+  "incident3": {
+    "conf": null,
+    "conf_n": "missg prim source",
+    "pir": true,
+    "pir_n": null,
+    "lbd": "01-01",
+    "upd": "09-29",
+    "locn": "Truxillo",
+    "desc": "Pirates raid up to Olancho, and ransom settlement incl Hond Lt Gov",
+    "note": null,
+    "via": "e1929"
   }
 }

@@ -227,13 +227,14 @@
     - [x] 1629
     - [x] 1700
     - [x] 1690s
-    - [ ] 1680s
+    - [x] 1680s
         - [x] check GUAT `cartas` 1683-1685 for tricky `events`
             - [x] 1683
             - [x] 1684
             - [x] 1685
         - [x] ~~check 1680-1685 `events` prim and sec sources to sort them out~~[^might do later]
         - [x] check 1680s duplicate `events` to get `null` or `false` in `cod` key, or correct `cod_n`
+    - [ ] 1630s
 
 ## prior log
 ### any cartas

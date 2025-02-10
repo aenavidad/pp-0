@@ -1,17 +1,77 @@
 {
   "yr": "1638",
-  "tally": null,
+  "tally": 6,
   "tally_n": null,
   "incident0": {
     "conf": null,
-    "conf_n": null,
+    "conf_n": "missg prim source",
     "pir": null,
     "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": null,
-    "desc": null,
+    "lbd": "07-01",
+    "upd": "1639-06-30",
+    "locn": "Rattan",
+    "desc": "Claiborne settles",
     "note": null,
-    "via": null
+    "via": "e351"
+  },
+  "incident1": {
+    "conf": null,
+    "conf_n": "check prim source",
+    "pir": null,
+    "pir_n": null,
+    "lbd": "05-01",
+    "upd": "05-31",
+    "locn": "Truxillo",
+    "desc": "Pirates cruise or raid",
+    "note": "also e14",
+    "via": "e18"
+  },
+  "incident2": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "04-02",
+    "upd": "06-15",
+    "locn": "Cozumel",
+    "desc": "Pirates raid",
+    "note": null,
+    "via": "e16"
+  },
+  "incident3": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "04-02",
+    "upd": "06-15",
+    "locn": "Cozumel",
+    "desc": "Pirates raid again",
+    "note": "after incident2",
+    "via": "e16"
+  },
+  "incident4": {
+    "conf": null,
+    "conf_n": "not sure if duplicate - check prim source",
+    "pir": null,
+    "pir_n": null,
+    "lbd": "03-12",
+    "upd": "06-30",
+    "locn": "Amatique",
+    "desc": "Mulato cruises from Truxillo",
+    "note": null,
+    "via": "e14"
+  },
+  "incident5": {
+    "conf": null,
+    "conf_n": "may be misdated - check prim source",
+    "pir": null,
+    "pir_n": null,
+    "lbd": "01-01",
+    "upd": "1640-12-31",
+    "locn": "Bennett's Lagn",
+    "desc": "Pirates raid Maya settlement",
+    "note": null,
+    "via": "e10"
   }
 }

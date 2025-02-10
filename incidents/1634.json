@@ -1,17 +1,17 @@
 {
   "yr": "1634",
-  "tally": null,
+  "tally": 1,
   "tally_n": null,
   "incident0": {
     "conf": null,
-    "conf_n": null,
+    "conf_n": "check prim source for certain date",
     "pir": null,
     "pir_n": null,
-    "lbd": null,
-    "upd": null,
+    "lbd": "02-01",
+    "upd": "1635-09-30",
     "locn": null,
-    "desc": null,
+    "desc": "Pirates cruise",
     "note": null,
-    "via": null
+    "via": "e299"
   }
 }

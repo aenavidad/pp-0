@@ -5,6 +5,18 @@
   "incident0": {
     "conf": null,
     "conf_n": null,
+    "pir": false,
+    "pir_n": null,
+    "lbd": null,
+    "upd": null,
+    "locn": "Rattan",
+    "desc": "Claiborne settlers chased off",
+    "note": null,
+    "via": "e351"
+  },
+  "incident1": {
+    "conf": null,
+    "conf_n": null,
     "pir": null,
     "pir_n": null,
     "lbd": null,

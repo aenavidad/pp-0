@@ -234,7 +234,8 @@
             - [x] 1685
         - [x] ~~check 1680-1685 `events` prim and sec sources to sort them out~~[^might do later]
         - [x] check 1680s duplicate `events` to get `null` or `false` in `cod` key, or correct `cod_n`
-    - [ ] 1630s
+    - [x] 1630s
+    - [ ] 1640s
 
 ## prior log
 ### any cartas

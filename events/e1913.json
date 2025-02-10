@@ -1,7 +1,7 @@
 {
   "id": "e1913",
   "work": {
-    "cod": true,
+    "cod": null,
     "cod_n": "slight possible duplicate",
     "pir": true,
     "pir_n": null
@@ -17,7 +17,7 @@
     "agents_nsp1": null,
     "press_n": null,
     "prim_n": "GUATEMALA,280 [Enriquez a 27 feb 1684]",
-    "lit_n": "Rodriguez C 40-41",
+    "lit_n": "Rodriguez C 40-41 / Lujan 2 108",
     "note": "Dec 1683. Du pirate Zanques enters Lake Izabal = Golfo Dulce, reaches Bodegas, enters R Polochic to Verapaz, reaches Turucub where they kidnap Indian Gaspar Quema and his wife, and retire /v Rodriguez C 40-41 /GUATEMALA,280",
     "via": "v-1.4"
   }

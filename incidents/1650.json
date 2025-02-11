@@ -1,17 +1,41 @@
 {
   "yr": "1650",
-  "tally": null,
+  "tally": 3,
   "tally_n": null,
   "incident0": {
-    "conf": null,
+    "conf": true,
     "conf_n": null,
-    "pir": null,
+    "pir": false,
+    "pir_n": null,
+    "lbd": "07-15",
+    "upd": "07-31",
+    "locn": "Rattan",
+    "desc": "Villalva tries to chase off Eng settlers, but fails",
+    "note": null,
+    "via": "e389"
+  },
+  "incident1": {
+    "conf": true,
+    "conf_n": null,
+    "pir": false,
+    "pir_n": null,
+    "lbd": "07-15",
+    "upd": "07-31",
+    "locn": "Rattan",
+    "desc": "Villalva and Bulasia try to chase off Eng settlers, but find them gone",
+    "note": "after incident0 - incl successful reduction of natives",
+    "via": "e389"
+  },
+  "incident2": {
+    "conf": null,
+    "conf_n": "missg prim",
+    "pir": false,
     "pir_n": null,
     "lbd": null,
     "upd": null,
-    "locn": null,
-    "desc": null,
+    "locn": "G Dulce",
+    "desc": "Sn Felipe fortified with baluarte",
     "note": null,
-    "via": null
+    "via": "e389"
   }
 }

@@ -7,11 +7,11 @@
     "conf_n": "check prim sources - may be compound",
     "pir": false,
     "pir_n": null,
-    "lbd": null,
-    "upd": null,
+    "lbd": "06-01",
+    "upd": "06-30",
     "locn": "Rattan",
     "desc": "Claiborne settlers and natives chased off",
-    "note": "sort of in e28 - also in e34 for Bay Isl",
+    "note": "also in e389 - sort of in e28 - also in e34 for Bay Isl",
     "via": "e351"
   },
   "incident1": {

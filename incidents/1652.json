@@ -1,17 +1,29 @@
 {
   "yr": "1652",
-  "tally": null,
+  "tally": 2,
   "tally_n": null,
   "incident0": {
-    "conf": null,
+    "conf": true,
     "conf_n": null,
-    "pir": null,
+    "pir": true,
     "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": null,
-    "desc": null,
+    "lbd": "05-29",
+    "upd": "05-29",
+    "locn": "Bacalar",
+    "desc": "Abraham or Tomas raid",
     "note": null,
-    "via": null
+    "via": "e44"
+  },
+  "incident1": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "11-01",
+    "upd": "11-30",
+    "locn": "New R",
+    "desc": "Pirates raid Maya settlements",
+    "note": null,
+    "via": "e46"
   }
 }

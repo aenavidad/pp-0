@@ -1,17 +1,29 @@
 {
   "yr": "1679",
-  "tally": null,
+  "tally": 2,
   "tally_n": null,
   "incident0": {
-    "conf": null,
+    "conf": true,
     "conf_n": null,
-    "pir": null,
+    "pir": true,
     "pir_n": null,
-    "lbd": null,
-    "upd": null,
+    "lbd": "09-26",
+    "upd": "09-26",
     "locn": null,
-    "desc": null,
+    "desc": "Coxon surprises Sp ship",
     "note": null,
-    "via": null
+    "via": "e1905"
+  },
+  "incident1": {
+    "conf": null,
+    "conf_n": "possy duplicates incident0",
+    "pir": true,
+    "pir_n": null,
+    "lbd": "07-28",
+    "upd": "07-28",
+    "locn": "G Dulce",
+    "desc": "Pirates raid",
+    "note": "possy Fr pirates",
+    "via": "e1905"
   }
 }

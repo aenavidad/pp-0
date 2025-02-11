@@ -1,17 +1,29 @@
 {
   "yr": "1678",
-  "tally": null,
+  "tally": 2,
   "tally_n": null,
   "incident0": {
     "conf": null,
-    "conf_n": null,
-    "pir": null,
+    "conf_n": "missg prim",
+    "pir": true,
     "pir_n": null,
     "lbd": null,
     "upd": null,
-    "locn": null,
-    "desc": null,
+    "locn": "Truxillo",
+    "desc": "Pirates raid",
     "note": null,
-    "via": null
+    "via": "e1903"
+  },
+  "incident1": {
+    "conf": null,
+    "conf_n": "missg prim - assuming coastal act",
+    "pir": true,
+    "pir_n": null,
+    "lbd": null,
+    "upd": null,
+    "locn": "G Dulce",
+    "desc": "Pirates raid up to Verapaz",
+    "note": null,
+    "via": "e1903"
   }
 }

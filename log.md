@@ -238,7 +238,7 @@
     - [x] 1640s
     - [x] 1650s
     - [x] 1660s
-    - [ ] 1670s
+    - [x] 1670s
 
 ## prior log
 ### any cartas

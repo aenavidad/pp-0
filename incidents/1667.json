@@ -1,17 +1,41 @@
 {
   "yr": "1667",
-  "tally": null,
+  "tally": 3,
   "tally_n": null,
   "incident0": {
     "conf": null,
-    "conf_n": null,
-    "pir": null,
+    "conf_n": "possy compound",
+    "pir": true,
     "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": null,
-    "desc": null,
+    "lbd": "06-01",
+    "upd": "1668-05-20",
+    "locn": "Pto Caballos",
+    "desc": "Olonnais raids and torches up to Sn Pedro",
     "note": null,
-    "via": null
+    "via": "e455"
+  },
+  "incident1": {
+    "conf": null,
+    "conf_n": "possy compound",
+    "pir": true,
+    "pir_n": null,
+    "lbd": "06-01",
+    "upd": "1668-06-30",
+    "locn": "Amatique",
+    "desc": "Olonnais surprises Sp ships",
+    "note": null,
+    "via": "e455"
+  },
+  "incident2": {
+    "conf": null,
+    "conf_n": "may count as compound",
+    "pir": true,
+    "pir_n": null,
+    "lbd": "09-01",
+    "upd": "1668-05-31",
+    "locn": "SE Yuc",
+    "desc": "Olonnais cruises and raids Maya settlements",
+    "note": "incl trade with Maya",
+    "via": "e455"
   }
 }

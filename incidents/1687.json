@@ -1,6 +1,6 @@
 {
   "yr": "1687",
-  "tally": 2,
+  "tally": 3,
   "tally_n": null,
   "incident0": {
     "conf": null,
@@ -10,7 +10,7 @@
     "lbd": null,
     "upd": null,
     "locn": "Amatique",
-    "desc": "Pirates raid up to Golfo Dulce",
+    "desc": "Pirates raid up to G Dulce",
     "note": null,
     "via": "e1927"
   },
@@ -25,5 +25,17 @@
     "desc": "Pirates raid",
     "note": null,
     "via": "e1927"
+  },
+  "incident2": {
+    "conf": null,
+    "conf_n": "missg prim sources - check to narrow dates",
+    "pir": false,
+    "pir_n": null,
+    "lbd": "01-01",
+    "upd": "1689-12-31",
+    "locn": "G Dulce",
+    "desc": "Sn Felipe fortified",
+    "note": null,
+    "via": "e1875"
   }
 }

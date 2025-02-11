@@ -1,17 +1,17 @@
 {
   "yr": "1640",
-  "tally": null,
+  "tally": 6,
   "tally_n": null,
   "incident0": {
-    "conf": null,
-    "conf_n": "missg prim sources",
+    "conf": true,
+    "conf_n": null,
     "pir": true,
     "pir_n": null,
-    "lbd": null,
-    "upd": null,
+    "lbd": "03-01",
+    "upd": "03-31",
     "locn": "Amatique",
-    "desc": "Pirates raid",
-    "note": null,
+    "desc": "Du pirates raid down to G Dulce",
+    "note": "main e28 or e1869 - after incident2",
     "via": "e26"
   },
   "incident1": {
@@ -23,19 +23,55 @@
     "upd": null,
     "locn": "Truxillo",
     "desc": "Du pirates raid",
-    "note": null,
+    "note": "main e1869 - also in e28",
     "via": "e26"
   },
   "incident2": {
-    "conf": null,
+    "conf": true,
     "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "03-01",
+    "upd": "03-31",
+    "locn": "Omoa",
+    "desc": "Pirates raid",
+    "note": null,
+    "via": "e28"
+  },
+  "incident3": {
+    "conf": null,
+    "conf_n": "not sure if should count as incident",
     "pir": null,
     "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": null,
-    "desc": null,
-    "note": null,
-    "via": null
+    "lbd": "03-01",
+    "upd": "03-31",
+    "locn": "Utila",
+    "desc": "Pirates cruise",
+    "note": "after incident0",
+    "via": "e28"
+  },
+  "incident4": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "03-01",
+    "upd": "03-31",
+    "locn": "Omoa",
+    "desc": "Pirates raid again",
+    "note": "after incident3",
+    "via": "e28"
+  },
+  "incident5": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "03-01",
+    "upd": "03-31",
+    "locn": "Utila",
+    "desc": "Pirates raid native settlement",
+    "note": "after incident4",
+    "via": "e28"
   }
 }

@@ -1,17 +1,53 @@
 {
   "yr": "1643",
-  "tally": null,
+  "tally": 4,
   "tally_n": null,
   "incident0": {
-    "conf": null,
+    "conf": true,
     "conf_n": null,
-    "pir": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "07-20",
+    "upd": "09-15",
+    "locn": "Truxillo",
+    "desc": "Jackson raids and holds",
+    "note": null,
+    "via": "e38"
+  },
+  "incident1": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "07-20",
+    "upd": "09-15",
+    "locn": "Sto Tomas",
+    "desc": "Jackson raids",
+    "note": "after incident0 - possibly to G Dulce - sort of in e992",
+    "via": "e38"
+  },
+  "incident2": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "07-20",
+    "upd": "09-15",
+    "locn": "Truxillo",
+    "desc": "Jackson raids again",
+    "note": "after incident1",
+    "via": "e38"
+  },
+  "incident3": {
+    "conf": null,
+    "conf_n": "missg prim sources",
+    "pir": false,
     "pir_n": null,
     "lbd": null,
     "upd": null,
-    "locn": null,
-    "desc": null,
+    "locn": "Guanaxa",
+    "desc": "Sp expel pirates or natives",
     "note": null,
-    "via": null
+    "via": "e38"
   }
 }

@@ -1,6 +1,6 @@
 {
   "yr": "1604",
-  "tally": 1,
+  "tally": 2,
   "tally_n": null,
   "incident0": {
     "conf": null,
@@ -13,5 +13,17 @@
     "desc": "Port discovered or est",
     "note": null,
     "via": "e1835"
+  },
+  "incident1": {
+    "conf": null,
+    "conf_n": "missg prim source",
+    "pir": true,
+    "pir_n": "assuming hostile = pirates",
+    "lbd": null,
+    "upd": null,
+    "locn": "G Dulce",
+    "desc": "Pirates raid",
+    "note": "incl watchtower destroyed",
+    "via": "e1875"
   }
 }

@@ -1,17 +1,53 @@
 {
   "yr": "1641",
-  "tally": null,
+  "tally": 4,
   "tally_n": null,
   "incident0": {
-    "conf": null,
+    "conf": true,
     "conf_n": null,
-    "pir": null,
+    "pir": true,
     "pir_n": null,
     "lbd": null,
     "upd": null,
-    "locn": null,
-    "desc": null,
+    "locn": "Old R",
+    "desc": "Mulato or Du pirates raid Maya settlement",
     "note": null,
-    "via": null
+    "via": "e30"
+  },
+  "incident1": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": null,
+    "upd": null,
+    "locn": "Sittee R",
+    "desc": "Mulato or Du pirates raid Maya settlement, and capture Sp missionaries",
+    "note": null,
+    "via": "e30"
+  },
+  "incident2": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": null,
+    "upd": null,
+    "locn": "Truxillo",
+    "desc": "Mulato raids and torches",
+    "note": null,
+    "via": "e32"
+  },
+  "incident3": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": null,
+    "upd": null,
+    "locn": "Olancho",
+    "desc": "Mulato raids Olancho, but Sp militia defend",
+    "note": "after incident2",
+    "via": "e32"
   }
 }

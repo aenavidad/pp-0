@@ -4,6 +4,18 @@
   "tally_n": null,
   "incident0": {
     "conf": null,
+    "conf_n": "missg prim sources - check to narrow dates",
+    "pir": false,
+    "pir_n": null,
+    "lbd": "01-01",
+    "upd": "1657-12-31",
+    "locn": "G Dulce",
+    "desc": "Sn Felipe fortified with situado",
+    "note": null,
+    "via": "e1875"
+  },
+  "incident1": {
+    "conf": null,
     "conf_n": null,
     "pir": null,
     "pir_n": null,

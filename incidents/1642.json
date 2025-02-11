@@ -1,29 +1,89 @@
 {
   "yr": "1642",
-  "tally": null,
+  "tally": 7,
   "tally_n": null,
   "incident0": {
     "conf": null,
-    "conf_n": null,
+    "conf_n": "check prim sources - may be compound",
     "pir": false,
     "pir_n": null,
     "lbd": null,
     "upd": null,
     "locn": "Rattan",
-    "desc": "Claiborne settlers chased off",
-    "note": null,
+    "desc": "Claiborne settlers and natives chased off",
+    "note": "sort of in e28 - also in e34 for Bay Isl",
     "via": "e351"
   },
   "incident1": {
     "conf": null,
-    "conf_n": null,
+    "conf_n": "check prim source - may be compound",
     "pir": null,
     "pir_n": null,
     "lbd": null,
     "upd": null,
-    "locn": null,
-    "desc": null,
+    "locn": "Bay Isl",
+    "desc": "Eng pirates take or cruise Rattan and Guanaxa",
+    "note": "also in e34",
+    "via": "e30"
+  },
+  "incident2": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "03-01",
+    "upd": "04-30",
+    "locn": "Ulua R",
+    "desc": "Mulato raids",
     "note": null,
-    "via": null
+    "via": "e34"
+  },
+  "incident3": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "03-01",
+    "upd": "04-30",
+    "locn": "Pto Caballos",
+    "desc": "Mulato raids",
+    "note": null,
+    "via": "e34"
+  },
+  "incident4": {
+    "conf": null,
+    "conf_n": "missg prim source",
+    "pir": true,
+    "pir_n": null,
+    "lbd": null,
+    "upd": null,
+    "locn": "Sto Tomas",
+    "desc": "Pirates raid",
+    "note": null,
+    "via": "e34"
+  },
+  "incident5": {
+    "conf": true,
+    "conf_n": null,
+    "pir": true,
+    "pir_n": null,
+    "lbd": "11-22",
+    "upd": "11-22",
+    "locn": "Bacalar",
+    "desc": "Mulato raids",
+    "note": null,
+    "via": "e36"
+  },
+  "incident6": {
+    "conf": null,
+    "conf_n": "prolly compound - check sources",
+    "pir": true,
+    "pir_n": null,
+    "lbd": null,
+    "upd": null,
+    "locn": "Old R",
+    "desc": "Mulato raids Maya settlements from Monkey R to",
+    "note": "ca incident5",
+    "via": "e36"
   }
 }

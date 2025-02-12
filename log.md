@@ -202,7 +202,7 @@
     - [x] add to `/cartas`
 - [x] update relevant readmes
 - [x] code 1601 GUAT `cartas`[^just to check `events` completeness, as no Guat events present for said year - none found]
-- [ ] fix duplicate or dubious `events`, then extract into annual `incidents`[^combined from previous items]
+- [x] fix duplicate or dubious `events`, then extract into annual `incidents`[^combined from previous items]
     - [x] for 1608
     - [x] 1609
     - [x] 1610
@@ -239,6 +239,11 @@
     - [x] 1650s
     - [x] 1660s
     - [x] 1670s
+- [ ] check `incidents` against `cartas`
+    - [x] for 1650s[^since these are fully coded, do eg `jq '.[] | select(.cat.lbd!=null) | select(.cat.lbd|contains("165")) | select(foo) .id' temp.json` where `foo` is `.work.cod==null` to get any uncoded 1650s cartas, and is `.data.mil==true` to get only relevant ones, with all `cartas` in `temp.json`]
+        - [x] are fully coded
+        - [x] 12 relevant hits[^do `jq -j '.[] | foo .id' temp.json | sed 's/c/|/g;s/|/"id": "c(/;s/$/)",/'` to get relevant ids into Sublime Text regex string, for relevant query `foo` and all `cartas` in `temp.json`]
+    - [ ] for 1640s
 
 ## prior log
 ### any cartas

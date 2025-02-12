@@ -20,9 +20,9 @@
   "data": {
     "mil": true,
     "pir": null,
-    "def": null,
+    "def": true,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "incl Jam priacy, but found no Hond pir incidents",
     "mil_n": "Con çinco Testimonios ss.e el viaxe delas Naos de onduras -La R.on Va al margen de la Carta /v img 11"
   }
 }

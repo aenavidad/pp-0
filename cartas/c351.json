@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,17,R.3,N.33"
   },
   "data": {
-    "mil": true,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "none on pir nor def found on second review",
     "mil_n": "ss.e diferentes puntos /v img 4 / Avisase de la muerte del Press.te de esta Aud.a [etc] /v img 1"
   }
 }

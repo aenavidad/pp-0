@@ -3,8 +3,8 @@
   "tally": 1,
   "tally_n": null,
   "incident0": {
-    "conf": true,
-    "conf_n": null,
+    "conf": null,
+    "conf_n": "cartas prolly refer to Jam invasion of 55 - as does c44, c520",
     "pir": null,
     "pir_n": null,
     "lbd": "01-01",

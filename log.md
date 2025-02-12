@@ -243,7 +243,11 @@
     - [x] for 1650s[^since these are fully coded, do eg `jq '.[] | select(.cat.lbd!=null) | select(.cat.lbd|contains("165")) | select(foo) .id' temp.json` where `foo` is `.work.cod==null` to get any uncoded 1650s cartas, and is `.data.mil==true` to get only relevant ones, with all `cartas` in `temp.json`]
         - [x] are fully coded
         - [x] 12 relevant hits[^do `jq -j '.[] | foo .id' temp.json | sed 's/c/|/g;s/|/"id": "c(/;s/$/)",/'` to get relevant ids into Sublime Text regex string, for relevant query `foo` and all `cartas` in `temp.json`]
-    - [ ] for 1640s
+    - [x] ~~for 1640s~~[^do later]
+    - [x] for 1635, 1649, 1661-1664, 1668[^assuming fully coded cartas, these had no incidents per `jq -r '.[] | "\(.yr)\t\(.tally)"' temp.json | sort -n` for all incidents in `temp.json`]
+        - [x] are fully coded
+        - [x] 8 hits
+- [ ] for `incidents`, may count only certain defence acts (eg military/nautical acts) and not others (building forts/sending arms/naming officers/forming militia) as latter are messy to count? - or for `cartas`, `def` could refer to state of defence generally or particular incidents, to plot defence mention in `cartas` over time directly fromt them, or add a `cartas` tally to `incidents`
 
 ## prior log
 ### any cartas

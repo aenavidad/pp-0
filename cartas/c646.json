@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,21,R.2,N.22"
   },
   "data": {
-    "mil": true,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "none on def nor pir mentioned in covg folios img 4, 14",
     "mil_n": "refiere sele mando que 4 encomiendas q los oydor.s dela Aud.a Governando encomendaron en D fer.do Mendez de Sotomay.r las encomiende en otras tantas personas por haversse deneg.do su confirmaçion /v img 4"
   }
 }

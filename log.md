@@ -264,9 +264,11 @@
         - [x] if `mil=true` and `def=true`, do nothing
         - [x] if `mil=true` and `def!=true`, make `def=null`[^86 hits per `jq -r '.[] | select(.work.cod==true and .data.mil==true and .data.def!=true) .id' cartas-merged.json` then value swapped with `for i in $(cat hits.txt); do jq '.data.def=null' $i.json > tmp && mv tmp $i.json; done`]
         - [ ] if `mil=false`, check carta for non-incident defence
-        - [ ] if `mil=null`, ~~fix this mistake~~ check carta for both new `pir` and `def`[^~~as should have no `cod=true` and `mil=null` cartas~~ - got 35 hits, mostly cartas flagged for coding or deteriorated]
+        - [x] if `mil=null`, ~~fix this mistake~~ check carta for both new `pir` and `def`[^~~as should have no `cod=true` and `mil=null` cartas~~ - got 35 hits, mostly cartas flagged for coding or deteriorated]
             - [x] some finished
-            - [ ] remaining cartas coded if in Guat series, or if in Mex series prior to 1660, else marked `cod=null`
+            - [x] for remaining cartas -
+                - [x] marked `cod=null` if it seemed record hadn't been skimmed/only cat data had been read
+                - [x] left `cod=true` with `mil=null` and added `stat=1` for the rest[^2 cartas in Mex post-dating Bacl withdrawal from Bay (as prolly don't need these), and 5 damaged cartas]
 
 ### coding missg cartas
 - [ ] for all years coded in previous log items, ensure no carta is `cod=null`

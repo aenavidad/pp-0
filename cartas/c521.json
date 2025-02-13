@@ -3,7 +3,7 @@
   "work": {
     "cod": true,
     "cod_n": "deteriorated",
-    "stat": null,
+    "stat": 1,
     "stat_n": null
   },
   "cat": {

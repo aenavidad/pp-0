@@ -1,7 +1,7 @@
 {
   "yr": "1642",
   "tally": 7,
-  "tally_n": null,
+  "tally_n": "also see c272, c275 for vars incidents here, and c38 for incident0",
   "incident0": {
     "conf": null,
     "conf_n": "check prim sources - may be compound",
@@ -10,7 +10,7 @@
     "lbd": "06-01",
     "upd": "06-30",
     "locn": "Rattan",
-    "desc": "Claiborne settlers and natives chased off",
+    "desc": "Claiborne settlers or pirates and natives chased off",
     "note": "also in e389 - sort of in e28 - also in e34 for Bay Isl",
     "via": "e351"
   },

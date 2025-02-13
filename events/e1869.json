@@ -2,7 +2,7 @@
   "id": "e1869",
   "work": {
     "cod": true,
-    "cod_n": "possible duplicate",
+    "cod_n": "probable duplicate",
     "pir": true,
     "pir_n": null
   },
@@ -16,7 +16,7 @@
     "agents_nsp0": null,
     "agents_nsp1": null,
     "press_n": null,
-    "prim_n": null,
+    "prim_n": "GUATEMALA,16,R.2,N.14",
     "lit_n": "Lujan 2 108, 472",
     "note": "1640 Truxillo. Piratas holandeses se llevan cálices de la iglesia, 26 piezas de artillería, 50 mosquetes, mucha pólvora y pertrechos de guerra. /v Lujan 2 108",
     "via": "v-1.4"

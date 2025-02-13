@@ -1,7 +1,7 @@
 {
   "yr": "1640",
   "tally": 6,
-  "tally_n": null,
+  "tally_n": "plus further incidents in c40",
   "incident0": {
     "conf": true,
     "conf_n": null,
@@ -15,8 +15,8 @@
     "via": "e26"
   },
   "incident1": {
-    "conf": null,
-    "conf_n": "missg prim sources",
+    "conf": true,
+    "conf_n": null,
     "pir": true,
     "pir_n": null,
     "lbd": null,

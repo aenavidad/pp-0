@@ -307,3 +307,6 @@ TSWLatexianTemp*
 #*Notes.bib
 pp-0 # ignore symlink
 .DS_Store
+
+# pdf of draft
+pp.pdf

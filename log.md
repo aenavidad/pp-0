@@ -253,6 +253,8 @@
 - [x] ~~for `incidents`, may count only certain defence acts (eg military/nautical acts) and not others (building forts/sending arms/naming officers/forming militia) as latter are messy to count? - or for `cartas`, `def` could refer to state of defence generally or particular incidents, to plot defence mention in `cartas` over time directly fromt them, or add a `cartas` tally to `incidents`~~[^might do later]
 
 ## 12 feb 2025 onwards[^organised by sections to keep better track of items]
+### for pp
+- [x] start `pp.tex`[^structure copied from latest `tex` file ie in `historical-series-re-Belize/work/oct-23/`]
 
 ## prior log
 ### any cartas

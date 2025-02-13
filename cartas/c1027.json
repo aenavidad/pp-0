@@ -18,11 +18,11 @@
     "ref": "MEXICO,362,R.2,N.14"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "seems to have few words on genl or Camp def",
+    "mil_n": "Da q.ta de lo que le ha passado con el liz.do Dn Joseph de Blequa su then.te g.l sin haverle podido reducir a union y amistad [..] p.r el cuydado q ocasionavan las continuas noti.as que llegavan de que el enemigo queria acometer aquella plaza [etc] /v img 4"
   }
 }

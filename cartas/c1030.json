@@ -18,11 +18,11 @@
     "ref": "MEXICO,362,R.2,N.17"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possy incl Camp smuggling",
+    "mil_n": "Con zertificas.on de haver cumplido los oficiales Rs ocn el entrego de los 50 p.s [?] en que fueron multados [..] p.r no haver atado alos ynteresados en el descamino delas mercadurias dela frag.ta n.ra s.ra del rosario y s.n Joseph M.re Ju.o delos Reyes= /v img 4"
   }
 }

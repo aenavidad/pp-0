@@ -18,11 +18,11 @@
     "ref": "MEXICO,362,R.2,N.13"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "seems re Camp / mentions genl def in few words",
+    "mil_n": "Refiere que hav.do lleg.do el lis.do Dn Joseph de Blequa su then.te gen.l y Auditor de suena [?] en ocass.on que se allava aquella Provj.a sin ning.n letrado y con mucha nesess.d desta profesio p.r las causas y casos yregulares que ocurren aun Govj.o sin embargo de haver solicitado con el la Paz y union devida, no pudo conseguir que respondiese a diferentes consultas que s.re neg.os del Rl sevj.o y de justi.a le hiço p.r decir que esto hera acto Volunt.rio y no de oblig.on [etc] [...] lo qual tenia mu.os yncomben.tes mayorm.te quando se allavan con las Armas en la mano, p.a pasar muestra gen.l p.r las continuas noti.as que tenian de que el enemigo intentava saquear aquella plasa [etc] /v img 4"
   }
 }

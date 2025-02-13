@@ -261,10 +261,12 @@
     - [x] for `pir`, assume this is so[^ie `true` for 'has evidence of piracy, even in just a few words' was the rule followed iirc, with `pir=null` and `mil=true` for similar incidents not obviously piratical (eg foreign ships cruising/watering/wintering/being sighted, foreign sailors/pirates landing/trading, etc) or else `pir` value just ignored on filling in `mil` value]
     - [ ] for `def` where `cod=false`, check carta for non-incident defence[^ ie non-incident defence (eg general state of defence, defence proposals, etc) evidenced in *more* than a few words - incident defence already checked as `true` for 'has evidence of *particular* incident (rather than just general defence/proposals), even in few words' was the rule followed to now iirc, with `def=null` and `mil=true` for tricky incidents or else `pir` vlaue just ignored on filling in `mil` value]
     - [ ] for `def` where `cod=true`,
-        - [ ] if `mil=true` and `def=true`, do nothing
-        - [ ] if `mil=true` and `def!=true`, make `def=null`
+        - [x] if `mil=true` and `def=true`, do nothing
+        - [x] if `mil=true` and `def!=true`, make `def=null`[^86 hits per `jq -r '.[] | select(.work.cod==true and .data.mil==true and .data.def!=true) .id' cartas-merged.json` then value swapped with `for i in $(cat hits.txt); do jq '.data.def=null' $i.json > tmp && mv tmp $i.json; done`]
         - [ ] if `mil=false`, check carta for non-incident defence
-        - [ ] if `mil=null`, fix this mistake[^as should have no `cod=true` and `mil=null` cartas]
+        - [ ] if `mil=null`, ~~fix this mistake~~ check carta for both new `pir` and `def`[^~~as should have no `cod=true` and `mil=null` cartas~~ - got 35 hits, mostly cartas flagged for coding or deteriorated]
+            - [x] some finished
+            - [ ] remaining cartas coded if in Guat series, or if in Mex series prior to 1660, else marked `cod=null`
 
 ### coding missg cartas
 - [ ] for all years coded in previous log items, ensure no carta is `cod=null`

@@ -18,11 +18,11 @@
     "ref": "MEXICO,362,R.2,N.18"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "en execus.on de una zedula q recivio de 29 de m.co de 678 p.a que pidiese Donativo gracioso [etc] /v img 4"
   }
 }

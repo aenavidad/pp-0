@@ -7,6 +7,7 @@ private repo for paper work
 - `/events` has event data
 - `/incidents` has (annualised) event data
 - `citations.json` has full citations for short citations in manuscript and event data
+- `pp.tex` is paper
 ## licence
 none
 ## history

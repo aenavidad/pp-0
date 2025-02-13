@@ -5,6 +5,7 @@
 \usepackage{lipsum}% for dummy text
 \usepackage{xcolor}% for darkmode pdf
 \usepackage{hyperref}% for links - load last-ish
+\usepackage{amsrefs}% for full citations - load last
 %
 %
 % new commands to avoid formatting inline
@@ -22,9 +23,12 @@
 %
 %
 \title{pp}
-\author{Navidad}
+\author{A Navidad}
+\address{Harvard College, Cambridge MA}
+\curraddr{Benque Viejo CY}
 \email{navidad@college.harvard.edu}
 \date{12 Feb 2025}
+\thanks{\lipsum[1][1-3]}% incl non-grant support per ams
 %
 %
 \begin{abstract}
@@ -40,20 +44,24 @@
 \label{s:intro}
 \subsection{Test}
 \label{ss:test}
-Test.\footnote{Test.}
+Test in Burdon~\cite{Test}.\footnote{Test.}
+
+\lipsum
 %
 %
+\pagebreak% just for draft
 \section{Conclusion}
 \label{s:concl}
 \lipsum[1][1-6]
 %
 %
-\section*{Acknowledgements}
-\label{s:acknow}
-\lipsum[1][1-3]
+\begin{bibdiv}
+\begin{biblist}
 %
+\bib{Test}{article}{title={Testing Test}, author={Alan Burdon}, journal={Test}, volume={3}, date={2020}, pages={9--11}}
 %
-% references here
+\end{biblist}
+\end{bibdiv}
 %
 %
 \end{document}

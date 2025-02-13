@@ -37,8 +37,8 @@ imported and generated calendar data
 | var | type | values | note |
 |:--|:--|:--|:--|
 | `mil` | boolean | - | military[^`true` for `pir` or `def`] |
-| `pir` | boolean | - | record has evidence of piracy incident |
-| `def` | boolean | - | record has evidence of defence-against-piracy incident |
+| `pir` | boolean | - | record has evidence of piracy incident[^even just a few words eg 'so and so attacked'] |
+| `def` | boolean | - | record has evidence of defence-against-piracy ~~incident~~[^either incident (even in just a few words), or non-incident (eg re general state of defence, defence proposals, etc - but in *more* than a few words)] |
 | `lit_n` | string | - | cf pointer to published literature[^only C Amaya imported, likely = S 18 in `historical-series-re-Belize/v-1.4/Sources-Series S 0—1628*.tsv` ie [Cardona Amaya's 2020 *Invasiones*](https://shs.hal.science/halshs-02540842v1).] |
 | `codg_n` | string | - | coding comments to coder |
 | `mil_n` | string | - | notes for `mil`, `pir`, `def` |

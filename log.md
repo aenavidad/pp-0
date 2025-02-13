@@ -256,6 +256,21 @@
 ### for pp
 - [x] start `pp.tex`[^structure copied from latest `tex` file ie in `historical-series-re-Belize/work/oct-23/`]
 
+### recoding cartas
+- [ ] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`
+    - [x] for `pir`, assume this is so[^ie `true` for 'has evidence of piracy, even in just a few words' was the rule followed iirc, with `pir=null` and `mil=true` for similar incidents not obviously piratical (eg foreign ships cruising/watering/wintering/being sighted, foreign sailors/pirates landing/trading, etc) or else `pir` value just ignored on filling in `mil` value]
+    - [ ] for `def` where `cod=false`, check carta for non-incident defence[^ ie non-incident defence (eg general state of defence, defence proposals, etc) evidenced in *more* than a few words - incident defence already checked as `true` for 'has evidence of *particular* incident (rather than just general defence/proposals), even in few words' was the rule followed to now iirc, with `def=null` and `mil=true` for tricky incidents or else `pir` vlaue just ignored on filling in `mil` value]
+    - [ ] for `def` where `cod=true`,
+        - [ ] if `mil=true` and `def=true`, do nothing
+        - [ ] if `mil=true` and `def!=true`, make `def=null`
+        - [ ] if `mil=false`, check carta for non-incident defence
+        - [ ] if `mil=null`, fix this mistake[^as should have no `cod=true` and `mil=null` cartas]
+
+### coding missg cartas
+- [ ] for all years coded in previous log items, ensure no carta is `cod=null`
+    - [ ] for 1630-1679 dated cartas, exactly 1630-1668 dated cartas mentioned in prev items
+    - [ ] for other cartas, exactly 1601[^in Guat series only] and 1606-1607[^in Guat series only] and 1608-1629 dated cartas mentioned in prev items
+
 ## prior log
 ### any cartas
 * in `v-1.4`, first written by 7 sep 2021, last updated ~~24~~ 29 oct 2021 still in belmopan, cy[^varids 75 and 11 in `work/versioning/sheets varids.tsv`] 

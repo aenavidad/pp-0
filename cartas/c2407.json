@@ -1,7 +1,7 @@
 {
   "id": "c2407",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,44B,N.79"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re Nic pir/def",
+    "mil_n": "en las afflicçiones que esta Provinçia tiene por las imbaçiones que los Yngleses y Françeçes nos estan haçiendo con amenazas de proprietarse, no tenemos otro alivio que el amparo que en V.ro Rl nombre experimentamos enel M.e de campo Don Joan Lopez de la Flor v.ro Governador y capitan general desta provinçia [costa rica] /v img 1"
   }
 }

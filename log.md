@@ -298,7 +298,12 @@
 - [ ] code 1602-1605 cartas with `mil` as above
     - [ ] all in Guat
     - [x] select in Mex[^as above]
-- [ ] code 1669 cartas as above
+- [x] code 1669 cartas as above
+    - [x] all in Guat
+    - [x] select in Mex
+- [x] ~~code 1670s cartas as above~~
+    - [x] ~~all in Guat~~
+    - [x] ~~select in Mex~~[^prolly not needed after Bacl withdrawal]
 
 ## prior log
 ### any cartas

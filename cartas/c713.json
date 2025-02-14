@@ -1,7 +1,7 @@
 {
   "id": "c713",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.4,N.38"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl Nic piracy and defence - prolly incl Hond piracy for nabio de registro",
+    "mil_n": "Sobre Difer.tes Puntos q Vienen sacados /v img 7\n 3 - Estas probinçias seben cada dia ynfestadas de cosario asi Yngleses como franceses que andan dibididos en dos esquadras y con mucho numero de jente y aunque yntentan acada paso ynbadir las probinçias de Nicaragua y costarrica noan logrado /v img 2\n 9 - El nabio de registro del cargo del capitan Don Joan de melo que bino a estas probinçias lo apreso el enemigo estando a media carga y por los prisioneros que fueron saliendo a tiera poco a poco se bino a saber como se perdio en en unos cayos que estan distantes quinçe leguas de las bocas del rio de san joan y asi el quese despachare a estas probinçias sino biniere mas prebenido pasara el mismo riesgo= /v img 4"
   }
 }

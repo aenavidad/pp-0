@@ -1,7 +1,7 @@
 {
   "id": "c710",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,22,R.4,N.35"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "possy incl Nic piracy",
+    "mil_n": "refiere que el Gov.or dela Prov.a de Nicaragua le remitio Vn Prisionero llamado Gabriel fran.co Grat que dize ser Ingles por haver entendido handava En Aquellos Puertos por espia del enemigo, y que Aunque por la causa que sele fulmino no sele hallo culpa Grave sin embargo en Conformi.d delas Rs cedulas le remite y la via de Panama con registro ala Cassa dela Contrataz.on de Sevilla /v img 3"
   }
 }

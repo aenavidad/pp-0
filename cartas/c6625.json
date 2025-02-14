@@ -1,7 +1,7 @@
 {
   "id": "c6625",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.9,N.59"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re W/N Yuc defence",
+    "mil_n": "Açerca de que tiene ynviadas las plantas dela fortifica.on de canpeche y Rio de lagartos que estan ya acavadas sin costa dela Real haz.a /v img 4"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c6473",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.9,N.53"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl W/N Yuc def",
+    "mil_n": "que a hecho en la v.a y Puerto de campeche vna fortificaçion de ynportançia sin costa de la rr.l Haz.da= [etc] /v img 1"
   }
 }

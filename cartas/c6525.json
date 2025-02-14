@@ -1,7 +1,7 @@
 {
   "id": "c6525",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.9,N.57"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl N/W Yuc def",
+    "mil_n": "que escribio a VM a 21 de junio dando q.ta a VM de todo lo q abia que darla Hasta entonçes--y rremitio 12U p.os de oro comun delo proçedido dela sal= [etc] /v img 1"
   }
 }

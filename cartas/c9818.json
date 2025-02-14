@@ -1,7 +1,7 @@
 {
   "id": "c9818",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,29,N.96"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "no 3 at img 42 - re genl def incl E Yuc",
+    "mil_n": "Don Diego [ill] de Cordova [ill] Porq.e Por p.te del cavildo y Regim.to dela V.a de Vallid.o Provi.a de yucatan me ha sido heya [?] R.on que Don ant.o de figueroa gover.or della Conpele [?] y oprimia alos V.z dela dha V.a A que se alisten y Pongan debajo de bandera ausanca de guerra y a nombrado en la dha V.a de Vallid. Y ciu.d de merida dela dha Prov.a Capp.nes, alf.es sargentos y otros offi.es nolo Pudiendo ni deviendo hazer Por no tener facultad Para ello y Perteneçerme Como Capp.n Gn.al destos Reynos y Prov.as hazerlos tales nombramientos y a dado orden que se hagan alardes a menudo y anden en cuerpo en qualquiera T.po como si fueran soldados de Presidio y esto sin ocasion de nueba de enemigos, en T.po de paz y quietud, trayendolos ocupados de manera que no pueden acudir a sus off.os y ministerios Para su sustento y el de sus familias y demas desto tiene auditor para los casos de guerra a que no se devia dar lugar Por la vejaçion y agravio que enesto Reçiven los dhos V.z estando como estan sienpre prevenidos y a punto Con sus armas para acudir a la defenssa dela ti.a sirbiendo a SM en estas ocasiones y en las demas que se ofreçen Como leales vasallos. Para cuyo rremedio seme Pidio mandase [etc] /v img 42"
   }
 }

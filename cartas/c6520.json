@@ -1,7 +1,7 @@
 {
   "id": "c6520",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.9,N.55"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re N/W Yuc def",
+    "mil_n": "Como se ban acabando las fortificaçiones delos Puertos de campeche y rrio delagartos obligan con lo bueno que muestran a desear que queden con lo que les falta ques artilleria y castellano o capitan que les tenga a su cuydado Con Vn par de artilleros /v img 1"
   }
 }

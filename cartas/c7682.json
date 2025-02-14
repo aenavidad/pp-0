@@ -1,7 +1,7 @@
 {
   "id": "c7682",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,28,N.33"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "seems like genl def",
+    "mil_n": "8. Al Governador de Yucatan e escrito advirtiendole algunas Cossas para la defenssa de quella costa [img 3] y embiandole Veynte quintales de polvora y que vna delas mas prinçipales para que nao vengan cosarios al paraje de aquellos puertos es que todo lo que fuere dineros o mercaderias se trayga a s.t Ju.o de Vlua por ser corta la travesia para que desde alli vaya en la flota porque de otra manera lo an de tomar al passo de la havana Como suçedio por Junio quedando las barcas del trato para solo llevar bastimentos. [..] y agora los Vezinos me an pedido que nombre perssonas para las Compañias de miliçia por no tener el dicho Titulo el que oy lo es y estar comprehendido en este cargo lo que toca ala guerra Me a pareçido Suplicar a VM /v img 3-4"
   }
 }

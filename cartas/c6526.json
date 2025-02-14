@@ -1,7 +1,7 @@
 {
   "id": "c6526",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.9,N.56"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl N and W Yuc defence, N Yuc piracy",
+    "mil_n": "Sobre el salario que SM tiene señalado a tres curas en tabasco /v img 18\n lo que El mariscal governador y Capitan general en las Provj.as de Yucatan escrivio a VM [..] es lo que se sigue= Sobre Haz.da= /v img 1\n Sobre querra[=] En la carta de guerra dio quenta a VM como Por estar los puertos desta Provinçia sin defenssa y tran desmantelados como El dia que se gano la tierra hizo en la villa y puerto de campeche vna fortificaçion de [.. img 6]"
   }
 }

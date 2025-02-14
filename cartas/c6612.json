@@ -1,7 +1,7 @@
 {
   "id": "c6612",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.9,N.58"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Refiere sus serviçios y supp.ca sea promovido a vna presidençia de las yndias y que sele mande dar alguna ayuda de Costa /v img 1"
   }
 }

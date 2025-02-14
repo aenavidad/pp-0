@@ -1,7 +1,7 @@
 {
   "id": "c6449",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.9,N.52"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl N Yuc def",
+    "mil_n": "las ocasiones En que a Escrito y la carta q rreçibio de 3 de hebrero de 1606= ... q cada año se toman las t.tas dela rreal haçienda a la partida de flota [etc] /v img 1\n que bisito El puerto de çiçal y la costa y los ynconbinientes que tiene= /v img 4"
   }
 }

@@ -292,8 +292,8 @@
         - [x] none to 1668 inclusive
     - [x] for other cartas, exactly 1601[^in Guat series only] and 1606-1607[^in Guat series only] and 1608-1629 dated cartas mentioned in prev items, but these do have vars `cod=null` cartas
 - [ ] code missg cartas with `mil` expanded as above
-    - [x] for 1601[^find and open via `jq -j '.[] | select(.cat.lbd!=null) | select(.cat.lbd|contains("1601")) | select(.work.cod==null) | "\(.id).json "' temp.json | sed 's/c/open c/']
-    - [ ] for 1606-1607[^leave `cod=null` for non-Yucn Mex cartas?]
+    - [x] for 1601[^find and open via `jq -j '.[] | select(.cat.lbd!=null) | select(.cat.lbd|contains("1601")) | select(.work.cod==null) | "\(.id).json "' temp.json | sed 's/c/open c/'`]
+    - [x] for 1606-1607[^but leave `cod=null` for non-Yucn Mex cartas, as 18/19 `mil=true` Mex cartas have 'Yucatán' string in `scope`, and 1/19 has Campeche' instead - so added filer `select(.cat.scope!=null) | select(.cat.scope|contains("Yucat") or contains("Campec"))`]
     - [ ] for 1608-1629
 
 ## prior log

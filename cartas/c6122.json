@@ -1,7 +1,7 @@
 {
   "id": "c6122",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,72,R.10,N.141"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Cartas del gover.or de yucatan y de otras personas sobre las salinas de aquella provin.a y de otras delas yndias de nueba spaña /v img 4"
   }
 }

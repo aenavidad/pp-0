@@ -1,7 +1,7 @@
 {
   "id": "c6311",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,27,N.14"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "no 3 at img 65, no 4 at img 379 - seems W Yuc/governance/personal-affairs related from these",
+    "mil_n": "Capitulos que don fran.co manriq. delara pone a don carlos de luna y harellano /v img 80\n primeramente sele pone por capitulo a el dho don carlos de luna [img 80] [...] El dho don carlos los a ynquietado bejado y molestado quitandoles El serviçio delos yndios y sin tener comiss.on para ello de SM /v img 80-81\n y en sele pone por capitulo al dho gobernador don carlos de luna y arellano que aviendo salido los de el cavildo dela dha çiudad ala defensa de tales agravios y a tajar semejantes ynconvinientes pidiendoselo por escrito y de palabra porque sevia claro que el dho governador sin Reparar en los dhos ynconbinientes lo que haçia era para destruir la tierray con amenaças amedrentaba a el dho cavildo /v img 83"
   }
 }

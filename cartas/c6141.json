@@ -1,7 +1,7 @@
 {
   "id": "c6141",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.9,N.51"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Veanse las quentas dela sal, lo que balio la sal el año primero de 1605 [etc] /v img 1\n lo q ynporta q se consuma mucha sal enla nueva españa porque se sacara mucha en yucatan [etc] /v img 2"
   }
 }

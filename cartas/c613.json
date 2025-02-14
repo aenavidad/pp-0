@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.5,N.89"
   },
   "data": {
-    "mil": false,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "re Hon smuggling",
+    "codg_n": "re Hon smuggling but possy counts as pir",
     "mil_n": "Cerca dela llegada de Vn pingue olandes al P.to de s.to thomas /v img 4"
   }
 }

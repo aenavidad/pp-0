@@ -18,9 +18,9 @@
     "ref": "GUATEMALA,20,R.4,N.52"
   },
   "data": {
-    "mil": false,
+    "mil": true,
     "pir": null,
-    "def": null,
+    "def": true,
     "lit_n": null,
     "codg_n": "incl defence proposal, but no specific action",
     "mil_n": "es Carta de Govierno, y pareze conveniente se Vea ala letra, y esta notado al margen de cada cap.o la materia q trata /v img 4\n en q.to a fortificar el Puerto de Cavallos [for commerce] ay carta aparte /v img 2\n y como quiera queno allo otra raçon para que se continue este trato [la falta de Comunicaçion que de algunos años a esta parte se padeçe en estas provinçias por ser pocos los navios de Registro que An Venido] que la de no haver puerto donde se aseguren las naos que Vienen de castilla y de otras partas Con Rejistro quedo soliçitando si el puerto de cavallos que es muy capaz y zerrado y fondable en la parte de dentro que llaman la caldera tiene vastante agua enla entrada, aunque sea con la pension de Alejar vn terçio dela carga para que en el se aseguren todas las embarcaçiones al abrigo de un fuerte que se podra Hazer en la mayor angostura dela canal el qual se podra mantener con poca mas costa que el que se sustenta de neçesidad no para la seguridad delas naos sino para la Ropa que se desembarca en las bodegas del Golfo como mas por menor lo digo a VM en carta que respondo al despacho en que VM me manda cuyde mucho dela defenssa delos puertos. /v img 2"

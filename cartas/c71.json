@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,13,R.9,N.71"
   },
   "data": {
-    "mil": false,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "possy incl genl def or counts as particular def incident",
     "mil_n": "Aviso del viaje del licenciado Joan maldonado de paz [del puerto de truxillo] ala ysla del thesoro a su costa= descubierta por Simon Zacarias- /v img 1"
   }
 }

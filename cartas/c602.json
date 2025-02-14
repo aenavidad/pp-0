@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,20,R.4,N.78"
   },
   "data": {
-    "mil": false,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "possibly incl Hon smuggling",
+    "codg_n": "possibly incl Hon smuggling / possy incl genl def or counts as pir",
     "mil_n": "Carta General de el estado de aquella Audiencia y Provj.a sacados los puntos /v img 10\n Avisa aver llegado un navio olandes al Puerto de trujillo, Y delo que mando la au.a para sus bastimentos Y salida y sobre dos negros q sele huieron de el [etc] /v img 4"
   }
 }

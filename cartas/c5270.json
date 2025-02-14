@@ -1,7 +1,7 @@
 {
   "id": "c5270",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,72,R.5,N.56"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "La que esta con esta como VM  mandara ver es duplicada dela que escrivimos por diz.e de el año pasado en el navio de av iso que salio en 30 del de s.t Juan de Vlua no se a ofreçido despues aca cosa alguna de consideraçion de que dar quenta a VM, mas de que a los siete de Henero murio El doctorsaavedia valderrama, oydor mas antiguo /v img 1"
   }
 }

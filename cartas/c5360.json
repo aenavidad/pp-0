@@ -1,7 +1,7 @@
 {
   "id": "c5360",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,24,N.65"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re Camp pir",
+    "mil_n": "9- el avisso que se tuvo dela entrada del cossario ingles en la villa de Tavasco y lo q sobre ello scrivio el alcade mayor de aquella Villa[=] /v img 9"
   }
 }

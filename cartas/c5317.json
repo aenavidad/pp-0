@@ -1,7 +1,7 @@
 {
   "id": "c5317",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.8,N.40"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "no explicit E Yuc mention but may incl Camp pir, or genl Yucn def",
+    "mil_n": "en ninguna ocassion e dejado dedar a VM muy particular relaçion del estado que tienen las cosas deesta tierra y como la hobra dela catredal de esta çiudad estava acavada [etc] /v img 1\n Supp.co A VM se sirba De hazerme m.d de alguna ayuda de costa por este travajo y Exçesibo gasto que e tenido asi en dha Visita como en la asistençia que con mi persona y soldados hago en los puertos quando ay cossarios en que se a ofreçido ocasion de estar vno y dos meses con mi persona y çien arcabuçeros En Vn puerto con mi persona para si fuese neçessario defenderle por la continuaçion y muestras de acometimientos q los cosarios en el haçian yo gano [?] A subçedido Aversa An trapado mas En tres meses delo que otros años an hecho- y asi todo este tiempo A que andamos con gran desinquietud Velando la costa y Guarneçiendo los puertos [etc] /v img 2"
   }
 }

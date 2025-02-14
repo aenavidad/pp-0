@@ -1,7 +1,7 @@
 {
   "id": "c5353",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,72,R.5,N.66"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "no marginal/covg summaries",
+    "mil_n": "En el navio de avisos Vltimo Y en la flota di quenta a VM delo que hasta la fecha se ofreçia despues en Virtud de Vna carta Requisitoria despachada Por el presidente Y Juezes officiales dela casa de contrataçion de sevilla tratede Tomar la quenta al encomendero de Ju.o Castellanos de espinosa [etc] /v img 1"
   }
 }

@@ -264,7 +264,7 @@
         - [x] if `mil=true` and `def=true`, do nothing
         - [x] if `mil=true` and `def!=true`, make `def=null`[^86 hits per `jq -r '.[] | select(.work.cod==true and .data.mil==true and .data.def!=true) .id' cartas-merged.json` then value swapped with `for i in $(cat hits.txt); do jq '.data.def=null' $i.json > tmp && mv tmp $i.json; done`]
         - [x] if `mil=false`, check carta for non-incident defence[^1056 hits - checked only by viewing `cat` and `data` with few exceptions]
-            - [x] ~~get regex string~~ get `subl` commands[^list filenames of all hits to get open via `subl foo.json fah.json`]
+            - [x] ~~get regex string~~ get `subl` commands[^list filenames of all hits to get open via `subl foo.json fah.json` - can do `open foo.json fah.json` too]
             - [x] check 1st batch
             - [x] 2nd batch
             - [x] 3rd batch
@@ -284,9 +284,17 @@
                 - [x] left `cod=true` with `mil=null` and added `stat=1` for the rest[^2 cartas in Mex post-dating Bacl withdrawal from Bay (as prolly don't need these), and 5 damaged cartas]
 - [x] ~~check these cartas against PARES's defence/piracy relations/authorities?~~[^would incl non-Hond def/pir so migth be too much]
 ### coding missg cartas
-- [ ] for all years coded in previous log items, ensure no carta is `cod=null`
-    - [ ] for 1630-1679 dated cartas, exactly 1630-1668 dated cartas mentioned in prev items
-    - [ ] for other cartas, exactly 1601[^in Guat series only] and 1606-1607[^in Guat series only] and 1608-1629 dated cartas mentioned in prev items
+- [x] for all years coded in previous log items, ensure no carta is `cod=null`
+    - [x] for 1630-1679 dated cartas, exactly 1630-1668 dated cartas mentioned in prev items
+        - [x] no `cod=null` in 1630s dated ones
+        - [x] none in 1640s
+        - [x] none in 1650s
+        - [x] none to 1668 inclusive
+    - [x] for other cartas, exactly 1601[^in Guat series only] and 1606-1607[^in Guat series only] and 1608-1629 dated cartas mentioned in prev items, but these do have vars `cod=null` cartas
+- [ ] code missg cartas with `mil` expanded as above
+    - [x] for 1601[^find and open via `jq -j '.[] | select(.cat.lbd!=null) | select(.cat.lbd|contains("1601")) | select(.work.cod==null) | "\(.id).json "' temp.json | sed 's/c/open c/']
+    - [ ] for 1606-1607[^leave `cod=null` for non-Yucn Mex cartas?]
+    - [ ] for 1608-1629
 
 ## prior log
 ### any cartas

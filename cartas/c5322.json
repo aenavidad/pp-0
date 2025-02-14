@@ -1,7 +1,7 @@
 {
   "id": "c5322",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,72,R.5,N.60"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "respondiendo A la çedula de VM ff.a en s.to lorenço a 8 de julio del año pasado de 1598 por la qual senos manda que informemos desi converna asi para El buen govierno de estas p.tes y benefiçio publico como para El acreçentam.to dela real hazienda de VM quelos off.os de pluma q[etc] /v img 1"
   }
 }

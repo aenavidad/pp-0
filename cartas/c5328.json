@@ -1,7 +1,7 @@
 {
   "id": "c5328",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,24,N.58"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl Panama, Campeachy pir",
+    "mil_n": "VII. que a 1.o de Abril se tuvo avisso por via de cartagena q Vn cossario ingles rrobo a purtovelo y çiertas cartas cuias copias van aqui son suias y de otro cap.an de cartagena, y que dias antes se havia tenido nueva de andar vn cossario de poca consideraçion hazia campeche. escrivese la prevençion q se ha hecho en los puertos [nueva veracruz, san juan de vlua]. /v img 9"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5348",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.8,N.42"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "el procurador general de esta çiudad con las çedulas que de VM trae la Vna con Vn memorial traslado de otro que presento pidiendo rremedio de las cosas en el contenidas mandame VM lo vea e ynforme sobre hello para que con mi relaçion y pareçer VM mande se provea lo que combenga= y que enel particular delas ydolatrias que el memorial diçe [etc] /v img 1"
   }
 }

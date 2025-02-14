@@ -1,7 +1,7 @@
 {
   "id": "c5321",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.8,N.41"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "re pir or def possibly to E Yuc",
+    "mil_n": "q se diga a SM con[ill] se proseçan de aqui en la nueva spaña [ill] doze quintales de polvora y seis de Plomo p.a q esten en poder delos off.es reales y se repartan por orden del g.or entre los Vez.os pagan la Costa q [etc] /v img 4\n Diversas Veçes he hecho Relaçion a VM quan Infestados son los Puertos y costa De esta Provinçia de enemigos cossario y quan temprano començaron este press.teyo e acudido a su defensa muy a costa de mi person y hazienda y ya no tengo que Gastar. que an sido muchas [las neçesidades de polvora y municion] asi las del Año passado como las deste pues a mas de Dos meses antes dela fecha desta me corrieron toda la costa Con quatro Navios, y asi me determine passado este Riesto de ymbiar una fragata y gente por todas estas yslas çircunvezinas desta a çiento y a çiento y çinquenta leguas [etc] /v img 2"
   }
 }

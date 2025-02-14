@@ -1,7 +1,7 @@
 {
   "id": "c5825",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.9,N.46"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl W Yuc def",
+    "mil_n": "A onze de Agosto deste año de 1604 entre en esta çiudad de merida dela provincia de yucatan y tome la posesion del govierno deella [etc] /v img 1\n la vij.a de canpeche en Vn pueblo ala costa dela mar desmantelado de toda defença donde de dia y de noche no tienen seguridad /v img 3"
   }
 }

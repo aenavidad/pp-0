@@ -1,7 +1,7 @@
 {
   "id": "c5893",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.9,N.48"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl W Yuc def",
+    "mil_n": "q ba prospera [?] la reduçion de los ydolatras ala dotrina [etc] /v img 1\n Duplicadam.te E significado a VM lo que me pareçe ynporta la fortificacion y V.a de san fran.co de can peche /v img 5"
   }
 }

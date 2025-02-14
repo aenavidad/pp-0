@@ -1,7 +1,7 @@
 {
   "id": "c5952",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,72,R.9,N.130"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "rrefiere la notiçia que a dado dela ejecucion dela zedula sobre las salinas dela provinçia de yucatan Y lo que se a sacado este año y se va vendiendo y a que pr.o[=] [etc] /v img 1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5577",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,359,R.8,N.44"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "damaged",
+    "mil_n": "Por carta que VM fue servido escrivirme se supo El feliçe y buen subçeso que SM dela Reyna n.ra Señora Tuvo en su parto [etc] /v img 1"
   }
 }

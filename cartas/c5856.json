@@ -1,7 +1,7 @@
 {
   "id": "c5856",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "MEXICO,72,R.9,N.121"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que recibio la c.a [sobre el beneficio delas salinas] y puso luego por obra lo contenido en ella [etc] /v img 1"
   }
 }

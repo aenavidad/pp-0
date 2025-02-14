@@ -18,11 +18,11 @@
     "ref": "MEXICO,361,R.5,N.63"
   },
   "data": {
-    "mil": false,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "incl W Yuc piracy / none on E Yuc found",
+    "codg_n": "incl W Yuc piracy / none on E Yuc found - seems it might incl genl def in Hond",
     "mil_n": "Diçe Asia ôcho mes q llego al Gov.o de Aquella provi.a donde continuam.te los Piratas de Jamayca Infestan aquellas costas con que le a ôbligado estar con vijilançia Y haver puesto Gente en los Puestos convenientes donde sean tenido buenos suçesos en 5 ocassiones q los Ingleses han saltado a Tierra [= ...] Vienen dos Testim.os çerca delo que refiere= /v img 6"
   }
 }

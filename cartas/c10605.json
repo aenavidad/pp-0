@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,28,R.2,N.37"
   },
   "data": {
-    "mil": false,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "found no particular defence incident",
+    "codg_n": "found no particular defence incident - prolly counts as genl def",
     "mil_n": "que participo lo comben.te a los govern.res delos Puertos de su Distrito para que estuviesen con todo cuydado en cumplim.to dela cedula de 20 de Novi.re de 82 sobre que los çelandeses despachavan dos navios ala America /v img 3"
   }
 }

@@ -18,11 +18,11 @@
     "ref": "MEXICO,76,R.13,N.71"
   },
   "data": {
-    "mil": false,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "possibly incl W Yuc, Hon smuggling",
+    "codg_n": "possibly incl W Yuc, Hon smuggling - may count as pir for arribada in Hond",
     "mil_n": "daquenta del contrabando que hico el g.or de yucatan de un baxel olandes. lo que el duq. seruelve haçer con los que llegaren a los puertos de su juridisçion hasta reçivir orden de SM en este caso. la carta del g.or de yucatan ss.e este baxil que es de 15 Jullio de 658 se remition con otras del mis.o g.or al p.r fiscal /v img 1 / haviendo llegado Vn bajel de olandeses ala playa de san franzisco de campeche le cojio 40U- p.s de marcanzias de contrabando de portugal, de franzia y de Inglaterra /v img 1 / no solo ha llegado este bajel de olandeses a campeche, sino es que tengo notiçia çierta que llego otro a quatimala, donde dizen que no le admitieron /v img 2"
   }
 }

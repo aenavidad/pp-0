@@ -18,11 +18,11 @@
     "ref": "MEXICO,31,N.9"
   },
   "data": {
-    "mil": false,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "no particulars on E Yuc found",
+    "codg_n": "no particulars on E Yuc found - but genl def possy applies",
     "mil_n": "Don fer.do centeno q se halla governando la probincia de Campeche me escribe en rason dela fortificacion de aquellos puertos /v img 6 / Tambien abise a VE de la neçess.d q allaba enel Pu.to de Campeche de algun genero de fortificaçion /v img 25 / abiendo el Mariscal Don Carlos de luna que Governo esta provy.a fortificado el Pu.to de Campeche y el de Rio de lagartos fue residençiado porque lo abia hecho sin orden se SM y se mandaron derribar las fortificaçiones y aunque oy ay mucha mas necess.d de hazerlo por ser muchos mas los enemigos /v img 25 / Yo rezelo mucho no quiera el enemigo ocupar a Campeche este berano porque a estado quatro [?] meses este año en esta Costa y la a sondeado toda y en part.r aquel Puerto /v img 26"
   }
 }

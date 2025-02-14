@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,39,R.14,N.96"
   },
   "data": {
-    "mil": false,
+    "mil": true,
     "pir": null,
-    "def": null,
+    "def": true,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "re genl def",
     "mil_n": "re daños recrecido a la provinçia y vecinos aber despoblado a puerto de caballos, re drawbacks of puerto de santo tomas de castilla, re puerto de fonseca, re noticias, etc /v ff 1-3 img 1-3"
   }
 }

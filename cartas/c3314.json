@@ -18,11 +18,11 @@
     "ref": "MEXICO,360,R.11,N.97"
   },
   "data": {
-    "mil": false,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": "E Yuc not specifically noted",
+    "codg_n": "E Yuc not specifically noted - but prolly genl def",
     "mil_n": "Sobre haver hecho la visita gen.l de aquella Provi.a i con nott.a delo que ha hallado digno de reparo dice lo que sele ofreze /v img 3\n Bisite toda la Costa y me lastima sumamente ber el desamparo y poca defensa que tiene hize se retiraran todos los bastimentos al monte y a las milpas para que tubiesen alguna seguridad del saco delos enemigos [etc] /v img 1"
   }
 }

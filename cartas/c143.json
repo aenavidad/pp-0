@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,14,R.3,N.60"
   },
   "data": {
-    "mil": false,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
+    "codg_n": "possy counts as particular or genl Hond def",
     "mil_n": "del asiento y letura delas cathedras del colejio de santo thomas /v img 1 / El descubrim.to del nuebo golffo dulçe [apartado del antiguo] Y asçiento ff.o con el descubridor con autos /v img 2"
   }
 }

@@ -257,26 +257,32 @@
 - [x] start `pp.tex`[^structure copied from latest `tex` file ie in `historical-series-re-Belize/work/oct-23/`]
 
 ### recoding cartas
-- [ ] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`
+- [x] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`
     - [x] for `pir`, assume this is so[^ie `true` for 'has evidence of piracy, even in just a few words' was the rule followed iirc, with `pir=null` and `mil=true` for similar incidents not obviously piratical (eg foreign ships cruising/watering/wintering/being sighted, foreign sailors/pirates landing/trading, etc) or else `pir` value just ignored on filling in `mil` value]
-    - [ ] for `def` where `cod=false`, check carta for non-incident defence[^ ie non-incident defence (eg general state of defence, defence proposals, etc) evidenced in *more* than a few words - incident defence already checked as `true` for 'has evidence of *particular* incident (rather than just general defence/proposals), even in few words' was the rule followed to now iirc, with `def=null` and `mil=true` for tricky incidents or else `pir` vlaue just ignored on filling in `mil` value][^3026 hits]
-    - [ ] for `def` where `cod=true`,
+    - [x] ~~for `def` where `cod=false`, check carta for non-incident defence[^ ie non-incident defence (eg general state of defence, defence proposals, etc) evidenced in *more* than a few words - incident defence already checked as `true` for 'has evidence of *particular* incident (rather than just general defence/proposals), even in few words' was the rule followed to now iirc, with `def=null` and `mil=true` for tricky incidents or else `pir` vlaue just ignored on filling in `mil` value][^3026 hits]~~[^seems like a lot for little return - prolly only might get new coding from non-digitised cartas, as any mention of pir/def in catalogue data usually prompted `cod=true` iirc]
+    - [x] for `def` where `cod=true`,
         - [x] if `mil=true` and `def=true`, do nothing
         - [x] if `mil=true` and `def!=true`, make `def=null`[^86 hits per `jq -r '.[] | select(.work.cod==true and .data.mil==true and .data.def!=true) .id' cartas-merged.json` then value swapped with `for i in $(cat hits.txt); do jq '.data.def=null' $i.json > tmp && mv tmp $i.json; done`]
-        - [ ] if `mil=false`, check carta for non-incident defence[^1056 hits - checked only by viewing `cat` and `data` with few exceptions]
+        - [x] if `mil=false`, check carta for non-incident defence[^1056 hits - checked only by viewing `cat` and `data` with few exceptions]
             - [x] ~~get regex string~~ get `subl` commands[^list filenames of all hits to get open via `subl foo.json fah.json`]
             - [x] check 1st batch
             - [x] 2nd batch
             - [x] 3rd batch
             - [x] 4th batch
             - [x] 5th batch[^excl genl def which was too broad (eg Barlovento Armada/Union de Armas stuff)]
-            - [ ] 6th batch
+            - [x] 6th batch
+            - [x] 7th batch
+            - [x] 8th batch
+            - [x] 9th batch
+            - [x] 10th batch
+            - [x] 11th batch
+            - [x] 12th batch
         - [x] if `mil=null`, ~~fix this mistake~~ check carta for both new `pir` and `def`[^~~as should have no `cod=true` and `mil=null` cartas~~ - got 35 hits, mostly cartas flagged for coding or deteriorated]
             - [x] some finished
             - [x] for remaining cartas -
                 - [x] marked `cod=null` if it seemed record hadn't been skimmed/only cat data had been read
                 - [x] left `cod=true` with `mil=null` and added `stat=1` for the rest[^2 cartas in Mex post-dating Bacl withdrawal from Bay (as prolly don't need these), and 5 damaged cartas]
-- [ ] check these cartas against PARES's defence/piracy relations/authorities?
+- [x] ~~check these cartas against PARES's defence/piracy relations/authorities?~~[^would incl non-Hond def/pir so migth be too much]
 ### coding missg cartas
 - [ ] for all years coded in previous log items, ensure no carta is `cod=null`
     - [ ] for 1630-1679 dated cartas, exactly 1630-1668 dated cartas mentioned in prev items

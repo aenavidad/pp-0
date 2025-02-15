@@ -28,7 +28,7 @@ generated chronicle data
 | `desc` | string | - | description |
 | `note` | string | - | notes |
 | `via` | string | - | sources[^from `/events` or `/cartas`] |
-| `no` | number | - | incident number |
+| `no` | number | - | incident number[^for reference, so unique over all acts in `incidents` and `possible` arrays] |
 
 ## licence
 none

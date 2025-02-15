@@ -313,10 +313,18 @@
     - [x] remove `incident0` objects with all-null values,
     - [x] add `no` key inside incidents objects with matching integ
     - [x] move incidents key-value pairs as just objects to `incidents` array
-- [ ] get a good incl/excl test for def incidents, or just incl them all with `pir=false`
-- [ ] screen incidents against events to ensure all events cited and all incidents extracted
-- [ ] screen incidents against published lit cited in events to get cleaner incidents
-- [ ] screen incidents against cartas to ensure all incidents extracted and to get cleaner incidents
+- [x] get a good incl/excl test for def incidents, or just incl them all with `pir=false`[^keep `incidents/readme.md` conf test (looking for unique, well-sourced, non-compound piracy or defence-against-piracy incidents in Hond Bay in relevant 17th cent year), so for sure exclude defence against non-pirates, excl state of def/def proposals/def orders/genl def stuff, and possibly excl routine/minor def acts (receiving/restocking arms, receiving men)]
+    - [x] keep strict `conf` test from `incidents/readme.md`
+    - [x] add `possible` array key to all incidents to store acts which may be later discounted
+- [ ] screen incidents against
+    - [ ] events to ensure all events cited and all incidents extracted
+        - [x] all cited
+            - [x] ~~main hits[^88 `cod!=false` hits]~~
+            - [x] duplicates - set `cod=null`[^4 `cod=false` and `cod_n!=null` hits]
+            - [x] main hits - all cited[^92 `cod!=false` hits w duplicates now]
+        - [ ] all needed info extracted to incidents
+    - [ ] published lit cited in events to get cleaner incidents
+    - [ ] cartas to ensure all incidents extracted and to get cleaner incidents
 
 ## prior log
 ### any cartas

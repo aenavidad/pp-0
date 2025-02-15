@@ -2,17 +2,5 @@
   "yr": "1697",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": null,
-    "pir": null,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": null,
-    "desc": null,
-    "note": null,
-    "via": null
-  }
+  "incidents": []
 }

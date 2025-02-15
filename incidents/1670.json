@@ -2,6 +2,7 @@
   "yr": "1670",
   "tally": null,
   "tally_n": null,
+  "incidents": [],
   "incident0": {
     "conf": true,
     "conf_n": "check prim to narrow locn/date",

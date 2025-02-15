@@ -2,6 +2,7 @@
   "yr": "1604",
   "tally": null,
   "tally_n": null,
+  "incidents": [],
   "incident0": {
     "conf": null,
     "conf_n": "may be compound - check e1835 again for added notes",

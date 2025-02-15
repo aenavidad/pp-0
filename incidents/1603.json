@@ -2,6 +2,7 @@
   "yr": "1603",
   "tally": null,
   "tally_n": null,
+  "incidents": [],
   "incident0": {
     "conf": true,
     "conf_n": "not checked for secondary acts ie might be compound",

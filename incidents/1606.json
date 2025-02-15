@@ -2,6 +2,7 @@
   "yr": "1606",
   "tally": null,
   "tally_n": null,
+  "incidents": [],
   "incident0": {
     "conf": true,
     "conf_n": null,

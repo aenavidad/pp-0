@@ -2,6 +2,7 @@
   "yr": "1654",
   "tally": null,
   "tally_n": null,
+  "incidents": [],
   "incident0": {
     "conf": null,
     "conf_n": "missg prim sources - check to narrow dates",

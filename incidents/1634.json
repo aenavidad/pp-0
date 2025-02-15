@@ -2,6 +2,7 @@
   "yr": "1634",
   "tally": null,
   "tally_n": null,
+  "incidents": [],
   "incident0": {
     "conf": null,
     "conf_n": "check prim source for certain date",

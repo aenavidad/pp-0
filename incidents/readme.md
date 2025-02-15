@@ -11,9 +11,10 @@ generated chronicle data
 | `yr` | string | 1_ | year |
 | `tally` | number | - | incidents tally |
 | `tally_n` | string | - | `tally` notes |
-| `incident0`[^ie `incident0`, `incident1`, `incident2`, and so on] | object | - | single incident |
+| `incidents` | array | objects | incidents |
+| `possible` | array | objects | incidents[^which may not be what we're looking for]
 
-#### incident object
+#### incident object[^in `incidents` array]
 
 | var | type | values | note |
 |:--|:--|:--|:--|
@@ -27,6 +28,7 @@ generated chronicle data
 | `desc` | string | - | description |
 | `note` | string | - | notes |
 | `via` | string | - | sources[^from `/events` or `/cartas`] |
+| `no` | number | - | incident number |
 
 ## licence
 none

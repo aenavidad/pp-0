@@ -67,7 +67,9 @@
       "note": null,
       "via": "e1837",
       "no": 4
-    },
+    }
+  ],
+  "possible": [
     {
       "conf": true,
       "conf_n": null,
@@ -81,6 +83,5 @@
       "via": "e1837",
       "no": 5
     }
-  ],
-  "possible": []
+  ]
 }

@@ -18,19 +18,6 @@
     },
     {
       "conf": null,
-      "conf_n": "missg prim sources - not sure if Guat Pres orders were fulfilled",
-      "pir": false,
-      "pir_n": null,
-      "lbd": "01-01",
-      "upd": "03-31",
-      "locn": "Truxillo",
-      "desc": "Men and arms arrive to defend",
-      "note": null,
-      "via": "e1875",
-      "no": 1
-    },
-    {
-      "conf": null,
       "conf_n": "missg prim sources",
       "pir": true,
       "pir_n": null,
@@ -69,5 +56,19 @@
       "no": 4
     }
   ],
-  "possible": []
+  "possible": [
+    {
+      "conf": null,
+      "conf_n": "missg prim sources - not sure if Guat Pres orders were fulfilled",
+      "pir": false,
+      "pir_n": null,
+      "lbd": "01-01",
+      "upd": "03-31",
+      "locn": "Truxillo",
+      "desc": "Men and arms arrive to defend",
+      "note": null,
+      "via": "e1875",
+      "no": 1
+    }
+  ]
 }

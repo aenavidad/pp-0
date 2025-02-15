@@ -54,7 +54,9 @@
       "note": "possibly also e265",
       "via": "e2175",
       "no": 3
-    },
+    }
+  ],
+  "possible": [
     {
       "conf": true,
       "conf_n": null,
@@ -68,6 +70,5 @@
       "via": "e187",
       "no": 4
     }
-  ],
-  "possible": []
+  ]
 }

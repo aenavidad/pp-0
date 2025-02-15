@@ -317,14 +317,16 @@
     - [x] keep strict `conf` test from `incidents/readme.md`
     - [x] add `possible` array key to all incidents to store acts which may be later discounted
 - [ ] screen incidents against
-    - [ ] events to ensure all events cited and all incidents extracted
+    - [x] events to ensure all events cited and all incidents extracted
         - [x] all cited
             - [x] ~~main hits[^88 `cod!=false` hits]~~
             - [x] duplicates - set `cod=null`[^4 `cod=false` and `cod_n!=null` hits]
             - [x] main hits - all cited[^92 `cod!=false` hits w duplicates now]
-        - [ ] all needed info extracted to incidents
+        - [x] ~~all needed info extracted to incidents~~[^seems not needed if event is cited]
     - [ ] published lit cited in events to get cleaner incidents
+        - [ ] for 1600s
     - [ ] cartas to ensure all incidents extracted and to get cleaner incidents
+- [ ] make sure acts in `incidents` are exactly ones to tally
 
 ## prior log
 ### any cartas

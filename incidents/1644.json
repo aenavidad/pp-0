@@ -13,7 +13,8 @@
     "locn": "G Dulce",
     "desc": "Sn Felipe built or fortified",
     "note": "incl trinchera and indios flecheros, and men to Sto Tomas",
-    "via": "e1875"
+    "via": "e1875",
+    "no": 0
   },
   "incident1": {
     "conf": null,
@@ -25,7 +26,8 @@
     "locn": "Truxillo",
     "desc": "Men and arms arrive to defend",
     "note": null,
-    "via": "e1875"
+    "via": "e1875",
+    "no": 1
   },
   "incident2": {
     "conf": null,
@@ -37,7 +39,8 @@
     "locn": "G Dulce",
     "desc": "Pirates raid",
     "note": null,
-    "via": "e992"
+    "via": "e992",
+    "no": 2
   },
   "incident3": {
     "conf": null,
@@ -49,7 +52,8 @@
     "locn": "Truxillo",
     "desc": "Pirates raid, and Sp defend",
     "note": null,
-    "via": "e992"
+    "via": "e992",
+    "no": 3
   },
   "incident4": {
     "conf": null,
@@ -61,6 +65,7 @@
     "locn": "Rattan",
     "desc": "Pirates raid",
     "note": null,
-    "via": "e992"
+    "via": "e992",
+    "no": 4
   }
 }

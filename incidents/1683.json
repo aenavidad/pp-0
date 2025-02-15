@@ -13,7 +13,8 @@
     "locn": null,
     "desc": "Graaf and Hoorn surprise Sp ships incl Consolación and Regla",
     "note": null,
-    "via": "e1911"
+    "via": "e1911",
+    "no": 0
   },
   "incident1": {
     "conf": null,
@@ -25,7 +26,8 @@
     "locn": null,
     "desc": "Hoorn raids Sp port settlement(s)",
     "note": null,
-    "via": "e1911"
+    "via": "e1911",
+    "no": 1
   },
   "incident2": {
     "conf": null,
@@ -37,7 +39,8 @@
     "locn": "Rattan",
     "desc": "Graaf gathers pirates to plan Veracruz raid",
     "note": null,
-    "via": "e1911"
+    "via": "e1911",
+    "no": 2
   },
   "incident3": {
     "conf": null,
@@ -49,7 +52,8 @@
     "locn": "Isl Mujeres",
     "desc": "Graaf partitions Veracruz booty",
     "note": null,
-    "via": "e1911"
+    "via": "e1911",
+    "no": 3
   },
   "incident4": {
     "conf": null,
@@ -61,6 +65,7 @@
     "locn": "Amatique",
     "desc": "Zanques raids coast and inland incl G Dulce and Verapaz",
     "note": "main e1913 - compare to 1684, 1685",
-    "via": "e1911"
+    "via": "e1911",
+    "no": 4
   }
 }

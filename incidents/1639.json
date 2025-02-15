@@ -13,7 +13,8 @@
     "locn": "Guanaxa",
     "desc": "Mulato raids and torches native settlement",
     "note": "also in e26",
-    "via": "e20"
+    "via": "e20",
+    "no": 0
   },
   "incident1": {
     "conf": null,
@@ -25,7 +26,8 @@
     "locn": "Truxillo",
     "desc": "Old Prov Gov Butler seizes",
     "note": "also in e26",
-    "via": "e22"
+    "via": "e22",
+    "no": 1
   },
   "incident2": {
     "conf": true,
@@ -37,7 +39,8 @@
     "locn": "Rattan",
     "desc": "Pirates raid and torch native settlement",
     "note": "also in e26",
-    "via": "e24"
+    "via": "e24",
+    "no": 2
   },
   "incident3": {
     "conf": null,
@@ -49,7 +52,8 @@
     "locn": "Amatique",
     "desc": "Pirates cruise from Guanaxa to",
     "note": "Pto Caballos, G Dulce visited/raided - also in e28",
-    "via": "e26"
+    "via": "e26",
+    "no": 3
   },
   "incident4": {
     "conf": null,
@@ -61,6 +65,7 @@
     "locn": "Utila",
     "desc": "Pirates torch",
     "note": null,
-    "via": "e26"
+    "via": "e26",
+    "no": 4
   }
 }

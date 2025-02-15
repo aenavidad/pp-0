@@ -13,7 +13,8 @@
     "locn": "Sto Tomas",
     "desc": "Du pirates surprise Sp ships, and Vergara and Pineda defend",
     "note": null,
-    "via": "e187"
+    "via": "e187",
+    "no": 0
   },
   "incident1": {
     "conf": true,
@@ -25,7 +26,8 @@
     "locn": "Sto Tomas",
     "desc": "Du pirates surprise Sp ships again, and Vergara and Pineda defend again",
     "note": "2nd attempt",
-    "via": "e187"
+    "via": "e187",
+    "no": 1
   },
   "incident2": {
     "conf": true,
@@ -37,7 +39,8 @@
     "locn": "Pto Caballos",
     "desc": "Du pirates cruise",
     "note": null,
-    "via": "e187"
+    "via": "e187",
+    "no": 2
   },
   "incident3": {
     "conf": true,
@@ -49,7 +52,8 @@
     "locn": "Pto Caballos",
     "desc": "Stranded English pirates land",
     "note": "possibly also e265",
-    "via": "e2175"
+    "via": "e2175",
+    "no": 3
   },
   "incident4": {
     "conf": true,
@@ -61,6 +65,7 @@
     "locn": "Sto Tomas",
     "desc": "Men and arms from Guat arrive to defend",
     "note": null,
-    "via": "e187"
+    "via": "e187",
+    "no": 4
   }
 }

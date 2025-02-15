@@ -13,7 +13,8 @@
     "locn": "Truxillo",
     "desc": "Mauricio de Nasau assaults",
     "note": null,
-    "via": "e187"
+    "via": "e187",
+    "no": 0
   },
   "incident1": {
     "conf": null,
@@ -25,7 +26,8 @@
     "locn": "Pto Caballos",
     "desc": "Pirates assault",
     "note": null,
-    "via": "e187"
+    "via": "e187",
+    "no": 1
   },
   "incident2": {
     "conf": true,
@@ -37,7 +39,8 @@
     "locn": "Sto Tomas",
     "desc": "Mauricio de Nasau assaults shipping, and Izaguirre defends",
     "note": null,
-    "via": "e1837"
+    "via": "e1837",
+    "no": 2
   },
   "incident3": {
     "conf": true,
@@ -49,7 +52,8 @@
     "locn": "Sto Tomas",
     "desc": "Mauricio de Nasau cruises port, and raids settlement",
     "note": null,
-    "via": "e1837"
+    "via": "e1837",
+    "no": 3
   },
   "incident4": {
     "conf": true,
@@ -61,7 +65,8 @@
     "locn": "G Dulce",
     "desc": "Mauricio de Nasau raids and torches settlement(s)",
     "note": null,
-    "via": "e1837"
+    "via": "e1837",
+    "no": 4
   },
   "incident5": {
     "conf": true,
@@ -73,6 +78,7 @@
     "locn": "Sto Tomas",
     "desc": "Men and arms from Guat arrive to defend",
     "note": null,
-    "via": "e1837"
+    "via": "e1837",
+    "no": 5
   }
 }

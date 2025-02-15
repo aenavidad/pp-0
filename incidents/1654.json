@@ -13,7 +13,8 @@
     "locn": "G Dulce",
     "desc": "Sn Felipe fortified with situado",
     "note": null,
-    "via": "e1875"
+    "via": "e1875",
+    "no": 0
   },
   "incident1": {
     "conf": true,
@@ -25,6 +26,7 @@
     "locn": "Old R",
     "desc": "Pirates engage Sp, and Perez defends",
     "note": null,
-    "via": "e50"
+    "via": "e50",
+    "no": 1
   }
 }

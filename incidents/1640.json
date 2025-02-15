@@ -13,7 +13,8 @@
     "locn": "Amatique",
     "desc": "Du pirates raid down to G Dulce",
     "note": "main e28 or e1869 - after incident2",
-    "via": "e26"
+    "via": "e26",
+    "no": 0
   },
   "incident1": {
     "conf": true,
@@ -25,7 +26,8 @@
     "locn": "Truxillo",
     "desc": "Du pirates raid",
     "note": "main e1869 - also in e28",
-    "via": "e26"
+    "via": "e26",
+    "no": 1
   },
   "incident2": {
     "conf": true,
@@ -37,7 +39,8 @@
     "locn": "Omoa",
     "desc": "Pirates raid",
     "note": null,
-    "via": "e28"
+    "via": "e28",
+    "no": 2
   },
   "incident3": {
     "conf": null,
@@ -49,7 +52,8 @@
     "locn": "Utila",
     "desc": "Pirates cruise",
     "note": "after incident0",
-    "via": "e28"
+    "via": "e28",
+    "no": 3
   },
   "incident4": {
     "conf": true,
@@ -61,7 +65,8 @@
     "locn": "Omoa",
     "desc": "Pirates raid again",
     "note": "after incident3",
-    "via": "e28"
+    "via": "e28",
+    "no": 4
   },
   "incident5": {
     "conf": true,
@@ -73,6 +78,7 @@
     "locn": "Utila",
     "desc": "Pirates raid native settlement",
     "note": "after incident4",
-    "via": "e28"
+    "via": "e28",
+    "no": 5
   }
 }

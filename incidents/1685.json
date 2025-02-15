@@ -13,7 +13,8 @@
     "locn": null,
     "desc": "Graaf gathers pirates or cruises for planned Campeachy raid",
     "note": null,
-    "via": "e1919"
+    "via": "e1919",
+    "no": 0
   },
   "incident1": {
     "conf": null,
@@ -25,6 +26,7 @@
     "locn": "Amatique",
     "desc": "Zanques raids coast and inland incl G Dulce and Verapaz",
     "note": "compare to 1683, 1684",
-    "via": "e1919"
+    "via": "e1919",
+    "no": 1
   }
 }

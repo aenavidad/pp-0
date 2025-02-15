@@ -13,7 +13,8 @@
     "locn": "Rattan",
     "desc": "Claiborne settles",
     "note": null,
-    "via": "e351"
+    "via": "e351",
+    "no": 0
   },
   "incident1": {
     "conf": null,
@@ -25,7 +26,8 @@
     "locn": "Truxillo",
     "desc": "Pirates cruise or raid",
     "note": "also e14",
-    "via": "e18"
+    "via": "e18",
+    "no": 1
   },
   "incident2": {
     "conf": true,
@@ -37,7 +39,8 @@
     "locn": "Cozumel",
     "desc": "Pirates raid",
     "note": null,
-    "via": "e16"
+    "via": "e16",
+    "no": 2
   },
   "incident3": {
     "conf": true,
@@ -49,7 +52,8 @@
     "locn": "Cozumel",
     "desc": "Pirates raid again",
     "note": "after incident2",
-    "via": "e16"
+    "via": "e16",
+    "no": 3
   },
   "incident4": {
     "conf": null,
@@ -61,7 +65,8 @@
     "locn": "Amatique",
     "desc": "Mulato cruises from Truxillo",
     "note": null,
-    "via": "e14"
+    "via": "e14",
+    "no": 4
   },
   "incident5": {
     "conf": null,
@@ -73,6 +78,7 @@
     "locn": "Bennett's Lagn",
     "desc": "Pirates raid Maya settlement",
     "note": null,
-    "via": "e10"
+    "via": "e10",
+    "no": 5
   }
 }

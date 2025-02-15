@@ -13,7 +13,8 @@
     "locn": "Rattan",
     "desc": "Villalva tries to chase off Eng settlers, but fails",
     "note": null,
-    "via": "e389"
+    "via": "e389",
+    "no": 0
   },
   "incident1": {
     "conf": true,
@@ -25,7 +26,8 @@
     "locn": "Rattan",
     "desc": "Villalva and Bulasia try to chase off Eng settlers, but find them gone",
     "note": "after incident0 - incl successful reduction of natives",
-    "via": "e389"
+    "via": "e389",
+    "no": 1
   },
   "incident2": {
     "conf": null,
@@ -37,6 +39,7 @@
     "locn": "G Dulce",
     "desc": "Sn Felipe fortified with baluarte",
     "note": null,
-    "via": "e389"
+    "via": "e389",
+    "no": 2
   }
 }

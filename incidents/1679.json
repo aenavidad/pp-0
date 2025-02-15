@@ -13,7 +13,8 @@
     "locn": null,
     "desc": "Coxon surprises Sp ship",
     "note": null,
-    "via": "e1905"
+    "via": "e1905",
+    "no": 0
   },
   "incident1": {
     "conf": null,
@@ -25,6 +26,7 @@
     "locn": "G Dulce",
     "desc": "Pirates raid",
     "note": "possy Fr pirates",
-    "via": "e1905"
+    "via": "e1905",
+    "no": 1
   }
 }

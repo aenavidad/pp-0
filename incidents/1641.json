@@ -13,7 +13,8 @@
     "locn": "Old R",
     "desc": "Mulato or Du pirates raid Maya settlement",
     "note": null,
-    "via": "e30"
+    "via": "e30",
+    "no": 0
   },
   "incident1": {
     "conf": true,
@@ -25,7 +26,8 @@
     "locn": "Sittee R",
     "desc": "Mulato or Du pirates raid Maya settlement, and capture Sp missionaries",
     "note": null,
-    "via": "e30"
+    "via": "e30",
+    "no": 1
   },
   "incident2": {
     "conf": true,
@@ -37,7 +39,8 @@
     "locn": "Truxillo",
     "desc": "Mulato raids and torches",
     "note": null,
-    "via": "e32"
+    "via": "e32",
+    "no": 2
   },
   "incident3": {
     "conf": true,
@@ -49,6 +52,7 @@
     "locn": "Olancho",
     "desc": "Mulato raids Olancho, but Sp militia defend",
     "note": "after incident2",
-    "via": "e32"
+    "via": "e32",
+    "no": 3
   }
 }

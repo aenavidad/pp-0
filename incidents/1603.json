@@ -13,7 +13,8 @@
     "locn": "Pto Caballos",
     "desc": "Newport and Geare capture",
     "note": null,
-    "via": "e177"
+    "via": "e177",
+    "no": 0
   },
   "incident1": {
     "conf": null,
@@ -25,6 +26,7 @@
     "locn": "Truxillo",
     "desc": "Jol and Mulato raid, and Monasterios defends",
     "note": null,
-    "via": "e177"
+    "via": "e177",
+    "no": 1
   }
 }

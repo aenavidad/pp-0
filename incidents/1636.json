@@ -13,7 +13,8 @@
     "locn": "Truxillo",
     "desc": "Neckere marches from Mosq Shr",
     "note": null,
-    "via": "e2"
+    "via": "e2",
+    "no": 0
   },
   "incident1": {
     "conf": true,
@@ -25,7 +26,8 @@
     "locn": "Bay Isl",
     "desc": "Neckere cruises",
     "note": "after incident0",
-    "via": "e2"
+    "via": "e2",
+    "no": 1
   },
   "incident2": {
     "conf": true,
@@ -37,6 +39,7 @@
     "locn": "Cozumel",
     "desc": "Mulato and Letier raid and torch",
     "note": "stayed 3 days",
-    "via": "e4"
+    "via": "e4",
+    "no": 2
   }
 }

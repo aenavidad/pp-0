@@ -2,31 +2,32 @@
   "yr": "1660",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "possy misdate - refine dates",
-    "pir": true,
-    "pir_n": null,
-    "lbd": "01-01",
-    "upd": "1669-12-31",
-    "locn": "Pacha",
-    "desc": "Pirates sack",
-    "note": null,
-    "via": "e58",
-    "no": 0
-  },
-  "incident1": {
-    "conf": null,
-    "conf_n": "possy compound - missg prim",
-    "pir": true,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Truxillo",
-    "desc": "Olonnais raids",
-    "note": null,
-    "via": "e1883",
-    "no": 1
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "possy misdate - refine dates",
+      "pir": true,
+      "pir_n": null,
+      "lbd": "01-01",
+      "upd": "1669-12-31",
+      "locn": "Pacha",
+      "desc": "Pirates sack",
+      "note": null,
+      "via": "e58",
+      "no": 0
+    },
+    {
+      "conf": null,
+      "conf_n": "possy compound - missg prim",
+      "pir": true,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Truxillo",
+      "desc": "Olonnais raids",
+      "note": null,
+      "via": "e1883",
+      "no": 1
+    }
+  ]
 }

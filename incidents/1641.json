@@ -2,57 +2,58 @@
   "yr": "1641",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": true,
-    "conf_n": null,
-    "pir": true,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Old R",
-    "desc": "Mulato or Du pirates raid Maya settlement",
-    "note": null,
-    "via": "e30",
-    "no": 0
-  },
-  "incident1": {
-    "conf": true,
-    "conf_n": null,
-    "pir": true,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Sittee R",
-    "desc": "Mulato or Du pirates raid Maya settlement, and capture Sp missionaries",
-    "note": null,
-    "via": "e30",
-    "no": 1
-  },
-  "incident2": {
-    "conf": true,
-    "conf_n": null,
-    "pir": true,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Truxillo",
-    "desc": "Mulato raids and torches",
-    "note": null,
-    "via": "e32",
-    "no": 2
-  },
-  "incident3": {
-    "conf": true,
-    "conf_n": null,
-    "pir": true,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Olancho",
-    "desc": "Mulato raids Olancho, but Sp militia defend",
-    "note": "after incident2",
-    "via": "e32",
-    "no": 3
-  }
+  "incidents": [
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": true,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Old R",
+      "desc": "Mulato or Du pirates raid Maya settlement",
+      "note": null,
+      "via": "e30",
+      "no": 0
+    },
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": true,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Sittee R",
+      "desc": "Mulato or Du pirates raid Maya settlement, and capture Sp missionaries",
+      "note": null,
+      "via": "e30",
+      "no": 1
+    },
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": true,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Truxillo",
+      "desc": "Mulato raids and torches",
+      "note": null,
+      "via": "e32",
+      "no": 2
+    },
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": true,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Olancho",
+      "desc": "Mulato raids Olancho, but Sp militia defend",
+      "note": "after incident2",
+      "via": "e32",
+      "no": 3
+    }
+  ]
 }

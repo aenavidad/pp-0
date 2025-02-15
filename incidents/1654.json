@@ -2,31 +2,32 @@
   "yr": "1654",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "missg prim sources - check to narrow dates",
-    "pir": false,
-    "pir_n": null,
-    "lbd": "01-01",
-    "upd": "1657-12-31",
-    "locn": "G Dulce",
-    "desc": "Sn Felipe fortified with situado",
-    "note": null,
-    "via": "e1875",
-    "no": 0
-  },
-  "incident1": {
-    "conf": true,
-    "conf_n": null,
-    "pir": true,
-    "pir_n": null,
-    "lbd": "10-23",
-    "upd": "10-23",
-    "locn": "Old R",
-    "desc": "Pirates engage Sp, and Perez defends",
-    "note": null,
-    "via": "e50",
-    "no": 1
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "missg prim sources - check to narrow dates",
+      "pir": false,
+      "pir_n": null,
+      "lbd": "01-01",
+      "upd": "1657-12-31",
+      "locn": "G Dulce",
+      "desc": "Sn Felipe fortified with situado",
+      "note": null,
+      "via": "e1875",
+      "no": 0
+    },
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": true,
+      "pir_n": null,
+      "lbd": "10-23",
+      "upd": "10-23",
+      "locn": "Old R",
+      "desc": "Pirates engage Sp, and Perez defends",
+      "note": null,
+      "via": "e50",
+      "no": 1
+    }
+  ]
 }

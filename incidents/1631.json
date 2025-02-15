@@ -2,18 +2,19 @@
   "yr": "1631",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "missg prim source",
-    "pir": false,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "G Dulce",
-    "desc": "Sn Felipe fortified",
-    "note": null,
-    "via": "e1859",
-    "no": 0
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "missg prim source",
+      "pir": false,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "G Dulce",
+      "desc": "Sn Felipe fortified",
+      "note": null,
+      "via": "e1859",
+      "no": 0
+    }
+  ]
 }

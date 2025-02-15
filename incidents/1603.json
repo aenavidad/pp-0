@@ -2,31 +2,32 @@
   "yr": "1603",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": true,
-    "conf_n": "not checked for secondary acts ie might be compound",
-    "pir": true,
-    "pir_n": null,
-    "lbd": "02-17",
-    "upd": "03-07",
-    "locn": "Pto Caballos",
-    "desc": "Newport and Geare capture",
-    "note": null,
-    "via": "e177",
-    "no": 0
-  },
-  "incident1": {
-    "conf": null,
-    "conf_n": "missg prim source",
-    "pir": true,
-    "pir_n": null,
-    "lbd": "01-01",
-    "upd": "12-31",
-    "locn": "Truxillo",
-    "desc": "Jol and Mulato raid, and Monasterios defends",
-    "note": null,
-    "via": "e177",
-    "no": 1
-  }
+  "incidents": [
+    {
+      "conf": true,
+      "conf_n": "not checked for secondary acts ie might be compound",
+      "pir": true,
+      "pir_n": null,
+      "lbd": "02-17",
+      "upd": "03-07",
+      "locn": "Pto Caballos",
+      "desc": "Newport and Geare capture",
+      "note": null,
+      "via": "e177",
+      "no": 0
+    },
+    {
+      "conf": null,
+      "conf_n": "missg prim source",
+      "pir": true,
+      "pir_n": null,
+      "lbd": "01-01",
+      "upd": "12-31",
+      "locn": "Truxillo",
+      "desc": "Jol and Mulato raid, and Monasterios defends",
+      "note": null,
+      "via": "e177",
+      "no": 1
+    }
+  ]
 }

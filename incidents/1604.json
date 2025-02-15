@@ -2,31 +2,32 @@
   "yr": "1604",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "may be compound - check e1835 again for added notes",
-    "pir": false,
-    "pir_n": null,
-    "lbd": "03-07",
-    "upd": "03-07",
-    "locn": "Sto Tomas",
-    "desc": "Port discovered or est",
-    "note": null,
-    "via": "e1835",
-    "no": 0
-  },
-  "incident1": {
-    "conf": null,
-    "conf_n": "missg prim source",
-    "pir": true,
-    "pir_n": "assuming hostile = pirates",
-    "lbd": null,
-    "upd": null,
-    "locn": "G Dulce",
-    "desc": "Pirates raid",
-    "note": "incl watchtower destroyed",
-    "via": "e1875",
-    "no": 1
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "may be compound - check e1835 again for added notes",
+      "pir": false,
+      "pir_n": null,
+      "lbd": "03-07",
+      "upd": "03-07",
+      "locn": "Sto Tomas",
+      "desc": "Port discovered or est",
+      "note": null,
+      "via": "e1835",
+      "no": 0
+    },
+    {
+      "conf": null,
+      "conf_n": "missg prim source",
+      "pir": true,
+      "pir_n": "assuming hostile = pirates",
+      "lbd": null,
+      "upd": null,
+      "locn": "G Dulce",
+      "desc": "Pirates raid",
+      "note": "incl watchtower destroyed",
+      "via": "e1875",
+      "no": 1
+    }
+  ]
 }

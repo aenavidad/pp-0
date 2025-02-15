@@ -2,31 +2,32 @@
   "yr": "1680",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "missg prim source",
-    "pir": null,
-    "pir_n": null,
-    "lbd": "07-01",
-    "upd": "08-31",
-    "locn": "St George's",
-    "desc": "Castro surprises Eng ships",
-    "note": null,
-    "via": "e998",
-    "no": 0
-  },
-  "incident1": {
-    "conf": null,
-    "conf_n": "missg prim source for camp destruction - may count as compound",
-    "pir": null,
-    "pir_n": null,
-    "lbd": "07-01",
-    "upd": "08-31",
-    "locn": "Old R",
-    "desc": "Castro destroys logging camp, imprisons loggers, and maroons Oxe",
-    "note": null,
-    "via": "e998",
-    "no": 1
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "missg prim source",
+      "pir": null,
+      "pir_n": null,
+      "lbd": "07-01",
+      "upd": "08-31",
+      "locn": "St George's",
+      "desc": "Castro surprises Eng ships",
+      "note": null,
+      "via": "e998",
+      "no": 0
+    },
+    {
+      "conf": null,
+      "conf_n": "missg prim source for camp destruction - may count as compound",
+      "pir": null,
+      "pir_n": null,
+      "lbd": "07-01",
+      "upd": "08-31",
+      "locn": "Old R",
+      "desc": "Castro destroys logging camp, imprisons loggers, and maroons Oxe",
+      "note": null,
+      "via": "e998",
+      "no": 1
+    }
+  ]
 }

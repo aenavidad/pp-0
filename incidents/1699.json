@@ -2,18 +2,19 @@
   "yr": "1699",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "might not be coastal raid",
-    "pir": true,
-    "pir_n": "for Mosquito act",
-    "lbd": "08-17",
-    "upd": "08-17",
-    "locn": "Patuca R",
-    "desc": "Mos men raid Sp settlement",
-    "note": null,
-    "via": "e541",
-    "no": 0
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "might not be coastal raid",
+      "pir": true,
+      "pir_n": "for Mosquito act",
+      "lbd": "08-17",
+      "upd": "08-17",
+      "locn": "Patuca R",
+      "desc": "Mos men raid Sp settlement",
+      "note": null,
+      "via": "e541",
+      "no": 0
+    }
+  ]
 }

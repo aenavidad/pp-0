@@ -2,31 +2,32 @@
   "yr": "1637",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "may be compound or misdated - check prim source",
-    "pir": null,
-    "pir_n": null,
-    "lbd": "01-01",
-    "upd": "09-30",
-    "locn": "Bay Isl",
-    "desc": "Newman cruises",
-    "note": null,
-    "via": "e6",
-    "no": 0
-  },
-  "incident1": {
-    "conf": true,
-    "conf_n": null,
-    "pir": false,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Utila",
-    "desc": "Perez chases Newman",
-    "note": "after incident0",
-    "via": "e6",
-    "no": 1
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "may be compound or misdated - check prim source",
+      "pir": null,
+      "pir_n": null,
+      "lbd": "01-01",
+      "upd": "09-30",
+      "locn": "Bay Isl",
+      "desc": "Newman cruises",
+      "note": null,
+      "via": "e6",
+      "no": 0
+    },
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": false,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Utila",
+      "desc": "Perez chases Newman",
+      "note": "after incident0",
+      "via": "e6",
+      "no": 1
+    }
+  ]
 }

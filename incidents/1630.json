@@ -2,31 +2,32 @@
   "yr": "1630",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "missg prim source",
-    "pir": true,
-    "pir_n": null,
-    "lbd": "05-01",
-    "upd": "08-31",
-    "locn": null,
-    "desc": "Jol cruises from Colombia to Yucn",
-    "note": null,
-    "via": "e271",
-    "no": 0
-  },
-  "incident1": {
-    "conf": null,
-    "conf_n": "missg prim source",
-    "pir": true,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Truxillo",
-    "desc": "Du pirates raid and torch",
-    "note": "main e1859",
-    "via": "e265",
-    "no": 1
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "missg prim source",
+      "pir": true,
+      "pir_n": null,
+      "lbd": "05-01",
+      "upd": "08-31",
+      "locn": null,
+      "desc": "Jol cruises from Colombia to Yucn",
+      "note": null,
+      "via": "e271",
+      "no": 0
+    },
+    {
+      "conf": null,
+      "conf_n": "missg prim source",
+      "pir": true,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Truxillo",
+      "desc": "Du pirates raid and torch",
+      "note": "main e1859",
+      "via": "e265",
+      "no": 1
+    }
+  ]
 }

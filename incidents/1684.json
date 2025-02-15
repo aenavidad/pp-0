@@ -2,18 +2,19 @@
   "yr": "1684",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "may be compound - may be misdated",
-    "pir": true,
-    "pir_n": null,
-    "lbd": "04-27",
-    "upd": "05-05",
-    "locn": "G Dulce",
-    "desc": "Zanques raids",
-    "note": "compare to 1683, 1685",
-    "via": "e1915",
-    "no": 0
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "may be compound - may be misdated",
+      "pir": true,
+      "pir_n": null,
+      "lbd": "04-27",
+      "upd": "05-05",
+      "locn": "G Dulce",
+      "desc": "Zanques raids",
+      "note": "compare to 1683, 1685",
+      "via": "e1915",
+      "no": 0
+    }
+  ]
 }

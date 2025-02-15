@@ -2,31 +2,32 @@
   "yr": "1648",
   "tally": null,
   "tally_n": "plus 16 Dec G Dulce raid in c331",
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "missg prim",
-    "pir": true,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Truxillo",
-    "desc": "Pirates raid",
-    "note": "also in e42",
-    "via": "e996",
-    "no": 0
-  },
-  "incident1": {
-    "conf": true,
-    "conf_n": null,
-    "pir": true,
-    "pir_n": null,
-    "lbd": "06-01",
-    "upd": "06-30",
-    "locn": "Bacalar",
-    "desc": "Abraham raids, and Palomino defends",
-    "note": null,
-    "via": "e42",
-    "no": 1
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "missg prim",
+      "pir": true,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Truxillo",
+      "desc": "Pirates raid",
+      "note": "also in e42",
+      "via": "e996",
+      "no": 0
+    },
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": true,
+      "pir_n": null,
+      "lbd": "06-01",
+      "upd": "06-30",
+      "locn": "Bacalar",
+      "desc": "Abraham raids, and Palomino defends",
+      "note": null,
+      "via": "e42",
+      "no": 1
+    }
+  ]
 }

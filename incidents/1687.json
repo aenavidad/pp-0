@@ -2,44 +2,45 @@
   "yr": "1687",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "missg prim source",
-    "pir": true,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Amatique",
-    "desc": "Pirates raid up to G Dulce",
-    "note": null,
-    "via": "e1927",
-    "no": 0
-  },
-  "incident1": {
-    "conf": null,
-    "conf_n": "missg prim source",
-    "pir": true,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Olancho",
-    "desc": "Pirates raid",
-    "note": null,
-    "via": "e1927",
-    "no": 1
-  },
-  "incident2": {
-    "conf": null,
-    "conf_n": "missg prim sources - check to narrow dates",
-    "pir": false,
-    "pir_n": null,
-    "lbd": "01-01",
-    "upd": "1689-12-31",
-    "locn": "G Dulce",
-    "desc": "Sn Felipe fortified",
-    "note": null,
-    "via": "e1875",
-    "no": 2
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "missg prim source",
+      "pir": true,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Amatique",
+      "desc": "Pirates raid up to G Dulce",
+      "note": null,
+      "via": "e1927",
+      "no": 0
+    },
+    {
+      "conf": null,
+      "conf_n": "missg prim source",
+      "pir": true,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Olancho",
+      "desc": "Pirates raid",
+      "note": null,
+      "via": "e1927",
+      "no": 1
+    },
+    {
+      "conf": null,
+      "conf_n": "missg prim sources - check to narrow dates",
+      "pir": false,
+      "pir_n": null,
+      "lbd": "01-01",
+      "upd": "1689-12-31",
+      "locn": "G Dulce",
+      "desc": "Sn Felipe fortified",
+      "note": null,
+      "via": "e1875",
+      "no": 2
+    }
+  ]
 }

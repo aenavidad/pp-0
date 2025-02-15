@@ -2,31 +2,32 @@
   "yr": "1682",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "missg prim source",
-    "pir": null,
-    "pir_n": null,
-    "lbd": "01-01",
-    "upd": "05-31",
-    "locn": null,
-    "desc": "Fr cut logwood",
-    "note": null,
-    "via": "e1000",
-    "no": 0
-  },
-  "incident1": {
-    "conf": null,
-    "conf_n": "missg prim source - may be in Nic - may be compound",
-    "pir": true,
-    "pir_n": null,
-    "lbd": "01-01",
-    "upd": "05-31",
-    "locn": null,
-    "desc": "Hamlin surprises Eng ships incl Trompeuse",
-    "note": null,
-    "via": "e1000",
-    "no": 1
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "missg prim source",
+      "pir": null,
+      "pir_n": null,
+      "lbd": "01-01",
+      "upd": "05-31",
+      "locn": null,
+      "desc": "Fr cut logwood",
+      "note": null,
+      "via": "e1000",
+      "no": 0
+    },
+    {
+      "conf": null,
+      "conf_n": "missg prim source - may be in Nic - may be compound",
+      "pir": true,
+      "pir_n": null,
+      "lbd": "01-01",
+      "upd": "05-31",
+      "locn": null,
+      "desc": "Hamlin surprises Eng ships incl Trompeuse",
+      "note": null,
+      "via": "e1000",
+      "no": 1
+    }
+  ]
 }

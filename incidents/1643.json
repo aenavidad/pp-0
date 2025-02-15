@@ -2,57 +2,58 @@
   "yr": "1643",
   "tally": null,
   "tally_n": "plus late 642-early 643 incidents in c275 - possy also in c40 - see c280, c282 for incidents here",
-  "incidents": [],
-  "incident0": {
-    "conf": true,
-    "conf_n": null,
-    "pir": true,
-    "pir_n": null,
-    "lbd": "07-20",
-    "upd": "09-15",
-    "locn": "Truxillo",
-    "desc": "Jackson raids and holds",
-    "note": null,
-    "via": "e38",
-    "no": 0
-  },
-  "incident1": {
-    "conf": true,
-    "conf_n": null,
-    "pir": true,
-    "pir_n": null,
-    "lbd": "07-20",
-    "upd": "09-15",
-    "locn": "Sto Tomas",
-    "desc": "Jackson raids",
-    "note": "after incident0 - possibly to G Dulce - sort of in e992",
-    "via": "e38",
-    "no": 1
-  },
-  "incident2": {
-    "conf": true,
-    "conf_n": null,
-    "pir": true,
-    "pir_n": null,
-    "lbd": "07-20",
-    "upd": "09-15",
-    "locn": "Truxillo",
-    "desc": "Jackson raids again",
-    "note": "after incident1",
-    "via": "e38",
-    "no": 2
-  },
-  "incident3": {
-    "conf": null,
-    "conf_n": "missg prim sources",
-    "pir": false,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Guanaxa",
-    "desc": "Sp expel pirates or natives",
-    "note": null,
-    "via": "e38",
-    "no": 3
-  }
+  "incidents": [
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": true,
+      "pir_n": null,
+      "lbd": "07-20",
+      "upd": "09-15",
+      "locn": "Truxillo",
+      "desc": "Jackson raids and holds",
+      "note": null,
+      "via": "e38",
+      "no": 0
+    },
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": true,
+      "pir_n": null,
+      "lbd": "07-20",
+      "upd": "09-15",
+      "locn": "Sto Tomas",
+      "desc": "Jackson raids",
+      "note": "after incident0 - possibly to G Dulce - sort of in e992",
+      "via": "e38",
+      "no": 1
+    },
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": true,
+      "pir_n": null,
+      "lbd": "07-20",
+      "upd": "09-15",
+      "locn": "Truxillo",
+      "desc": "Jackson raids again",
+      "note": "after incident1",
+      "via": "e38",
+      "no": 2
+    },
+    {
+      "conf": null,
+      "conf_n": "missg prim sources",
+      "pir": false,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Guanaxa",
+      "desc": "Sp expel pirates or natives",
+      "note": null,
+      "via": "e38",
+      "no": 3
+    }
+  ]
 }

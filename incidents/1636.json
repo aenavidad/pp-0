@@ -2,44 +2,45 @@
   "yr": "1636",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "not sure if coastal act",
-    "pir": true,
-    "pir_n": null,
-    "lbd": "04-01",
-    "upd": "05-12",
-    "locn": "Truxillo",
-    "desc": "Neckere marches from Mosq Shr",
-    "note": null,
-    "via": "e2",
-    "no": 0
-  },
-  "incident1": {
-    "conf": true,
-    "conf_n": null,
-    "pir": null,
-    "pir_n": null,
-    "lbd": "04-01",
-    "upd": "05-12",
-    "locn": "Bay Isl",
-    "desc": "Neckere cruises",
-    "note": "after incident0",
-    "via": "e2",
-    "no": 1
-  },
-  "incident2": {
-    "conf": true,
-    "conf_n": null,
-    "pir": true,
-    "pir_n": null,
-    "lbd": "05-01",
-    "upd": "06-30",
-    "locn": "Cozumel",
-    "desc": "Mulato and Letier raid and torch",
-    "note": "stayed 3 days",
-    "via": "e4",
-    "no": 2
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "not sure if coastal act",
+      "pir": true,
+      "pir_n": null,
+      "lbd": "04-01",
+      "upd": "05-12",
+      "locn": "Truxillo",
+      "desc": "Neckere marches from Mosq Shr",
+      "note": null,
+      "via": "e2",
+      "no": 0
+    },
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": null,
+      "pir_n": null,
+      "lbd": "04-01",
+      "upd": "05-12",
+      "locn": "Bay Isl",
+      "desc": "Neckere cruises",
+      "note": "after incident0",
+      "via": "e2",
+      "no": 1
+    },
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": true,
+      "pir_n": null,
+      "lbd": "05-01",
+      "upd": "06-30",
+      "locn": "Cozumel",
+      "desc": "Mulato and Letier raid and torch",
+      "note": "stayed 3 days",
+      "via": "e4",
+      "no": 2
+    }
+  ]
 }

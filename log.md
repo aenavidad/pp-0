@@ -304,6 +304,19 @@
 - [x] ~~code 1670s cartas as above~~
     - [x] ~~all in Guat~~
     - [x] ~~select in Mex~~[^prolly not needed after Bacl withdrawal]
+- [x] so 1600s to 1660s fully coded[^with 135 `mil=true`]
+
+### cleanup incidents
+- [x] restructure `json` files[^for easier data entry]
+    - [x] set all `tally` to null,[^add by machine, not by hand]
+    - [x] add `incidents` key with empty array value,
+    - [x] remove `incident0` objects with all-null values,
+    - [x] add `no` key inside incidents objects with matching integ
+    - [x] move incidents key-value pairs as just objects to `incidents` array
+- [ ] get a good incl/excl test for def incidents, or just incl them all with `pir=false`
+- [ ] screen incidents against events to ensure all events cited and all incidents extracted
+- [ ] screen incidents against published lit cited in events to get cleaner incidents
+- [ ] screen incidents against cartas to ensure all incidents extracted and to get cleaner incidents
 
 ## prior log
 ### any cartas

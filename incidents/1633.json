@@ -2,31 +2,32 @@
   "yr": "1633",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "may be compound",
-    "pir": true,
-    "pir_n": null,
-    "lbd": "04-26",
-    "upd": "09-18",
-    "locn": "Truxillo",
-    "desc": "Hoorn sacks",
-    "note": null,
-    "via": "e295",
-    "no": 0
-  },
-  "incident1": {
-    "conf": true,
-    "conf_n": null,
-    "pir": null,
-    "pir_n": null,
-    "lbd": "04-26",
-    "upd": "09-18",
-    "locn": "Cozumel",
-    "desc": "Hoorn cruises",
-    "note": null,
-    "via": "e295",
-    "no": 1
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "may be compound",
+      "pir": true,
+      "pir_n": null,
+      "lbd": "04-26",
+      "upd": "09-18",
+      "locn": "Truxillo",
+      "desc": "Hoorn sacks",
+      "note": null,
+      "via": "e295",
+      "no": 0
+    },
+    {
+      "conf": true,
+      "conf_n": null,
+      "pir": null,
+      "pir_n": null,
+      "lbd": "04-26",
+      "upd": "09-18",
+      "locn": "Cozumel",
+      "desc": "Hoorn cruises",
+      "note": null,
+      "via": "e295",
+      "no": 1
+    }
+  ]
 }

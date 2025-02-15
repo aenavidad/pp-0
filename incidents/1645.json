@@ -2,18 +2,19 @@
   "yr": "1645",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
-  "incident0": {
-    "conf": null,
-    "conf_n": "missg prim",
-    "pir": true,
-    "pir_n": null,
-    "lbd": null,
-    "upd": null,
-    "locn": "Truxillo",
-    "desc": "Pirates raid",
-    "note": null,
-    "via": "e40",
-    "no": 0
-  }
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": "missg prim",
+      "pir": true,
+      "pir_n": null,
+      "lbd": null,
+      "upd": null,
+      "locn": "Truxillo",
+      "desc": "Pirates raid",
+      "note": null,
+      "via": "e40",
+      "no": 0
+    }
+  ]
 }

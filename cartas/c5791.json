@@ -1,7 +1,7 @@
 {
   "id": "c5791",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.1,N.2"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "En todas las occasiones q se han offreçido [..] referi las inquietudes y otros inconvenientes q resultaron desta condiçion y orden de proçeder q tuvo El lic.do Alvar gomez de Abaunca en diez y nueve años q fue oidor [..] /v img 1\n En Vn capitulo dela carta q digo escrivi a 20 de Abril del año pasado dixe como los Navios q venian al Puerto de Cavallos no tenian alli seguridad y como dos Cosario avyan Robado dos Navios q en aquel Puerto estavan a media carga' [..] /v img 2"
   }
 }

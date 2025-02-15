@@ -1,7 +1,7 @@
 {
   "id": "c5885",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.2,N.16"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "da qn.ta de como no an llegado a su poder çiertos pliegos y q a Tenido nueva q se perdieron en el camino de mex.co a guatimala /v img 4\n En otra tengo escrito a VM que no habia reçibido los pliegos de VM que Vinieron para mi en los del Marques de Montesclaros y que habia ynbiado correo por ellos y que le esperava por horas el qual Vino ya sin los pliegos. y segun la relaçion que trahee se perdieron en Mexico o en el camino de aquella çiudad a esta. /v img 1"
   }
 }

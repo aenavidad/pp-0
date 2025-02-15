@@ -1,7 +1,7 @@
 {
   "id": "c5672",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.6,N.45"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Por mis cartas que he escrito a VM [..] y por mi subçesso en la visita desta chançilleria el justo temor que devi tener y tuve del daño que seme podia seguir y siguio de haver hecho en serviçio de n.ro señor y de VM las fineças [..] /v img 1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5883",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.2,N.15"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "damaged - re def incident",
+    "mil_n": "dan qn.ta del puerto de amatiq. q an allado y de cosas Tocantes a El /v img 4"
   }
 }

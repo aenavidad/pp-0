@@ -1,7 +1,7 @@
 {
   "id": "c5947",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.2,N.23"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "avisando el Recivo de varias oxas que sele remitieron ... Por averse dado notiçia a VM de algunos Exçesos q Dizen hazia en esta çiudad Don diego de guzman Vezino della [etc] /v img 1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5588",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.6,N.42"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl Nic pir/def",
+    "mil_n": "En los navios que llegaron [.. =] Tanbien binieron las naos sin Registros que no dexa deser de ynconviniente para la cobrança de los rreales derechos [..] /v img 1\n 22 - El año pasado se dio quenta a VM del estado en que quedaba la fuerça santacruz que por mano del maese de campo gonçalo melendez de baldes se hizo en el desaguadero dela laguna de nicaragua ala mar del norte, en el sitio que antes llamaban El rraudal del diablo, para defender El passo alos cosarios yngleses y olandeses que segun se entendio por la rrelaçion de don joan de aguirre vergara que el birrey de la nueba hespaña enbio a esta audiençia tenia yntento de entrar por el a poblarse En estas provinçia [..] /v img 9"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5767",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.1,N.4"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "con Vnas petiçiones delos Religiosos sobre Visitar los obpos a los que estuvieren en doctrinas, y Vn traslado delo que se Votto en el Acuerdo sobre el proceso ff.o [?] contra Gregorio destrago= /v img 6"
   }
 }

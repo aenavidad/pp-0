@@ -1,7 +1,7 @@
 {
   "id": "c5711",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.6,N.52"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "1 - En la flota q partio de estas Provin.as [..] En q VM manda sele Embie Relaçion delos pleitos q oy en esta Audien.a en Razon delas cosas de q hande pagar Diezmo los indios [..] /v img 1"
   }
 }

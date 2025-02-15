@@ -1,7 +1,7 @@
 {
   "id": "c5391",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,39,R.13,N.79"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "A VM supp.ca le mande dar su rreal çedula para que en los yndios que hubiere bacos o que primero bacasen le acave de enterar la dha Renta /v img 1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5839",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.1,N.9"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "en a[ill]o de garçia descobar scriv.o de camara de aquella ciud.a y de vn hijo suyo /v img 4\n Garcia descobar scribano de camara en esta R.al au.a, me ha pedido informe a VM de sus meritos y de vn Hijo suyo /v img 1"
   }
 }

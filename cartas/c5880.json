@@ -1,7 +1,7 @@
 {
   "id": "c5880",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.2,N.14"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl pir and def incidents",
+    "mil_n": "con Vna relacion de zierta confederaçion q contra El ze hizo= /v img 4\n y asimismo da quenta del descubrimiento del Puerto de amatiq. y que en esto se remite alo que escrive el Presidente de guatimala /v img 1\n En Vna carta que escrivi a VM a 20 de Abril de 603 di quenta como el puerto de cavallos era abierto y sin defensa y q a esta causa a 17 de febrero de aquel año dos cosarios avian Robado dos navios que enel estavan a media carta; [..] /v img 1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5400",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.5,N.29"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "ink has bled - possy incl Nic def in img 1",
+    "mil_n": "quando vine a servir esta plaça me envarque en flota de tierra firme, y abiendo tomado savetaxe [?] en cartagena, me bolvi a envarcar en una fragata delas del trato de nicaragua, en la qual atrabese çiento y ochenta leguas que ay desde cartagena al desaguadero dela dha nicaragua [etc] /v img 1"
   }
 }

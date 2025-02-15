@@ -1,7 +1,7 @@
 {
   "id": "c5743",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.1,N.1"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "con Vnos papeles sobre cossas del obpo de aquella Provj.a /v img 4"
   }
 }

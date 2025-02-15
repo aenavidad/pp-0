@@ -1,7 +1,7 @@
 {
   "id": "c5575",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.6,N.38"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl pir",
+    "mil_n": "Antes q VM me hiziera mr.d [.. =] En esta Real Audien.a esta y ha sido oidor diez y ocho años El lic.do Alvar gomez de Abaunça y la maior pare de este tiempo ha tenido Enemistad declarada con Don Diego de Guzman y con Alonso de Contreras Guevara y con [..] /v img 1\n 16 - El Puerto de Cavallos Donde suelen surgir los Navios q Vienen a estas Provin.as no tiene Defensa ni sele puede poner, por ser abierto, y [..] Aora ha suçedido, q estando surgidos enel Dos Navios q avia traido a su cargo Juan de Monasterio Vide, y teniendolos ya a madia carga, dieron sobre ellos dos cosarios Vno yngles y otro françes a 17 de febr.o de este año, [..] /v img 5"
   }
 }

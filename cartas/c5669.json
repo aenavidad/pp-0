@@ -1,7 +1,7 @@
 {
   "id": "c5669",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.6,N.44"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl genl def, and possy pir",
+    "mil_n": "El Reay - Pres.te y oydores de mi aud.a Rl dela provincia de guatimala, havi.do entendido el Subcesso que tubieron en el puerto de caballos el año pasado de 602 las naos que fueron alli con mercadurias, y que dice lo mal que se puede defender, y fortificar aquel Puerto y la mucha gente q Para ello es menester, haviendo Poca en aquella Provinçia, deseo saver el Remedio que en esto puede haver, y si la contrataçion di alli y la carga y descarga delas naos se puede mudar a otro Puerto de aquella Provinçia yaquel y las comodidades ynconvinientes q Puede Haver en ello y lo que se puede Prevenir Para que no subcedan semejantes daños, os Mando que haviendolo considerado y enteradoos dello, Particularmente me envieis R.on muy Precisa y puntual dello con Todo lo que acerca dello seos ofresçiere, y alas personas mas platicas dela Tierra y que tengan noticia de aquella Costa Con quien la comunicaredes de Vall.id a 6 de agosto de 1603 años yo el Rey"
   }
 }

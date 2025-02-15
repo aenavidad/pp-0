@@ -1,7 +1,7 @@
 {
   "id": "c5995",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.2,N.26"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "damaged",
+    "mil_n": "Da quenta dela perdida de lalmiranta [a 25 leguas de Truxillo] y como caye en ella Vn Rayo y se fue a pique con la gente que llevava /v img 1"
   }
 }

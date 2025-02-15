@@ -1,7 +1,7 @@
 {
   "id": "c5874",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.2,N.11"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "~ Sobre la visita delas caxas rreales de VM En las provinçias de comayagua y de nicaragua q fue VM serbido mandarme la tomase [..] /v img 1"
   }
 }

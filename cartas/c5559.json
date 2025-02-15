@@ -1,7 +1,7 @@
 {
   "id": "c5559",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,39,R.13,N.81"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Aviendo Pocos dias que sali del puerto de cavallos de Hazer cierta Averiguacion de vn delicto y llegado A comayagua [..] me llego avisso del dho puerto que domingo 16 de febrero Havian paresçido Sobre la punta del dho puerto ocho navios y siete pataxes y lanchas de enemigos /v img 1"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5696",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.6,N.49"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "De la comision q VM memando Para que Yo averiguase El herror de qu.ta o fraude que los Contadores tomas de ayardi y juan de para notaron en las qu.tas que Vieron delos años de 1595 Y 1596 enla hazienda de VM [..] /v img 1"
   }
 }

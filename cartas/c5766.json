@@ -1,7 +1,7 @@
 {
   "id": "c5766",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.1,N.5"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "que serviendo A V al.a en aquella audiencia a pasado Muchas ofensas y ynjurias admitidas de sus conpañeros en petiçiones de deudos y favoreçidos suyos [..] /v img 1"
   }
 }

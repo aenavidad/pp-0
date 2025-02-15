@@ -1,7 +1,7 @@
 {
   "id": "c5709",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.6,N.50"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Vn Caballero desta ciudad, llamado don Alonso Ramires de bargas, Presento ante mi en estos dias una peticion por modo de querella p.a q Rescibiesse informaçion, y Remediasse lo q por ella Constaria, de q El l.do Albar gomez de Abauca Oydor q a sido de VM i esta R.al au.a Abiendo tractado y concertadose de Casar Con doña ysabel de saavedra su prima [..] /v img 1"
   }
 }

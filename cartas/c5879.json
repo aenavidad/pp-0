@@ -1,7 +1,7 @@
 {
   "id": "c5879",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.2,N.13"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl genl Nic def, and def incident in Hond",
+    "mil_n": "=A los prinçipios escrivi lo que pude alcançar y juzgar dela persona del presidente desta audiençia [..] /v img 1\n = En el camino dela gigua que tan ymprudentemente quiso se siguiese contra la comun Opinion de todos a gastado de tributos vacos que son hazienda de VM a pie de treinta mill tostones sino son mas, sin q el camino aya servido de cossa alguna, ny pueda servir en el fuerte del desaguadero de nicaragua con la misma ynconsideraçion y sin ser nesçesario a gastado mas de otros setenta mill tostones, que cada toston son quatro rreales. = El nuebo puerto de amaytique que aora sele a puesto nombre s.to thomas de castilla se descubrio por la per[- img 2] seberançia de Vn fran.co nabarro, piloto que avia mas de quarenta años que avia sondo este puerto el qual fr.co nabarro vino [..] /v img 2-3"
   }
 }

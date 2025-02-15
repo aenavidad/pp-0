@@ -1,7 +1,7 @@
 {
   "id": "c5792",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.1,N.3"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl genl def and def incidents",
+    "mil_n": "Diçe que V Al.a a mas de seis años Tiene mandado aquella audiençia que provea lo que conviene çerca si sera vien que en aquella çiudad aya corregidor del Valle [..] /v img 1\n que haviendo mandado V Al.a aquella audien.a ynformase el estado que Thenia el camino quel presidente della mando abrir desde el puerto de cavallos aquella çiudad no lo a echo y que asi el advierte delas dificultades que el dho camino Tiene [..] y que todo esto cesara Con el nuebo puerto de amatique que se allado capaz y con esto no abra neçesidad del dicho camino [..] y si el puerto de amatque saliese ynçierto y se hubiese de continuar al de cavallos es de pareçer que V al.a mandase fortificar el fuerte del golfo con trenta soldados para guardar los navios mientras cargan y descargan como se a echo el año pasado por quenta de tributos bacos[=] /v img 2"
   }
 }

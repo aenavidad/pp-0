@@ -1,7 +1,7 @@
 {
   "id": "c5878",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.2,N.12"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "incl def incident",
+    "mil_n": "Despues que sirvo a VM en esta Aud.a e visto algunas quentas tomadad por los governadores alos offiçiales Reales delas provinçias [..] /v img 1\n En otras e dicho a VM como se habia sondado el puerto de Amatique que esta poco mas adelante delde cavallos, y como habia pareçido que [..] /v img 6"
   }
 }

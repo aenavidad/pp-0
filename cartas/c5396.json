@@ -1,7 +1,7 @@
 {
   "id": "c5396",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.5,N.28"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Por muchas petiçiones y cartas he ynformado a VM del largo tienpo que le sirbo [..] Y si VM es serbido de me haçer merçed que yo sea rrenumerado en otro ministerio, de otra plaça o ofiçio /v img 1"
   }
 }

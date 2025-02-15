@@ -1,7 +1,7 @@
 {
   "id": "c5906",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.2,N.17"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "El año Pasado di quenta a VM de los agrabios que he Reçibido por aver como juez desta audiençia averiguado los delitos y fraudes que en la hazienda de VM hizieron los ofiçiales de V.ra Real hazienda en nicaragua [..] /v img 1"
   }
 }

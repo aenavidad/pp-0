@@ -1,7 +1,7 @@
 {
   "id": "c5569",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.6,N.37"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "ink has bled - has passing reference to pir incident",
+    "mil_n": "qu.do vine a servir a VM en la plaça de fiscal [..] abia llegado a ella poco tiempo antes Don fray Ju.o R.o obispo deste obpado [..] /v img 1\n - Las provinçias de honduras estan publadas de gente muy pobre por lo qual no pueden haçer asistençia p.a la defensa delos puertos a su costa quando se ofresçe, los quales puertos estan sin defensa, y las naos que alli bienen en manifiesto riesgo y peligro como estubieron las q tomo un cosario este año= /v img 12"
   }
 }

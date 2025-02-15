@@ -1,7 +1,7 @@
 {
   "id": "c5721",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.6,N.53"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Particular quento he tenido con darla a VM [..] que oy, por haver don juan barba de coronado hijo del lic.do don Alonso de coronado trahido al presidente mis cartas originales segun algunos refieren y sus traslados segun otros en que he resçibido muy mala cobra [?] por haver dado por ellas quenta a VM de ocasiones que me han dado bastante para irritarme [..] /v img 1"
   }
 }

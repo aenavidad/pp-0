@@ -1,7 +1,7 @@
 {
   "id": "c5587",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.6,N.43"
   },
   "data": {
-    "mil": null,
+    "mil": true,
     "pir": null,
     "def": null,
     "lit_n": null,
-    "codg_n": null,
-    "mil_n": null
+    "codg_n": "seems to have more than a few words on genl def, plus def incident, plus pir",
+    "mil_n": "Vna carta de VM [..] en que VM la haçe m.d de dar aviszo del naçimiento dela Prinçessa Doña Anatica s.a [..] /v img 1\n En lo que VM manda por carta de 7 De Hebrero Del año de 160[ill] que esta real Aud.a no consienta ni permita que se gaste dela haçienda Real sino fuere en los casos delas ordenanças se tendra mucho cuidado y lo que por ella VM manda de que quando sevbiere de socorrer a Truxillo, sea con gente de la tierra ala qual el governador tenga diciplinada y exerçitada, se aya ordenado al governador de honduras que lo ha anssi aunque esta Real Aud.a a considerado que los so[co]rros que se hiçieren con gente de la tierra an de ser de muy poco efec[to] ansi por estar los lugares de españoles dela provinçia de honduras sesenta leguas y otros mas y por esto no se poder acudir al socorro al tienpo dela neçesidad, y ser los veçinos de aquella provinçia pobres y tan ordinarios los cossarios en estas costas de algunos a[ños] a esta parte la mayor del año que si el tienpo que pareçe ser neçesario el socorro en aquel fuerte los beçinos de otros lugares b[ill]sen de dexar sus cassas y haçiendas no podrian tratar del beneff[ill img 1] de ellas ni tener con que sustentarse y por huir estos daños dexarian la tierra, y ansi siendo VM servido pareçe a esta Real Aud.a que se podrian poner en la Real casa de VM dos mil p.s de minas de renta en yndios para que con ellos se pudiese pagar sueldo a treinta soldado que asistiesen en aquel fuerte seis meses de cada Vn año porque la meçed que VM hiço a aquella çiudad de mil p.s cada año se gasta en artilleros y muniçiones.= Para responder con mas puntualidad ala çedula de VM dada en s.n Lorenços a 4 de Julio del año pasado de 1602, en que VM manda que esta Real Aud.a informe muy particularmente del estado en que esta el camino que el Press.e a mandado abrir que Va deesta ciudad a puerto de Cavallos [..] Se a acrodado que Vaya persona de confiança de esta çiudad a Ver el camino, y ansi mesmo a sondar Vn puerto que llaman de Amatique [..] y lo que a obligado ha haçer esta diligençia agora es que a 17 de hebrero de este año Vinieron a puerto de Cavallos Dos cossarios el Vno ingles que se llama Xpoval Neoport y el otro fraçes cuyo nonbre no hemos savido con quinçe Velas las ocho maiores [..] /v img 1-2"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5828",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,12,R.1,N.8"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "1.o cosas de alavnçes [?[ y coronado y q ya se an ido= 2.o gran floxedad en despacho de pleitos fiscales [etc] /v img 4"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "c5586",
   "work": {
-    "cod": null,
+    "cod": true,
     "cod_n": null,
     "stat": null,
     "stat_n": null
@@ -18,11 +18,11 @@
     "ref": "GUATEMALA,11,R.6,N.40"
   },
   "data": {
-    "mil": null,
+    "mil": false,
     "pir": null,
     "def": null,
     "lit_n": null,
     "codg_n": null,
-    "mil_n": null
+    "mil_n": "Despues de aver dado quenta a VM [..] Para averiguar los fraudes o herror de quenta que se deçia aver avido contra la haçienda de VM en la caxa Real desta çiudad [..] /v img 1"
   }
 }

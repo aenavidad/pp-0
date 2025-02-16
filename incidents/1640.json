@@ -12,7 +12,7 @@
       "upd": "03-31",
       "locn": "Amatique",
       "desc": "Du pirates raid down to G Dulce",
-      "note": "main e28 or e1869 - after incident2",
+      "note": "main e28 or e1869 - after no 2",
       "via": "e26",
       "no": 0
     },
@@ -51,7 +51,7 @@
       "upd": "03-31",
       "locn": "Utila",
       "desc": "Pirates cruise",
-      "note": "after incident0",
+      "note": "after no 0",
       "via": "e28",
       "no": 3
     },
@@ -64,7 +64,7 @@
       "upd": "03-31",
       "locn": "Omoa",
       "desc": "Pirates raid again",
-      "note": "after incident3",
+      "note": "after no 3",
       "via": "e28",
       "no": 4
     },
@@ -77,7 +77,7 @@
       "upd": "03-31",
       "locn": "Utila",
       "desc": "Pirates raid native settlement",
-      "note": "after incident4",
+      "note": "after no 4",
       "via": "e28",
       "no": 5
     }

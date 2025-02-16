@@ -1,7 +1,21 @@
 {
   "yr": "1668",
   "tally": null,
-  "tally_n": "assuming e2185 not in Hond - plus ca Apr raid in Pto Caballos in c701, and surprise in G Dulce in c702",
+  "tally_n": "plus ca Apr raid in Pto Caballos in c701, and surprise in G Dulce in c702",
   "incidents": [],
-  "possible": []
+  "possible": [
+    {
+      "conf": null,
+      "conf_n": "slightly possy in Hond",
+      "pir": true,
+      "pir_n": null,
+      "lbd": "01-01",
+      "upd": "1669-02-06",
+      "locn": null,
+      "desc": "Eng pirates surprise Sp ship",
+      "note": "brought to Jam",
+      "via": "e2185",
+      "no": 0
+    }
+  ]
 }

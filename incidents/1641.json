@@ -17,8 +17,8 @@
       "no": 0
     },
     {
-      "conf": true,
-      "conf_n": null,
+      "conf": null,
+      "conf_n": "might be compound",
       "pir": true,
       "pir_n": null,
       "lbd": null,
@@ -51,7 +51,7 @@
       "upd": null,
       "locn": "Olancho",
       "desc": "Mulato raids Olancho, but Sp militia defend",
-      "note": "after incident2",
+      "note": "after no 2",
       "via": "e32",
       "no": 3
     }

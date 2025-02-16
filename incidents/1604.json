@@ -5,14 +5,14 @@
   "incidents": [
     {
       "conf": null,
-      "conf_n": "may be compound - check e1835 again for added notes",
+      "conf_n": "may be compound - check e1835 again for added notes (no solid dates in file notes)",
       "pir": false,
       "pir_n": null,
       "lbd": "03-07",
       "upd": "03-07",
       "locn": "Sto Tomas",
       "desc": "Port discovered or est",
-      "note": null,
+      "note": "possy also in dup e181",
       "via": "e1835",
       "no": 0
     },

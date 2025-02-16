@@ -322,7 +322,19 @@
             - [x] ~~main hits[^88 `cod!=false` hits]~~
             - [x] duplicates - set `cod=null`[^4 `cod=false` and `cod_n!=null` hits]
             - [x] main hits - all cited[^92 `cod!=false` hits w duplicates now]
-        - [x] ~~all needed info extracted to incidents~~[^seems not needed if event is cited]
+        - [x] all needed ~~info~~ acts extracted to incidents[^~~seems not needed if event is cited~~ possibly some previously excluded acts could go in `possible` array - all info from events not needed though]
+            - [x] sort some existing acts into `possible`[^eg arrival of reinforcements]
+            - [x] for 1600s[^and added duplicate event ids]
+            - [x] for 1610s
+            - [x] for 1620s
+            - [x] for 1630s
+            - [x] for 1640s
+            - [x] for 1650s
+            - [x] for 1660s
+            - [x] for 1670s
+            - [x] for 1680s
+            - [x] for 1690s
+            - [x] for 1700
     - [ ] published lit cited in events to get cleaner incidents
         - [ ] for 1600s
     - [ ] cartas to ensure all incidents extracted and to get cleaner incidents

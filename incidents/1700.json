@@ -1,7 +1,21 @@
 {
   "yr": "1700",
   "tally": null,
-  "tally_n": "assuming e76 not in Hond or 17th cent",
+  "tally_n": null,
   "incidents": [],
-  "possible": []
+  "possible": [
+    {
+      "conf": null,
+      "conf_n": "is compound - prolly in Hond - possy at least one campaign in 1700",
+      "pir": false,
+      "pir_n": null,
+      "lbd": "01-01",
+      "upd": "1703-06-30",
+      "locn": "Old R",
+      "desc": "Aguilar routes loggers or pirates up to Hondo",
+      "note": "three campaigns total - or route possy reverse",
+      "via": "e76",
+      "no": 0
+    }
+  ]
 }

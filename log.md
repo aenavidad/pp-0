@@ -341,6 +341,17 @@
         - [x] for 1601
         - [x] for 1602
         - [x] 1603
+        - [ ] 1604
+        - [ ] 1605
+        - [ ] 1606
+        - [ ] 1607
+        - [x] 1608
+        - [x] 1609
+        - [x] 1610
+        - [x] 1611
+        - [x] 1612
+        - [x] 1613-1615
+        - [x] 1616
 - [ ] make sure acts in `incidents` are exactly ones to tally
 
 ## prior log

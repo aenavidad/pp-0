@@ -2,6 +2,20 @@
   "yr": "1618",
   "tally": null,
   "tally_n": null,
-  "incidents": [],
+  "incidents": [
+    {
+      "conf": null,
+      "conf_n": null,
+      "pir": true,
+      "pir_n": null,
+      "lbd": "04-01",
+      "upd": "04-30",
+      "locn": "Sto Tomas",
+      "desc": "Pirates cruise",
+      "note": "also in c97 - not in O Torres cap 8 - plus arms sent fm Truxillo",
+      "via": "c98",
+      "no": 0
+    }
+  ],
   "possible": []
 }

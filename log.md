@@ -255,6 +255,7 @@
 ## 12 feb 2025 onwards[^organised by sections to keep better track of items]
 ### for pp
 - [x] start `pp.tex`[^structure copied from latest `tex` file ie in `historical-series-re-Belize/work/oct-23/`]
+- [ ] continue pp
 
 ### recoding cartas
 - [x] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`
@@ -336,8 +337,10 @@
             - [x] for 1690s
             - [x] for 1700
     - [ ] published lit cited in events to get cleaner incidents
-        - [ ] for 1600s
     - [ ] cartas to ensure all incidents extracted and to get cleaner incidents
+        - [x] for 1601
+        - [x] for 1602
+        - [x] 1603
 - [ ] make sure acts in `incidents` are exactly ones to tally
 
 ## prior log

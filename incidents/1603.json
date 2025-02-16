@@ -5,27 +5,27 @@
   "incidents": [
     {
       "conf": true,
-      "conf_n": "not checked for secondary acts ie might be compound",
+      "conf_n": null,
       "pir": true,
       "pir_n": null,
-      "lbd": "02-17",
-      "upd": "03-07",
+      "lbd": "02-16",
+      "upd": "03-15",
       "locn": "Pto Caballos",
-      "desc": "Newport and Geare capture",
-      "note": "also in dup e2171",
+      "desc": "Newport and Geare capture, and Monasterios defends",
+      "note": "also in dup e2171, main c5559 (incl Gov march from Truxillo), c5587, c5575 ",
       "via": "e177",
       "no": 0
     },
     {
       "conf": null,
-      "conf_n": "missg prim source",
+      "conf_n": "Bay Isl stay might be separate act",
       "pir": true,
       "pir_n": null,
-      "lbd": "01-01",
-      "upd": "12-31",
+      "lbd": "03-15",
+      "upd": "03-16",
       "locn": "Truxillo",
       "desc": "Jol and Mulato raid, and Monasterios defends",
-      "note": "possy also in dup e2171",
+      "note": "possy also in dup e2171, main c5559 (by Fr co-capt of Newport, plus cruise/camp in Guanaxa to ≥ 20 Mar)",
       "via": "e177",
       "no": 1
     }

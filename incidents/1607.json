@@ -38,7 +38,7 @@
       "upd": "03-20",
       "locn": "Sto Tomas",
       "desc": "Mauricio de Nasau assaults shipping, and Izaguirre defends",
-      "note": "also in dup e2177",
+      "note": "also in dup e2177, main c6302, c6300",
       "via": "e1837",
       "no": 2
     },
@@ -51,7 +51,7 @@
       "upd": "03-31",
       "locn": "Sto Tomas",
       "desc": "Mauricio de Nasau cruises port, and raids settlement",
-      "note": "also in dup e2177",
+      "note": "also in dup e2177, main c6302",
       "via": "e1837",
       "no": 3
     },
@@ -64,7 +64,7 @@
       "upd": "03-31",
       "locn": "G Dulce",
       "desc": "Mauricio de Nasau raids and torches settlement(s)",
-      "note": "also in dup e2177",
+      "note": "also in dup e2177, c6302",
       "via": "e1837",
       "no": 4
     }
@@ -79,7 +79,7 @@
       "upd": "05-15",
       "locn": "Sto Tomas",
       "desc": "Men and arms from Guat arrive to defend",
-      "note": null,
+      "note": "also in c6302",
       "via": "e1837",
       "no": 5
     }

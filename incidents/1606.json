@@ -12,7 +12,7 @@
       "upd": "04-13",
       "locn": "Sto Tomas",
       "desc": "Du pirates surprise Sp ships, and Vergara and Pineda defend",
-      "note": "also in dup e2173",
+      "note": "also in dup e2173, main c6135, c6120, c11865, c6300, c6302 - after no 2",
       "via": "e187",
       "no": 0
     },
@@ -25,7 +25,7 @@
       "upd": "04-22",
       "locn": "Sto Tomas",
       "desc": "Du pirates surprise Sp ships again, and Vergara and Pineda defend again",
-      "note": "after no 0",
+      "note": "also in main c6135, c6120, c11865, c6302 - after no 0",
       "via": "e187",
       "no": 1
     },
@@ -38,7 +38,7 @@
       "upd": "04-01",
       "locn": "Pto Caballos",
       "desc": "Du pirates cruise",
-      "note": "'Du' not in via event file - prolly in cartas",
+      "note": "also in main c6135, c6120",
       "via": "e187",
       "no": 2
     },
@@ -51,7 +51,7 @@
       "upd": "05-23",
       "locn": "Pto Caballos",
       "desc": "Stranded English pirates land",
-      "note": "likely also e265",
+      "note": "likely also e265 and main c6140",
       "via": "e2175",
       "no": 3
     }
@@ -66,7 +66,7 @@
       "upd": "04-23",
       "locn": "Sto Tomas",
       "desc": "Men and arms from Guat arrive to defend",
-      "note": "not in via event file - prolly in cartas",
+      "note": "not in via event file - also in c6120, c11865, c11866",
       "via": "e187",
       "no": 4
     }

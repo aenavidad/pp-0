@@ -337,14 +337,14 @@
             - [x] for 1690s
             - [x] for 1700
     - [ ] published lit cited in events to get cleaner incidents
-    - [ ] cartas to ensure all incidents extracted and to get cleaner incidents
+    - [ ] cartas to ensure all incidents extracted and to get cleaner incidents[^did not input vars `possible` acts eg sending arms]
         - [x] for 1601
         - [x] for 1602
         - [x] 1603
-        - [ ] 1604
-        - [ ] 1605
-        - [ ] 1606
-        - [ ] 1607
+        - [x] 1604
+        - [x] 1605
+        - [x] 1606
+        - [x] 1607
         - [x] 1608
         - [x] 1609
         - [x] 1610

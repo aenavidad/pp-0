@@ -1,7 +1,7 @@
 {
   "yr": "1604",
   "tally": null,
-  "tally_n": null,
+  "tally_n": "plus naos fortified in c5913",
   "incidents": [
     {
       "conf": null,
@@ -12,7 +12,7 @@
       "upd": "03-07",
       "locn": "Sto Tomas",
       "desc": "Port discovered or est",
-      "note": "possy also in dup e181",
+      "note": "possy also in dup e181, c5883, c5880, c5792, c5587, c5916, c5913, c5879, c5878, c6147, c6295, c6300",
       "via": "e1835",
       "no": 0
     },
@@ -25,7 +25,7 @@
       "upd": null,
       "locn": "G Dulce",
       "desc": "Pirates raid",
-      "note": "incl watchtower destroyed",
+      "note": "incl torreon Sande destroyed",
       "via": "e1875",
       "no": 1
     }

@@ -255,7 +255,7 @@
 ## 12 feb 2025 onwards[^organised by sections to keep better track of items]
 ### for pp
 - [x] start `pp.tex`[^structure copied from latest `tex` file ie in `historical-series-re-Belize/work/oct-23/`]
-- [ ] continue pp
+- [ ] continue pp[^input variables for dates/info relying on `incidents` data, or estimate them for draft]
 
 ### recoding cartas
 - [x] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`
@@ -336,7 +336,7 @@
             - [x] for 1680s
             - [x] for 1690s
             - [x] for 1700
-    - [ ] published lit cited in events to get cleaner incidents
+    - [x] ~~published lit cited in events to get cleaner incidents~~[^rely on text in events files, or do later]
     - [ ] cartas to ensure all incidents extracted and to get cleaner incidents[^did not input vars `possible` acts eg sending arms]
         - [x] for 1601
         - [x] for 1602
@@ -360,8 +360,8 @@
         - [x] 1640s
         - [x] 1650s
         - [x] 1660s
-        - [ ] the rest
-- [ ] make sure acts in `incidents` are exactly ones to tally
+        - [x] the rest[^only had some 1680s cartas]
+- [x] ~~make sure acts in `incidents` are exactly ones to tally~~[^do after draft]
 
 ## prior log
 ### any cartas

@@ -31,14 +31,14 @@
     },
     {
       "conf": null,
-      "conf_n": "missg prim sources",
+      "conf_n": "possy misdated",
       "pir": true,
       "pir_n": null,
-      "lbd": null,
-      "upd": null,
+      "lbd": "07-20",
+      "upd": "07-20",
       "locn": "Truxillo",
-      "desc": "Pirates raid, and Sp defend",
-      "note": null,
+      "desc": "Eng pirates raid, and Sp defend",
+      "note": "also in main c290",
       "via": "e992",
       "no": 3
     },
@@ -66,7 +66,7 @@
       "upd": "03-31",
       "locn": "Truxillo",
       "desc": "Men and arms arrive to defend",
-      "note": null,
+      "note": "also possy in c290 (by Justiniano)",
       "via": "e1875",
       "no": 1
     }

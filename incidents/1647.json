@@ -1,18 +1,18 @@
 {
   "yr": "1647",
   "tally": null,
-  "tally_n": null,
+  "tally_n": "plus def act(s) in c322, 317, c312, c307",
   "incidents": [
     {
       "conf": null,
-      "conf_n": "missg prim - possy compound",
+      "conf_n": "possy earlier .lbd and later .upd",
       "pir": null,
       "pir_n": null,
       "lbd": "01-01",
       "upd": "04-30",
       "locn": "Bay Isl",
       "desc": "Pirates cruise",
-      "note": "in Rattan and Utila",
+      "note": "in Rattan and Utila - also in c322 (for Rattan), c317, c312 (for Rattan, plus raid)",
       "via": "e994",
       "no": 0
     }

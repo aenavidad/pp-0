@@ -1,7 +1,7 @@
 {
   "yr": "1642",
   "tally": null,
-  "tally_n": "also see c272, c275 for vars incidents here, and c38 for no 0",
+  "tally_n": "also see c272, c275, c983 for vars incidents here",
   "incidents": [
     {
       "conf": null,
@@ -12,7 +12,7 @@
       "upd": "06-30",
       "locn": "Rattan",
       "desc": "Claiborne settlers or pirates and natives chased off",
-      "note": "also in e389 - sort of in e28 (for natives on '< Feb 1644') - also in e34 for Bay Isl",
+      "note": "also in e389, main c38 - sort of in e28 (for natives on '< Feb 1644') - also in e34 for Bay Isl",
       "via": "e351",
       "no": 0
     },
@@ -77,7 +77,7 @@
       "upd": "11-22",
       "locn": "Bacalar",
       "desc": "Mulato raids",
-      "note": null,
+      "note": "also in main c4247",
       "via": "e36",
       "no": 5
     },

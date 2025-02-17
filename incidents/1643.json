@@ -1,7 +1,7 @@
 {
   "yr": "1643",
   "tally": null,
-  "tally_n": "plus late 642-early 643 incidents in c275 - possy also in c40 - see c280, c282 for incidents here",
+  "tally_n": "plus late 642-early 643 incidents in c275 - possy also in c40 - see c280, c282, c984 for vars incidents here",
   "incidents": [
     {
       "conf": true,
@@ -44,14 +44,14 @@
     },
     {
       "conf": null,
-      "conf_n": "missg prim sources",
+      "conf_n": "possy misdated",
       "pir": false,
       "pir_n": null,
       "lbd": null,
       "upd": null,
       "locn": "Guanaxa",
       "desc": "Sp expel pirates or natives",
-      "note": null,
+      "note": "also in c322 (not solidly dated, for Rattan and Guanaxa) and possy c312, c302",
       "via": "e38",
       "no": 3
     }

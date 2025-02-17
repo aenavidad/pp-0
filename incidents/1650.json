@@ -4,15 +4,15 @@
   "tally_n": null,
   "incidents": [
     {
-      "conf": true,
-      "conf_n": null,
+      "conf": null,
+      "conf_n": "pirate cruise/camp may count as separate act",
       "pir": false,
       "pir_n": null,
       "lbd": "07-15",
       "upd": "07-31",
       "locn": "Rattan",
       "desc": "Villalva tries to chase off Eng settlers, but fails",
-      "note": null,
+      "note": "also in c42",
       "via": "e389",
       "no": 0
     },

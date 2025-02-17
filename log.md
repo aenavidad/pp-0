@@ -358,7 +358,8 @@
         - [x] 1620s
         - [x] 1630s
         - [ ] 1640s
-        - [ ] 1650s
+        - [x] 1650s
+        - [ ] 1660s
 - [ ] make sure acts in `incidents` are exactly ones to tally
 
 ## prior log

@@ -1,0 +1,20 @@
+{
+  "id": "s303",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1498",
+  "upd": "2000",
+  "size": 14,
+  "size_unit": "series",
+  "title": "House of Lords: Journal Office: Main Papers",
+  "repository": "Parliamentary Archives",
+  "city": "London",
+  "country": "UK",
+  "catalogue": "http://discovery.nationalarchives.gov.uk/browse/r/h/3eeacff7-c324-4de1-88db-3550038feb19",
+  "versions": [],
+  "note": "See ARCHON: https://discovery.nationalarchives.gov.uk/details/a/A13531051 / Eg HL/PO/JO/10/1/314: https://discovery.nationalarchives.gov.uk/details/r/e54816ee-057e-4041-a46c-9026b9269e39 / Eg HL/PO/JO/10/7/256: https://discovery.nationalarchives.gov.uk/details/r/7bfab8da-351e-4321-a088-be6c1cc693ea / Eg HL/PO/PU/1/1766/7G3n175: https://discovery.nationalarchives.gov.uk/details/r/34ef5b9e-870d-4f63-b4d6-a7808fe6b720 / Possibly eg HL/PO/PU/1/1790/30G3n91: https://discovery.nationalarchives.gov.uk/details/r/d1e17ce3-3e82-42fc-b2fc-e567746bbb8b",
+  "url": null,
+  "via": "v-1.4"
+}

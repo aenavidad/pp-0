@@ -1,0 +1,20 @@
+{
+  "id": "s47",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "CONTRATACION,zzz",
+  "old_cites": null,
+  "lbd": "1492",
+  "upd": "1795",
+  "size": 6337,
+  "size_unit": "legajos",
+  "title": "Casa de la Contratación",
+  "repository": "Archivo General de Indias",
+  "city": "Seville",
+  "country": "Spain",
+  "catalogue": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1859528?nm",
+  "versions": [],
+  "note": "See Censo-Guía: http://censoarchivos.mcu.es/CensoGuia/archivodetail.htm?id=10",
+  "url": null,
+  "via": "v-1.4"
+}

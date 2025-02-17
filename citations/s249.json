@@ -1,0 +1,20 @@
+{
+  "id": "s249",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "NMM MLN/nn/nn",
+  "old_cites": "MLN/nn / NMM zzz",
+  "lbd": null,
+  "upd": null,
+  "size": null,
+  "size_unit": null,
+  "title": null,
+  "repository": "National Maritime Museum",
+  "city": "Greenwich",
+  "country": "UK",
+  "catalogue": "https://www.rmg.co.uk/collections/caird-library",
+  "versions": [],
+  "note": "Esp Miln Papers = MLN/126, Ship surgeon's reports fm NA & WI Station = MLN/153 /v Rushton 89 / See ARCHON: https://discovery.nationalarchives.gov.uk/details/a/A13530841",
+  "url": null,
+  "via": "v-1.4"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "s71",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "AGN R ced zzz",
+  "old_cites": "AGN Mex, Reales cédulas, zzz",
+  "lbd": "1520",
+  "upd": "1820",
+  "size": 447,
+  "size_unit": "vols",
+  "title": "I Documentación de las instituciones coloniales, 100 Reales Cédulas",
+  "repository": "Archivo General de la Nación",
+  "city": "Mexico",
+  "country": "Mexico",
+  "catalogue": null,
+  "versions": [],
+  "note": "See *Archivo General de la Nación, México : guía general* [Mexico, Archivo General de la Nación : Secretaria de Gobernación, 1990] ISBN = 9688055727 Partial digitised copy: https://archivos.gob.mx/GuiaGeneral/GuiaGeneral.html",
+  "url": null,
+  "via": "v-1.4"
+}

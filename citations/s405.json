@@ -1,0 +1,20 @@
+{
+  "id": "s405",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "Westminster nn",
+  "old_cites": null,
+  "lbd": "1066",
+  "upd": "1900",
+  "size": null,
+  "size_unit": null,
+  "title": "Muniments of Westminster Abbey",
+  "repository": "Westminster Abbey",
+  "city": "London",
+  "country": "UK",
+  "catalogue": "https://www.westminster-abbey.org/about-the-abbey/library-research/muniment-collection",
+  "versions": [],
+  "note": "Some volumes or items possibly deposited in TNA, Kew, UK / See ARCHON: https://discovery.nationalarchives.gov.uk/details/a/A13531533",
+  "url": null,
+  "via": "v-1.4"
+}

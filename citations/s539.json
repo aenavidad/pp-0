@@ -1,0 +1,20 @@
+{
+  "id": "s539",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1653",
+  "upd": "1998",
+  "size": 22,
+  "size_unit": "boxes",
+  "title": "West Indies Collection",
+  "repository": "University of Bristol",
+  "city": "Bristol",
+  "country": "UK",
+  "catalogue": "https://archiveshub.jisc.ac.uk/data/gb3-dm41 / https://archives.bristol.ac.uk/Record.aspx?src=CalmView.Catalog&id=DM41&pos=1",
+  "versions": [],
+  "note": "Not in ARCHON",
+  "url": null,
+  "via": "v-1.4"
+}

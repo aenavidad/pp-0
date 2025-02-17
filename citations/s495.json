@@ -1,0 +1,20 @@
+{
+  "id": "s495",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1787",
+  "upd": "1790",
+  "size": 2,
+  "size_unit": "items",
+  "title": "Unbound English Despard, Edward Marcus",
+  "repository": "Morgan Library & Museum",
+  "city": "New York",
+  "country": "USA",
+  "catalogue": "http://corsair.themorgan.org/vwebv/holdingsInfo?bibId=107963 / http://corsair.themorgan.org/vwebv/holdingsInfo?bibId=108047",
+  "versions": [],
+  "note": "Refs MA 22696, MA 22697",
+  "url": null,
+  "via": "v-1.4"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "s217",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "Mus Nav Navarrete nn",
+  "old_cites": "Mus Nav, Col Nav, nn",
+  "lbd": "1492",
+  "upd": "1773",
+  "size": 32,
+  "size_unit": "vols",
+  "title": "Colección Navarrete",
+  "repository": "Museo Naval",
+  "city": "Madrid",
+  "country": "Spain",
+  "catalogue": null,
+  "versions": [],
+  "note": "Online catalogue or finding aids ie PARES-equivalent not located, though see https://patrimoniocultural.defensa.gob.es/es/centros/archivo-museo-naval/colecciones / Some volumes or items possibly deposited in Archivo General de la Marina 'Álvaro de Bazán,' Ciudad Real, Spain / See Censo-Guía: http://censoarchivos.mcu.es/CensoGuia/archivodetail.htm?id=49308 / See work by D. Higueras Rodriguez Link: https://armada.defensa.gob.es/archivo/mardigitalrevistas/cuadernosihcn/24cuaderno/04cap.pdf / See Martín Fernández de Navarrete & V. Vicente Vela, *Indice de la colección de documentos de Fernández de Navarrete que posee el Musel Naval* [Madrid, Instituto Histórico de Marina, 1946] OCLC = http://www.worldcat.org/oclc/7567247",
+  "url": null,
+  "via": "v-1.4"
+}

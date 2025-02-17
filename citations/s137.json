@@ -1,0 +1,20 @@
+{
+  "id": "s137",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1201",
+  "upd": "1955",
+  "size": 129,
+  "size_unit": "boxes",
+  "title": "Wilmot-Horton of Osmaston and Catton",
+  "repository": "Derbyshire Record Office",
+  "city": "Matlock",
+  "country": "UK",
+  "catalogue": "https://calmview.derbyshire.gov.uk/calmview/Record.aspx?src=CalmView.Catalog&id=D3155 / http://discovery.nationalarchives.gov.uk/details/r/cfe1d343-4149-4a53-b4b9-fa8a3dd173ba",
+  "versions": [],
+  "note": "See ARCHON: https://discovery.nationalarchives.gov.uk/details/a/A13530179 / Eg D3155/C6184: https://discovery.nationalarchives.gov.uk/details/r/dbc1c359-3dd7-483f-98f9-b743ccf98995 / Eg D3155/C6056: https://discovery.nationalarchives.gov.uk/details/r/31fbf2cd-8afa-4926-a7ab-7e18dbc1a1ba",
+  "url": null,
+  "via": "v-1.4"
+}

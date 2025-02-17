@@ -1,0 +1,20 @@
+{
+  "id": "s49",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "CUBA,zzz",
+  "old_cites": null,
+  "lbd": "1712",
+  "upd": "1872",
+  "size": 2971,
+  "size_unit": "legajos",
+  "title": "Papeles de Cuba",
+  "repository": "Archivo General de Indias",
+  "city": "Seville",
+  "country": "Spain",
+  "catalogue": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1859812?nm",
+  "versions": [],
+  "note": null,
+  "url": null,
+  "via": "v-1.4"
+}

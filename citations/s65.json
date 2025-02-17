@@ -1,0 +1,20 @@
+{
+  "id": "s65",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "PATRONATO,zzz",
+  "old_cites": null,
+  "lbd": "1480",
+  "upd": "1801",
+  "size": 307,
+  "size_unit": "legajos",
+  "title": "Patronato Real",
+  "repository": "Archivo General de Indias",
+  "city": "Seville",
+  "country": "Spain",
+  "catalogue": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1916099?nm",
+  "versions": [],
+  "note": null,
+  "url": null,
+  "via": "v-1.4"
+}

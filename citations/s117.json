@@ -1,0 +1,20 @@
+{
+  "id": "s117",
+  "prim": true,
+  "type": "print",
+  "cite": "BL Thomason E. nn",
+  "old_cites": "BL Thomason Tracts E. nn",
+  "lbd": "1640",
+  "upd": "1661",
+  "size": 2008,
+  "size_unit": "vols",
+  "title": "Thomason Tracts",
+  "repository": "British Library",
+  "city": "London",
+  "country": "UK",
+  "catalogue": "https://www.bl.uk/collection-guides/thomason-tracts",
+  "versions": [],
+  "note": null,
+  "url": null,
+  "via": "v-1.4"
+}

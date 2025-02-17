@@ -1,0 +1,20 @@
+{
+  "id": "s565",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1697",
+  "upd": "1857",
+  "size": 8,
+  "size_unit": "boxes",
+  "title": "Harewood West Indian Archive",
+  "repository": "University of York",
+  "city": "York",
+  "country": "UK",
+  "catalogue": "https://archiveshub.jisc.ac.uk/data/gb193-lascelles / https://borthcat.york.ac.uk/index.php/lascelles",
+  "versions": [],
+  "note": "See ARCHON: https://discovery.nationalarchives.gov.uk/details/a/A13531293",
+  "url": null,
+  "via": "v-1.4"
+}

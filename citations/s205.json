@@ -1,0 +1,20 @@
+{
+  "id": "s205",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1809",
+  "upd": "1888",
+  "size": 2500,
+  "size_unit": "items",
+  "title": "Ephraim George Squier Papers",
+  "repository": "Library of Congress",
+  "city": "Washington",
+  "country": "USA",
+  "catalogue": "https://hdl.loc.gov/loc.mss/eadmss.ms000008",
+  "versions": [],
+  "note": "Possibly see Squier papers in other repositories eg https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/collection/data/1081048351",
+  "url": null,
+  "via": "v-1.4"
+}

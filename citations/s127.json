@@ -1,0 +1,20 @@
+{
+  "id": "s127",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "300",
+  "upd": "2001",
+  "size": 4,
+  "size_unit": "series",
+  "title": "[Foreign] Bible Society's Library",
+  "repository": "Cambridge University",
+  "city": "Cambridge",
+  "country": "UK",
+  "catalogue": "https://www.lib.cam.ac.uk/collections/departments/bible-societys-library / https://archivesearch.lib.cam.ac.uk/search?q[]=GBR%2F0374&op[]=&field[]=keyword&from_year[]=&to_year[]=&filter_fields[]=primary_type&filter_values[]=resource",
+  "versions": [],
+  "note": "Ref GBR/0374 / Constituted of four collections or series = Photographs, Archives indexes, Archives, Manuscripts",
+  "url": null,
+  "via": "v-1.4"
+}

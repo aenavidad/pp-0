@@ -1,0 +1,20 @@
+{
+  "id": "s99",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "Bib France MS nn",
+  "old_cites": "Bib N France MS nn",
+  "lbd": null,
+  "upd": null,
+  "size": 77,
+  "size_unit": "mss",
+  "title": "Département des Manuscrits Amérique",
+  "repository": "Bibliothèque nationale de France",
+  "city": "Paris",
+  "country": "France",
+  "catalogue": "https://archivesetmanuscrits.bnf.fr/pageCollections.html?col=1",
+  "versions": [],
+  "note": "See Henri Omont, *Revue des Bibliothèques* xxx, 'Catalogue des manuscrits américains de la Bibliothèque nationale' [1925], 90–110 Digitised copy: https://gallica.bnf.fr/ark:/12148/bpt6k255704n",
+  "url": null,
+  "via": "v-1.4"
+}

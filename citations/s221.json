@@ -1,0 +1,20 @@
+{
+  "id": "s221",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "Staten 1.01.02, nn",
+  "old_cites": "States-General, 1.01.02, nn",
+  "lbd": "1431",
+  "upd": "1796",
+  "size": 17734,
+  "size_unit": "items",
+  "title": "Inventaris van het archief van de Staten-Generaal, (1431) 1576-1796",
+  "repository": "Nationaal Archief",
+  "city": "Hague",
+  "country": "Netherlands",
+  "catalogue": "https://www.nationaalarchief.nl/onderzoeken/archief/1.01.02",
+  "versions": [],
+  "note": null,
+  "url": null,
+  "via": "v-1.4"
+}

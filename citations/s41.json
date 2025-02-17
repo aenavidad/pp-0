@@ -1,0 +1,20 @@
+{
+  "id": "s41",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "ANOM zzz",
+  "old_cites": "ANOM, zzz",
+  "lbd": "1492",
+  "upd": "1909",
+  "size": 8,
+  "size_unit": "series",
+  "title": "FONDS MINISTÉRIELS, PREMIER EMPIRE COLONIAL (XVIIe - début XIXe siècle)",
+  "repository": "Archives Nationales d'Outre-Mer",
+  "city": "Aix-en-Provence",
+  "country": "France",
+  "catalogue": "http://anom.archivesnationales.culture.gouv.fr/ark:/61561/wz818cxx",
+  "versions": [],
+  "note": null,
+  "url": null,
+  "via": "v-1.4"
+}

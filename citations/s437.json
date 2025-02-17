@@ -1,0 +1,20 @@
+{
+  "id": "s437",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1288",
+  "upd": "1952",
+  "size": 69,
+  "size_unit": "feet",
+  "title": "Penrhyn Castle Papers",
+  "repository": "Bangor University",
+  "city": "Bangor",
+  "country": "UK",
+  "catalogue": "https://archiveshub.jisc.ac.uk/data/gb222-penr / http://calmview.bangor.ac.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=PENRH",
+  "versions": [],
+  "note": "See ARCHON: https://discovery.nationalarchives.gov.uk/details/a/A13531830",
+  "url": null,
+  "via": "v-1.4"
+}

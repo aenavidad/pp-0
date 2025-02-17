@@ -1,0 +1,20 @@
+{
+  "id": "s337",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "MMS zzz",
+  "old_cites": "WMMS zzz / MMSL zzz",
+  "lbd": "1691",
+  "upd": "2018",
+  "size": 1441,
+  "size_unit": "boxes",
+  "title": "(Wesleyan) Methodist Missionary Society Archive",
+  "repository": "SOAS University of London",
+  "city": "London",
+  "country": "UK",
+  "catalogue": "http://archives.soas.ac.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=MMS / https://archiveshub.jisc.ac.uk/data/gb102-mms",
+  "versions": [],
+  "note": "See ARCHON: https://discovery.nationalarchives.gov.uk/details/a/A13532306 / Inc MMSL AM-CR1 = Kenneth E. Towers, Methodism in the Tropical West SOAS: https://library.soas.ac.uk/Record/502041",
+  "url": null,
+  "via": "v-1.4"
+}

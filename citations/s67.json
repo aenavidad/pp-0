@@ -1,0 +1,20 @@
+{
+  "id": "s67",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "SANTA_FE,zzz",
+  "old_cites": null,
+  "lbd": "1527",
+  "upd": "1831",
+  "size": 1263,
+  "size_unit": "legajos",
+  "title": "Audiencia de Santa Fe",
+  "repository": "Archivo General de Indias",
+  "city": "Seville",
+  "country": "Spain",
+  "catalogue": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1861948?nm",
+  "versions": [],
+  "note": null,
+  "url": null,
+  "via": "v-1.4"
+}

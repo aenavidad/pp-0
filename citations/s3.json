@@ -1,0 +1,20 @@
+{
+  "id": "s3",
+  "prim": true,
+  "type": "print",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1690",
+  "upd": "1922",
+  "size": 18000,
+  "size_unit": "titles",
+  "title": "Newspapers & Periodicals",
+  "repository": "American Antiquarian Society",
+  "city": "Worcester",
+  "country": "USA",
+  "catalogue": "https://www.americanantiquarian.org/newspapers-periodicals",
+  "versions": [],
+  "note": "Possibly see K. E. Ingram, *Manuscripts Relating to Commonwealth Caribbean Countries in United States and Canadian Repositories* [St. Lawrence, Caribbean Universities Press, 1975]",
+  "url": null,
+  "via": "v-1.4"
+}

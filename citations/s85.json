@@ -1,0 +1,20 @@
+{
+  "id": "s85",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1479",
+  "upd": "2021",
+  "size": 48000,
+  "size_unit": "feet",
+  "title": "Special Collections, Baker Library",
+  "repository": "Harvard University",
+  "city": "Cambridge",
+  "country": "USA",
+  "catalogue": "https://hollisarchives.lib.harvard.edu/repositories/11",
+  "versions": [],
+  "note": "See Robert Woodberry Lovett & Eleanor C. Bichop, *List of Business Manuscripts in Baker Library* [Boston, Baker Library, 1969] 3 ed OCLC = http://www.worldcat.org/oclc/166099 / Possibly eg AG: https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/fa.php?id=397&fileloc=397_ss3amazonawscomharvardeadbak00010xml / Possibly eg AG: https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/fa.php?id=397&fileloc=397_ss3amazonawscomharvardeadbak00301xml / Eg AG: https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/collection/data/959658127 / Eg AG: https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/fa.php?id=397&fileloc=397_ss3amazonawscomharvardeadbak00160xml / Eg AG: https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/fa.php?id=397&fileloc=397_ss3amazonawscomharvardeadbak00660xml / Eg AG: https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/fa.php?id=397&fileloc=397_ss3amazonawscomharvardeadbak00016xml / Eg AG: https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/fa.php?id=397&fileloc=397_ss3amazonawscomharvardeadbak00564xml / Eg HOLLIS: https://hollisarchives.lib.harvard.edu/repositories/11/resources/590",
+  "url": null,
+  "via": "v-1.4"
+}

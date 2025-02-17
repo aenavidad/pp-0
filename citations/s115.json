@@ -1,0 +1,20 @@
+{
+  "id": "s115",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "Add MS nn",
+  "old_cites": null,
+  "lbd": "1",
+  "upd": "2019",
+  "size": 157097,
+  "size_unit": "mss",
+  "title": "Additional Manuscripts",
+  "repository": "British Library",
+  "city": "London",
+  "country": "UK",
+  "catalogue": "https://www.bl.uk/subjects/manuscripts-and-archives",
+  "versions": [],
+  "note": "PERIOD = 1 set arbitrarily / couple Add MS dated BCE / See BL Caribbean guide: https://www.bl.uk/collection-guides/caribbean-collections / See M. A. E. Nickson, J. Conway, *The British Library : guide to the catalogues and indexes of the Department of Manuscripts* [London, British Library, 1998] 3 ed OCLC = http://www.worldcat.org/oclc/906817815 / See *Index of Manuscripts in the British Library* [Cambridge, Chadwyck-Healey, 1984–xxx] 10 vols OCLC = http://www.worldcat.org/oclc/11027316 / Eg Add MS 45112: https://discovery.nationalarchives.gov.uk/details/r/N13730820 / Possibly see Royal Commission on Historical Manuscripts, *Guides to sources for British history* [London, HMSO, 1982–xxx] 12 vols, vol 5 = *Private papers of British colonial governors 1782–1900*, OCLC = xxx",
+  "url": null,
+  "via": "v-1.4"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "s1862",
+  "cite": null,
+  "old_cites": "Ronciere",
+  "iss_vol_start": 1,
+  "iss_vol_end": 6,
+  "type": "print",
+  "prim": false,
+  "lbd": "1899",
+  "upd": "1932",
+  "title": "Histoire de la marine française",
+  "description": "vol 1 to 6 of 6 / 1st to 2nd ed",
+  "imprint": null,
+  "catalogue0": "http://id.lib.harvard.edu/alma/990032697730203941/catalog",
+  "catalogue1": "http://id.lib.harvard.edu/alma/990015222610203941/catalog",
+  "catalogue2": "https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001103669599",
+  "versions": [],
+  "note": "I. Les Origines. - 1899 ; II. La Guerre de Cent ans. Révolution maritime. - 1900 ; III. Les Guerres d'Italie. Liberté des mers. - 1906 ; IV. En quête d'un empire colonial. Richelieu. - 1910 ; V. La Guerre de Trente ans. Colbert. - 1920 ; VI. Le Crépuscule du grand règne. L'Apogée de la guerre de course. - 1932 / BnF = http://ark.bnf.fr/ark:/12148/cb340657338",
+  "via": "harv"
+}

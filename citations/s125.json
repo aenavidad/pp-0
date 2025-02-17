@@ -1,0 +1,20 @@
+{
+  "id": "s125",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "RCS zzz",
+  "old_cites": "RCMS nn",
+  "lbd": null,
+  "upd": null,
+  "size": null,
+  "size_unit": null,
+  "title": "Royal Commonwealth Society",
+  "repository": "Cambridge University",
+  "city": "Cambridge",
+  "country": "UK",
+  "catalogue": "https://www.lib.cam.ac.uk/rcs",
+  "versions": [],
+  "note": "Eg RCS 270: https://discovery.nationalarchives.gov.uk/details/r/N13828556",
+  "url": null,
+  "via": "v-1.4"
+}

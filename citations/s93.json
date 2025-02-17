@@ -1,0 +1,20 @@
+{
+  "id": "s93",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1493",
+  "upd": "1937",
+  "size": 159,
+  "size_unit": "boxes",
+  "title": "Archivo Franciscano",
+  "repository": "Biblioteca Nacional de México",
+  "city": "Mexico",
+  "country": "Mexico",
+  "catalogue": "https://bnm.iib.unam.mx/index.php/biblioteca-nacional-de-mexico/colecciones/fondo-reservado/archivos-y-manuscritos",
+  "versions": [],
+  "note": "See Censo-Guía: http://censoarchivos.mcu.es/CensoGuia/archivodetail.htm?id=54776 / See Ignacio del Río, *Guía del Archivo Franciscano de la Biblioteca Nacional de México* [Mexico, Universidad Nacional Autónoma de México : Instituto de Investigaciones Bibliográficas, 1975] OCLC = http://www.worldcat.org/oclc/731527072",
+  "url": null,
+  "via": "v-1.4"
+}

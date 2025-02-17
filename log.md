@@ -317,7 +317,7 @@
 - [x] get a good incl/excl test for def incidents, or just incl them all with `pir=false`[^keep `incidents/readme.md` conf test (looking for unique, well-sourced, non-compound piracy or defence-against-piracy incidents in Hond Bay in relevant 17th cent year), so for sure exclude defence against non-pirates, excl state of def/def proposals/def orders/genl def stuff, and possibly excl routine/minor def acts (receiving/restocking arms, receiving men)]
     - [x] keep strict `conf` test from `incidents/readme.md`
     - [x] add `possible` array key to all incidents to store acts which may be later discounted
-- [ ] screen incidents against
+- [x] screen incidents against
     - [x] events to ensure all events cited and all incidents extracted
         - [x] all cited
             - [x] ~~main hits[^88 `cod!=false` hits]~~
@@ -337,7 +337,7 @@
             - [x] for 1690s
             - [x] for 1700
     - [x] ~~published lit cited in events to get cleaner incidents~~[^rely on text in events files, or do later]
-    - [ ] cartas to ensure all incidents extracted and to get cleaner incidents[^did not input vars `possible` acts eg sending arms]
+    - [x] cartas to ensure all incidents extracted and to get cleaner incidents[^did not input vars `possible` acts eg sending arms]
         - [x] for 1601
         - [x] for 1602
         - [x] 1603
@@ -362,6 +362,24 @@
         - [x] 1660s
         - [x] the rest[^only had some 1680s cartas]
 - [x] ~~make sure acts in `incidents` are exactly ones to tally~~[^do after draft]
+- [ ] comb through incidents again to check:
+    - [ ] all def acts are `pir=false`
+    - [ ] no def act has embedded pir acts[^but pir ones allowed to have embedded def ones]
+    - [ ] pir acts are bundled consistently
+        - [ ] geographically[^Bay Isl vs Rattan, Amatique vs G Dulce, Omoa vs Pto Caballos, etc]
+        - [ ] by type[^cruise during raid vs sans raid, etc]
+### cleanup citations[^for easier lit review/data]
+- [x] assign ids[^keep `.v-1.4_id`, keep *lower* `.v-1.4_id` in case record has > 1 of same odd/even type, plus assign odd ids > 583 for deposited series or collections, and even > 1628 else - assigned 7 odds s585 to s597, and 342 evens s1630 to s2312]
+- [x] get all records into `/citations`
+- [ ] get urls, old short cites into single arrays
+- [x] add .versions array for versions
+- [ ] delete null values
+- [ ] fix cite values for `v-1.4`[^all to `.old_cites`]
+- [ ] delete/merge duplicates[^keep harv values]
+- [ ] merge separate items which are versions of one another
+- [ ] write readme
+- [ ] remove `citations.json`
+
 
 ## prior log
 ### any cartas

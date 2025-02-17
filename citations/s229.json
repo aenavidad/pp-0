@@ -1,0 +1,20 @@
+{
+  "id": "s229",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "CO nn/nn",
+  "old_cites": "BB nn / Col Rep nn",
+  "lbd": "1570",
+  "upd": "1990",
+  "size": 1073,
+  "size_unit": "series",
+  "title": "Records of the Colonial Office, Commonwealth and Foreign and Commonwealth Offices, Empire Marketing Board, and related bodies",
+  "repository": "National Archives",
+  "city": "Kew",
+  "country": "UK",
+  "catalogue": "https://discovery.nationalarchives.gov.uk/details/r/C57",
+  "versions": [],
+  "note": "Hon Blue Books in CO 128 cited BB nn / Colonial Reports in CO 1071/38–42 cited Col Rep nn",
+  "url": null,
+  "via": "v-1.4"
+}

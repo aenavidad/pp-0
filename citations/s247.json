@@ -1,0 +1,20 @@
+{
+  "id": "s247",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "Lib Jam MS nn",
+  "old_cites": null,
+  "lbd": "1655",
+  "upd": "2017",
+  "size": 2521,
+  "size_unit": "mss",
+  "title": "Manuscript and Archive Collection",
+  "repository": "National Library of Jamaica",
+  "city": "Kingston",
+  "country": "Jamaica",
+  "catalogue": "https://nlj.gov.jm/manuscripts-2/",
+  "versions": [],
+  "note": "See ARCHON: https://discovery.nationalarchives.gov.uk/details/a/A13532522 / Possibly see *The Catalog of the West India Reference Library* [Millwood, Kraus International Publications, 1980–xxx] 6 vols OCLC = http://www.worldcat.org/oclc/866663688",
+  "url": null,
+  "via": "v-1.4"
+}

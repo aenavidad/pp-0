@@ -1,0 +1,20 @@
+{
+  "id": "s439",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1624",
+  "upd": "1940",
+  "size": 540,
+  "size_unit": "items",
+  "title": "Penrhyn B.R.A.",
+  "repository": "Bangor University",
+  "city": "Bangor",
+  "country": "UK",
+  "catalogue": "https://archiveshub.jisc.ac.uk/data/gb222-pbra / http://calmview.bangor.ac.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=PBRA",
+  "versions": [],
+  "note": null,
+  "url": null,
+  "via": "v-1.4"
+}

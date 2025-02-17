@@ -1,0 +1,20 @@
+{
+  "id": "s423",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "SANTO_DOMINGO,zzz",
+  "old_cites": null,
+  "lbd": "1518",
+  "upd": "1852",
+  "size": 2720,
+  "size_unit": "legajos",
+  "title": "Audiencia de Santo Domingo",
+  "repository": "Archivo General de Indias",
+  "city": "Seville",
+  "country": "Spain",
+  "catalogue": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1859548?nm",
+  "versions": [],
+  "note": null,
+  "url": null,
+  "via": "v-1.4"
+}

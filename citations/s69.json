@@ -1,0 +1,20 @@
+{
+  "id": "s69",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "AGN Hist zzz",
+  "old_cites": "AGN Mex, Historia, zzz",
+  "lbd": "1616",
+  "upd": "1880",
+  "size": 597,
+  "size_unit": "vols",
+  "title": "V Colecciones y documentos, 257 Historia",
+  "repository": "Archivo General de la Nación",
+  "city": "Mexico",
+  "country": "Mexico",
+  "catalogue": null,
+  "versions": [],
+  "note": "See *Archivo General de la Nación, México : guía general* [Mexico, Archivo General de la Nación : Secretaria de Gobernación, 1990] ISBN = 9688055727 Partial digitised copy: https://archivos.gob.mx/GuiaGeneral/GuiaGeneral.html / See Censo-Guía: http://censoarchivos.mcu.es/CensoGuia/archivodetail.htm?id=48128",
+  "url": null,
+  "via": "v-1.4"
+}

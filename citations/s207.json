@@ -1,0 +1,20 @@
+{
+  "id": "s207",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "LC Vernon-Wager zzz",
+  "old_cites": "LC, Vernon-Wager Papers, zzz",
+  "lbd": "1654",
+  "upd": "1773",
+  "size": 2000,
+  "size_unit": "items",
+  "title": "Vernon-Wager Papers",
+  "repository": "Library of Congress",
+  "city": "Washington",
+  "country": "USA",
+  "catalogue": "https://lccn.loc.gov/mm79044040",
+  "versions": [],
+  "note": "See 1904 Guide Link: https://archive.org/details/listofvernonwage00usliuoft/page/110/mode/2up",
+  "url": null,
+  "via": "v-1.4"
+}

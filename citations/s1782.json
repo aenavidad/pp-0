@@ -1,0 +1,20 @@
+{
+  "id": "s1782",
+  "cite": null,
+  "old_cites": "Bry",
+  "iss_vol_start": 1,
+  "iss_vol_end": 13,
+  "type": "print",
+  "prim": true,
+  "lbd": "1590",
+  "upd": "1634",
+  "title": "Collectiones peregrinatiorum in Indiam orientalem et Indiam occidentalem",
+  "description": "vol 1 to 27 of 27 / 1st ed",
+  "imprint": null,
+  "catalogue0": "http://id.lib.harvard.edu/alma/990047556760203941/catalog",
+  "catalogue1": "https://bodmerlab.unige.ch/fr/constellations/de-bry",
+  "catalogue2": null,
+  "versions": [],
+  "note": "These volumes are divided into two series. The West Indies series (also called India occidentalis and Great Voyages, dealing with the exploration and colonisation of the Americas, numbers thirteen volumes [1-13] with two supplements [9+, 11+]. The East Indies series (also called India orientalis or Lesser Voyages), whose texts treat primarily Africa and Asia, spans twelve volumes [1-12] with two supplements [1+, 9+].",
+  "via": "harv"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "s33",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "PR zzz",
+  "old_cites": null,
+  "lbd": "1774",
+  "upd": "1849",
+  "size": 23,
+  "size_unit": "vols",
+  "title": "Private Records",
+  "repository": "Archives and Records Service",
+  "city": "Belmopan",
+  "country": "Belize",
+  "catalogue": null,
+  "versions": [],
+  "note": "Where PR 1 = typed copies of eight Record Books 1774–1818, bulk 1784–1793 /v Burdon 1 291, and so counted as 8 vols / nn = 1, E, H, M, N, O, XY, 2, 3, Y, Z, AA, BB, DD, EE, FF / Guide not found",
+  "url": null,
+  "via": "v-1.4"
+}

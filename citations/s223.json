@@ -1,0 +1,20 @@
+{
+  "id": "s223",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "ADM nn/nn",
+  "old_cites": null,
+  "lbd": "1205",
+  "upd": "1998",
+  "size": 363,
+  "size_unit": "series",
+  "title": "Records of the Admiralty, Naval Forces, Royal Marines, Coastguard, and related bodies",
+  "repository": "National Archives",
+  "city": "Kew",
+  "country": "UK",
+  "catalogue": "https://discovery.nationalarchives.gov.uk/details/r/C4",
+  "versions": [],
+  "note": "See TNA guide: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/american-and-west-indian-colonies-before-1782/ / TNA guide: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/colonies-dependencies-further-research/",
+  "url": null,
+  "via": "v-1.4"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "s101",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "Bib France MS nn",
+  "old_cites": "Bib N France MS nn",
+  "lbd": null,
+  "upd": null,
+  "size": 429,
+  "size_unit": "mss",
+  "title": "Département des Manuscrits Mexicain",
+  "repository": "Bibliothèque nationale de France",
+  "city": "Paris",
+  "country": "France",
+  "catalogue": "https://archivesetmanuscrits.bnf.fr/pageCollections.html?col=1",
+  "versions": [],
+  "note": "See Eugène Boban, *Documents pour servir à l'histoire du Mexique : catalogue raisonné de la collection de E.-Eugène Goupil (ancienne collection J.-M.-A. Aubin)* [Paris, Ernest Leroux, Éditeur, 1891–xxx] 3 vols Digitised copies: v 1 = https://gallica.bnf.fr/ark:/12148/bpt6k2557004 v 2 = https://gallica.bnf.fr/ark:/12148/bpt6k255701h v 3 = xxx / See Henri Omont, *Catalogue des manuscrits mexicains de la Bibliothèque nationale* [Paris, Librairie Émile Bouillon, Éditeur, 1899] Digitised copy: https://gallica.bnf.fr/ark:/12148/bpt6k2557051 / See Joaquín Galarza, *Codex mexicains : catalogue [de la] Bibliothèque nationale de Paris* [Paris, sn, 1974] Digitised copy: https://gallica.bnf.fr/ark:/12148/bpt6k255711v",
+  "url": null,
+  "via": "v-1.4"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "s589",
+  "cite": "AGN INQ",
+  "old_cites": "AGN INQ",
+  "iss_vol_start": 1,
+  "iss_vol_end": 1911,
+  "type": "manuscript",
+  "prim": true,
+  "lbd": "1522",
+  "upd": "1819",
+  "title": "I Instituciones Coloniales / 61 Inquisición",
+  "description": "1911 volúmenes",
+  "imprint": null,
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": "https://archivos.gob.mx/GuiaGeneral/001-Documentacion-de-las-instituciones-coloniales.html",
+  "versions": [],
+  "note": "Query in https://archivos.gob.mx/guiageneral/ yields Inquisición 1484-1842 [1522-1819] Fondo (nivel de descripción 2) of 1911 volúmenes (149.87 metros lineales)\n 4 Jan 2018 AGN Blog describes 1773 vols over 1522 to 1819 at https://www.gob.mx/agn/articulos/fondo-inquisicion-labor-de-preservacion-y-resguardo-del-agn",
+  "via": "harv"
+}

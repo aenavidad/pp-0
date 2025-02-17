@@ -1,0 +1,20 @@
+{
+  "id": "s151",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1750",
+  "upd": "1850",
+  "size": 10,
+  "size_unit": "feet",
+  "title": "Collection of Philadelphia merchants records",
+  "repository": "Hagley Museum and Library",
+  "city": "Wilmington",
+  "country": "USA",
+  "catalogue": "https://findingaids.hagley.org/repositories/3/resources/830",
+  "versions": [],
+  "note": "Possibly inc Masters & Markoe: https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/collection/data/122385157 / Possibly inc Dutilh & Wachsmuth: https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/collection/data/899065428, https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/collection/data/122555353 / Possibly inc AG: https://researchworks-oclc-org.proxygw.wrlc.org/archivegrid/collection/data/86119155",
+  "url": null,
+  "via": "v-1.4"
+}

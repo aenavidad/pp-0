@@ -1,0 +1,20 @@
+{
+  "id": "s245",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1780",
+  "upd": "1815",
+  "size": 1184,
+  "size_unit": "items",
+  "title": "Nugent Papers",
+  "repository": "National Army Museum",
+  "city": "London",
+  "country": "UK",
+  "catalogue": "http://discovery.nationalarchives.gov.uk/details/r/c9a48450-da31-492e-b151-6ca2342ba7a4",
+  "versions": [],
+  "note": "See ARCHON: https://discovery.nationalarchives.gov.uk/details/a/A13530228",
+  "url": null,
+  "via": "v-1.4"
+}

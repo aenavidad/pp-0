@@ -1,0 +1,20 @@
+{
+  "id": "s531",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1830",
+  "upd": "1837",
+  "size": 1,
+  "size_unit": "vols",
+  "title": "Documents used for compiling Sailing Directions",
+  "repository": "UK Hydrographic Office Archive",
+  "city": "Taunton",
+  "country": "UK",
+  "catalogue": "https://discovery.nationalarchives.gov.uk/details/r/adf606f2-68e3-45d6-bdc1-b3ef2f9558a6",
+  "versions": [],
+  "note": null,
+  "url": null,
+  "via": "v-1.4"
+}

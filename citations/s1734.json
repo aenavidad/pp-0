@@ -1,0 +1,20 @@
+{
+  "id": "s1734",
+  "cite": null,
+  "old_cites": null,
+  "iss_vol_start": 1,
+  "iss_vol_end": null,
+  "type": "serial",
+  "prim": null,
+  "lbd": "1670",
+  "upd": "1811",
+  "title": "Amsterdamse Courant",
+  "description": "issue 1 to [missg] of [missg]",
+  "imprint": null,
+  "catalogue0": "https://webggc.oclc.org/cbs/DB=2.37/XMLPRS=Y/PPN?PPN=431350108",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "See 'Londen den 3 Augusti' in no 32 for 9 Aug 1674 p 1 [https://resolver.kb.nl/resolve?urn=ddd:010899155:mpeg21:a0003]",
+  "via": "harv"
+}

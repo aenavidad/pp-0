@@ -1,0 +1,20 @@
+{
+  "id": "s459",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1822",
+  "upd": "1822",
+  "size": 1,
+  "size_unit": "items",
+  "title": "Release",
+  "repository": "East Sussex and Brighton and Hove Record Office",
+  "city": "Brighton",
+  "country": "UK",
+  "catalogue": "https://www.thekeep.info/collections/getrecord/GB179_BAT_3_10_2_1356 / https://discovery.nationalarchives.gov.uk/details/r/66fd7a07-b8eb-4592-903b-2a62b5ed6b63",
+  "versions": [],
+  "note": "See ARCHON: https://discovery.nationalarchives.gov.uk/details/a/A13531661",
+  "url": null,
+  "via": "v-1.4"
+}

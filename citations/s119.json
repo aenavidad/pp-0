@@ -1,0 +1,20 @@
+{
+  "id": "s119",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "Egerton MS nn",
+  "old_cites": null,
+  "lbd": "701",
+  "upd": "1999",
+  "size": 3942,
+  "size_unit": "mss",
+  "title": "Egerton Manuscripts",
+  "repository": "British Library",
+  "city": "London",
+  "country": "UK",
+  "catalogue": "https://www.bl.uk/subjects/manuscripts-and-archives",
+  "versions": [],
+  "note": "Possibly see John Payne Collier, *The Egerton papers : a collection of public and private documents, chiefly illustrative of the times of Elizabeth and James I, from the original manuscripts, the property of the Right Hon. Lord Francis Egerton* [London, Printed for the Camden Society by J. B. Nichols and Son, 1840] OCLC = http://www.worldcat.org/oclc/60729080 / *Index to the additional manuscripts, with those of the Egerton collection, preserved in the British Museum, and acquired in the years 1783-1835* [London, British Museum, 1849] OCLC = http://www.worldcat.org/oclc/923197904",
+  "url": null,
+  "via": "v-1.4"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "s59",
+  "prim": true,
+  "type": "manuscript",
+  "cite": "MEXICO,zzz",
+  "old_cites": null,
+  "lbd": "1519",
+  "upd": "1856",
+  "size": 3196,
+  "size_unit": "legajos",
+  "title": "Audiencia de México",
+  "repository": "Archivo General de Indias",
+  "city": "Seville",
+  "country": "Spain",
+  "catalogue": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1930212?nm",
+  "versions": [],
+  "note": null,
+  "url": null,
+  "via": "v-1.4"
+}

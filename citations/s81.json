@@ -1,0 +1,20 @@
+{
+  "id": "s81",
+  "prim": true,
+  "type": "manuscript",
+  "cite": null,
+  "old_cites": null,
+  "lbd": "1685",
+  "upd": "1824",
+  "size": 30,
+  "size_unit": "feet",
+  "title": "Fondo Colonial",
+  "repository": "Archivo General del Estado de Yucatán",
+  "city": "Merida",
+  "country": "Mexico",
+  "catalogue": "http://www.archivogeneral.yucatan.gob.mx/secciones/guia-del-archivo",
+  "versions": [],
+  "note": "Not in Censo-Guía / See Jorge Canto Alcocer, *Archivo General del Estado de Yucatán : guía general del archivo histórico* [Madrid, Fundación Histórica Tavera, 1999] OCLC = http://www.worldcat.org/oclc/50518924 Digitised copy: http://www.archivogeneral.yucatan.gob.mx/secciones/guia-del-archivo",
+  "url": null,
+  "via": "v-1.4"
+}

@@ -24,3 +24,23 @@
   "url": "http://search.proquest.com.ezp-prod1.hul.harvard.edu/dissertations-theses/pirates-wake-geography-piracy-as-geographers/docview/303961341/se-2?accountid=11311",
   "via": "v-1.4"
 }
+{
+  "id": "s270",
+  "cite": null,
+  "old_cites": "Galvin aa / Galvin",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "thesis",
+  "prim": false,
+  "lbd": "1991",
+  "upd": null,
+  "title": "The pirates' wake : a geography of piracy and pirates as geographers in Colonial Spanish America 1536-1718",
+  "description": null,
+  "imprint": "[missg]: Louisiana State University",
+  "catalogue0": "https://digitalcommons.lsu.edu/gradschool_disstheses/5233",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

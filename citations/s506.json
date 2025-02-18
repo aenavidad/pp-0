@@ -24,3 +24,23 @@
   "url": "Google v 2,3,4: http://nrs.harvard.edu/urn-3:HUL.FIG:003871492",
   "via": "v-1.4"
 }
+{
+  "id": "s506",
+  "cite": "Ancona",
+  "old_cites": "Ancona / Ancona 1878",
+  "iss_vol_start": 1,
+  "iss_vol_end": 5,
+  "type": "print",
+  "prim": null,
+  "lbd": "1878",
+  "upd": "1905",
+  "title": "Historia de Yucatan desde la època mas remota hasta nuestros dias",
+  "description": "vol 1 to 5 of 5 / 1st ed",
+  "imprint": "Mérida, Yucatán: Imprenta de M. Heredia Argüelles",
+  "catalogue0": "https://www.google.com/books/edition/Historia_de_Yucatán_desde_la_época_sic/FDcCAAAAYAAJ",
+  "catalogue1": "http://id.lib.harvard.edu/alma/990038714920203941/catalog",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

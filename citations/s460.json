@@ -24,3 +24,23 @@
   "url": "http://www.gutenberg.org/ebooks/19139",
   "via": "v-1.4"
 }
+{
+  "id": "s460",
+  "cite": "Haring",
+  "old_cites": "Haring",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": false,
+  "lbd": "1910",
+  "upd": null,
+  "title": "Buccaneers in the West Indies in the Seventeenth Century",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": null,
+  "catalogue0": "http://www.gutenberg.org/ebooks/19139",
+  "catalogue1": "http://id.lib.harvard.edu/alma/990014818400203941/catalog",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

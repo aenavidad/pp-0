@@ -24,3 +24,23 @@
   "url": "http://www.gutenberg.org/files/24882/24882-h/24882-h.htm",
   "via": "v-1.4"
 }
+{
+  "id": "s774",
+  "cite": null,
+  "old_cites": "Jameson",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": true,
+  "lbd": "1923",
+  "upd": null,
+  "title": "Privateering and Piracy in the Colonial Period: Illustrative Documents",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": null,
+  "catalogue0": "http://www.gutenberg.org/files/24882/24882-h/24882-h.htm",
+  "catalogue1": "http://id.lib.harvard.edu/alma/990014309840203941/catalog",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

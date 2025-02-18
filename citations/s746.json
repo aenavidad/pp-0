@@ -24,3 +24,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s746",
+  "cite": null,
+  "old_cites": "C Valencia",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": true,
+  "lbd": "1937",
+  "upd": null,
+  "title": "Relación historial eclesiástica de la provincia de Yucatán de la Nueva España, escrita el año de 1639",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "Mexico City: Antigua Librería Robredo, J. Porrúa e Hijos",
+  "catalogue0": "http://id.lib.harvard.edu/alma/990043317900203941/catalog",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "Copy of 1639 manuscript / Biblioteca histórica mexicana de obras inéditas. 3",
+  "via": "harv"
+}

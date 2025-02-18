@@ -24,3 +24,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s940",
+  "cite": null,
+  "old_cites": "Lon G",
+  "iss_vol_start": 1,
+  "iss_vol_end": 63756,
+  "type": "serial",
+  "prim": null,
+  "lbd": "1665",
+  "upd": null,
+  "title": "London Gazette",
+  "description": "issue 1 to 63756 of 63756",
+  "imprint": null,
+  "catalogue0": "https://www.thegazette.co.uk/browse-publications",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "See 'Kingsale, Aug. 26' in no 502 for 5-8 Sep 1670 p 1 [https://www.thegazette.co.uk/London/issue/502/page/1/data.htm]",
+  "via": "harv"
+}

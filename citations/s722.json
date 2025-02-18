@@ -24,3 +24,23 @@
   "url": "file:///Users/angelnavidad/Downloads/tovilla.pdf",
   "via": "v-1.4"
 }
+{
+  "id": "s722",
+  "cite": null,
+  "old_cites": "Tovilla",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": true,
+  "lbd": "1960",
+  "upd": null,
+  "title": "Relaciones histórico-descriptivas de la Verapaz, el Manché y Lacandón en Guatemala",
+  "description": "vol 1 of 1 / [missg] ed",
+  "imprint": null,
+  "catalogue0": "http://id.lib.harvard.edu/alma/990011140730203941/catalog",
+  "catalogue1": "https://www.wayeb.org/resources-links/wayeb-resources/ethnohistorical-sources/",
+  "catalogue2": null,
+  "versions": [],
+  "note": "Copy of 1635 manuscript, to which is appended a copy of a 1639 manuscript or publication by León Pinelo / Guatemala : Editorial Universitaria, 1960 / Ediciones del tercer centenario de la introducción de la imprenta en Centroamérica ; Universidad de San Carlos de Guatemala ; Editorial Universitaria ; 35",
+  "via": "harv"
+}

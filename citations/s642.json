@@ -24,3 +24,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s642",
+  "cite": null,
+  "old_cites": "Academia bb / Spanish DNB / RAH DNB",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "other",
+  "prim": false,
+  "lbd": "2018",
+  "upd": null,
+  "title": "Spanish DNB",
+  "description": null,
+  "imprint": null,
+  "catalogue0": "https://dbe.rah.es",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

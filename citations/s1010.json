@@ -24,3 +24,23 @@
   "url": "HathiTrust: https://hdl.handle.net/2027/mdp.39015008360342?urlappend=%3Bseq=268%3Bownerid=13510798895636614-272",
   "via": "v-1.4"
 }
+{
+  "id": "s1010",
+  "cite": "C Ancona aa",
+  "old_cites": "C Ancona",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "article",
+  "prim": false,
+  "lbd": "1878",
+  "upd": null,
+  "title": "El orígen de Belice",
+  "description": null,
+  "imprint": "(9 November 1878) Boletín de la Sociedad de Geografía y Estadística de la República Mexicana. ser 3. vol 4: pp 254–264",
+  "catalogue0": "https://hdl.handle.net/2027/mdp.39015008360342",
+  "catalogue1": "https://hdl.handle.net/2027/mdp.39015008360342?urlappend=%3Bseq=268%3Bownerid=13510798895636614-272",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

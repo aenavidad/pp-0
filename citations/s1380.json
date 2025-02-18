@@ -24,3 +24,23 @@
   "url": "https://archive.org/details/spanishcaribbean0000andr",
   "via": "v-1.4"
 }
+{
+  "id": "s1380",
+  "cite": null,
+  "old_cites": "Andrews aa / Andrews B",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": false,
+  "lbd": "1978",
+  "upd": null,
+  "title": "The Spanish Caribbean: Trade and Plunder, 1530–1630",
+  "description": "vol 1 of 1 / 1 ed",
+  "imprint": "New Haven, CT: Yale University Press",
+  "catalogue0": "http://id.lib.harvard.edu/alma/990007766060203941/catalog",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

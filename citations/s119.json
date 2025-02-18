@@ -18,3 +18,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s119",
+  "cite": "BL EG",
+  "old_cites": null,
+  "iss_vol_start": 1,
+  "iss_vol_end": null,
+  "type": "manuscript",
+  "prim": true,
+  "lbd": null,
+  "upd": null,
+  "title": "Egerton Manuscripts of the British Library",
+  "description": null,
+  "imprint": null,
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "See extract from BL EG 2395 ff 481-482 [Miscellaneous official papers relating to the English settlements in America and the West Indies, chiefly documents submitted to, or, issuing from, the Council of Trade and Plantations, with a few original letters; 1627-1699] re logwood trade in Jamaica in 1672 at HOLLIS - Adam Matthew - Global Commodities series [http://www.globalcommodities.amdigital.co.uk.ezp-prod1.hul.harvard.edu/Documents/Details/BL_Egerton_2395_0011]",
+  "via": "harv"
+}

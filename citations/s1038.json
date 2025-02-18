@@ -24,3 +24,23 @@
   "url": "http://proxygw.wrlc.org/login?url=https://www.jstor.org/stable/197063",
   "via": "v-1.4"
 }
+{
+  "id": "s1038",
+  "cite": "Avery",
+  "old_cites": "Avery 1900",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "article",
+  "prim": null,
+  "lbd": "1900",
+  "upd": null,
+  "title": "British Honduras",
+  "description": null,
+  "imprint": "Journal of the American Geographical Society of New York. 32 (4): 331–333",
+  "catalogue0": "https://doi.org/10.2307%2F197063",
+  "catalogue1": "https://www.jstor.org/stable/197063",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

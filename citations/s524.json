@@ -24,3 +24,23 @@
   "url": "Gale/World Scholar: https://tinyurl.gale.com/tinyurl/DPB2g3  / Google: https://www.google.com/books/edition/The_States_of_Central_America/IHsaqv17bh8C?hl=en&gbpv=1&printsec=frontcover",
   "via": "v-1.4"
 }
+{
+  "id": "s524",
+  "cite": "Squier",
+  "old_cites": "Squier / Squier 1858",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1858",
+  "upd": null,
+  "title": "The states of Central America : their geography, topography, climate, population, resources, productions, commerce, political organization, aborigines, etc., etc., comprising chapters on Honduras, San Salvador, Nicaragua, Costa Rica, Guatemala, Belize, the Bay Islands, the Mosquito Shore, and the Honduras Inter-Oceanic Railway",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "New York: Harper & Brothers",
+  "catalogue0": "https://www.google.com/books/edition/The_States_of_Central_America/IHsaqv17bh8C",
+  "catalogue1": "http://id.lib.harvard.edu/alma/990011530560203941/catalog",
+  "catalogue2": null,
+  "versions": [],
+  "note": "1854 Honduras and Guatemala [New York, 14 pages, http://id.lib.harvard.edu/alma/990066560120203941/catalog] / 1855 Waikna [NY, Harper and Brothers, 1 vol, 1st ed, http://id.lib.harvard.edu/alma/990047407280203941/catalog]\n Possibly see 1880 Honduras and British Honduras [NY, C Scribner's Sons, https://firstsearch-oclc-org.ezp-prod1.hul.harvard.edu/WebZ/FSFETCH?fetchtype=fullrecord:sessionid=fsap06pxm1-1680-l5e6978v-rseg7e:entitypagenum=17:0:recno=56:resultset=5:format=FI:next=html/record.html:bad=error/badfetch.html:entitytoprecno=56:entitycurrecno=56:numrecs=1]",
+  "via": "harv"
+}

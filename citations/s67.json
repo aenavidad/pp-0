@@ -18,3 +18,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s67",
+  "cite": "SF",
+  "old_cites": "SF / SANTA_FE,zzz",
+  "iss_vol_start": 1,
+  "iss_vol_end": 1248,
+  "type": "manuscript",
+  "prim": true,
+  "lbd": "1527",
+  "upd": "1831",
+  "title": "Audiencia de Santa Fe",
+  "description": "1263 legajos",
+  "imprint": null,
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1861948",
+  "versions": [],
+  "note": "1263 Legajo(s) .  Numerados del 1 al 1248.",
+  "via": "harv"
+}

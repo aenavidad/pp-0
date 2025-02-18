@@ -24,3 +24,23 @@
   "url": "Gale/Sabin Americana: https://link.gale.com/apps/doc/CY0100004060/SABN?u=camb55135&sid=SABN&xid=783b6f0e&pg=1 / Google: https://www.google.com/books/edition/The_History_of_Yucatan/LOTgaZN4LPYC?hl=en&gbpv=1&printsec=frontcover",
   "via": "v-1.4"
 }
+{
+  "id": "s558",
+  "cite": "Fancourt",
+  "old_cites": "Fancourt / Fancourt 1854",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1854",
+  "upd": null,
+  "title": "The history of Yucatan : from its discovery to the close of the seventeenth century",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "London: John Murray",
+  "catalogue0": "https://www.google.com/books/edition/The_History_of_Yucatan/lhguAAAAYAAJ",
+  "catalogue1": "http://id.lib.harvard.edu/alma/990011276690203941/catalog",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

@@ -24,3 +24,23 @@
   "url": "https://www.google.com/books/edition/The_Gospel_in_Central_America/bbfvrEZZYa4C?hl=en&gbpv=1&printsec=frontcover",
   "via": "v-1.4"
 }
+{
+  "id": "s838",
+  "cite": null,
+  "old_cites": "Crowe",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1850",
+  "upd": null,
+  "title": "The gospel in Central America : containing a sketch of the country, physical and geographical, historical and political, moral and religious : a history of the Baptist mission in British Honduras and of the introduction of the Bible into the Spanish American republic of Guatemala : with a map of the country",
+  "description": "vol 1 of 1 / [missg] ed",
+  "imprint": "London : Charles Gilpin, 5, Bishopsgate Street Without ; Edinburgh : Adam and Charles Black ; Dublin : J.B. Gilpin",
+  "catalogue0": "https://firstsearch-oclc-org.ezp-prod1.hul.harvard.edu/WebZ/FSFETCH?fetchtype=fullrecord:sessionid=fsap03pxm1-1680-l5e510nk-14lcy8:entitypagenum=17:0:recno=4:resultset=9:format=FI:next=html/record.html:bad=error/badfetch.html:entitytoprecno=4:entitycurrecno=4:numrecs=1",
+  "catalogue1": "https://hdl.handle.net/2027/hvd.32044050798974",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

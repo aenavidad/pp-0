@@ -24,3 +24,23 @@
   "url": "Gale/Sabin Americana v1: https://link.gale.com/apps/doc/CY0111567515/SABN?u=camb55135&sid=SABN&xid=3acb195c",
   "via": "v-1.4"
 }
+{
+  "id": "s960",
+  "cite": "H Tordesillas bb",
+  "old_cites": "Herrera / H Tordesillas bb",
+  "iss_vol_start": 1,
+  "iss_vol_end": 9,
+  "type": "print",
+  "prim": true,
+  "lbd": "1601",
+  "upd": "1615",
+  "title": "Historia general de los hechos de los castellanos en las Islas i Tierra Firme del Mar Oceano",
+  "description": "vol 1 to 9 of 9 / vol 1 to 4 of 4 / decades 1 to 8 of 8 / 1st ed",
+  "imprint": null,
+  "catalogue0": "http://id.lib.harvard.edu/alma/990042385300203941/catalog",
+  "catalogue1": "http://www.memoriachilena.gob.cl/602/w3-article-8393.html",
+  "catalogue2": "https://bibliotecadigital.jcyl.es/es/consulta/registro.do?id=4906",
+  "versions": [],
+  "note": "De Cada primera / En quatro Decadas desde al Ano de 1492 hasta el de 1531 / 9 v. in 4 / The first 4 decades and the Descripción were printed in 1601 by Juan Flamenco. The last 4 decades, continuing the history from 1532 to 1554, were printed in 1615 by Juan de la Cuesta / 1 = https://bibliotecadigital.jcyl.es/es/consulta/registro.do?id=4906 / 2= https://bibliotecadigital.jcyl.es/es/consulta/registro.do?id=16931 / 3 = https://bibliotecadigital.jcyl.es/es/consulta/registro.do?id=4907 / 4 = https://bibliotecadigital.jcyl.es/es/consulta/registro.do?id=16932 / 5 = https://bibliotecadigital.jcyl.es/es/consulta/registro.do?id=4908 / 6 = https://bibliotecadigital.jcyl.es/es/consulta/registro.do?id=16933 / 7 = https://bibliotecadigital.jcyl.es/es/consulta/registro.do?id=5348 / 8 = https://bibliotecadigital.jcyl.es/es/consulta/registro.do?id=16934",
+  "via": "harv"
+}

@@ -24,3 +24,23 @@
   "url": "http://id.lib.harvard.edu/alma/99154275040603941/catalog",
   "via": "v-1.4"
 }
+{
+  "id": "s818",
+  "cite": "Academia aa",
+  "old_cites": "Academia aa / CDI",
+  "iss_vol_start": 1,
+  "iss_vol_end": 42,
+  "type": "print",
+  "prim": true,
+  "lbd": "1864",
+  "upd": "1884",
+  "title": "Colección de documentos inéditos relativos al descubrimiento ... de las antiguas posesiones españolas de América y Oceanía",
+  "description": "vol 1 to 42 of 42 / 1st ed",
+  "imprint": null,
+  "catalogue0": "http://id.lib.harvard.edu/alma/99154275040603941/catalog",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "First series (42 v., Madrid, 1864-1884) published under title : Colección de documentos inéditos relativos al descubrimiento ... de las antiguas posesiones españolas de América y Oceanía.",
+  "via": "harv"
+}

@@ -24,3 +24,23 @@
   "url": "http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/1779904",
   "via": "v-1.4"
 }
+{
+  "id": "s450",
+  "cite": "Swayne",
+  "old_cites": "Swayne 1917",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "article",
+  "prim": null,
+  "lbd": "1917",
+  "upd": null,
+  "title": "British Honduras",
+  "description": null,
+  "imprint": "The Geographical Journal. 50 (3): 161–175",
+  "catalogue0": "http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/1779904",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

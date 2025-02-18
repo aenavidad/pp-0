@@ -24,3 +24,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s798",
+  "cite": null,
+  "old_cites": "Duro / F Duro",
+  "iss_vol_start": 1,
+  "iss_vol_end": 9,
+  "type": "print",
+  "prim": false,
+  "lbd": "1895",
+  "upd": "1903",
+  "title": "Armada española desde la unión de los reinos de Castilla y de León",
+  "description": "vol 1 to 9 of 9 / 1st ed",
+  "imprint": null,
+  "catalogue0": "https://catalog.hathitrust.org/Record/001245848/Home",
+  "catalogue1": "https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_hathitrust_hathifiles_nyp_33433009379904",
+  "catalogue2": "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaorgano/prefLang-es/02cienciaihcn--01a-cesareo-fernandez-duro",
+  "versions": [],
+  "note": "Madrid, Est. tipográfico 'Sucesores de Rivadeneyra,' 1895-1903.",
+  "via": "harv"
+}

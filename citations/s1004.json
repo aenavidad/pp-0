@@ -24,3 +24,23 @@
   "url": "HathiTrust: https://hdl.handle.net/2027/mdp.39015008360607?urlappend=%3Bseq=702%3Bownerid=13510798895636432-720 / Google: https://www.google.com/books/edition/_/uABGAQAAMAAJ?hl=en&gbpv=1",
   "via": "v-1.4"
 }
+{
+  "id": "s1004",
+  "cite": "Azpiroz",
+  "old_cites": "Azpiroz",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "article",
+  "prim": false,
+  "lbd": "1871",
+  "upd": null,
+  "title": "Establecimiento inglés de Belice",
+  "description": null,
+  "imprint": "(23 March 1871) Boletín de la Sociedad de Geografía y Estadística de la República Mexicana. ser 2. vol 4: pp 698–715",
+  "catalogue0": "https://www.google.com/books/edition/_/uABGAQAAMAAJ?hl=en&gbpv=1",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

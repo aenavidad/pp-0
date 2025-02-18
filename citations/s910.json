@@ -24,3 +24,23 @@
   "url": "Gale / ECCO: https://link.gale.com/apps/doc/CW0100827679/ECCO?u=camb55135&sid=ECCO&xid=93c13f09  / Readex / Afro-Americana: https://docs-newsbank-com.ezp-prod1.hul.harvard.edu/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:EAIX&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=147E02BAC83A1C10&svc_dat=Evans:eaidoc&req_dat=B425E5B32E784515BC5AAA87BC16A340",
   "via": "v-1.4"
 }
+{
+  "id": "s910",
+  "cite": null,
+  "old_cites": "Bring / Uring 1726",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1726",
+  "upd": null,
+  "title": "A history of the voyages and travels of Capt. Nathaniel Uring. With new draughts of the Bay of Honduras and the Caribbee Islands; and particularly of St. Lucia, and the Harbour of Petite Carenage; into which Ships may run in bad Weather, and be safe from all Winds and Storms. Very useful for Masters of Ships that use the Leeward Island Trade, or Jamaica",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "London: Printed by W. Wilkins, for J. Peele",
+  "catalogue0": "https://link.gale.com/apps/doc/CW0100827679/ECCO?u=camb55135&sid=bookmark-ECCO&xid=93c13f09&pg=1",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "1725 Relation of the late intended settlement / 1726 History of the voyages and travels of Capt ie 1st ed [http://id.lib.harvard.edu/alma/990123845830203941/catalog] / 1727 History of the voyages and travels ... with new draghts ie 2nd ed [http://id.lib.harvard.edu/alma/990124964420203941/catalog] / 1745 History of the voyages and travels ... with a new draught ie 1st reprint of 2nd ed [http://id.lib.harvard.edu/alma/990122740200203941/catalog] / 1749 History of the voyages and travels ... with a new draught ie 2nd reprint of 2nd ed [http://id.lib.harvard.edu/alma/990123830540203941/catalog]",
+  "via": "harv"
+}

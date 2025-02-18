@@ -24,3 +24,23 @@
   "url": "http://search.proquest.com.ezp-prod1.hul.harvard.edu/dissertations-theses/logwood-inquiry-into-historical-biogeography/docview/303932948/se-2?accountid=11311",
   "via": "v-1.4"
 }
+{
+  "id": "s272",
+  "cite": "McJunkin",
+  "old_cites": "McJunkin",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "thesis",
+  "prim": false,
+  "lbd": "1991",
+  "upd": null,
+  "title": "Logwood : An inquiry into the historical biogeography of Haematoxylum campechianum L. and related dyewoods of the neotropics",
+  "description": null,
+  "imprint": "Los Angeles, Calif.: University of California",
+  "catalogue0": "http://search.proquest.com.ezp-prod1.hul.harvard.edu/dissertations-theses/logwood-inquiry-into-historical-biogeography/docview/303932948/se-2?accountid=11311",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "PhD",
+  "via": "harv"
+}

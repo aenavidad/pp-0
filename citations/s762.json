@@ -24,3 +24,23 @@
   "url": "v 1: https://archive.org/details/historiadelaprov01ximguat/page/n5/mode/2up / V 2: https://archive.org/details/BibliotecaGoathemalaAGHGVolIIHistoriaProvinciaSanVicenteDeChiapaGuatemala / V 3: https://archive.org/details/BibliotecaGoathemalaAGHGVolIIIHistoriaProvinciaSanVicenteDeChiapaGuatemala3",
   "via": "v-1.4"
 }
+{
+  "id": "s762",
+  "cite": null,
+  "old_cites": "Ximenes",
+  "iss_vol_start": 1,
+  "iss_vol_end": 3,
+  "type": "print",
+  "prim": false,
+  "lbd": "1929",
+  "upd": "1931",
+  "title": "Historia de la provincia de San Vicente de Chiapa y Guatemala de la Orden de Predicadores",
+  "description": "vol 1 to 3 of 3 / 1st ed",
+  "imprint": null,
+  "catalogue0": "http://id.lib.harvard.edu/alma/990069678430203941/catalog",
+  "catalogue1": "http://id.lib.harvard.edu/alma/990009690000203941/catalog",
+  "catalogue2": null,
+  "versions": [],
+  "note": "Copy of ??? manuscript / Biblioteca 'Goathemala' de la Sociedad de Geografía e Historia, v. 1-3 / Guatemala, C.A., [Tipografía Nacional] 1929-31 / Possibly > 3 vols eg http://id.lib.harvard.edu/alma/990011627580203941/catalog",
+  "via": "harv"
+}

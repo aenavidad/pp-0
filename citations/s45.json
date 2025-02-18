@@ -18,3 +18,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s45",
+  "cite": "AGCA",
+  "old_cites": "AGCA A1 / AGCA zzz / AGCA, zzz",
+  "iss_vol_start": 1,
+  "iss_vol_end": 15000,
+  "type": "manuscript",
+  "prim": true,
+  "lbd": "1524",
+  "upd": "1821",
+  "title": "Sección colonial, documentos del Superior Gobierno",
+  "description": "15000 legajos circa",
+  "imprint": null,
+  "catalogue0": "https://ahgua.ufm.edu/agca/",
+  "catalogue1": "https://catalog.crl.edu/Record/5897488d-5ea5-506d-abdc-e0bbb83a3186",
+  "catalogue2": "http://censoarchivos.mcu.es/CensoGuia/archivodetail.htm?id=50950",
+  "versions": [],
+  "note": "See Jorge Luján Muñóz, Guía del archivo general de centro américa [Guatemala: Ministerio de Educación, 1982] https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_globaltitleindex_catalog_36796118, and Pedro López Gómez, El archivo general de centro américa (ciudad de guatemala) : informe [Madrid: ANABAD, 1991] http://id.lib.harvard.edu/alma/990029739410203941/catalog",
+  "via": "harv"
+}

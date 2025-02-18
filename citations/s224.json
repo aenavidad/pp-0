@@ -24,3 +24,23 @@
   "url": "https://hdl-handle-net.ezp-prod1.hul.harvard.edu/2027/heb.03515",
   "via": "v-1.4"
 }
+{
+  "id": "s224",
+  "cite": null,
+  "old_cites": "Jones aa / Jones C / Jones 2 / Jones 98",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": false,
+  "lbd": "1998",
+  "upd": null,
+  "title": "Conquest of the Last Maya Kingdom ",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": null,
+  "catalogue0": "http://id.lib.harvard.edu/alma/990078552340203941/catalog",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

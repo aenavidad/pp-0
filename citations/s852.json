@@ -24,3 +24,23 @@
   "url": "https://parlipapers-proquest-com.ezp-prod1.hul.harvard.edu/parlipapers/search/basic/hcppbasicsearch?accountid=11311",
   "via": "v-1.4"
 }
+{
+  "id": "s852",
+  "cite": null,
+  "old_cites": "Lords / HCP nn / CP nn / C.nn / Cd.nn / Cmd. nn / Cmnd. nn / Cm. nn",
+  "iss_vol_start": 1,
+  "iss_vol_end": null,
+  "type": "other",
+  "prim": null,
+  "lbd": "1660",
+  "upd": "2022",
+  "title": "UK Parliamentary Papers",
+  "description": null,
+  "imprint": null,
+  "catalogue0": "https://parlipapers-proquest-com.ezp-prod1.hul.harvard.edu/parlipapers/search/basic/hcppbasicsearch?accountid=11311",
+  "catalogue1": "https://parlipapers-proquest-com.ezp-prod1.hul.harvard.edu/parlipapers/search/basic/hcppbasicsearch?accountid=11311",
+  "catalogue2": "https://www.parliament.uk/about/how/publications/government/",
+  "versions": [],
+  "note": "Command Papers inc numbered papers only / Numbering [1] to [4222] 1833-1868/69 / C.1 to C.9550 1870-1899 / Cd.1 to Cd.9239 1900-1918 / Cmd.1 to Cmd.9889 1919-1955/56 / Cmnd.1 to Cmnd.9927 1956/57-1985/86 / Cm.1 1986/87 to date\n See '10 March 1728' in Journals of the House of Commons vol 21 p 262 [https://parlipapers-proquest-com.ezp-prod1.hul.harvard.edu/parlipapers/docview/t70.d75.jhc-004974?accountid=11311]  / '12 March 1728' in Journals of the House of Commons vol 21 p 265 [https://parlipapers-proquest-com.ezp-prod1.hul.harvard.edu/parlipapers/docview/t70.d75.jhc-004976?accountid=11311] / 'Papers Relative to the Rupture with Spain, Laid before Both Houses of Parliament, On Friday the Twenty ninth Day of January, 1762, By his Majesty's Command' in House of Lords Sessional Papers vol 1 pp [missg] [https://parlipapers-proquest-com.ezp-prod1.hul.harvard.edu/parlipapers/docview/t70.d75.hlsp-000505?accountid=11311] / QUERIED UP TO 1737 ON 14 JUL 2022",
+  "via": "harv"
+}

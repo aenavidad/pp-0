@@ -24,3 +24,23 @@
   "url": "Delpher v1: https://resolver.kb.nl/resolve?urn=MMKB05:000038083 = file:///Users/angelnavidad/Downloads/MMKB05_000038083_pdf.pdf / Delpher v2: https://resolver.kb.nl/resolve?urn=MMKB05:000038084 = file:///Users/angelnavidad/Downloads/MMKB05_000038084_pdf.pdf",
   "via": "v-1.4"
 }
+{
+  "id": "s756",
+  "cite": null,
+  "old_cites": "Wright cc / Wright D / Wright/van Dam",
+  "iss_vol_start": 1,
+  "iss_vol_end": 2,
+  "type": "print",
+  "prim": true,
+  "lbd": "1934",
+  "upd": "1935",
+  "title": "Nederlandsche zeevaarders op de eilanden in de Caraïbische zee en aan de kust van Columbia en Venezuela gedurende de jaren 1621-1648(9) Documenten hoofdzakelijk uit het Archivo general de Indias te Sevilla",
+  "description": "vol 1 to 2 of 2 / 1st ed",
+  "imprint": null,
+  "catalogue0": "http://id.lib.harvard.edu/alma/990048050560203941/catalog",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "vol 1 = https://resolver.kb.nl/resolve?urn=MMKB05:000038083 / vol 2 = https://resolver.kb.nl/resolve?urn=MMKB05:000038084",
+  "via": "harv"
+}

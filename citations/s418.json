@@ -24,3 +24,23 @@
   "url": "http://simurg.bibliotecas.csic.es/viewer/image/CSIC000048031/1/",
   "via": "v-1.4"
 }
+{
+  "id": "s418",
+  "cite": "C Quijano",
+  "old_cites": "Calderon / Calderón Quijano 1944 / Seville 1944 / Sev 1944",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1944",
+  "upd": null,
+  "title": "Belice 1663 (?)-1821",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "Seville: Escuela de Estudios Hispano-Americanos",
+  "catalogue0": "http://simurg.bibliotecas.csic.es/viewer/image/CSIC000048031/1/",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "Publicaciones de la Escuela de Estudios Hispano-Americanos de la Universidad de Sevilla. Vol. 5 (1st ed.).",
+  "via": "harv"
+}

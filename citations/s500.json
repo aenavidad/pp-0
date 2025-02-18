@@ -24,3 +24,23 @@
   "url": "https://www.google.com/books/edition/The_Colony_of_British_Honduras/3b8NAAAAQAAJ?hl=en&gbpv=1&dq=subject:%22Belize%22&pg=PA76&printsec=frontcover",
   "via": "v-1.4"
 }
+{
+  "id": "s500",
+  "cite": null,
+  "old_cites": "Morris / Morris 1883",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1883",
+  "upd": null,
+  "title": "The Colony of British Honduras, its Resources and Prospects; with Particular Reference to its Indigenous Plants and Economic Productions",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "London: Edward Stanford",
+  "catalogue0": "https://www.google.com/books/edition/The_Colony_of_British_Honduras/3b8NAAAAQAAJ?hl=en&gbpv=1",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

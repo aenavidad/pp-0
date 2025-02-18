@@ -24,3 +24,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s1222",
+  "cite": null,
+  "old_cites": null,
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1867",
+  "upd": null,
+  "title": "The colony of British Honduras: its history, trade, and natural resources : presented to the Directors and Shareholders of The British Honduras Company, Limited, by their manager",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "London : Pearson and son, printers",
+  "catalogue0": "http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/60229640",
+  "catalogue1": "https://firstsearch-oclc-org.ezp-prod1.hul.harvard.edu/WebZ/FSFETCH?fetchtype=fullrecord:sessionid=fsap06pxm1-1680-l5e6978v-rseg7e:entitypagenum=11:0:recno=17:resultset=5:format=FI:next=html/record.html:bad=error/badfetch.html:entitytoprecno=17:entitycurrecno=17:numrecs=1",
+  "catalogue2": null,
+  "versions": [],
+  "note": "chiefly compiled from a Lecture by the late Robert Temple, Esq., before hte Royal Society of Arts in 1857, and from other sources [from title page just prior to cap 1 heading]",
+  "via": "harv"
+}

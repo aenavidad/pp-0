@@ -24,3 +24,23 @@
   "url": "Gallica: https://gallica.bnf.fr/ark:/12148/bpt6k829446 / Gale/Sabin: https://link.gale.com/apps/doc/CY0102936949/SABN?u=camb55135&sid=SABN&xid=fbdf1b13",
   "via": "v-1.4"
 }
+{
+  "id": "s928",
+  "cite": "L Cogolludo",
+  "old_cites": "Cogolludo / L Cogolludo",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": true,
+  "lbd": "1688",
+  "upd": null,
+  "title": "Historia de Yucathan",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": null,
+  "catalogue0": "https://gallica.bnf.fr/ark:/12148/bpt6k829446",
+  "catalogue1": "https://link.gale.com/apps/doc/CY0102936949/SABN?u=camb55135&sid=primo&xid=fbdf1b13&pg=1",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

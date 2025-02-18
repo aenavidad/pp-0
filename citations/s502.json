@@ -24,3 +24,23 @@
   "url": "Google: http://nrs.harvard.edu/urn-3:HUL.FIG:002653988 / LLMC: http://id.lib.harvard.edu/alma/99154275013303941/catalog",
   "via": "v-1.4"
 }
+{
+  "id": "s502",
+  "cite": "Bancroft",
+  "old_cites": "Bancroft 1883",
+  "iss_vol_start": 1,
+  "iss_vol_end": 39,
+  "type": "print",
+  "prim": null,
+  "lbd": "1882",
+  "upd": "1890",
+  "title": "The Works of Hubert Howe Bancroft",
+  "description": "vol 1 to 39 of 39 / reprint of 1st ed",
+  "imprint": "San Francisco: A. L. Bancroft & Co",
+  "catalogue0": "https://www.google.com/books/edition/History_of_Central_America/eSoPAAAAYAAJ",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "History of Central America. Vol. II. 1530–1800 = The Works of Hubert Howe Bancroft. Vol. 7.",
+  "via": "harv"
+}

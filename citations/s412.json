@@ -24,3 +24,23 @@
   "url": "https://hdl.handle.net/2027/txu.059173008409431",
   "via": "v-1.4"
 }
+{
+  "id": "s412",
+  "cite": null,
+  "old_cites": "Chamberlain 1948",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1948",
+  "upd": null,
+  "title": "The conquest and colonization of Yucatan, 1517–1550",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "Washington, DC: Carnegie Institution of Washington",
+  "catalogue0": "https://hdl.handle.net/2027%2Ftxu.059173008409431",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "Carnegie Institution of Washington Publication. Vol. 582 (1st ed.).",
+  "via": "harv"
+}

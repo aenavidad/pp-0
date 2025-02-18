@@ -24,3 +24,23 @@
   "url": "Lib Service v1: file:///Users/angelnavidad/Downloads/Archives%20of%20British%20Honduras%20Vol.%201,%20From%20the%20earliest%20date%20to%20A.%20D1800.pdf / Lib Service v2: file:///Users/angelnavidad/Downloads/Archives%20of%20British%20Honduras%20Vol.%202,%201801-1840.pdf / Lib Service v3: file:///Users/angelnavidad/Downloads/Archives_of_British_Honduras_From_1841_1.pdf",
   "via": "v-1.4"
 }
+{
+  "id": "s760",
+  "cite": "Burdon",
+  "old_cites": "Burdon / Burdon 1931",
+  "iss_vol_start": 1,
+  "iss_vol_end": 3,
+  "type": "print",
+  "prim": null,
+  "lbd": "1931",
+  "upd": "1935",
+  "title": "Archives of British Honduras ... : being extracts and précis from records, with maps",
+  "description": "vol 1 to 3 of 3 / 1st ed",
+  "imprint": "London: Sifton, Praed & Co",
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

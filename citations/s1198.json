@@ -24,3 +24,23 @@
   "url": "Sp ed 1: https://bibliotecadigital.aecid.es/bibliodig/es/consulta/registro.cmd?id=518 / Harv: http://id.lib.harvard.edu/alma/990045204220203941/catalog / v 1: https://archive.org/details/memoriasparalah00pelgoog / v 2: https://archive.org/details/memoriasparalahi02drfr / v 3 ed 2: https://archive.org/details/memorplahi03garcguat/page/n7/mode/2up / v 1-3 ed 3 [1968-1973]: https://archive.org/search?query=Academia+de+Geograf%C3%ADa+e+Historia+de+Guatemala&sort=title&and%5B%5D=firstTitle%3AM",
   "via": "v-1.4"
 }
+{
+  "id": "s1198",
+  "cite": "G Palaez",
+  "old_cites": "G Palaez / Garcia P / Garcia Palaez",
+  "iss_vol_start": 1,
+  "iss_vol_end": 3,
+  "type": "print",
+  "prim": false,
+  "lbd": "1851",
+  "upd": "1852",
+  "title": "Memorias para la historia del antiguo reyno de Guatemala",
+  "description": "vol 1 to 3 of 3 / 1st ed",
+  "imprint": "Guatemala: Establecimiento tip. de L. Luna",
+  "catalogue0": "http://id.lib.harvard.edu/alma/990045204220203941/catalog",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "Biblioteca 'Goathemala' de la Sociedad de Geografía e Historia de Guatemala ; v. 21-23 edition 1968–1973 = http://id.lib.harvard.edu/alma/990011911160203941/catalog\n vol 2 in https://archive.org/details/memoriasparalahi02drfr / vol 3 in https://bibliotecadigital.aecid.es/bibliodig/es/consulta/registro.do?id=518\n Índice general de las materias contenidas en los tres tomos in G Palaez 3 p 273",
+  "via": "harv"
+}

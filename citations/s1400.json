@@ -24,3 +24,23 @@
   "url": "v 2: http://fundacionhcg.org/libros/lq/tomoii/#p=1 / v 3: http://fundacionhcg.org/libros/lq/tomoiii/",
   "via": "v-1.4"
 }
+{
+  "id": "s1400",
+  "cite": "L Munoz",
+  "old_cites": "Lujan",
+  "iss_vol_start": 1,
+  "iss_vol_end": 6,
+  "type": "print",
+  "prim": null,
+  "lbd": "1993",
+  "upd": "1999",
+  "title": "Historia General de Guatemala",
+  "description": "vol 1 to 6 of 6 / [missg] ed",
+  "imprint": "Guatemala: Asociación de Amigos del País, Fundación para la Cultura y el Desarollo",
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "v 2: http://fundacionhcg.org/libros/lq/tomoii/#p=1 / v 3: http://fundacionhcg.org/libros/lq/tomoiii/\n See vol 3 cap [missg] re Eng presence in colonial Guat",
+  "via": "harv"
+}

@@ -24,3 +24,23 @@
   "url": "http://search.proquest.com.ezp-prod1.hul.harvard.edu/dissertations-theses/colonies-happenstance-english-settlements-central/docview/230667983/se-2?accountid=11311",
   "via": "v-1.4"
 }
+{
+  "id": "s254",
+  "cite": null,
+  "old_cites": "Breuer",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "thesis",
+  "prim": false,
+  "lbd": "1993",
+  "upd": null,
+  "title": "Colonies of happenstance: The english settlements in central america, 1525-1787",
+  "description": null,
+  "imprint": null,
+  "catalogue0": "http://search.proquest.com.ezp-prod1.hul.harvard.edu/dissertations-theses/colonies-happenstance-english-settlements-central/docview/230667983/se-2?accountid=11311",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

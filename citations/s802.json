@@ -24,3 +24,23 @@
   "url": "v 1: https://www.google.com/books/edition/The_Handbook_of_British_Honduras/Z5YvAAAAMAAJ?hl=en",
   "via": "v-1.4"
 }
+{
+  "id": "s802",
+  "cite": "Hon Hnd",
+  "old_cites": "HB / HH / Hon Hnd / Hon Hnd nn / Bristowe & Wright 1888 / Metzgen & Cain 1925",
+  "iss_vol_start": 1,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1888",
+  "upd": null,
+  "title": "The Handbook of British Honduras for 1888-89 : Comprising Historical, Statistical, and General Information Concerning the Colony, Compiled from Official and Other Reliable Records",
+  "description": "vol 1 to 5 of 5 / 1st ed",
+  "imprint": "Edinburgh & London: William Blackwood & Sons",
+  "catalogue0": "https://www.google.com/books/edition/The_Handbook_of_British_Honduras/Z5YvAAAAMAAJ",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "Vols listed in OCLC 1888-89, 1889-90, 1890-91, 1891-92, 1892-93\n Possibly continued by 1925 Handbook of British Honduras [London, West India Committee, http://id.lib.harvard.edu/alma/990011910380203941/catalog]",
+  "via": "harv"
+}

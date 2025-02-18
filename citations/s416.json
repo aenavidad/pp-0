@@ -24,3 +24,23 @@
   "url": "https://ufdc.ufl.edu/UF00099216/00001",
   "via": "v-1.4"
 }
+{
+  "id": "s416",
+  "cite": "Winzerling",
+  "old_cites": "Winzerling",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": false,
+  "lbd": "1946",
+  "upd": null,
+  "title": "Beginning of British Honduras, 1506-1765",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "New York: North River Press",
+  "catalogue0": "https://dloc.com/UF00099216/00001",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

@@ -18,3 +18,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s217",
+  "cite": "AMN",
+  "old_cites": null,
+  "iss_vol_start": 1,
+  "iss_vol_end": null,
+  "type": "manuscript",
+  "prim": null,
+  "lbd": null,
+  "upd": null,
+  "title": "Archivo o fondos documentales o manuscritos del Museo Naval de Madrid",
+  "description": null,
+  "imprint": null,
+  "catalogue0": "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaorgano/prefLang-es/01cienciamuseo--03colecciones--02fondos--14fondosdocumentales-es?showVolver=1",
+  "catalogue1": "http://censoarchivos.mcu.es/CensoGuia/archivodetail.htm?id=49308",
+  "catalogue2": null,
+  "versions": [],
+  "note": "See AMN 189 no 3 ff 26-31 [Descripción de las Islas Guanajas siendo parte de un informe hecho en 1639 de orden del presidente de Guatemala por Francisco de Ávila y Lugo, gobernador y capitán general de Honduras (Copia de Muñoz), original 7 Nov 1639 Comayagua, copied 11 Sept 1782 Simancas, http://bibliotecavirtualdefensa.es/BVMDefensa/es/consulta/registro.do?id=35833]",
+  "via": "harv"
+}

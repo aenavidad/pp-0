@@ -24,3 +24,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s1164",
+  "cite": "Bridges",
+  "old_cites": "Bridges / Bridges 1828",
+  "iss_vol_start": 1,
+  "iss_vol_end": 2,
+  "type": "print",
+  "prim": null,
+  "lbd": "1827",
+  "upd": "1828",
+  "title": "The annals of Jamaica",
+  "description": "vol 1 to 2 of 2 / [missg] ed",
+  "imprint": "London: John Murray",
+  "catalogue0": "https://www.google.com/books/edition/The_Annals_of_Jamaica/twakS8tGd_sC",
+  "catalogue1": "https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_gale_digitalcollections_CY0104066838",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

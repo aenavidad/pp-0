@@ -24,3 +24,23 @@
   "url": "Google v1: https://www.google.com/books/edition/Incidents_of_Travel_in_Central_America_C/4y8TAAAAYAAJ?hl=en / Google v2: https://www.google.com/books/edition/_/Pu0MAAAAIAAJ?hl=en&sa=X&ved=2ahUKEwiUoq-n-rvwAhVlUN8KHbXYASEQ8fIDegQIARAD",
   "via": "v-1.4"
 }
+{
+  "id": "s848",
+  "cite": "Stephens",
+  "old_cites": "Stephens / Stephens 1841",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1841",
+  "upd": "1841",
+  "title": "Incidents of travel in Central America, Chiapas, and Yucatan",
+  "description": "vol 1 to 2 of 2 / 1st ed",
+  "imprint": "London: John Murray",
+  "catalogue0": "https://hdl.handle.net/2027%2Fnyp.33433081696803",
+  "catalogue1": "http://id.lib.harvard.edu/alma/990011565530203941/catalog",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

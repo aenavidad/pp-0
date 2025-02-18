@@ -24,3 +24,23 @@
   "url": "https://archive.org/details/laverapazes00sainguat",
   "via": "v-1.4"
 }
+{
+  "id": "s1360",
+  "cite": null,
+  "old_cites": "Saint-Lu",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": false,
+  "lbd": "1968",
+  "upd": null,
+  "title": "La Vera Paz, esprit évangélique et colonisation",
+  "description": "vol 1 of 1 / [missg] ed",
+  "imprint": null,
+  "catalogue0": "http://id.lib.harvard.edu/alma/990046805940203941/catalog",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

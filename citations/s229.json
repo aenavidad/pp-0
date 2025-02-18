@@ -18,3 +18,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s229",
+  "cite": "CO",
+  "old_cites": "CO / CO nn/n / BB nn / Col Rep nn",
+  "iss_vol_start": 1,
+  "iss_vol_end": 1073,
+  "type": "manuscript",
+  "prim": true,
+  "lbd": "1570",
+  "upd": "1990",
+  "title": "Records of the Colonial Office, Commonwealth and Foreign and Commonwealth Offices, Empire Marketing Board, and related bodies",
+  "description": "1073 series",
+  "imprint": null,
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": "https://discovery.nationalarchives.gov.uk/details/r/C57",
+  "versions": [],
+  "note": "For a fuller account of the history and records of the Colonial Office see Anne Thurston, 'The Records of the Colonial and Dominions Offices' (London, 1995)\n See CO 884/16 [British Hond: Guat boundary 1934-1943] in AM - Archives Direct - Confidential Print: North Amer [https://www-archivesdirect-amdigital-co-uk.ezp-prod1.hul.harvard.edu/Documents/Details/CO%20884_16]",
+  "via": "harv"
+}

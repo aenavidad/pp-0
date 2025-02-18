@@ -24,3 +24,23 @@
   "url": "https://ufdc.ufl.edu/UF00099204/00001",
   "via": "v-1.4"
 }
+{
+  "id": "s414",
+  "cite": "Donohoe",
+  "old_cites": "Donohoe / Donohoe 1946",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1946",
+  "upd": null,
+  "title": "A History of British Honduras",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "Montreal: Provincial Publishing Co",
+  "catalogue0": "https://dloc.com/UF00099204/00001",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

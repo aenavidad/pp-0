@@ -24,3 +24,23 @@
   "url": "file:///Users/angelnavidad/Downloads/harlow1924.pdf",
   "via": "v-1.4"
 }
+{
+  "id": "s772",
+  "cite": null,
+  "old_cites": "Harlow",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "article",
+  "prim": false,
+  "lbd": "1924",
+  "upd": null,
+  "title": "The voyages of Captain William Jackson, 1642-5",
+  "description": null,
+  "imprint": "Camden. Third Series. 34: 1–39",
+  "catalogue0": "https://doi.org/10.1017%2FS2042171000006920",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

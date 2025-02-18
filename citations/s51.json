@@ -18,3 +18,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s51",
+  "cite": "ES",
+  "old_cites": "ES / ESCRIBANIA,zzz",
+  "iss_vol_start": 1,
+  "iss_vol_end": 1194,
+  "type": "manuscript",
+  "prim": true,
+  "lbd": "1525",
+  "upd": "1778",
+  "title": "Escribanía de Cámara de Justicia",
+  "description": "2864 legajos",
+  "imprint": null,
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1866058",
+  "versions": [],
+  "note": "2864 Legajo(s) .  Los legajos están numerados del 1 a 1194, pero casi en su totalidad desglosados en 2, 3 o 4 unidades, utilizandose letras del alfabeto para su distinción",
+  "via": "harv"
+}

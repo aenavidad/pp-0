@@ -18,3 +18,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s55",
+  "cite": "GT",
+  "old_cites": "GT / GUATEMALA,zzz",
+  "iss_vol_start": 1,
+  "iss_vol_end": 964,
+  "type": "manuscript",
+  "prim": true,
+  "lbd": "1525",
+  "upd": "1837",
+  "title": "Audiencia de Guatemala",
+  "description": "971 legajos",
+  "imprint": null,
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1859869",
+  "versions": [],
+  "note": "971 Legajo(s) .  Numerados del 1 al 964, algunos desdoblados en dos con signaturación en A y B. Falta el legajo 527 y el 597 no existe.",
+  "via": "harv"
+}

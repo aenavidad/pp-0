@@ -24,3 +24,23 @@
   "url": "https://ufdc.ufl.edu/UF00099184/00001",
   "via": "v-1.4"
 }
+{
+  "id": "s1350",
+  "cite": null,
+  "old_cites": "Humphreys / Humphreys 1961",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1961",
+  "upd": null,
+  "title": "The Diplomatic History of British Honduras, 1638-1901",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "London: Oxford University Press",
+  "catalogue0": "https://dloc.com/UF00099184/00001",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

@@ -24,3 +24,23 @@
   "url": "Gale/ECCO v1: https://link.gale.com/apps/doc/CW0103748193/ECCO?u=camb55135&sid=ECCO&xid=ed813523 / Gale/ECCO v2: https://link.gale.com/apps/doc/CW0103748733/ECCO?u=camb55135&sid=ECCO&xid=d31d617d",
   "via": "v-1.4"
 }
+{
+  "id": "s878",
+  "cite": null,
+  "old_cites": "Edwards / Edwards aa",
+  "iss_vol_start": 1,
+  "iss_vol_end": 2,
+  "type": "print",
+  "prim": false,
+  "lbd": "1793",
+  "upd": "1793",
+  "title": "The history, civil and commercial, of the British colonies in the West Indies: in two volumes",
+  "description": "vol 1 to 2 of 2 / 1st ed",
+  "imprint": null,
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "v 1 = https://link.gale.com/apps/doc/CW0102253733/ECCO?u=camb55135&sid=primo&xid=000787c6&pg=1 / v 2 = https://link.gale.com/apps/doc/CW0102254249/ECCO?u=camb55135&sid=bookmark-ECCO&xid=785972a3&pg=1",
+  "via": "harv"
+}

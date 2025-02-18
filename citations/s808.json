@@ -24,3 +24,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s808",
+  "cite": null,
+  "old_cites": "Oxford / Oxford DNB / ODNB / DNB / Laughton 2004",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "other",
+  "prim": false,
+  "lbd": "2004",
+  "upd": null,
+  "title": "ODNB",
+  "description": null,
+  "imprint": null,
+  "catalogue0": "http://id.lib.harvard.edu/alma/99153774884703941/catalog",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "Barker, Andrew in doi:10.1093/ref:odnb/1387 [https://doi-org.ezp-prod1.hul.harvard.edu/10.1093/ref:odnb/1387]",
+  "via": "harv"
+}

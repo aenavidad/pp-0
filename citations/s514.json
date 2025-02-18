@@ -24,3 +24,23 @@
   "url": "https://www.google.com/books/edition/Bolet%C3%ADn_de_la_Sociedad_de_Geograf%C3%ADa_y/lARGAQAAMAAJ?hl=en&gbpv=0&kptab=editions",
   "via": "v-1.4"
 }
+{
+  "id": "s514",
+  "cite": "Peniche",
+  "old_cites": "Peniche",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "article",
+  "prim": false,
+  "lbd": "1869",
+  "upd": null,
+  "title": "Historia de las relaciones de España y México con Inglaterra, sobre el establecimiento de Belice",
+  "description": null,
+  "imprint": "Boletín de la Sociedad de Geografía y Estadística de la República Mexicana. ser 2. vol 1: pp 217–256, 377–403",
+  "catalogue0": "https://www.google.com/books/edition/Bolet%C3%ADn_de_la_Sociedad_de_Geograf%C3%ADa_y/lARGAQAAMAAJ?hl=en&gbpv=0&kptab=editions",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "1869 reprint in bound volume [Mexico, Imprenta del Gobierno, https://hollis.harvard.edu/permalink/f/1s5nto6/01HVD_ALMA512247589270003941, http://id.lib.harvard.edu/alma/990062883790203941/catalog] / 1940 reprint in bound volume [Mérida, Compañia typografia yucateca, http://id.lib.harvard.edu/alma/990059492620203941/catalog]",
+  "via": "harv"
+}

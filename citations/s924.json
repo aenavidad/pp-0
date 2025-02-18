@@ -24,3 +24,23 @@
   "url": "ProQuest / EEBO v 1: http://search.proquest.com.ezp-prod1.hul.harvard.edu/books/new-voyage-around-world-describing-particularly/docview/2240952603/se-2?accountid=11311  / ProQuest / EEBO v 2: http://search.proquest.com.ezp-prod1.hul.harvard.edu/books/voyages-descriptions-three-parts-which-is-added/docview/2264207852/se-2?accountid=11311  / Harvard v 2: https://nrs.harvard.edu/urn-3:DOAK.RESLIB:24900314",
   "via": "v-1.4"
 }
+{
+  "id": "s924",
+  "cite": null,
+  "old_cites": "Dampier / Dampier 1700",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1700",
+  "upd": null,
+  "title": "Voyages and descriptions, in three parts : to which is added a general index to both volumes",
+  "description": "vol 1 of 1 / reprint of 1st ed",
+  "imprint": "London: Printed for James Knapton, at the Crown in St Paul's Church-yard",
+  "catalogue0": "https://www.proquest.com/docview/2264207852",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "First published 1699 [London, for James Knapton, https://hdl.handle.net/2027/aeu.ark:/13960/t57d3n03x] / Previously 1697 A New Voyage round the world / 1699 Voyages and descriptions / 1703 A Voyage to New Holland / 1705 A Supplement to the voyage round the world / 1705 The Campeachy voyagse / 1705 Discourse of winds / 1708 Continuation of a voyage to New Holland /v https://en.wikipedia.org/wiki/William_Dampier#Books",
+  "via": "harv"
+}

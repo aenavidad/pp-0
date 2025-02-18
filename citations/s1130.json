@@ -24,3 +24,23 @@
   "url": "http://proxygw.wrlc.org/login?url=https://www.jstor.org/stable/60208643",
   "via": "v-1.4"
 }
+{
+  "id": "s1130",
+  "cite": null,
+  "old_cites": "Edwards P",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1773",
+  "upd": null,
+  "title": "Poyais: an account of the British settlements on the Musquito Shore",
+  "description": "vol 1 of 1 / [missg] ed",
+  "imprint": null,
+  "catalogue0": "http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/60208643",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "Drawn for the use of government, in 1773. By Bryan Edwards, Esq., F.R.S. S.A. Author of the History of the British West Indies [from title page]",
+  "via": "harv"
+}

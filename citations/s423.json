@@ -18,3 +18,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s423",
+  "cite": "SD",
+  "old_cites": "SD / SANTO_DOMINGO,zzz",
+  "iss_vol_start": 1,
+  "iss_vol_end": 2674,
+  "type": "manuscript",
+  "prim": true,
+  "lbd": "1518",
+  "upd": "1852",
+  "title": "Audiencia de Santo Domingo",
+  "description": "2720 legajos",
+  "imprint": null,
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1859548",
+  "versions": [],
+  "note": "2720 Legajo(s) .  (numerados del 1 al 2674).",
+  "via": "harv"
+}

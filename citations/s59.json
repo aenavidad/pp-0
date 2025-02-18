@@ -18,3 +18,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s59",
+  "cite": "MX",
+  "old_cites": "MX / MEXICO,zzz",
+  "iss_vol_start": 1,
+  "iss_vol_end": 3168,
+  "type": "manuscript",
+  "prim": true,
+  "lbd": "1519",
+  "upd": "1856",
+  "title": "Audiencia de México",
+  "description": "3196 legajos",
+  "imprint": null,
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1930212",
+  "versions": [],
+  "note": "Descripción incluida en GUIA DEL VISITANTE. ARCHIVO GENERAL DE INDIAS DE SEVILLA",
+  "via": "harv"
+}

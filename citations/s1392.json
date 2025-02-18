@@ -24,3 +24,23 @@
   "url": "v 2: https://archive.org/details/historiadelafo00rubiguat",
   "via": "v-1.4"
 }
+{
+  "id": "s1392",
+  "cite": null,
+  "old_cites": "R Sanchez / Rubio F / Rubio SO",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": false,
+  "lbd": "1987",
+  "upd": null,
+  "title": "Historia de la Fortaleza y Puerto de San Fernando de Omoa",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": null,
+  "catalogue0": "http://id.lib.harvard.edu/alma/990077323040203941/catalog",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "Maybe in 2 volumes 1987–1988",
+  "via": "harv"
+}

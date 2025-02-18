@@ -24,3 +24,23 @@
   "url": "Google: https://www.google.com/books/edition/Belice/maY_AAAAYAAJ?hl=en&gbpv=1 / HathiTrust: https://hdl.handle.net/2027/nnc1.cu01563777",
   "via": "v-1.4"
 }
+{
+  "id": "s510",
+  "cite": "N Ortega",
+  "old_cites": "Nunez / N Ortega",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": false,
+  "lbd": "1877",
+  "upd": null,
+  "title": "Belice, estudio sobre el origen de ese nombre",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "México, D.F.: Imprenta de Gonzalo A. Esteva",
+  "catalogue0": "https://www.google.com/books/edition/Belice/maY_AAAAYAAJ?hl=en&gbpv=0",
+  "catalogue1": "https://hdl.handle.net/2027/nnc1.cu01563777",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

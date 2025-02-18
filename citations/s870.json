@@ -24,3 +24,23 @@
   "url": "http://nrs.harvard.edu/urn-3:HUL.FIG:004500016",
   "via": "v-1.4"
 }
+{
+  "id": "s870",
+  "cite": "Coxe",
+  "old_cites": "Coxe / Coxe 1815",
+  "iss_vol_start": 1,
+  "iss_vol_end": 5,
+  "type": "print",
+  "prim": null,
+  "lbd": "1815",
+  "upd": "1815",
+  "title": "Memoirs of the kings of Spain of the House of Bourbon, from the accession of Philip V. to the death of Charles III. 1700 to 1788. Drawn from the original and unpublished documents",
+  "description": "vol 1 to 5 of 5 / 2nd ed",
+  "imprint": "London: Longman, Hurst, Rees, Orme, and Brown",
+  "catalogue0": "https://www.google.com/books/edition/Memoirs_of_the_Kings_of_Spain_of_the_Hou/sUAUAAAAYAAJ",
+  "catalogue1": "http://id.lib.harvard.edu/alma/990045000160203941/catalog",
+  "catalogue2": null,
+  "versions": [],
+  "note": "First published 1813\n 1798 Memoirs of the life and administration of Sir Robert Walpole [London, in 3 vols, 1st ed, http://id.lib.harvard.edu/alma/990124127450203941/catalog] / 1800 Memoirs ... Walpole [Lonodn, in 3 vols, 2nd ed, http://id.lib.harvard.edu/alma/990124882770203941/catalog] / 1813 Memoirs of the Kings of Spain [London, TC Hansard for Longman Hurst et al, 1813, in 3 vols, 1st ed, NOT IN HOLLIS]",
+  "via": "harv"
+}

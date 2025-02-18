@@ -18,3 +18,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s65",
+  "cite": "PT",
+  "old_cites": "PT / PATRONATO,zzz",
+  "iss_vol_start": 1,
+  "iss_vol_end": 296,
+  "type": "manuscript",
+  "prim": true,
+  "lbd": "1480",
+  "upd": "1801",
+  "title": "Patronato Real",
+  "description": "307 legajos",
+  "imprint": null,
+  "catalogue0": null,
+  "catalogue1": null,
+  "catalogue2": "http://pares.mcu.es/ParesBusquedas20/catalogo/description/1916099",
+  "versions": [],
+  "note": "307 Legajo(s) .  (legajos 1-296; de ellos, 66, 78, 90, 95, 97, 98, 103, 104, 222 y 230 y 296 en 2 unidades físicas).",
+  "via": "harv"
+}

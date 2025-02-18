@@ -24,3 +24,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s400",
+  "cite": "Curry",
+  "old_cites": "Curry / Curry 1956",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "article",
+  "prim": null,
+  "lbd": "1956",
+  "upd": null,
+  "title": "British Honduras: From Public Meeting to Crown Colony",
+  "description": null,
+  "imprint": "The Americas. 13 (1): 31–42",
+  "catalogue0": "http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/979212",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

@@ -24,3 +24,23 @@
   "url": "https://hdl.handle.net/2027/txu.059173022907279",
   "via": "v-1.4"
 }
+{
+  "id": "s770",
+  "cite": "Asturias",
+  "old_cites": "Asturias 1925",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "print",
+  "prim": null,
+  "lbd": "1925",
+  "upd": null,
+  "title": "Belice",
+  "description": "vol 1 of 1 / 1st ed",
+  "imprint": "Guatemala: Sociedad de Geografía é Historia de Guatemala",
+  "catalogue0": "https://hdl.handle.net/2027%2Ftxu.059173022907279",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

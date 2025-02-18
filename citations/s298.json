@@ -24,3 +24,23 @@
   "url": "http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/40852876",
   "via": "v-1.4"
 }
+{
+  "id": "s298",
+  "cite": null,
+  "old_cites": "Baudot",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "article",
+  "prim": false,
+  "lbd": "1986",
+  "upd": null,
+  "title": "Dissidences indiennes et complicités flibustières dans le Yucatán du XVII e siècle",
+  "description": null,
+  "imprint": "Cahiers du monde hispanique et luso-brésilien. 46: 21–33",
+  "catalogue0": "https://doi.org/10.3406%2Fcarav.1986.2260",
+  "catalogue1": "https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_persee_primary_oai_persee_article_carav_0008_0152_1986_num_46_1_2260",
+  "catalogue2": null,
+  "versions": [],
+  "note": null,
+  "via": "harv"
+}

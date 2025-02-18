@@ -24,3 +24,23 @@
   "url": "http://resources.huygens.knaw.nl/retroboeken/nnbw/ ",
   "via": "v-1.4"
 }
+{
+  "id": "s782",
+  "cite": null,
+  "old_cites": "Dutch DNB",
+  "iss_vol_start": null,
+  "iss_vol_end": null,
+  "type": "other",
+  "prim": false,
+  "lbd": "2010",
+  "upd": null,
+  "title": "Dutch DNB",
+  "description": null,
+  "imprint": null,
+  "catalogue0": "http://www.biografischportaal.nl",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "references = http://www.biografischportaal.nl/en/faq/about/collecties",
+  "via": "harv"
+}

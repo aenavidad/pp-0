@@ -370,15 +370,18 @@
         - [ ] by type[^cruise during raid vs sans raid, etc]
 ### cleanup citations[^for easier lit review/data]
 - [x] assign ids[^keep `.v-1.4_id`, keep *lower* `.v-1.4_id` in case record has > 1 of same odd/even type, plus assign odd ids > 583 for deposited series or collections, and even > 1628 else - assigned 7 odds s585 to s597, and 342 evens s1630 to s2312]
-- [x] get all records into `/citations`
+- [x] get all records into `/citations`[^ought to have 1567 records (460 harv, 1107 v-1.4), but got 1456 (349 harv, 1107 v-1.4)- so 111 harv duplicate overwritten by their v-1.4 sources (as v-1.4 extracted after harv)]
 - [ ] get urls, old short cites into single arrays
 - [x] add .versions array for versions
 - [ ] delete null values
 - [ ] fix cite values for `v-1.4`[^all to `.old_cites`]
-- [ ] delete/merge duplicates[^keep harv values]
+- [ ] delete/merge duplicates[^currently 109 harv—v1.4 duplicates in `citations.json` (with only their v-1.4 copies in `/citations`) and 1 triplicate in `citations.json` (`s526`)]
+    - [x] recover `citations/s526.json` triplicate[^had 2 harv copies, 1 v-1.4 copy in `citations.json` - copied missing copies to `citations/s526.json` in invalid structure]
+    - [x] copy missing harv records for 109 duplicates
+    - [x] all harv and v-1.4 copies from `citations.json` now in `/citations`
 - [ ] merge separate items which are versions of one another
 - [ ] write readme
-- [ ] remove `citations.json`
+- [x] remove `citations.json`
 
 
 ## prior log

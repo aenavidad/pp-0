@@ -18,3 +18,23 @@
   "url": null,
   "via": "v-1.4"
 }
+{
+  "id": "s223",
+  "cite": "ADM",
+  "old_cites": null,
+  "iss_vol_start": 1,
+  "iss_vol_end": 363,
+  "type": "manuscript",
+  "prim": true,
+  "lbd": "1205",
+  "upd": "1998",
+  "title": "Records of the Admiralty, Naval Forces, Royal Marines, Coastguard, and related bodies",
+  "description": "363 series",
+  "imprint": null,
+  "catalogue0": "https://discovery.nationalarchives.gov.uk/details/r/C4",
+  "catalogue1": null,
+  "catalogue2": null,
+  "versions": [],
+  "note": "See ADM 7/837/(iii) [Remarks on that Part of the Bay of Honduras where the English Cut Logwood 1765 R Hodgson, http://www.globalcommodities.amdigital.co.uk.ezp-prod1.hul.harvard.edu/Documents/Details/ADM_ 7_837_III]",
+  "via": "harv"
+}

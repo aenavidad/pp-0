@@ -391,8 +391,28 @@
         - [x] ca 180 in other fields
     - [x] ~~vars in `/citations`~~[^ignore for now]
     - [x] none in `/incidents`[^iirc]
-    - [ ] ca 200 short cites need checking in `/citations`[^stored in untracked `scrap.txt`]
+    - [x] ca 200 short cites need checking in `/citations`[^stored in untracked `scrap.txt`]
 
+### update readmes
+- [x] add source files to readmes
+    - [x] in `/events`
+    - [x] in `/cartas`
+    - [x] in `/citations` - added
+    - [x] ~~in `/incidents`~~[^not imported]
+- [x] check file lengths[^1 = single object]
+    - [x] in `/events` - all of 1
+    - [x] in `/cartas` - all of 1
+    - [x] in `/citations` - 1 of 3, 109 of 2, rest of 1
+    - [x] in `/incidents` - all of 1
+
+### add literature review stuff
+- [x] figure out prior log of lit/discordance review[^not incl notes/citations in corresponding chronicle data ie incl only dedicated/explicit/structured lit/discordance review]
+    - [x] in `/pre-git-hist` - vars[^per `events.txt`, looks like first appears in `files/wiki/Draft-English_settling*.xml` written 26 Apr 2022, next (in spirit only) in `blue/analysis or state of historiography.rtf` fm 2 Jul 2022, next (more copy than data really) in `purp/disc amb 1.1*` fm 7 Jul 2022, then in `purp/1638 series 1.2 Discordance*.tsv` fm 9 Jul 2022, then in `purp/1638 series 1.5 Discordance*.tsv` fm 18 Jul 2022, then in `purp/1638 series 1.5 safe copy Discordance*.tsv` saved 20 Jul 2022, plus prolly `purp/1638 art 1.1.tex` fm 21 Jul 2022, and desposited `harv/1638 series*.tsv` on 3 Aug 2022]
+    - [x] in `/historical-series-re-Belize`
+        - [x] in `/work/*-22` - none
+        - [x] in `/work/*-23` - none
+        - [x] in `/work/*-24` - none
+- [ ] write prior log, and extract latest version to `json`
 
 ## prior log
 ### any cartas

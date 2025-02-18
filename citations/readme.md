@@ -1,6 +1,6 @@
 # pp-0 > citations
 ## abstract
-imported bibliographic data
+imported full citations
 ## navigation
 - `s*.json` individual record
 
@@ -11,7 +11,7 @@ imported bibliographic data
 | `id` | string | c_ | unique identifier |
 | `cite` | string | - | preferred short citation |
 | `old_cites` | array[^of strings] | - | old short citations |
-| `type` | string | - | sort of record |
+| `type` | string | - | sort of record[^other, manuscript, serial, print, thesis, article] |
 | `prim` | boolean | - | is this a primary source? |
 | `lbd` | string | - | earliest publication or creation date |
 | `upd` | string | - | latest publication or creation date |

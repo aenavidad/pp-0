@@ -413,6 +413,9 @@
         - [x] in `/work/*-23` - none
         - [x] in `/work/*-24` - none
 - [ ] write prior log, and extract latest version to `json`
+    - [x] added prior log
+    - [ ] extract latest version from files
+    - [ ] cross check vs wiki for missg records
 
 ## prior log
 ### any cartas
@@ -421,9 +424,11 @@
 * no work since then
 ### certain events[^17th cent piracy- or defence-against-piracy events in Hond Bay]
 * in `v-1.4`, first written by 14 feb 2021, last updated 31 oct 2021 still in belmopan, cy[^varids 212 and 5 and 4, not counting 1638 settlement incident noted sans citation in earlier files]
-* then worked on 18 apr 2022 to 3 aug 2022 in boston, ma[^ discounting (on a hunch) `red/prelim rep bz 1.4 WORK *.tsv` and counting `wiki/Timeline_of_piracy_in_the_Bay_of_Honduras.xml` (think it has original records), through prev listed files up to `harv/1638*.tsv`]
+* then worked on 18 apr 2022 to 3 aug 2022 in boston, ma[^ discounting (on a hunch) `red/prelim rep bz 1.4 WORK *.tsv` and counting `wiki/Timeline_of_piracy_in_the_Bay_of_Honduras.xml` (think it has original records), through prev listed files up to `harv/1638*.tsv` - but relevant events in wiki article worked up to 10 oct 2022]
 * no work since then
-
+### any literature
+* in `v-1.4`, none
+* then worked 26 apr 2022 to 3 aug 2022 in boston, ma[^in `files/wiki/Draft-English_settling*.xml` through prev listed files up to `harv/1638 series*.tsv`, but wiki article worked up to 14 nov 2022]
 
 ## history
 written 23 dec 2024 in benque, cy

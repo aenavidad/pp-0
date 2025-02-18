@@ -2,7 +2,7 @@
 ## abstract
 imported full citations
 ## navigation
-- `s*.json` individual record
+- `s*.json` individual record[^from `historical-series-re-Belize/v-1.4/Sources*.tsv` if tagged `v-1.4` and `pre-git-hist/files/harv/1638 sources*.tsv` if tagged `harv`]
 
 ## dictionary
 ### json
@@ -10,12 +10,12 @@ imported full citations
 |:--|:--|:--|:--|
 | `id` | string | c_ | unique identifier |
 | `cite` | string | - | preferred short citation |
-| `old_cites` | array[^of strings] | - | old short citations |
+| `old_cites` | array | strings | old short citations |
 | `type` | string | - | sort of record[^other, manuscript, serial, print, thesis, article] |
 | `prim` | boolean | - | is this a primary source? |
 | `lbd` | string | - | earliest publication or creation date |
 | `upd` | string | - | latest publication or creation date |
-| `versions` | array[^of objects] | - | versions, formats, editions of record |
+| `versions` | array | objects | versions, formats, editions of record |
 | `note` | string | - | note |
 | `via` | string | - | source |
 

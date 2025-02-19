@@ -428,10 +428,11 @@
             - [x] missing no 3 Roys s396
             - [x] missg no 17 G Diaz s2270
             - [x] missg no 18 C Quijano s418
-        - [ ] add missg quotes above to `/citations`[^w no `via` values]
+        - [x] add missg quotes above to `/citations`[^w no `via` values]
             - [x] files added
-            - [ ] check wiki xml to see if tag is `wiki`
-        - [ ] eck for all `missg` sources cited in wiki table
+            - [x] check wiki xml to see if tag is `wiki` - none present
+        - [ ] check for all sources cited in wiki table[^ignored most instances of sources already in `/citations`] - 13 missing from `/citations`
+            - [x] add 3 sources to existing files
 
 ## prior log
 ### any cartas

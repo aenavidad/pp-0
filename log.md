@@ -412,7 +412,7 @@
         - [x] in `/work/*-22` - none
         - [x] in `/work/*-23` - none
         - [x] in `/work/*-24` - none
-- [ ] write prior log, and extract latest version to `json`
+- [x] write prior log, and extract latest version to `json`
     - [x] added prior log
     - [x] extract latest version from files[^140 from 45 sources from `harv/1638 series*.tsv` - `d*` quote ids ignored in favour of corresponding `s*` source ones]
     - [x] write `/literature/readme.md`
@@ -423,7 +423,7 @@
         - [x] `1n` and `1p` - 1 and 17 swapped
         - [x] `2n` and `2p` - 16 and 23 swapped
         - [x] import into `/literature`
-    - [ ] cross check vs wiki for missg records
+    - [x] cross check vs wiki for missg records
         - [x] check for all 23 quotes in wiki table[^vars present in `/citations` but missg `upd`/`lbd`/`desc` values from wiki]
             - [x] missing no 3 Roys s396
             - [x] missg no 17 G Diaz s2270
@@ -431,9 +431,10 @@
         - [x] add missg quotes above to `/citations`[^w no `via` values]
             - [x] files added
             - [x] check wiki xml to see if tag is `wiki` - none present
-        - [ ] check for all sources cited in wiki table[^ignored most instances of sources already in `/citations`] - 13 missing from `/citations`
+        - [x] check for all sources cited in wiki table[^ignored most instances of sources already in `/citations`] - 13 missing from `/citations`
             - [x] add 3 sources to existing files[^missing actual quotes]
-            - [ ] add 10 sources to new files[^info in `scrap.txt` under `###` line]
+            - [x] add 10 sources to new files[^missg actual quotes - plus added `citations/s2314.json` for new non-deposited source (Parsons) with `via:null`]
+- [ ] fill in missg values
 
 ## prior log
 ### any cartas

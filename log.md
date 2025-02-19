@@ -424,6 +424,14 @@
         - [x] `2n` and `2p` - 16 and 23 swapped
         - [x] import into `/literature`
     - [ ] cross check vs wiki for missg records
+        - [x] check for all 23 quotes in wiki table[^vars present in `/citations` but missg `upd`/`lbd`/`desc` values from wiki]
+            - [x] missing no 3 Roys s396
+            - [x] missg no 17 G Diaz s2270
+            - [x] missg no 18 C Quijano s418
+        - [ ] add missg quotes above to `/citations`[^w no `via` values]
+            - [x] files added
+            - [ ] check wiki xml to see if tag is `wiki`
+        - [ ] eck for all `missg` sources cited in wiki table
 
 ## prior log
 ### any cartas

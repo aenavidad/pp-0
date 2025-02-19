@@ -443,6 +443,10 @@
     - [x] found 1 from prior recollection
     - [x] found 0 citations in `e341`, 5 in  `‌e399`
 - [ ] update `/literature` files from above gathered `in` values
+    - [x] for Campbell aa
+    - [ ] for G Diaz
+    - [ ] for C Quijano
+    - [ ] for V Barke aa
 - [ ] add missg `/literature` files from above
 - [x] update `/citations` files as needed per above[^plus added `citations/s2318.json` with `via:null`]
 - [ ] fill in missg `/literature` values

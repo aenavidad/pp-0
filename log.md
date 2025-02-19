@@ -445,8 +445,8 @@
 - [ ] update `/literature` files from above gathered `in` values
     - [x] for Campbell aa
     - [ ] for G Diaz
-    - [ ] for C Quijano
-    - [ ] for V Barke aa
+    - [x] for C Quijano[^`in` values only]
+    - [x] for V Barke aa [^`in` values only]
 - [ ] add missg `/literature` files from above
 - [x] update `/citations` files as needed per above[^plus added `citations/s2318.json` with `via:null`]
 - [ ] fill in missg `/literature` values

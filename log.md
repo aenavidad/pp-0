@@ -416,6 +416,13 @@
     - [x] added prior log
     - [x] extract latest version from files[^140 from 45 sources from `harv/1638 series*.tsv` - `d*` quote ids ignored in favour of corresponding `s*` source ones]
     - [x] write `/literature/readme.md`
+    - [x] replace `.att` values with boolean ones
+        - [x] null - 67 swapped
+        - [x] `0` and `1` and `2` - 15 and 0 and 0 swapped
+        - [x] `0n` and `0p` - 1 and 0 swapped
+        - [x] `1n` and `1p` - 1 and 17 swapped
+        - [x] `2n` and `2p` - 16 and 23 swapped
+        - [x] import into `/literature`
     - [ ] cross check vs wiki for missg records
 
 ## prior log

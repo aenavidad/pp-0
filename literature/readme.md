@@ -23,7 +23,9 @@ extracted calendar data
 | `quote_n` | string | - | `quote` notes |
 | `locn` | string | - | location of incident or event or act in `quote` |
 | `act` | string | - | short description of incident in `quote`[^ideally in agent-action format] |
-| `att` | string | - | authors attitude towards claim in `quote`[^string of `[012][np]?` where `0` is no qualification, `1` at least some qualification, `2` uncertain or undiscernible qualification, `n` disagreement or rejection, `p` agreement or acceptance, and no letter character for uncertain or undiscernible attitude] |
+| ~~`att`~~ | ~~string~~ | ~~-~~ | ~~authors attitude towards claim in `quote`[^string of `[012][np]?` where `0` is no qualification, `1` at least some qualification, `2` uncertain or undiscernible qualification, `n` disagreement or rejection, `p` agreement or acceptance, and no letter character for uncertain or undiscernible attitude]~~ |
+| `accept` | boolean | - | does author accept claim in `quote`?[^`true` for `p` in `att`, `false` for `n` in `att`, `null` else] |
+| `qualify` | boolean | - | does author qualify claim in `quote`?[^`true` for `1` in `att`, `false` for `0` in `att`, `null` else] |
 | `lbd` | string | - | lower bound of incident in `quote` |
 | `upd` | string | - | upper bound of incident in `quote` |
 | `date` | string | - | date of incident in `quote`[^as given by author] |

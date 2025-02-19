@@ -1,7 +1,7 @@
 {
   "id": "s2138",
   "cite": null,
-  "old_cites": null,
+  "old_cites": "Graham",
   "iss_vol_start": null,
   "iss_vol_end": null,
   "type": "print",
@@ -15,6 +15,6 @@
   "catalogue1": null,
   "catalogue2": null,
   "versions": [],
-  "note": null,
+  "note": "duplicate of s134",
   "via": "harv"
 }

@@ -1,7 +1,7 @@
 {
   "id": "s2258",
   "cite": null,
-  "old_cites": "Rubio Alpuche 1894",
+  "old_cites": "Rubio Alpuche 1894 / Rubio B / Rubio, Bel",
   "iss_vol_start": null,
   "iss_vol_end": null,
   "type": "print",
@@ -15,6 +15,6 @@
   "catalogue1": "http://id.lib.harvard.edu/alma/990059021220203941/catalog",
   "catalogue2": null,
   "versions": [],
-  "note": null,
+  "note": "duplicate of s800",
   "via": "harv"
 }

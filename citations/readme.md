@@ -8,7 +8,7 @@ imported full citations
 ### json
 | var | type | values | note |
 |:--|:--|:--|:--|
-| `id` | string | c_ | unique identifier |
+| `id` | string | s_ | unique identifier |
 | `cite` | string | - | preferred short citation |
 | `old_cites` | array | strings | old short citations |
 | `type` | string | - | sort of record[^other, manuscript, serial, print, thesis, article] |

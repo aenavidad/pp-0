@@ -444,8 +444,8 @@
     - [x] found 0 citations in `e341`, 5 in  `‌e399`
 - [ ] update `/literature` files from above gathered `in` values
 - [ ] add missg `/literature` files from above
-- [ ] update `/citations` files as needed per above
-- [ ] fill in missg values
+- [x] update `/citations` files as needed per above[^plus added `citations/s2318.json` with `via:null`]
+- [ ] fill in missg `/literature` values
 
 ## prior log
 ### any cartas

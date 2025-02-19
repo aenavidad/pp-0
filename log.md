@@ -415,7 +415,7 @@
 - [ ] write prior log, and extract latest version to `json`
     - [x] added prior log
     - [x] extract latest version from files[^140 from 45 sources from `harv/1638 series*.tsv` - `d*` quote ids ignored in favour of corresponding `s*` source ones]
-    - [ ] write `/literature/readme.md`
+    - [x] write `/literature/readme.md`
     - [ ] cross check vs wiki for missg records
 
 ## prior log

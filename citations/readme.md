@@ -1,8 +1,8 @@
 # pp-0 > citations
 ## abstract
-imported full citations
+imported and generated full citations
 ## navigation
-- `s*.json` individual record[^from `historical-series-re-Belize/v-1.4/Sources*.tsv` if tagged `v-1.4` and `pre-git-hist/files/harv/1638 sources*.tsv` if tagged `harv`]
+- `s*.json` individual record[^from `historical-series-re-Belize/v-1.4/Sources*.tsv` if tagged `v-1.4` and `pre-git-hist/files/harv/1638 sources*.tsv` if tagged `harv`, else generated]
 
 ## dictionary
 ### json

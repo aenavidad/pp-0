@@ -433,7 +433,12 @@
             - [x] check wiki xml to see if tag is `wiki` - none present
         - [x] check for all sources cited in wiki table[^ignored most instances of sources already in `/citations`] - 13 missing from `/citations`
             - [x] add 3 sources to existing files[^missing actual quotes]
-            - [x] add 10 sources to new files[^missg actual quotes - plus added `citations/s2314.json` for new non-deposited source (Parsons) with `via:null`]
+            - [x] add 10 sources to new files[^missg actual quotes - plus added `citations/s2314.json` for new non-deposited source (Parsons) with `via:null`, and flagged duplicate in `note`]
+    - [ ] check `harv` and live wiki references to get missg sources not yet cited in live wiki nor `/literature`
+        - [x] found 6 - check `/citations` files are there and update[^plus added `s2316.json` for non-deposited `via:null`, and flagged duplicate in `note`]
+- [ ] check other places for missing `/literature` files
+    - [ ] prior rdgs extracted to Notes/iA Writer
+    - [ ] citations to B-Thomas, Restall aa  
 - [ ] fill in missg values
 
 ## prior log

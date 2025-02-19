@@ -434,11 +434,17 @@
         - [x] check for all sources cited in wiki table[^ignored most instances of sources already in `/citations`] - 13 missing from `/citations`
             - [x] add 3 sources to existing files[^missing actual quotes]
             - [x] add 10 sources to new files[^missg actual quotes - plus added `citations/s2314.json` for new non-deposited source (Parsons) with `via:null`, and flagged duplicate in `note`]
-    - [ ] check `harv` and live wiki references to get missg sources not yet cited in live wiki nor `/literature`
-        - [x] found 6 - check `/citations` files are there and update[^plus added `s2316.json` for non-deposited `via:null`, and flagged duplicate in `note`]
-- [ ] check other places for missing `/literature` files
-    - [ ] prior rdgs extracted to Notes/iA Writer
-    - [ ] citations to B-Thomas, Restall aa  
+    - [x] check `harv` and live wiki references to get missg sources not yet cited in live wiki nor `/literature`
+        - [x] found 6 in wiki - check `/citations` files are there and update[^plus added `s2316.json` for non-deposited `via:null`, and flagged duplicate in `note`]
+        - [x] found 7 in `harv`[^added to `scrap.txt`]
+- [x] check other places for missing `/literature` files[^added to `scrap.txt`]
+    - [x] found 2 in prior rdgs extracted to Notes/iA Writer[^listed in `historical-series-re-Belize/work/dec-22/` - note, vars events (and therefore incidents) missg from sources linked here]
+    - [x] found 0 in citations to B-Thomas, Restall aa
+    - [x] found 1 from prior recollection
+    - [x] found 0 citations in `e341`, 5 in  `‌e399`
+- [ ] update `/literature` files from above gathered `in` values
+- [ ] add missg `/literature` files from above
+- [ ] update `/citations` files as needed per above
 - [ ] fill in missg values
 
 ## prior log
@@ -449,7 +455,7 @@
 ### certain events[^17th cent piracy- or defence-against-piracy events in Hond Bay]
 * in `v-1.4`, first written by 14 feb 2021, last updated 31 oct 2021 still in belmopan, cy[^varids 212 and 5 and 4, not counting 1638 settlement incident noted sans citation in earlier files]
 * then worked on 18 apr 2022 to 3 aug 2022 in boston, ma[^ discounting (on a hunch) `red/prelim rep bz 1.4 WORK *.tsv` and counting `wiki/Timeline_of_piracy_in_the_Bay_of_Honduras.xml` (think it has original records), through prev listed files up to `harv/1638*.tsv` - but relevant events in wiki article worked up to 10 oct 2022]
-* no work since then
+* no work since then[^missg vars from `historical-series-re-Belize/work/dec-22/` as of 19 feb 2025 1.24 pm]
 ### any literature
 * in `v-1.4`, none
 * then worked 26 apr 2022 to 3 aug 2022 in boston, ma[^in `files/wiki/Draft-English_settling*.xml` through prev listed files up to `harv/1638 series*.tsv`, but wiki article worked up to 14 nov 2022]

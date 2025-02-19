@@ -1,0 +1,44 @@
+{
+  "id": "s372",
+  "cite": "Craig",
+  "note": null,
+  "via": "harv",
+  "quotes": [
+    {
+      "in": "p 55",
+      "quote": "Like many another author, Lindsay W. Bristowe and Philip B. Wright repeat without citation the story that the first inhabitants of British Honduras were survivors of a shipwreck in 1638 [1, p. 25]. So far, concrete evidence of this oft-mentioned wreck has not come to the attention of the writer.",
+      "quote_n": "Quote content from Hon Hnd for 1890-91 p 25",
+      "locn": "Hon",
+      "act": "shipwreck survivors first inhabit",
+      "att": "0",
+      "lbd": "1638",
+      "upd": "1638",
+      "date": "in 1638",
+      "note": null
+    },
+    {
+      "in": "p 55",
+      "quote": "Parsons suggests that Captain Wallis was a Providence Island Puritan who was followed by a sizeable contingent of refugee settlers that arrived in British Honduras in 1641 as a result of Spanish attack and capture of Providence [15, p, 6].",
+      "quote_n": "Quote content from J. J. Parsons, San Andrés and Provicencia English-speaking islands in the western Caribbean, Los Angeles, 1956, p 6",
+      "locn": "Hon",
+      "act": "Old Prov puritan and sizeable contingent of refugee settlers arrive",
+      "att": "0",
+      "lbd": "1641",
+      "upd": "1641",
+      "date": "in 1641 / after Spanish capture of Old Prov",
+      "note": null
+    },
+    {
+      "in": "p 55",
+      "quote": "The first settlement in the Bay of Honduras is commonly attributed to a certain Captain Peter Wallis of the Moskito shore. He is generally believed to have established a small camp or base at the mouth of a river in what is now British Honduras sometime during the year 1640. His exact motives for choosing this location are not a matter of record. In view of the fact that the extensive backswamps on either side of this river contained vast quantities of logwood, it seems likely that he arrived there on a cutting expedition. His name was given both to the settlement and the river, being progressively corrupted to VALLIS and finally BELIZE.",
+      "quote_n": null,
+      "locn": "Old R",
+      "act": "Shoremen establish small camp or base likely for logwood cutting",
+      "att": "0",
+      "lbd": "1640",
+      "upd": "1640",
+      "date": "during the year 1640",
+      "note": null
+    }
+  ]
+}

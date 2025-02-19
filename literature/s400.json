@@ -1,0 +1,32 @@
+{
+  "id": "s400",
+  "cite": "Curry",
+  "note": null,
+  "via": "harv",
+  "quotes": [
+    {
+      "in": "p 32",
+      "quote": "The Guatemalan authority, Francisco Asturias, is inclined to give credit [for first Hon settlement] to Peter Wallace, an English buccaneer and Sir Walter Raleigh's first lieutenant, and to place the foundation in 1603.",
+      "quote_n": "Quote content from Asturias aa p 12 / It is not certain when the first settlement was made or who estab- lished it. /v Curry p 32",
+      "locn": "Hon",
+      "act": "English buccaneer and first lieutenant founds first settlement",
+      "att": "0",
+      "lbd": "1603",
+      "upd": "1603",
+      "date": "in 1603",
+      "note": null
+    },
+    {
+      "in": "p 32",
+      "quote": "Major Sir John Burdon, a recent governor of the colony, suggested that a Scot corsair chief, Wallace (or Willis), ex-governor of Tortuga, settled there in 1638.",
+      "quote_n": "Quote content from Burdon 1 p [missg] / It is not certain when the first settlement was made or who estab- lished it. /v Curry p 32",
+      "locn": "Hon or Old R",
+      "act": "Scot corsair chief settles",
+      "att": "0",
+      "lbd": "1638",
+      "upd": "1638",
+      "date": "in 1638 / after period as governor of Tortuga",
+      "note": null
+    }
+  ]
+}

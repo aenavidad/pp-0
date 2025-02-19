@@ -1,0 +1,80 @@
+{
+  "id": "s414",
+  "cite": "Donohoe",
+  "note": null,
+  "via": "harv",
+  "quotes": [
+    {
+      "in": "p 28",
+      "quote": "The 1839 and 1827 Almanacks give the founder of this settlement as Wallace.",
+      "quote_n": "No contemporary authorities for the local statements [in Hon Alm] have as yet been discovered. /v Donohoe p 28",
+      "locn": "Hon or Old R",
+      "act": "Wallace founds settlement",
+      "att": "0",
+      "lbd": null,
+      "upd": null,
+      "date": null,
+      "note": null
+    },
+    {
+      "in": "p 28",
+      "quote": "The 1829 Almanack states that the first British settlement was made in 1638 by shipwrecked sailors.",
+      "quote_n": "No contemporary authorities for the local statements [in Hon Alm] have as yet been discovered. /v Donohoe p 28",
+      "locn": "Hon or Old R",
+      "act": "shipwrecked sailors make first British settlement",
+      "att": "0",
+      "lbd": "1638",
+      "upd": "1638",
+      "date": "in 1638",
+      "note": null
+    },
+    {
+      "in": "p 27",
+      "quote": "Bancroft in his History of Central America states that Wallace arrived with 80 men at the Belize River.",
+      "quote_n": "The records that have survived tell nothing of his [Wallace's] arrival [to Hon] or the Early settlement but only of his return and [start p 28] death in 1621. /v Donohoe pp 27-28",
+      "locn": "Old R",
+      "act": "Wallace with 80 men arrive",
+      "att": "0",
+      "lbd": null,
+      "upd": null,
+      "date": null,
+      "note": null
+    },
+    {
+      "in": "p 28",
+      "quote": "In 1638 a number of settlers arrived from Jamaica to join the [Hon] settlement. For the next thirty years adventurers of all nations joined the outlaw group.",
+      "quote_n": "NOT INITIAL SETTLEMENT CLAIM 17 JUL 2022",
+      "locn": null,
+      "act": null,
+      "att": "2p",
+      "lbd": null,
+      "upd": null,
+      "date": null,
+      "note": null
+    },
+    {
+      "in": "p 27",
+      "quote": "A century after the discovery of America, a period during which time Balboa discovered the Pacific, and Cortez sacked the Aztec kingdom in Mexico, Peter Wallace, the pirate, to escape from the Spaniards, entered the mouth of a river on the Bay of Honduras, establishing the first settlement.",
+      "quote_n": "Donohoe cap 2 entitled History 1603—1799 /v Donohoe p 27 / The records that have survived tell nothing of his [Wallace's] arrival [to Hon] or the Early settlement but only of his return and [start p 28] death in 1621. /v Donohoe pp 27-28",
+      "locn": "Hon or Old R",
+      "act": "pirate establishes first settlement",
+      "att": "2p",
+      "lbd": null,
+      "upd": null,
+      "date": "a century after discovery of America",
+      "note": null
+    },
+    {
+      "in": "p 27",
+      "quote": "According to Asturias, the Guatemalan historian, Wallace was in Belize in 1617, after having, according to Spanish authorities, left on May 14, 1603, with six ships from England.",
+      "quote_n": "Donohoe cap 2 entitled History 1603—1799 /v Donohoe p 27 / The records that have survived tell nothing of his [Wallace's] arrival [to Hon] or the Early settlement but only of his return and [start p 28] death in 1621. /v Donohoe pp 27-28",
+      "locn": "Hon or Old R",
+      "act": "Wallace is in",
+      "att": "1p",
+      "lbd": "1603",
+      "upd": "1617",
+      "date": "after departure from England in 1603 / before or during 1617",
+      "note": null
+    }
+  ]
+}

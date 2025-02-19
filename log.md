@@ -432,7 +432,8 @@
             - [x] files added
             - [x] check wiki xml to see if tag is `wiki` - none present
         - [ ] check for all sources cited in wiki table[^ignored most instances of sources already in `/citations`] - 13 missing from `/citations`
-            - [x] add 3 sources to existing files
+            - [x] add 3 sources to existing files[^missing actual quotes]
+            - [ ] add 10 sources to new files[^info in `scrap.txt` under `###` line]
 
 ## prior log
 ### any cartas

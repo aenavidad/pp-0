@@ -6,15 +6,15 @@
   "quotes": [
     {
       "in": "no 375 for 27 May 1732 p 3 para [missg]",
-      "quote": "As to the State of the Bay of Honduras, I shall give it you as briefly as possible. The ancient City of Bacalar, situate in that Part of the Province of Yucatan, which lies on the Bay of Honduras, wsa twice sack'd, and at last totally ruined by the English many Years ago; on which the Logwood-Cutters of that Nation, who had settled on the River of Valis, possessed themselves of the New River and that of the Hondo; which last is distant from the Ruins of Bacalar about five Leagus. Here they built a great many Houses and Hutts, and employ'd Multitudes of Negroes in cutting Logwood, which was transported to Jamaica and Europe by Numbers of Vessels trading from thence to the Bay.",
-      "quote_n": "FURTHER EVENTS TO ADD 20 JUL 2022 / 16th-17th century sackings of Bacalar occurred in sd sd 15[missg] / sd sd 1617 / sd sd 1642 / sd sd 1648 / 29 May 1652 /v [missg]",
-      "locn": "Bacalar et Bay of Honduras et New and Hondo Rivers et River of Valis",
-      "act": "the English et Logwood-Cutters of that Nation at last totally ruin the City et possess themselves of New and Hondo Rivers having settled on River of Valis et built a great many Houses and Hutts et employ’d Multitudes of Negroes in cutting Logwood",
-      "accept": null,
-      "qualify": null,
-      "lbd": "1617",
-      "upd": "1652",
-      "date": "prior to Bacalar sacking",
+      "quote": "As to the State of the Bay of Honduras, I shall give it you as briefly as possible. The ancient City of Bacalar, situate in that Part of the Province of Yucatan, which lies on the Bay of Honduras, was twice sack'd, and at last totally ruined by the English many Years ago; on which the Logwood-Cutters of that Nation, who had settled on the River of Valis, possessed themselves of the New River and that of the Hondo; which last is distant from the Ruins of Bacalar about five Leagus. Here they built a great many Houses and Hutts, and employ'd Multitudes of Negroes in cutting Logwood, which was transported to Jamaica and Europe by Numbers of Vessels trading from thence to the Bay.",
+      "quote_n": null,
+      "locn": "Old R",
+      "act": "English Logwood-Cutters settled",
+      "accept": true,
+      "qualify": false,
+      "lbd": null,
+      "upd": null,
+      "date": "prior to when Bacalar was twice sacked",
       "note": null
     }
   ]

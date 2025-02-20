@@ -22,26 +22,26 @@
       "quote": "El 7 de Marzo de 1604 fué reconocido el puerto de Santo Tomas de Castilla por el Alcalde 1º. don Esteban de Alvarado, y el regidor don Carlos Vasquez de Coronado, destinándose para estos gastos 1250 tostones, de fondos propios. A este descubrímiento se le dió mucha importancia, como en realidad la merecía, ya que acortaba en mucho la distancia a la capital, comparada con Puerto-Caballos y la Caldera, en Punta de Castilla; se abrió un camino por las montañas de Esquipulas y Chiquimula, que nunca pasó de ser muy malo y que mas tarde motivó el abandono de tan hermoso puerto. La Población de Puerto-Caballos y una tribu de indios, los Toqueguas o Loquehuas, compuesta como de 200 fueron trasladados a Santo Tomas. [new para] Por este tiempo se estableció la flotilla de Honduras, compuesta de dos buques, y es muy probable que tambien por este tiempo haya llegado Wallace a la desembocadura del rio Viejo y establecido la ranchería que mas tarde se llamó Belice. [new para] En 1607 el conde Mauricio, al mando de ocho naves holandesas asaltó Santo Tomas, le robó 8.000 dineros y despues lo incenció. [new para] En 1633 se suprime la flotilla de Honduras y se dispone que las dos naves que la componían se agreguen a la flota de Nueva España, y en 1636 se establece el derecho a la exportación llamado de barlovento, porque estaba consignado al sostenimiento de la celebre flota de barlovento, que costó muchos dineros y no sirvió de nada.",
       "quote_n": null,
       "locn": "Old R",
-      "act": "llegar a la desembocadura y establecer ranchería",
+      "act": "Wallace llega a la desembocadura y establece ranchería",
       "accept": true,
       "qualify": true,
-      "lbd": "1604",
-      "upd": "1607",
-      "date": "después de reconocido el puerto de Santo Tomas de Castilla / por este tiempo [est de flotilla de Honduras] / antes de asalto holandés del conde Mauricio y ocho naves a Sto Tomas",
+      "lbd": null,
+      "upd": null,
+      "date": "después de reconocido el puerto de Santo Tomas en 1604 / por este tiempo [ca est de flotilla de Honduras] / antes de asalto holandés del conde Mauricio y ocho naves a Sto Tomas en 1607",
       "note": null
     },
     {
       "in": "pp 8-9",
       "quote": "[A]unque algunos creen que Wallace se instaló en Belice hasta el año 1617, es probable que esto haya ocurrido antes. Con el oro obtenido en Cadiz y, probablemente aumentado en otras correrías, Wallace compró seis buques que los tripuló con la gente mas desalmada de Londres y se dirigió a América el dia 14 de Mayo de 1603, cuarenta dias despues de la muerte de la reina Isabel. Sin tener ningun comprobante, me imagíno que es en esta expedición cuando él llaga a la desembocadura del RIO VIEJO, que desde entonces comienza a llamarse de Wallace o BELICE. Esta suposición la confirmo porque Wallace despues de fundar la ranchería de Belice, quedó como Jefe de ella; pero los aventureros que le habían acompañado eran de tan mala índole, que por la menor dificultad en el reparto del botin, reñían y se apuñalaban, no respetando la autoridad de Wallace. Este decepcionado, abandonó Belice dirigiéndose a Inglaterra, donde murió pocos años despues. Ahora bien: Wallace murió en 1621, pocos años despues de abandonar Belice lo que si resulta si Wallace abandonó Belice por el año de 1617; pero no es posible que ese mismo año lo hubiera fundado, que tan pronto hubiera tomado incremento al extremo de ya no respetar la autóridad de su fundador. Es pues mas verosimil que en su viaje a América, emprendido en 1603 haya llegado a la desembocadura del Rio Viejo, que la ranchería fué aumentando en población é importancia, debido al punto estratégio y a la tranquilidad en que vivían, con la ventaja de los grandes beneficios que les proporcionaba el comercio del palo de tinte o de Campeche. [new para] Con todo lo anterior queda demostrado que Belice fué fundada en los primeros años del siglo XVII y que Wallace murió en Ingla-[start p 9]terra en 1621.",
-      "quote_n": "Sources and clarifications offered in Asturias to Burdon, letter dated 19 Oct 1930, ie that Wallace sailed with six ships cf 'Defensa del Tratado de Límites entre Yucatán y Belice'. México: Imprenta de 'El Si- glo Diez y Nueve' (Calle de Victorias, N9 15.—1894.) by Ignacio Mariscal / ie that Wallace established Belize cf disclaimer 'SIN TENER NINGUN COMPROBANTE, ME IMAGINO QUE ES EN ESTA EXPEDICION' /v Asturias aa pp 14-15",
+      "quote_n": "Sources and clarifications offered in Asturias to Burdon, letter dated 19 Oct 1930, ie that Wallace sailed with six ships cf 'Defensa del Tratado de Límites entre Yucatán y Belice'. México: Imprenta de 'El Siglo Diez y Nueve' (Calle de Victorias, No 15.—1894.) by Ignacio Mariscal / ie that Wallace established Belize cf disclaimer 'SIN TENER NINGUN COMPROBANTE, ME IMAGINO QUE ES EN ESTA EXPEDICION' /v Asturias aa pp 14-15",
       "locn": "Old R",
-      "act": "llegar a rio Viejo y fundar ranchería",
+      "act": "Wallace llega y funda ranchería",
       "accept": true,
       "qualify": true,
       "lbd": "1603",
       "upd": "1621",
-      "date": "en los primeros años del siglo XVII / despues de viaje a América de Wallace de 1603 / antes de muerte de Wallace de 1621",
-      "note": null
+      "date": "en los primeros años del siglo XVII / despues de viaje a América de Wallace de 1603 / pocos años antes de muerte de Wallace de 1621",
+      "note": "deems likelier than 'Wallace se instaló en Belice hasta 1617' claim"
     }
   ]
 }

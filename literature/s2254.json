@@ -8,14 +8,14 @@
       "in": "p 1015",
       "quote": "This coast [Hon] was discovered by Columbus, in 1502; the date of its first settlement by Europeans is uncertain. It was transferred from Spain to England by treaty, in 1670, but its occupation was contested at different times by the Spaniards, down to 1798, since which it has remained quietly in our possession. (Henderson's Account of Honduras; Parl. Papers, &c.)",
       "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
-      "qualify": null,
-      "lbd": "1630",
+      "locn": "Hon",
+      "act": "First settlement by Europeans",
+      "accept": true,
+      "qualify": false,
+      "lbd": null,
       "upd": "1670",
-      "date": "prior to Treaty",
-      "note": null
+      "date": "prior to 1670 Treaty",
+      "note": "no qualifier to 'Hon was transferred' claim"
     }
   ]
 }

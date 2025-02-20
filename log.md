@@ -453,7 +453,13 @@
     - [x] for Ibarra[^missg actual quote]
     - [x] for all others[^no `quote` values, and no `in` values for some]
 - [x] update `/citations` files as needed per above[^plus added `citations/s2318.json` with `via:null`]
-- [ ] fill in missg `/literature` values
+- [ ] fill in missg `/literature` values[^incl quotes on Tortuga/Mosq Shr/Bay Isl/Camp/E Yucn as lots of discordance in lit re these, and likely to need later on]
+    - [ ] for original claims (as per live wiki)
+    - [ ] for original claims (per recollection)
+        - [ ] in Campbell aa
+        - [ ] in Restall
+    - [ ] for others
+- [ ] cross check entered values above against source material to make sure they're accurate
 
 ## prior log
 ### any cartas

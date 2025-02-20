@@ -442,12 +442,16 @@
     - [x] found 0 in citations to B-Thomas, Restall aa
     - [x] found 1 from prior recollection
     - [x] found 0 citations in `e341`, 5 in  `‌e399`
-- [ ] update `/literature` files from above gathered `in` values
+- [x] update `/literature` files from above gathered `in` values
     - [x] for Campbell aa
-    - [ ] for G Diaz
+    - [x] for G Diaz
     - [x] for C Quijano[^`in` values only]
     - [x] for V Barke aa [^`in` values only]
-- [ ] add missg `/literature` files from above
+- [x] add missg `/literature` files from above
+    - [x] for Davidson[^no quotes added as claims re only Bay Isl]
+    - [x] for Naylor[^no quotes added as claims re only Mosq Shr]
+    - [x] for Ibarra[^missg actual quote]
+    - [x] for all others[^no `quote` values, and no `in` values for some]
 - [x] update `/citations` files as needed per above[^plus added `citations/s2318.json` with `via:null`]
 - [ ] fill in missg `/literature` values
 

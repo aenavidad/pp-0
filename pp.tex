@@ -2,9 +2,11 @@
 %
 %
 % packages
-\usepackage[shortlabels]{enumitem}% for lists
+%\usepackage[shortlabels]{enumitem}% for lists - prolly no need
 \usepackage{lipsum}% for dummy text - just for draft
 %\usepackage{xcolor}% for darkmode pdf - just for draft
+%\usepackage{graphicx}% for graphics - may not need
+\usepackage{pgfplots}% for plots (loads tikz, wc itself loads xcolor, graphicx)
 \usepackage{hyperref}% for links - load last-ish
 \usepackage{amsrefs}% for full citations - load last
 %
@@ -27,6 +29,15 @@
 % xcolor commands for darkmode - just for draft
 %\pagecolor{darkgray}
 %\color{white}
+%
+%
+% offload tikz/pgfplots - got error when compiling
+% \usepgfplotslibrary{external}
+% \tikzexternalize
+%
+%
+% pgsplots commands
+\pgfplotsset{compat=1.18}% apparently needed
 %
 %
 \begin{document}
@@ -52,6 +63,7 @@
 %
 %
 %
+% s intro
 \section{Introduction}
 \label{s:intro}
 \lipsum[1-2]
@@ -59,6 +71,7 @@
 %
 %
 %
+% s claims
 \section{Claims}
 \label{s:claims}
 Let \(s\) be S~Bay, \(w\) W~Bay, \(n\) N~Bay, \(\to\) the historical \mention{lead to} relation, \(t_{i}\) a point in time, \(\pir(i)\) the use of place \(i\) as a pirate haven, \(\log(i)\) of \(i\) as a logging camp, \(\own(i)\) the thinking of place \(i\) as one's own. Say \(\pir(s)\) at \(t_{0}\) and \(\own(s)\) at \(t_{1}\) and \(\log(w)\) at \(t_{i}\) and \(\own(w)\) at \(t_{j}\).\footnote{Where \mention{S Bay} is the southern Bay of Honduras and Spanish ports there (Truxillo, Pto Caballos, Sto Tomas, etc) and waters off this coast and these ports to distance from which pirates could spy on ports and shipping lanes (ie incl Bay Isl and cayes off Toledo), \mention{W Bay} is similarly defined but for western Hond Bay and ports and lanes there (Tamalcab for Bacalar ie incl cayes off Belize, Corozal), \mention{N Bay} is similarly defined but for northern Hond Bay and ports and lanes there (Valladolid's port and Yucn Channel ie incl Cozumel probably).}
@@ -96,7 +109,7 @@ Further, we may want to sketch out responses for `When was Belize settled or fou
 \begin{claim}
 \label{c1}
 Model~\ref{m1} is more fitting than: 
-\begin{enumerate}[1.]% 1.1. seems to break code
+\begin{enumerate}
 \item Model~\ref{m2}, and 
 \item Model~\ref{m3}.
 \end{enumerate}
@@ -107,7 +120,7 @@ Model~\ref{m1} is more fitting than:
 \begin{claim}
 \label{c2}
 Fitting narrow answers to `When was Belize settled?' are exactly: On the earliest date from which there has been% excl broad ansers like 17th cent etc
-\begin{enumerate}[1.]
+\begin{enumerate}
 \item \emph{no} gap in presence ie continuous presence, or% on last withdrawal to Mosq Shr
 \item \emph{only} acceptable gaps in presence.% few number of gaps, gaps of only x yrs, forced gaps, gaps to Mosq Shore, gaps after z yrs of gapless presence
 \end{enumerate}
@@ -118,7 +131,7 @@ Fitting narrow answers to `When was Belize settled?' are exactly: On the earlies
 \begin{claim}
 \label{c3}
 Fitting narrow answers to `When was Belize founded?' are exactly: On the date of
-\begin{enumerate}[1.]
+\begin{enumerate}
 \item the creation or constitution of its earliest predecessor state, or% not reconstitution, and assuming constitution requires settlement
 \item null.
 \end{enumerate}
@@ -127,22 +140,32 @@ Fitting narrow answers to `When was Belize founded?' are exactly: On the date of
 %
 %
 %
+% s sketch
 \section{Sketches}
 \label{s:sketches}
+%
+%
+%
+%
+% ss c1
 \subsection{For Claim~\ref{c1}}
-%
 For these, we'd want to see or assume that buccaneers came to think of their havens as de facto theirs. The pirate's haven to logging camp sequence is assumed already in literature. Model~\ref{m3} is already prevalent in literature so is fitting to extent that it's been considered. Most lit mentions of Mdl~\ref{m3} I think carve Hond Bay differently or not at all, but stick to have-to-camp sequence. I don't think I've seen Mdl~\ref{m1} in lit, and prolly hardest part would be to show buccaneers would in fact see pir-to-log as territory expansion, though in theory sounds about right. Plus giving probable dates. Mdl~\ref{m2} I don't think has come up, and could prolly ignore.
-%
 \subsubsection{First item} Ignore this one.
 \subsubsection{Second item} Assume Mdl~\ref{m3} is fitting (as has been published and is prevalent in lit). Show Mdl~\ref{m1} is at least as fitting (ie not explicitly contradicted by existing evidence). Finally, show Mdl~\ref{m1} is more fitting in at least some aspects (Hond Bay carving into S, W, N makes more sense than other carvings given pirate aims/practices and given Bacl/Valladolid barely targetted in first half of 17th cent, etc).
 %
 %
+%
+%
+% ss c2
 \subsection{For Claim~\ref{c2}}
 \subsubsection{First item} Straightforward, but not claimed in lit. Give acceptable date (1760s iirc)
 \subsubsection{Second item} Most commonly claimed in lit but sans discussion of acceptability criteria. List acceptable dates per each criterion (vars).
 \subsubsection{Other cases} Other cases mostly disproved by prior lit, or else proposed tentatively, or else using messy/tricky criteria for which gaps in presence to accept/reject.
 %
 %
+%
+%
+% ss c3
 \subsection{For Claim~\ref{c3}}
 \subsubsection{First item} Straightforward criteria, but tricky application re whether to accept predecessor state with impermanent settlement.
 \subsubsection{Second item} Null.
@@ -151,27 +174,43 @@ For these, we'd want to see or assume that buccaneers came to think of their hav
 %
 %
 %
+% s concl
 \newpage% break - just for draft
 \section{Conclusion}
 \label{s:concl}
 \lipsum[1][1-6]
 %
 %
+%
+%
+% s supplements
 \section{Supplements}
 \label{s:supp}
 \lipsum[1][1-6]
 %
+%
+%
+%
+% ss terms
 \subsection{Terms}% incl gazetteer, glossary
 \label{ss:terms}
 \subsubsection{Bay of Honduras} Gulf bound by line from Cape Catoche to Cape Gracias a Dios.
 \subsubsection{Yucatan Peninsula} Headland bound by line from Laguna de Terminos to Bay of Amatique.
 %
+%
+%
+%
+% ss pir
 \subsection{Piracy}% incl gazetteer, glossary
 \label{ss:piracy}
 Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.com}.
 \subsubsection{Scope} Covers all available 17th cent activity in Hond Bay.
 \subsubsection{Work} As collected from all accessible published literature, plus select AGI records in the Guatemala and Mexico series.
 %
+%
+%
+%
+% ss lit
 \subsection{Literature}% incl gazetteer, glossary
 \label{ss:literature}
 Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.com}.
@@ -179,6 +218,65 @@ Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.
 \subsubsection{Work} Null.
 %
 %
+%
+%
+% ss plots
+\subsection{Charts}
+\label{ss:charts}
+\lipsum[1][1-3]
+% fig 1
+\begin{figure}
+% pgsplots code begins
+\begin{tikzpicture}
+\begin{axis}[
+	xmin=1601, xmax=1630,
+	xtick={1610,1620},% to not display all yrs
+	xticklabel style={/pgf/number format/1000 sep=},% to not add comma
+	enlarge x limits,% to not cut off y bars
+	ymin=0, ymax=10,
+	ybar stacked,% use y bars and stack
+	bar width=0.5,% for thinner bars
+	width=1\textwidth,% for wider fig box
+]
+\addplot [% plot for piracy incidents in bz
+	black,fill=black,% colour outline and fill
+	] table [x=yr,y=nobz] {ppfig1.dat};
+\addplot [% plot for piracy incidents outside of bz
+	gray,fill=gray,% colour outline and fill
+	] table [x=yr,y=noall] {ppfig1.dat};% check noall value *excludes* nobz value to stack
+\end{axis}
+\end{tikzpicture}
+% pgsplots code ends
+\caption{Piracy incidents in the Bay in the 17th cent.}
+\label{fig1}
+\end{figure}
+%
+%
+%
+% 
+% ss tabs
+\subsection{Tables}
+\label{ss:tables}
+\lipsum[1][1-3]
+%
+%
+% tab 1
+\begin{table}
+\caption{Test}
+\label{tab1}
+% tab code begins
+\begin{tabular}{cccc}
+1&2&3&4\\
+5&6&7&8\\
+9&10&11&12
+\end{tabular}
+% tab code ends
+\end{table}
+%
+%
+%
+% 
+% s refs
 \begin{bibdiv}
 \begin{biblist}
 %
@@ -186,8 +284,6 @@ Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.
 %
 \end{biblist}
 \end{bibdiv}
-%
-%
 %
 %
 \end{document}

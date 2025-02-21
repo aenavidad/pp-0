@@ -7,6 +7,8 @@
 %\usepackage{xcolor}% for darkmode pdf - just for draft
 %\usepackage{graphicx}% for graphics - may not need
 \usepackage{pgfplots}% for plots (loads tikz, wc itself loads xcolor, graphicx)
+\usepackage[figuresright]{rotating}% to rotate table w LHS at bottom
+%\usepackage{tabularx}% to set table width - prolly can avoid
 \usepackage{hyperref}% for links - load last-ish
 \usepackage{amsrefs}% for full citations - load last
 %
@@ -27,8 +29,8 @@
 %
 %
 % xcolor commands for darkmode - just for draft
-%\pagecolor{darkgray}
-%\color{white}
+\pagecolor{darkgray}
+\color{white}
 %
 %
 % offload tikz/pgfplots - got error when compiling
@@ -175,16 +177,28 @@ For these, we'd want to see or assume that buccaneers came to think of their hav
 %
 %
 % s concl
-\newpage% break - just for draft
 \section{Conclusion}
 \label{s:concl}
 \lipsum[1][1-6]
 %
 %
 %
+% 
+% s refs
+\begin{bibdiv}
+\begin{biblist}
 %
+\bib{Test}{article}{title={Testing Test}, author={Alan Burdon}, journal={Test}, volume={3}, date={2020}, pages={9--11}}
+%
+\end{biblist}
+\end{bibdiv}
+%
+%
+%
+%
+\newpage% break - just for draft
 % s supplements
-\section{Supplements}
+\section*{Supplements}
 \label{s:supp}
 \lipsum[1][1-6]
 %
@@ -227,6 +241,7 @@ Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.
 % fig 1
 \begin{figure}
 % pgsplots code begins
+\begin{sideways}
 \begin{tikzpicture}
 \begin{axis}[
 	xmin=1601, xmax=1630,
@@ -236,7 +251,7 @@ Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.
 	ymin=0, ymax=10,
 	ybar stacked,% use y bars and stack
 	bar width=0.5,% for thinner bars
-	width=1\textwidth,% for wider fig box
+	width=1\textheight,height=1\textwidth,% expand sideways fig
 ]
 \addplot [% plot for piracy incidents in bz
 	black,fill=black,% colour outline and fill
@@ -246,8 +261,9 @@ Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.
 	] table [x=yr,y=noall] {ppfig1.dat};% check noall value *excludes* nobz value to stack
 \end{axis}
 \end{tikzpicture}
+\end{sideways}
 % pgsplots code ends
-\caption{Piracy incidents in the Bay in the 17th cent.}
+\caption{Piracy incidents in the Bay in the 17th cent (black in Bz).}
 \label{fig1}
 \end{figure}
 %
@@ -261,29 +277,42 @@ Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.
 %
 %
 % tab 1
-\begin{table}
-\caption{Test}
+\begin{table}% sidewaystable is no go in amsart apparantly
+\caption{Claims on Bz origins in 18th to 21st cent literature.}
 \label{tab1}
 % tab code begins
-\begin{tabular}{cccc}
-1&2&3&4\\
-5&6&7&8\\
-9&10&11&12
+\begin{sideways}
+\begin{tabular}{cp{.4\textheight}lp{.3\textheight}cc}
+No	&Date	&In	&Claim	&Yes	&No\\
+(1)	&mid 16th cent	&--	&Eng pirates form community	&1	&0\\% campbell
+(2)	&ca Sp Hon flotilla est	&Old	&Wallace settles	&?	&?\\% asturias - first in live wiki
+(3)	&ca 1610	&Old&Wallace settles	&?	&?\\% egli
+(4)	&pre/ca Fuensalida missions	&N	&Brit log	&?	&?\\% roys
+(5)	&in 1617	&--	&Wallace present&&\\% asturias
+(6)	&pre penult Bacl sacking	&Old	&Eng log	&&\\% reads 1732
+(7)	&ca Old Prov est	&S	&Old Provers seek refuge or farm	&&\\% winzerling
+(8)	&mid 17th cent	&--	&Wallace settles	&&\\% fenix 1849
+(9)	&pre treaty	&?	&Brit present	&&\\% mcculloch
+(10)	&mid third 17th cent	&--	&Wallace present	&&\\% ancona
+(11)	&in 1638	&--	&Brit wreck	&&\\% HA 1829
+(12)	&in 1638	&--	&Wallace wrecks	&&\\% HA 1827
+(13)	&in 1640	&--	&Wallace wrecks	&&\\% ungewitter
+(14)	&in Cromwell govt	&--	&Eng seek haven	&&\\% HA 1826
+(15)	&post Bacl/Trux sacking or post Tris logging	&--	&Brit seek haven or log	&&\\% b-thomas
+(16)	&last half 17th cent or pre early 1680s	&--	&Eng present	&&\\% finamore
+(17)	&post Jam invasion or post Tris logging	&--	&Jamers log	&&\\% robertson
+(18)	&ca 1663	&--	&Wallace logs	&&\\% g diaz
+(19)	&in 1662	 or pre 1670&--	&Wallace logs	&&\\% c quijano
+(20)	&post Catoche/Tris logging	&--	&Jamers log	&&\\% ancona
+(21)	&post treaty	&--	&Wallace present	&&\\% n ortega
+(22)	&last third 17th cent	&--	&Eng present	&&\\% ancona
+(23)	&early 18th cent	&--	&Eng seek haven	&&\\% brockhaus
+(24)	&post Tris logging	&--	&Wallace seeks haven or logs	&&\\% ancona - last in live wiki
+(25)	&post Tris logging	&--	&Eng log	&&% restall
 \end{tabular}
+\end{sideways}
 % tab code ends
 \end{table}
-%
-%
-%
-% 
-% s refs
-\begin{bibdiv}
-\begin{biblist}
-%
-\bib{Test}{article}{title={Testing Test}, author={Alan Burdon}, journal={Test}, volume={3}, date={2020}, pages={9--11}}
-%
-\end{biblist}
-\end{bibdiv}
 %
 %
 \end{document}

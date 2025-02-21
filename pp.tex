@@ -29,8 +29,8 @@
 %
 %
 % xcolor commands for darkmode - just for draft
-\pagecolor{darkgray}
-\color{white}
+%\pagecolor{darkgray}
+%\color{white}
 %
 %
 % offload tikz/pgfplots - got error when compiling
@@ -176,20 +176,28 @@ For these, we'd want to see or assume that buccaneers came to think of their hav
 %
 %
 %
+% s support
+\section{Support}
+\label{s:support}
+% ss c1
+\subsection{For Claim~\ref{c1}}
+%
+%
+%
+%
 % s concl
 \section{Conclusion}
 \label{s:concl}
-\lipsum[1][1-6]
+\lipsum[1][1-6] Test~\cite{han15}
 %
 %
 %
 % 
 % s refs
 \begin{bibdiv}
+\label{s:refs}
 \begin{biblist}
-%
-\bib{Test}{article}{title={Testing Test}, author={Alan Burdon}, journal={Test}, volume={3}, date={2020}, pages={9--11}}
-%
+\bibselect{pprefs}
 \end{biblist}
 \end{bibdiv}
 %
@@ -198,8 +206,8 @@ For these, we'd want to see or assume that buccaneers came to think of their hav
 %
 \newpage% break - just for draft
 % s supplements
-\section*{Supplements}
-\label{s:supp}
+\appendix \section{Supplements}
+\label{app}
 \lipsum[1][1-6]
 %
 %
@@ -208,7 +216,9 @@ For these, we'd want to see or assume that buccaneers came to think of their hav
 % ss terms
 \subsection{Terms}% incl gazetteer, glossary
 \label{ss:terms}
+\subsubsection{Buccaneer} Pirate resident in the West Indies.
 \subsubsection{Bay of Honduras} Gulf bound by line from Cape Catoche to Cape Gracias a Dios.
+\subsubsection{Pirate haven}
 \subsubsection{Yucatan Peninsula} Headland bound by line from Laguna de Terminos to Bay of Amatique.
 %
 %
@@ -244,13 +254,13 @@ Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.
 \begin{sideways}
 \begin{tikzpicture}
 \begin{axis}[
-	xmin=1601, xmax=1630,
-	xtick={1610,1620},% to not display all yrs
+	xmin=1601, xmax=1700,
+	xtick={1610,1620,1630,1640,1650,1660,1670,1680,1690},% to not display all yrs
 	xticklabel style={/pgf/number format/1000 sep=},% to not add comma
-	enlarge x limits,% to not cut off y bars
-	ymin=0, ymax=10,
+	enlarge x limits=0.02,% to not cut off y bars
+	ymin=0, ymax=7,
 	ybar stacked,% use y bars and stack
-	bar width=0.5,% for thinner bars
+	bar width=0.6,% for thinner bars
 	width=1\textheight,height=1\textwidth,% expand sideways fig
 ]
 \addplot [% plot for piracy incidents in bz

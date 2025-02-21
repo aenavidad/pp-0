@@ -1,0 +1,71 @@
+% preamble apparently needed
+\documentclass{amsart}
+\begin{document}
+%
+% refs begin
+\begin{bibdiv}
+\begin{biblist}
+%
+% templates ↓
+%\bib{aaa00}{book}{author={},date={},title={},publisher={},address={}}
+%\bib{aaa00}{article}{author={},date={},title={},journal={},volume={},pages={}}
+%
+%
+% refs to possy add ↓
+% hub16 https://doi.org/10.1111/hic3.12324 re identity - cites fur12 https://lccn.loc.gov/2011278345 re weakening ties to GB < 1620s
+% den13 https://hdl.handle.net/10779/middlebury.21537744.v1 re buccaneer govt origin
+% lan19 https://doi.org/10.1163/9789004407671_015 re buccaneers rise > 1650
+% lee07 https://www.journals.uchicago.edu/doi/abs/10.1086/526403 re buccaneer govt
+% sta11 http://dx.doi.org/10.1080/00253359.2011.10709036 for pir/bucc lit review incl WI 17th cent
+% ram12 https://doi.org/10.24901/rehs.v33i132b.484 for bucc rise < 1620s, plus re Tris pir/log
+%
+%
+% live refs already sorted ↓
+\bib{han15}{book}{
+	author={Mark Hanna},
+	date={2015},
+	title={Pirate Nests},
+	publisher={UNC Press},
+	address={Chapel Hill, NC}}% https://lccn.loc.gov/2015022645
+%
+\bib{har10}{book}{
+	author={CH Haring},
+	date={1910},
+	title={Buccaneers},
+	publisher={Dutton \& Co},
+	address={New York}}% https://lccn.loc.gov/11001724
+%
+\bib{gal91}{thesis}{
+	author={Peter Galvin},
+	date={1991},
+	title={Pirates' Wake},
+	organization={LSU},
+	type={PhD Thesis}}% https://repository.lsu.edu/gradschool_disstheses/5233 - prolly not needed
+%
+\bib{gal99}{book}{
+	author={Peter Galvin},
+	date={1999},
+	title={Patterns of Pillage},
+	publisher={Peter Lang},
+	address={New York}}% https://lccn.loc.gov/97042002
+%
+\bib{lat09}{book}{
+	author={Jon Latimer},
+	date={2009},
+	title={Buccaneers of the Caribbean},
+	publisher={HUP},
+	address={Cambridge, MA}}% https://lccn.loc.gov/2009007389
+%
+\bib{tor20}{book}{
+	author={Rodrigo de la O Torres},
+	date={2020},
+	title={De corsarios, mares y costas},
+	publisher={UAA},
+	address={Aguascalientes, Ags}}% https://doi.org/10.33064/UAA/978-607-8714-67-4
+%
+\end{biblist}
+\end{bibdiv}
+% refs end
+%
+%
+\end{document}

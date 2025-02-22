@@ -38,8 +38,8 @@
 %
 %
 % xcolor commands for darkmode - just for draft
-\pagecolor{darkgray}
-\color{white}
+%\pagecolor{darkgray}
+%\color{white}
 %
 %
 % offload tikz/pgfplots - got error when compiling
@@ -49,7 +49,7 @@
 %
 % tikz ie pgsplots, tikzcd commands
 \pgfplotsset{compat=1.18}% apparently needed
-\tikzcdset{arrows=dash}% for edges but might need directed arrows later
+%\tikzcdset{}% global style
 %
 %
 \begin{document}
@@ -86,12 +86,12 @@
 % s intro
 \section{Graph}
 \label{s:graph}
-The piracy-to-logging pipeline is generally accepted in literature. In service of this gloss, when discssing Belize's origins, we usually start by naming pirate havens in the Bay, usually Belize and the Bay Islands, in addition to relevant non-Bay havens to the east and south, eg Mosquito Shore, Tortuga, so on, and to the north and west, eg Catoche, Campeachy, etc. Generally, then, we are basically left with four havens to discuss Belize's origins. If we were to plot these havens physically, their graph might look like Graph~\ref{graph:lit}, where north-central Belize (Bc) is pretty close to the Bay Islands (Id) ie \begin{tikzcd}[cramped,sep=small] \bc \rar &\id\end{tikzcd}, but neither of them is pretty close to non-Bay havens (Mosq Shore ie Bluefields or Prov, Campeachy, etc) eg \begin{tikzcd}[cramped,sep=small] \id \rar[color=gray] &\et\end{tikzcd}.
+The piracy-to-logging pipeline is generally accepted in literature. In service of this gloss, when discssing Belize's origins, we usually start by naming pirate havens in the Bay, usually Belize and the Bay Islands, in addition to relevant non-Bay havens to the east and south, eg Mosquito Shore, Tortuga, so on, and to the north and west, eg Catoche, Campeachy, etc. Generally, then, we are basically left with four havens to discuss Belize's origins. If we were to plot these havens physically, their graph might look like Graph~\ref{graph:lit}, where north-central Belize (Bc) is pretty close to the Bay Islands (Id) ie \(\bc\to\id\), but neither of them is pretty close to non-Bay havens (Mosq Shore ie Bluefields or Prov, Campeachy, etc) eg \(\id\dashrightarrow\bc\).
 %
 \begin{equation}
 \label{graph:lit}% contiguity graph of havens in literature - or [r,dashed] or dotted] for less conqiguous
-\begin{tikzcd}
-\nt \rar[color=gray] &\bc \rar &\id \rar[color=gray] &\et
+\begin{tikzcd}[arrows=leftrightarrow]
+\nt \rar[dashed] &\bc \rar &\id \rar[dashed] &\et
 \end{tikzcd}
 \end{equation}
 %
@@ -99,17 +99,18 @@ The reasons for this selection, rather than another, seem to be the havens' prom
 %
 \begin{equation}
 \label{graph:prop}% proposed contiguity graph of havens - add dashed arrow for increased cost eg makes less sense/costs more - prolly no need of/not enough evidence for Vd (Valladolid/N Yuc) haven area
-\begin{tikzcd}
-\nt \rar[color=gray] &\bc \rar \ar[rr,bend left] &\mt \rar &\id \rar[color=gray] &\et
+\begin{tikzcd}[arrows=leftrightarrow]
+\nt \rar[dashed] &\bc \rar \ar[rr,bend left] &\mt \rar &\id \rar[dashed] &\et
 \end{tikzcd}
 \end{equation}
 %
 The identification of havens is important here in that piracy-to-logging pipeline is generally assumed to have been haphazard ie by convenience. That is, while the selection of havens was purposeful (following the Spanish ships), the selection of a logging camp from here (once pirates were in their haven/when their booty didn't materialise) is thought to have been a matter of `Where's the nearest logwood stand?' % so want all paths to logging in Bc as justified from prim sources/evidence
-Which is to say, piracy-in-Bay-Islands-lead-to-logging-in-them test test (ie \(\pir(\id)\to\log(\id)\)) is much more likely than \(\pir(\id)\to\log(\mt)\) which is similarly more likely than \(\pir(\id)\to\log(\et)\). Furthermore, if we were to have weighted directed edges in the graph above (eg by availabilty/ease of logwood, distance/difficulty to travel, presence of Spanish), then (ignoring self edges), for instance, \(\pir(\id)\to\log(\bc)\) would be likelier (eg more logwood in Bc) than the inverse.
+Which is to say, piracy in Bay Islands leading to logging in them (ie \(\id\leadsto\id\)) is much more likely than \(\id\leadsto\mt\) which is similarly more likely than 
+\(\id\leadsto\et\). Furthermore, if we were to have weighted directed edges in the graph above (eg by availabilty/ease of logwood, distance/difficulty to travel, presence of Spanish), then (ignoring self edges), for instance, \(\id\leadsto\bc\) would be likelier (eg more logwood in Bc) than the inverse.
 
-In addition, a lot of literature gives a Bc-Bc or Id-Bc account, given the paucity of evidence we have. (With minorities giving an Nt-Bc or Et-Bc account.) In this paper we support the Id-Bc pipeline, and offer an easier Id-Mt-Bc path.
+In addition, a lot of literature gives a \(\bc\leadsto\bc\) or \(\id\leadsto\bc\) account, given the paucity of evidence we have. (With minorities giving an \(\nt\leadsto\bc\) or \(\et\leadsto\bc\) account.) In this paper we support the \(\id\leadsto\bc\) pipeline, and offer an easier \(\id\to\mt\to\bc\) path for it.
 
-Also, a lot of literature dates the given pipelines to oddly early and oddly specific dates (eg 1638). The Id-Mt-Bc path might better rationalise these dating than existing ones.
+Also, a lot of literature dates the given pipelines to oddly early and oddly specific dates (eg 1638). The \(\id\to\mt\to\bc\) path might better rationalise or explain these datings than existing ones.
 %
 %
 %

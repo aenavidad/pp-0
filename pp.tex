@@ -17,6 +17,7 @@
 \newcommand{\code}[1]{\texttt{#1}}% for code
 \newcommand{\titleit}[1]{\textit{#1}}% for book titles etc
 \newcommand{\mention}[1]{\textit{#1}}% to mention (not use) terms
+\newcommand{\foreign}[1]{\textit{#1}}% for foreign words
 \DeclareMathOperator{\pir}{pir}% for model sec
 \DeclareMathOperator{\own}{own}% for model sec
 %
@@ -26,11 +27,13 @@
 \newtheorem{model}{Model}
 \theoremstyle{definition}% for claim
 \newtheorem{claim}{Claim}
+\theoremstyle{remark}% for appendix - testing
+\newtheorem*{note}{Note}
 %
 %
 % xcolor commands for darkmode - just for draft
-%\pagecolor{darkgray}
-%\color{white}
+\pagecolor{darkgray}
+\color{white}
 %
 %
 % offload tikz/pgfplots - got error when compiling
@@ -188,7 +191,7 @@ For these, we'd want to see or assume that buccaneers came to think of their hav
 % s concl
 \section{Conclusion}
 \label{s:concl}
-\lipsum[1][1-6] Test~\cite{han15}
+\lipsum[1][1-6] Test see~\cite{han15}*{p 2}.
 %
 %
 %
@@ -205,49 +208,93 @@ For these, we'd want to see or assume that buccaneers came to think of their hav
 %
 %
 \newpage% break - just for draft
-% s supplements
-\appendix \section{Supplements}
-\label{app}
-\lipsum[1][1-6]
+\appendix
+%
+%
+% s terms
+\section{Terms}% incl gazetteer, glossary
+\label{s:terms}
+\lipsum[1][1-4]
+%
+\subsection{Gazetteer} Read personal identifications here as further importing the named entity's coincident physical features, eg read \ref{term:bz}.i as having `or their territory' appended.\footnote{Not the inverse though.}
+%
+% sort names alphabetically, sort meanings logically?
+\subsubsection{Bacalar} One of (i) modern city or predecessors, (ii) Pachecos distrito or successors, (iii) site on southwest lakeshore.
+%
+\subsubsection{Bay}\label{term:bay} One of (i) \ref{term:hondbay}.i or \ref{term:hondbay}.ii here, (ii) predecessors in \ref{term:bz}.i here, (iii) xx.
+%
+\subsubsection{Bay Islands}
+%
+\subsubsection{Belize}\label{term:bz} One of (i) modern state or predecessors, (ii) river or its watershed or mouth or tributaries, (iii) modern city or predecessors, (iv) modern district or predecessors.
+%
+\subsubsection{Campeachy} Campeche.
+%
+\subsubsection{Guanaxa} Guanaja.% hist also Bonacca
+%
+\subsubsection{Honduras} One of (i) modern state or predecessors or their subdivisions, (ii) \ref{term:bay} here, (iii) \ref{term:bz} here.
+%
+\subsubsection{Honduras Bay}\label{term:hondbay} One of (i) gulf bound by line from Catoche to Gracias a Dios, (ii) by line from Herrero to Camaron, (iii) by line shorter than \ref{term:hondbay}.ii here.
+%
+\subsubsection{Old} \ref{term:bz}.ii here.
+%
+\subsubsection{Providence} Old Providence.
+%
+\subsubsection{Rattan} Ruatan.
+%
+\subsubsection{Shore} Mosquito Shore.
+%
+\subsubsection{Tris}
+%
+\subsubsection{Truxillo} Trujillo.
+%
+\subsubsection{Yucatan} One of (i) \ref{term:yucpen} here, (ii) Velazquez de Cuellar adelantado or successors.
+%
+\subsubsection{Yucatan Peninsula}\label{term:yucpen} One of (i) headland bound by line from Terminos to Amatique, (ii) by line north of \ref{term:yucpen}.i here.
+%
+\subsection{Glossary}
+%
+% sort terms alphabetically - yes, sort meanings logically - ?
+\subsubsection{Bayman} One of (i) resident of \ref{term:bz}.i, (ii) of foreigners' camps in Bay or Campeachy.
+%
+\subsubsection{buccaneer}\label{term:bucc} One of (i) \ref{term:pir}.i or \ref{term:pir}.ii or \ref{term:pir}.iii here, (ii) \ref{term:bucc}.i here resident in the West Indies incl Bay, (iii) anyone of a certain group of foreigners from northwest Hispaniola.
+	\begin{note}[residence]
+	For \ref{term:bucc}.ii, \emph{resident} as in spending some sufficiently significant share of total time here, or of time off here, or holding some sufficiently \emph{in}significant sense of attachment to their home country.
+	\end{note}
+	\begin{note}[presence]
+	For \ref{term:bucc}.ii, assume present in sufficiently significant numbers by at least the 1620s.% add 'near Bay'?
+	\footnote{Origins of ii in lit xx. Origins of iii in lit xx.}
+	\end{note}
+%
+\subsubsection{camp} Logging or pirate camp.% not for pir-offensive?
+%
+\subsubsection{foreigner} Not Spanish.% incl black, native as 'foreign'
+%
+\subsubsection{haven} Pirate haven.% for def and offence and off time
+%
+\subsubsection{logwood} Dyewood or \foreign{H campechianum}.
+%
+\subsubsection{Mosquito} Miskitu.
+%
+\subsubsection{pirate}\label{term:pir} One of (i) anyone so called by the Spanish, (ii) foreigner not in an official or sanctioned fleet or ship or colony or settlement, (iii) anyone per any sensu lato meaning in literature, (iv) per any stricter senses.
+%
+\subsubsection{Shoreman}
+%
+\subsubsection{Spanish} Hispanic or Hispanicised.
 %
 %
 %
 %
-% ss terms
-\subsection{Terms}% incl gazetteer, glossary
-\label{ss:terms}
-\subsubsection{Buccaneer} Pirate resident in the West Indies.
-\subsubsection{Bay of Honduras} Gulf bound by line from Cape Catoche to Cape Gracias a Dios.
-\subsubsection{Pirate haven}
-\subsubsection{Yucatan Peninsula} Headland bound by line from Laguna de Terminos to Bay of Amatique.
-%
-%
-%
-%
-% ss pir
-\subsection{Piracy}% incl gazetteer, glossary
-\label{ss:piracy}
+% s data
+\section{Data}
+\label{s:data}
+\lipsum[2][1-4]
 Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.com}.
-\subsubsection{Scope} Covers all available 17th cent activity in Hond Bay.
-\subsubsection{Work} As collected from all accessible published literature, plus select AGI records in the Guatemala and Mexico series.
+\subsection{Scope} Covers all available 17th cent activity in Hond Bay.
+\subsection{Work} As collected from all accessible published literature, plus select AGI records in the Guatemala and Mexico series.
 %
 %
 %
 %
-% ss lit
-\subsection{Literature}% incl gazetteer, glossary
-\label{ss:literature}
-Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.com}.
-\subsubsection{Scope} Null.
-\subsubsection{Work} Null.
-%
-%
-%
-%
-% ss plots
-\subsection{Charts}
-\label{ss:charts}
-\lipsum[1][1-3]
 % fig 1
 \begin{figure}
 % pgsplots code begins
@@ -279,12 +326,6 @@ Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.
 %
 %
 %
-% 
-% ss tabs
-\subsection{Tables}
-\label{ss:tables}
-\lipsum[1][1-3]
-%
 %
 % tab 1
 \begin{table}% sidewaystable is no go in amsart apparantly
@@ -300,7 +341,7 @@ No	&Date	&In	&Claim	&Yes	&No\\
 (4)	&pre/ca Fuensalida missions	&N	&Brit log	&?	&?\\% roys
 (5)	&in 1617	&--	&Wallace present&&\\% asturias
 (6)	&pre penult Bacl sacking	&Old	&Eng log	&&\\% reads 1732
-(7)	&ca Old Prov est	&S	&Old Provers seek refuge or farm	&&\\% winzerling
+(7)	&ca Prov est	&S	&Provers seek refuge or farm	&&\\% winzerling
 (8)	&mid 17th cent	&--	&Wallace settles	&&\\% fenix 1849
 (9)	&pre treaty	&?	&Brit present	&&\\% mcculloch
 (10)	&mid third 17th cent	&--	&Wallace present	&&\\% ancona

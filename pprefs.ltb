@@ -6,9 +6,12 @@
 \begin{bibdiv}
 \begin{biblist}
 %
-% templates ↓
+% templates ↓ - author must be 'last, first' - date in 'yyyy-mm-dd' (w mm 13-16 for Winter-Fall)
 %\bib{aaa00}{book}{author={},date={},title={},publisher={},address={}}
-%\bib{aaa00}{article}{author={},date={},title={},journal={},volume={},pages={}}
+%\bib{aaa00}{article}{author={},date={},title={},journal={},volume={},number={},pages={}}
+%\bib{aaa00}{article}{author={},date={},title={},editor={},booktitle={},volume={},pages={}}
+%\bib{aaa00}{thesis}{author={},date={},title={},organization={},type={}}
+%\bib{aaa00}{webpage}{author={},date={},title={},subtitle={},accessdate={},url={}}
 %
 %
 % refs to possy add ↓
@@ -20,44 +23,44 @@
 % ram12 https://doi.org/10.24901/rehs.v33i132b.484 for bucc rise < 1620s, plus re Tris pir/log
 %
 %
-% live refs already sorted ↓
+% live refs already sorted ↓ - ~\cite{aaa00}*{pp} or ~\cites{aaa00, bbb00} (no pp) or ~\citelist{\cite{aaa00} \cite{bbb00}*{pp} \cite{ccc00}}
 \bib{han15}{book}{
-	author={Mark Hanna},
+	author={Hanna, Mark},
 	date={2015},
 	title={Pirate Nests},
 	publisher={UNC Press},
 	address={Chapel Hill, NC}}% https://lccn.loc.gov/2015022645
 %
 \bib{har10}{book}{
-	author={CH Haring},
+	author={Haring, CH},
 	date={1910},
 	title={Buccaneers},
 	publisher={Dutton \& Co},
 	address={New York}}% https://lccn.loc.gov/11001724
 %
 \bib{gal91}{thesis}{
-	author={Peter Galvin},
+	author={Galvin, Peter},
 	date={1991},
 	title={Pirates' Wake},
 	organization={LSU},
 	type={PhD Thesis}}% https://repository.lsu.edu/gradschool_disstheses/5233 - prolly not needed
 %
 \bib{gal99}{book}{
-	author={Peter Galvin},
+	author={Galvin, Peter},
 	date={1999},
 	title={Patterns of Pillage},
 	publisher={Peter Lang},
 	address={New York}}% https://lccn.loc.gov/97042002
 %
 \bib{lat09}{book}{
-	author={Jon Latimer},
+	author={Latimer, Jon},
 	date={2009},
 	title={Buccaneers of the Caribbean},
 	publisher={HUP},
 	address={Cambridge, MA}}% https://lccn.loc.gov/2009007389
 %
 \bib{tor20}{book}{
-	author={Rodrigo de la O Torres},
+	author={de la O Torres, Rodrigo},
 	date={2020},
 	title={De corsarios, mares y costas},
 	publisher={UAA},

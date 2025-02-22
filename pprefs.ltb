@@ -7,41 +7,78 @@
 \begin{biblist}
 %
 % templates ↓ - author must be 'last, first' - date in 'yyyy-mm-dd' (w mm 13-16 for Winter-Fall)
-%\bib{aaa00}{book}{author={},date={},title={},publisher={},address={}}
-%\bib{aaa00}{article}{author={},date={},title={},journal={},volume={},number={},pages={}}
-%\bib{aaa00}{article}{author={},date={},title={},editor={},booktitle={},volume={},pages={}}
-%\bib{aaa00}{thesis}{author={},date={},title={},organization={},type={}}
+%\bib{aaa00}{book}{author={},date={},title={},subtitle={},publisher={},address={}}
+%\bib{aaa00}{article}{author={},date={},title={},subtitle={},journal={},volume={},number={},pages={}}
+%\bib{aaa00}{article}{author={},date={},title={},subtitle={},editor={},booktitle={},volume={},pages={},publisher={},address={}}
+%\bib{aaa00}{thesis}{author={},date={},title={},subtitle={},organization={},type={}}
 %\bib{aaa00}{webpage}{author={},date={},title={},subtitle={},accessdate={},url={}}
 %
 %
 % refs to possy add ↓
-% hub16 https://doi.org/10.1111/hic3.12324 re identity - cites fur12 https://lccn.loc.gov/2011278345 re weakening ties to GB < 1620s
-% den13 https://hdl.handle.net/10779/middlebury.21537744.v1 re buccaneer govt origin
-% lan19 https://doi.org/10.1163/9789004407671_015 re buccaneers rise > 1650
-% lee07 https://www.journals.uchicago.edu/doi/abs/10.1086/526403 re buccaneer govt
-% sta11 http://dx.doi.org/10.1080/00253359.2011.10709036 for pir/bucc lit review incl WI 17th cent
-% ram12 https://doi.org/10.24901/rehs.v33i132b.484 for bucc rise < 1620s, plus re Tris pir/log
 %
 %
 % live refs already sorted ↓ - ~\cite{aaa00}*{pp} or ~\cites{aaa00, bbb00} (no pp) or ~\citelist{\cite{aaa00} \cite{bbb00}*{pp} \cite{ccc00}}
+%
+\bib{app12}{article}{
+	author={Appleby, John},
+	date={2012},
+	title={Jacobean Piracy},
+	subtitle={English Maritime Depredation in Transition, 1603--1625},
+	editor={Fury, Cheryl A},
+	booktitle={The Social History of English Seamen, 1485--1649},
+	volume={},
+	pages={277--300},
+	publisher={Boydell Press},
+	address={Woodbridge, Suffolk}}% https://lccn.loc.gov/2011278345 re weakening ties to GB < 1620s
+%
+\bib{ban12}{article}{
+	author={Baños Ramírez, Othón},
+	date={2012},
+	title={Piratería forestal y economía-mundo},
+	subtitle={El caso de la Laguna (1558-1717)},
+	journal={Relaciones},
+	volume={33},
+	number={132B},
+	pages={75--107}}% https://doi.org/10.24901/rehs.v33i132b.484 for bucc rise < 1620s, plus re Tris pir/log
+%
+\bib{den13}{thesis}{
+	author={Dengler, Matthew P},
+	date={2013},
+	title={A Pirate's Life For Me},
+	subtitle={How Caribbean Pirates Developed an Egalitarian Order to Pursue a Life of Freedom and Indulgence in the 18th Century Atlantic World},
+	organization={Middlebury College},
+	type={BA Thesis}}% https://hdl.handle.net/10779/middlebury.21537744.v1 re buccaneer govt origin
+%
 \bib{han15}{book}{
 	author={Hanna, Mark},
 	date={2015},
-	title={Pirate Nests},
+	title={Pirate Nests and the Rise of the British Empire, 1570--1740},
 	publisher={UNC Press},
 	address={Chapel Hill, NC}}% https://lccn.loc.gov/2015022645
 %
 \bib{har10}{book}{
 	author={Haring, CH},
 	date={1910},
-	title={Buccaneers},
+	title={The Buccaneers in the West Indies in the XVII Century},
 	publisher={Dutton \& Co},
 	address={New York}}% https://lccn.loc.gov/11001724
+% 
+\bib{hub16}{article}{
+	author={Hubbard, Eleanor},
+	date={2016},
+	title={Sailors and the Early Modern British Empire},
+	subtitle={Labor, Nation, and Identity at Sea},
+	journal={History Compass},
+	volume={14},
+	number={8},
+	pages={348--358}}% https://doi.org/10.1111/hic3.12324 - re bucc identity
 %
 \bib{gal91}{thesis}{
 	author={Galvin, Peter},
 	date={1991},
 	title={Pirates' Wake},
+	subtitle={A Geography of Piracy and Pirates as Geographers in Colonial Spanish America, 1536--1718},
+	volume={I--II},
 	organization={LSU},
 	type={PhD Thesis}}% https://repository.lsu.edu/gradschool_disstheses/5233 - prolly not needed
 %
@@ -49,22 +86,84 @@
 	author={Galvin, Peter},
 	date={1999},
 	title={Patterns of Pillage},
+	subtitle={A Geography of Caribbean-Based Piracy in Spanish America, 1536--1718},
 	publisher={Peter Lang},
 	address={New York}}% https://lccn.loc.gov/97042002
+%
+\bib{jar80}{thesis}{
+	author={de Jármy Chapa, Martha},
+	date={1980},
+	title={Un eslabón perdido en la historia},
+	subtitle={Piratería en el Caribe, siglos XVI y XVII},
+	organization={UNAM},
+	type={Lic Thesis}}% https://hdl.handle.net/20.500.14330/TES01000024356
+%
+\bib{lan19}{article}{
+	author={Lane, Kris},
+	date={2019},
+	title={Pirate Networks in the Caribbean},
+	editor={Strootman, Rolf},
+	editor={van den Eijnde, Floris},
+	editor={van Wijk, Roy},
+	booktitle={Empires of the Sea},
+	volume={},
+	pages={338--354},
+	publisher={Brill},
+	address={Leiden, Netherlands}}%  https://doi.org/10.1163/9789004407671_015 re buccaneers rise > 1650
 %
 \bib{lat09}{book}{
 	author={Latimer, Jon},
 	date={2009},
 	title={Buccaneers of the Caribbean},
+	subtitle={How Piracy Forged an Empire},
 	publisher={HUP},
 	address={Cambridge, MA}}% https://lccn.loc.gov/2009007389
+%
+\bib{lee07}{article}{
+	author={Leeson, Peter T},
+	date={2007},
+	title={An‐\emph{arrgh}‐chy},
+	subtitle={The Law and Economics of Pirate Organization},
+	journal={Journal of Political Economy},
+	volume={115},
+	number={6},
+	pages={1049--1094}}% https://www.journals.uchicago.edu/doi/abs/10.1086/526403 re buccaneer govt
+%
+\bib{luc92}{book}{
+	author={Lucena Salmoral, Manuel},
+	date={1992},
+	title={Piratas, bucaneros, filibusteros y corsarios en América},
+	subtitle={Perros, mendigos y otros malditos del mar}
+	publisher={MAPFRE},
+	address={Madrid}}% http://www.larramendi.es/es/consulta/registro.do?id=9934
+%
+\bib{man22}{article}{	
+	author={Mancha Martínez, Erick},
+	date={2022},
+	title={Piratas, filibusteros y corsarios},
+	subtitle={Un análisis historiográfico del saqueo marítimo en el Atlántico y su papel en la llamada temprana globalización en los siglos XVI, XVII y XVIII},
+	journal={Macrohistoria},
+	volume={},
+	number={3},
+	pages={63--80}}% https://doi.org/10.62120/mch.v1i3.26
 %
 \bib{tor20}{book}{
 	author={de la O Torres, Rodrigo},
 	date={2020},
 	title={De corsarios, mares y costas},
+	subtitle={El corso en la construcción del espacio y experiencias marítimas en el Golfo-Caribe, 1527--1620},
 	publisher={UAA},
 	address={Aguascalientes, Ags}}% https://doi.org/10.33064/UAA/978-607-8714-67-4
+%
+\bib{sta11}{article}{
+	author={Starkey, David J},
+	date={2011},
+	title={Voluntaries and Sea Robbers},
+	subtitle={A Review of the Academic Literature on Privateering, Corsairing, Buccaneering and Piracy},
+	journal={The Mariner's Mirror},
+	volume={97},
+	number={1},
+	pages={127--147}}% http://dx.doi.org/10.1080/00253359.2011.10709036 for pir/bucc lit review incl WI 17th cent
 %
 \end{biblist}
 \end{bibdiv}

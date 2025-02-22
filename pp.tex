@@ -7,6 +7,7 @@
 %\usepackage{xcolor}% for darkmode pdf - just for draft
 %\usepackage{graphicx}% for graphics - may not need
 \usepackage{pgfplots}% for plots (loads tikz, wc itself loads xcolor, graphicx)
+\usepackage{tikz-cd}% tikz derivative - for graph - testing
 \usepackage[figuresright]{rotating}% to rotate table w LHS at bottom
 %\usepackage{tabularx}% to set table width - prolly can avoid
 \usepackage{hyperref}% for links - load last-ish
@@ -20,6 +21,11 @@
 \newcommand{\foreign}[1]{\textit{#1}}% for foreign words
 \DeclareMathOperator{\pir}{pir}% for model sec
 \DeclareMathOperator{\own}{own}% for model sec
+\DeclareMathOperator{\id}{Id}% for pir(), log(), graphs
+\DeclareMathOperator{\mt}{Mt}% for ditto
+\DeclareMathOperator{\bc}{Bc}% for dtto
+\DeclareMathOperator{\et}{Et}% for ditto
+\DeclareMathOperator{\nt}{Nt}% for ditto
 %
 %
 % general theorem styles
@@ -41,8 +47,9 @@
 % \tikzexternalize
 %
 %
-% pgsplots commands
+% tikz ie pgsplots, tikzcd commands
 \pgfplotsset{compat=1.18}% apparently needed
+\tikzcdset{arrows=dash}% for edges but might need directed arrows later
 %
 %
 \begin{document}
@@ -72,6 +79,37 @@
 \section{Introduction}
 \label{s:intro}
 \lipsum[1-2]
+%
+%
+%
+%
+% s intro
+\section{Graph}
+\label{s:graph}
+The piracy-to-logging pipeline is generally accepted in literature. In service of this gloss, when discssing Belize's origins, we usually start by naming pirate havens in the Bay, usually Belize and the Bay Islands, in addition to relevant non-Bay havens to the east and south, eg Mosquito Shore, Tortuga, so on, and to the north and west, eg Catoche, Campeachy, etc. Generally, then, we are basically left with four havens to discuss Belize's origins. If we were to plot these havens physically, their graph might look like Graph~\ref{graph:lit}, where north-central Belize (Bc) is pretty close to the Bay Islands (Id) ie \begin{tikzcd}[cramped,sep=small] \bc \rar &\id\end{tikzcd}, but neither of them is pretty close to non-Bay havens (Mosq Shore ie Bluefields or Prov, Campeachy, etc) eg \begin{tikzcd}[cramped,sep=small] \id \rar[color=gray] &\et\end{tikzcd}.
+%
+\begin{equation}
+\label{graph:lit}% contiguity graph of havens in literature - or [r,dashed] or dotted] for less conqiguous
+\begin{tikzcd}
+\nt \rar[color=gray] &\bc \rar &\id \rar[color=gray] &\et
+\end{tikzcd}
+\end{equation}
+%
+The reasons for this selection, rather than another, seem to be the havens' prominence and utility. For instance, the Bay Islands are well attested in primary sources, and are of course physically prominent in life and maps, and are strategically placed and bountiful. If we were to focus on a location's \emph{strategic} value, however, a new haven is possible -- the Bay's mouth.
+%
+\begin{equation}
+\label{graph:prop}% proposed contiguity graph of havens - add dashed arrow for increased cost eg makes less sense/costs more - prolly no need of/not enough evidence for Vd (Valladolid/N Yuc) haven area
+\begin{tikzcd}
+\nt \rar[color=gray] &\bc \rar \ar[rr,bend left] &\mt \rar &\id \rar[color=gray] &\et
+\end{tikzcd}
+\end{equation}
+%
+The identification of havens is important here in that piracy-to-logging pipeline is generally assumed to have been haphazard ie by convenience. That is, while the selection of havens was purposeful (following the Spanish ships), the selection of a logging camp from here (once pirates were in their haven/when their booty didn't materialise) is thought to have been a matter of `Where's the nearest logwood stand?' % so want all paths to logging in Bc as justified from prim sources/evidence
+Which is to say, piracy-in-Bay-Islands-lead-to-logging-in-them test test (ie \(\pir(\id)\to\log(\id)\)) is much more likely than \(\pir(\id)\to\log(\mt)\) which is similarly more likely than \(\pir(\id)\to\log(\et)\). Furthermore, if we were to have weighted directed edges in the graph above (eg by availabilty/ease of logwood, distance/difficulty to travel, presence of Spanish), then (ignoring self edges), for instance, \(\pir(\id)\to\log(\bc)\) would be likelier (eg more logwood in Bc) than the inverse.
+
+In addition, a lot of literature gives a Bc-Bc or Id-Bc account, given the paucity of evidence we have. (With minorities giving an Nt-Bc or Et-Bc account.) In this paper we support the Id-Bc pipeline, and offer an easier Id-Mt-Bc path.
+
+Also, a lot of literature dates the given pipelines to oddly early and oddly specific dates (eg 1638). The Id-Mt-Bc path might better rationalise these dating than existing ones.
 %
 %
 %
@@ -183,7 +221,10 @@ For these, we'd want to see or assume that buccaneers came to think of their hav
 \section{Support}
 \label{s:support}
 % ss c1
-\subsection{For Claim~\ref{c1}}
+\subsection{For Claim~\ref{c1}} We first present the models, then build support for the claim itself.
+\subsubsection{On Mdl~\ref{m1}}
+\subsubsection{On Mdl~\ref{m3}}
+\subsubsection{On Mdl~\ref{m1} vs Mdl~\ref{m3}}
 %
 %
 %
@@ -191,7 +232,7 @@ For these, we'd want to see or assume that buccaneers came to think of their hav
 % s concl
 \section{Conclusion}
 \label{s:concl}
-\lipsum[1][1-6] Test see~\cite{han15}*{p 2}.
+\lipsum[1][1-6]
 %
 %
 %
@@ -208,13 +249,13 @@ For these, we'd want to see or assume that buccaneers came to think of their hav
 %
 %
 \newpage% break - just for draft
-\appendix
+\appendix% no \cite below here
 %
 %
 % s terms
 \section{Terms}% incl gazetteer, glossary
 \label{s:terms}
-\lipsum[1][1-4]
+Senses not used in this paper tagged with asterisk.
 %
 \subsection{Gazetteer} Read personal identifications here as further importing the named entity's coincident physical features, eg read \ref{term:bz}.i as having `or their territory' appended.\footnote{Not the inverse though.}
 %
@@ -254,12 +295,14 @@ For these, we'd want to see or assume that buccaneers came to think of their hav
 \subsection{Glossary}
 %
 % sort terms alphabetically - yes, sort meanings logically - ?
-\subsubsection{Bayman} One of (i) resident of \ref{term:bz}.i, (ii) of foreigners' camps in Bay or Campeachy.
+\subsubsection{Bayman} One of (i) resident of \ref{term:bz}.i, (ii) member of certain camps or havens in Bay or Campeachy.
 %
-\subsubsection{buccaneer}\label{term:bucc} One of (i) \ref{term:pir}.i or \ref{term:pir}.ii or \ref{term:pir}.iii here, (ii) \ref{term:bucc}.i here resident in the West Indies incl Bay, (iii) anyone of a certain group of foreigners from northwest Hispaniola.
+\subsubsection{buccaneer}\label{term:bucc} One of (i) \ref{term:pir}.i or \ref{term:pir}.ii or \ref{term:pir}.iii here, (ii) \ref{term:bucc}.i here resident in the West Indies incl Bay, (iii) member of a certain group of foreigners from northwest Hispaniola.
+%
 	\begin{note}[residence]
 	For \ref{term:bucc}.ii, \emph{resident} as in spending some sufficiently significant share of total time here, or of time off here, or holding some sufficiently \emph{in}significant sense of attachment to their home country.
 	\end{note}
+%
 	\begin{note}[presence]
 	For \ref{term:bucc}.ii, assume present in sufficiently significant numbers by at least the 1620s.% add 'near Bay'?
 	\footnote{Origins of ii in lit xx. Origins of iii in lit xx.}

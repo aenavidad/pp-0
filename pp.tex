@@ -26,6 +26,8 @@
 \DeclareMathOperator{\bc}{Bc}% for dtto
 \DeclareMathOperator{\et}{Et}% for ditto
 \DeclareMathOperator{\nt}{Nt}% for ditto
+\DeclareMathOperator{\ab}{Ab}% for ditto - variable
+\DeclareMathOperator{\cd}{Cd}% for ditto - variable
 %
 %
 % general theorem styles
@@ -83,6 +85,42 @@
 %
 %
 %
+% s claims
+\section{Claim}% make claim
+\label{s:claim}
+We build some preliminaries here so as to make this paper's claim.
+%
+\subsection{Preliminaries}
+\subsubsection{Briefly} For any places \(\ab\) and \(\cd\), say \(\ab-\cd\) if \(\ab\) is close to \(\cd\) and vice versa. Then, for certain places in the Bay we have:
+%
+\begin{equation}
+\label{}
+\begin{tikzcd}[arrows=dash]
+\nt \rar[out=120,in=60,loop] &\bc \rar \rar[out=120,in=60,loop] \ar[rr,bend right] &\mt \rar \rar[out=120,in=60,loop] &\id \rar[out=120,in=60,loop] &\et \rar[out=120,in=60,loop]
+\end{tikzcd}
+\end{equation}
+%
+Now for any uses \(f\) and \(g\), say \(f(\ab)\to g(\cd)\) if the use of \(\ab\) for \(f\) lead to the use of \(\cd\) for \(g\). Then, for piracy \(p\) and logging \(l\) in particular, we have \(p(\ab)\to g(\cd)\) only if \(\ab-\bc\) and each edge in the path from \(\ab\) to \(\bc\) was the most profitable or least costly one available. In which case, for certain places in the Bay we have:
+%
+\begin{equation}
+\label{}
+p(\id)\to l(\bc)
+\end{equation}
+%
+\subsubsection{Illustration}% insert actual historical example here
+Say the \titleit{Swallow} crew in Rattan wake up one sunny morning to discover they've missed the Honduras Ships at Truxillo. At this point, they've got a number of options. They might head east to Gracias a Dios or north to Catoche, but both these courses seem either wasteful or taxing (it's a longer trip to either than it is to stay put). But while some R\&R might be due, they all know what a waste that would be, the Ships being but a few leagues away in Amatique. So the crew agree, `Hey, Amatique's not so far away, and the Ships might still be there!' and set off due west of Rattan. On arriving, they are griefstricken to find the Ships has outfoxed them again. Now they are way in the Bay's mouth, right in the thick of Spanish defences, and the only way out is a taxing voyage due east or another due north. But `Oh!,' says Wallace, `Old River's just a hop away, and flush with logwood!' And so thinking it better to get at least something more than good memories, they sail up Belize's coast, cutting logwood, before making their merry way out.
+\subsubsection{At length} We are almost all agreed that a faithful discussion of Belize's origins begins with piracy and ends with logging. There is, however, no consensus on the path from one to the other, nor on the time it took to traverse it. For now, however, all we need is agreement on the start and endpoints. So, assume those.
+
+Now, while we have agreed on a \emph{thematic} starting point, we have yet no agreement on time nor place, with values for the former ranging over three centuries (16th to 18th), and for the latter extending so far out so as to subsume at least two landmasses (Central America incl Yucatan, and the Greater Antilles). At this point we might either stop and cosider each proposal indivually (a tall order), or else sort them into bins and consider each bin collectively (still taxing, but doable). For now, however, we only need the \emph{geographic} starting point, leaving the \emph{temporal} one for later. So, we first sort by geographic starting points. Take all proposals with none such, or with the Bay proffered as the point, as discard. We are left with either proposals with starting points \emph{in} the Bay (the Bay Islands and north-central Belize, mainly) or outside of it (Providence, southern Mosquito Shore, Jamaica, Campeachy, Tortuga, mainly). These, of course, look like a list of pirate haunts in the west West Indies, and as our thematic starting point would seem to require, it's jsut where the pirates frequented that we'd want to set out geographic starting point. Now, if we count an entrance into the Bay from the Caymans as eastern, then any pirates outside the Bay would have to enter throught the north or east. Count these as two geographic starting points, named \(\nt\) and \(\et\) respectively, and further call the Bay Islands \(\id\) and north-central Belize \(\bc\).
+
+Now, before calling only these four our geographic starting points, assume here one more -- the mouth of the Bay, and call it \(\mt\). The reasons for this are like so. First, we agree or concede that \emph{all} pirates in haunts outside the Bay would enter via \(\nt\) or \(\et\), such that those two points act as proxies for all of those. Since we have all haunts outside of the Bay, then, we would naturally want all haunts within it as well. It will be part of the work of this paper to establish \(\mt\) as a pirate haunt (at least up to the criteria used for \(\bc\)). For now, we take it for granted, leaving us with three inner-Bay and two outer-Bay geographical starting points.
+
+Here we stop to notice a salient feature of our chosen geo starting points. The inner points are each close to themselves (of course) and the two others (some 30 leagues), while the outer ones are close only to themselves (some 60 leagues from their nearest non-identical point). We might represent this (and other factors eg energy expended in getting from one to another point, cost, etc, but not importing knowledge/practice/experience into weights) as a \mention{closeness} relation, and graph those sufficiently close as being connected, and those not as being disconnected, eg in graph above.
+\subsection{Claim}
+%
+%
+%
+%
 % s intro
 \section{Graph}
 \label{s:graph}
@@ -111,13 +149,15 @@ Which is to say, piracy in Bay Islands leading to logging in them (ie \(\id\lead
 In addition, a lot of literature gives a \(\bc\leadsto\bc\) or \(\id\leadsto\bc\) account, given the paucity of evidence we have. (With minorities giving an \(\nt\leadsto\bc\) or \(\et\leadsto\bc\) account.) In this paper we support the \(\id\leadsto\bc\) pipeline, and offer an easier \(\id\to\mt\to\bc\) path for it.
 
 Also, a lot of literature dates the given pipelines to oddly early and oddly specific dates (eg 1638). The \(\id\to\mt\to\bc\) path might better rationalise or explain these datings than existing ones.
+
+In literature we identify, in addition to the accepted piracy-to-logging pipeline, the logging-to-logging and other-to-logging pipelines, eg Restall for former, Winzerling for latter. In addition, variants exists on whether the path was haphazard (logging camp was just close by/convenient) or intentional (specifically chosen), in addition to other variations (sort of pirates -buccaneers, etc, their provenance -Jam, etc). The log-to-log is just a nested pir-to-log pipeline over widers stretch of time, so really the types are pir-to-log or not-pir-to-log (and the timeline for each). So for any given start Ab and end Cd, we have short and lengthy pir-to-log (ie \(\ab\leadsto\cd\) and \(\ab\leadsto^{*}\cd\) xx.
 %
 %
 %
 %
 % s claims
 \section{Claims}
-\label{s:claims}
+\label{s:claimsold}
 Let \(s\) be S~Bay, \(w\) W~Bay, \(n\) N~Bay, \(\to\) the historical \mention{lead to} relation, \(t_{i}\) a point in time, \(\pir(i)\) the use of place \(i\) as a pirate haven, \(\log(i)\) of \(i\) as a logging camp, \(\own(i)\) the thinking of place \(i\) as one's own. Say \(\pir(s)\) at \(t_{0}\) and \(\own(s)\) at \(t_{1}\) and \(\log(w)\) at \(t_{i}\) and \(\own(w)\) at \(t_{j}\).\footnote{Where \mention{S Bay} is the southern Bay of Honduras and Spanish ports there (Truxillo, Pto Caballos, Sto Tomas, etc) and waters off this coast and these ports to distance from which pirates could spy on ports and shipping lanes (ie incl Bay Isl and cayes off Toledo), \mention{W Bay} is similarly defined but for western Hond Bay and ports and lanes there (Tamalcab for Bacalar ie incl cayes off Belize, Corozal), \mention{N Bay} is similarly defined but for northern Hond Bay and ports and lanes there (Valladolid's port and Yucn Channel ie incl Cozumel probably).}
 %
 %

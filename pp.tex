@@ -91,11 +91,14 @@
 We build some preliminaries here so as to make this paper's claim.
 %
 \subsection{Preliminaries}
-\subsubsection{Briefly} For any places \(\ab\) and \(\cd\), say \(\ab-\cd\) if \(\ab\) is close to \(\cd\) and vice versa. Then, for certain places in the Bay we have:
+\label{ss:prelims}
+\subsubsection{Briefly}
+\label{sss:briefly}
+For any places \(\ab\) and \(\cd\), say \(\ab-\cd\) if \(\ab\) is close to \(\cd\) and vice versa. Then, for certain places in the Bay we have:
 %
 \begin{equation}
 \label{}
-\begin{tikzcd}[arrows=dash]
+\begin{tikzcd}[arrows=dash,sep=large]
 \nt \rar[out=120,in=60,loop] &\bc \rar \rar[out=120,in=60,loop] \ar[rr,bend right] &\mt \rar \rar[out=120,in=60,loop] &\id \rar[out=120,in=60,loop] &\et \rar[out=120,in=60,loop]
 \end{tikzcd}
 \end{equation}
@@ -107,7 +110,15 @@ Now for any uses \(f\) and \(g\), say \(f(\ab)\to g(\cd)\) if the use of \(\ab\)
 p(\id)\to l(\bc)
 \end{equation}
 %
+Next for uses \(f\), \(g_{0},\ldots,g_{n}\) and attitiude \(\alpha\), say \(f(\ab)\) if any \(g_{i}(\ab)\) for \(i\leq n\) and say \(\alpha(\ab)\) if the attitude towards \(\ab\) is one of attachment.% only for certain agents, certain places ?
+%
+\begin{gather}
+f(\ab)\to\alpha(\ab)\\
+\alpha(\ab)\to f(\ab)
+\end{gather}
+%
 \subsubsection{Illustration}% insert actual historical example here
+\label{sss:illustration}
 Say the \titleit{Swallow} crew in Rattan wake up one sunny morning to discover they've missed the Honduras Ships at Truxillo. At this point, they've got a number of options. They might head east to Gracias a Dios or north to Catoche, but both these courses seem either wasteful or taxing (it's a longer trip to either than it is to stay put). But while some R\&R might be due, they all know what a waste that would be, the Ships being but a few leagues away in Amatique. So the crew agree, `Hey, Amatique's not so far away, and the Ships might still be there!' and set off due west of Rattan. On arriving, they are griefstricken to find the Ships has outfoxed them again. Now they are way in the Bay's mouth, right in the thick of Spanish defences, and the only way out is a taxing voyage due east or another due north. But `Oh!,' says Wallace, `Old River's just a hop away, and flush with logwood!' And so thinking it better to get at least something more than good memories, they sail up Belize's coast, cutting logwood, before making their merry way out.
 \subsubsection{At length} We are almost all agreed that a faithful discussion of Belize's origins begins with piracy and ends with logging. There is, however, no consensus on the path from one to the other, nor on the time it took to traverse it. For now, however, all we need is agreement on the start and endpoints. So, assume those.
 
@@ -116,7 +127,76 @@ Now, while we have agreed on a \emph{thematic} starting point, we have yet no ag
 Now, before calling only these four our geographic starting points, assume here one more -- the mouth of the Bay, and call it \(\mt\). The reasons for this are like so. First, we agree or concede that \emph{all} pirates in haunts outside the Bay would enter via \(\nt\) or \(\et\), such that those two points act as proxies for all of those. Since we have all haunts outside of the Bay, then, we would naturally want all haunts within it as well. It will be part of the work of this paper to establish \(\mt\) as a pirate haunt (at least up to the criteria used for \(\bc\)). For now, we take it for granted, leaving us with three inner-Bay and two outer-Bay geographical starting points.
 
 Here we stop to notice a salient feature of our chosen geo starting points. The inner points are each close to themselves (of course) and the two others (some 30 leagues), while the outer ones are close only to themselves (some 60 leagues from their nearest non-identical point). We might represent this (and other factors eg energy expended in getting from one to another point, cost, etc, but not importing knowledge/practice/experience into weights) as a \mention{closeness} relation, and graph those sufficiently close as being connected, and those not as being disconnected, eg in graph above.
+
+We further take stock of a feature in our agents' move from start (piracy) to end (logging), namely, the \emph{reason} for which said move was taken. A healthy number of reasons have been offered in literature, but it will not be the work of this paper to support one or the other. Rather, here we note that the reasons offered are broadly economic (looking for profit, declining Spanish commerce, etc) vs non-economic (criminalisation, conscience, etc) and short- vs long-term (reasons for action in \emph{this} expedition/voyage vs life choices generally). In this paper, we import only short-term economic reasons (incl the usual rational choices eg staying safe, minimising energy expenditure, etc), and disregard any long-term or non-economic ones.% rest of paper might work with long or non-econ ones though - not sure
+
+If the above two features are granted, then we immediately have a first pass of the path we were looking for from piracy to logging. Namely, if closeness relations between our geo points stand as above graphed (with closeness taking cost into account), and if pirates made short term econ decisions (seeking immediate profit), then a rough, minimal model of such short-term decision-making might look like the arrow function above. This again will not be established in this paper, but rather taken as following from the two features granted above.% of maybe show another function wouldn't work?
+
+Now, if we grant that the said function models \emph{short} term decision for pirates of interest to us, then we are probably left with at least hundreds of such decisions taken and not taken by crews, or thousands taken and not taken by individual pirates, ie a mess of which we don't have a faint nor clear picture (due to lack of records, bias in records to covering piracy and not logging, naturally, etc).
+
+However, say the short-term piracy to logging decision were taken significantly more often than not after a certain point/by certain agents/under certain conditions. Call these \emph{coupling} conditions %logging couples w pirating at signigicant levels here
+and assume them for now (will return later to them). Then we might not really need to see both input and output of the funciton, and might instead take pirating decisions as proxies for logging decisions under these coupling conditions. While this wouldn't give us a granular view of short-term instances, we'd now have a rough picture of long term trends. That is, at least under coupling conditions, we might a sketch of the piracy to logging move. It will be the work of this paper to offer possible coupling conditions, but not to establish any with any certainty at all.
+
+If the coupling conditions are granted, then decoupling ones ought to be too, given that we are widely agreed that logging outlived piracy in the West Indies. Taken as granted/following from above, so not established here. However, it will be the work of this paper to suggest (but not establish) decoupling conditions as well.
+
+What this means for us is that our picture of piracy as proxy for logging has an expiration date, and so can only give us a glimpse at the piracy to logging path, and so is of limited use.
+
+At this low point we take a break to again take stock of our position. We still have our thematic starting and ending points, our geographic starting points, the closeness relation between these, the (econ short) reasons for our agents' move from thematic start to end, the resulting minimal model of their short econ decisions, the coupling and decoupling conditions, and the proxy picture of logging decisions between said conditions, and nothing else. Actually, in addition to this, we now note that we have had from the beginning our geographic end point, naturally, ie Belize ie \(\bc\) or \(\mt\) or a sum of these. We have nothing else though (importantly missing temporal points).
+
+At this post-decoupling point, it seems that the rough minimal model of short econ pir to log decisions would no longer work, given the now significant positive coincidence. So the function too only models short term decisions up to decoupling. Ignore this for now.% prolly coupling = rise of buccaneers, and decoupling = fall of Sp commerce/easy booty
+
+Now, we were prior agreed that logging outlived piracy. Here, further assume that piracy outlived decoupling. (This point to be established in paper.) 
+
+Then we would have one of between the temporal points of the decoupling and the fall of piracy (for convenience here assume there was significant logging at least by fall of piracy). Either there was no or insignificant logging during the said points, or there was at least some significant logging during the same. % remember coupling meant near 1:1 pir:log significant positive coincidence eg >= +0.7, so after decoupling we have either insignificant coincidence eg -0.7 to +0.7, or significant negative coincidence eg <= -0.7
+
+And further, either there was no significant piracy:logging coincidence, or there was at least some significant coincidence (negative as decoupling occurred, by definition, when significant positive coincidence was no more). So in total we have four cases for this time period. % ie no signif coinc + sig logging, no signif coinc + no sig logging, signif neg coinc + sig logging, signif neg coinc + no sig logging
+However, the case where we have no significant logging and significant negative piracy:logging coincidence is not possible, given we've presumed the fall of piracy during this period. So really we have three cases here.
+
+It is the work of this paper to discuss possible paths within each of these cases.
+
+This done, we will temporally be at the fall of piracy, at which point, per assumption, logging is occurring at significant levels, and we have reached the end of the piracy to logging path at some undefined temporal endpoint.
+
+It will be the work of this paper to support now some (not all) of the above asked for grants/assumptions, and to offer possible temporal start and end points.
+% for (decoupling point)
+% nil log + neg coinc NOT POSSY DURING PIR FALL
+% nil log + nil coinc (possy ie independent)
+% sig log + neg coinc (possy during pir fall)
+% sig log + nil coinc (possy ie independent) 
+%
+\subsection{Map}
+\label{ss:map}
+So for temporal start point \(t_{0}\) and end point \(t_{1}\), and coupling and decoupling points \(t_{c}\) and \(t_{d}\), we have \(0\leq c<d< 1\) (as per above). % decoupling after coupling, and decoupling before out end point
+Then we have \mention{precoupled} (\(t_{0}\) to \(t_{c}\), possibly null), \mention{coupled} (\(t_{c}\) to \(t_{d}\)), and \mention{decoupled} (\(t_{d}\) to \(t_{1}\)) periods. And for each, we have 0 or 1, 1, and 3 cases to review (as per above). And at \(t_{1}\) we have \(l(\bc)\).
+%
+\begin{equation}
+\label{}
+\begin{tikzcd}[sep=huge]
+t_{0} \rar &t_{c} \rar \rar[bend left] \rar[bend right] &t_{d} \rar &t_{1}
+\end{tikzcd}
+\end{equation}
+%
+And in outline:
+\begin{enumerate}
+\item Get thematic start and end points (piracy, logging) (min grant).
+\item Add spatial points (\(\nt\), \(\bc\), \(\mt\), \(\id\), \(\et\)):
+	\begin{itemize}
+	\item Get those in Bay from literature (min grant),
+	\item Change those out of Bay from literature to \(\nt\) and \(\et\) (min/med support),% min support prolly
+	\item Add \(\mt\) (med support).
+	\end{itemize}
+\item Add closeness of spatial points (min support).
+\item Add short-term, economic agential reasons for move from thematic start to end point (min support).
+\item Add arrow function (min support).% to show adequacy
+\item Add coupling conditions (max support).% rise of resident pirates (incl foreign colonies, entrepots), fall of home country attachment, increase in smuggling, 
+\item Add decoupling conditions (min support).
+\item Add sketch of coupled period (min/med support).
+\item Add sketch of precoupled period (min support).
+\item Add sketch of decoupled period (med support).
+\end{enumerate}
+%
+%
 \subsection{Claim}
+\label{ss:claim}
 %
 %
 %

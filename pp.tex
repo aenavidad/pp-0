@@ -28,6 +28,9 @@
 \DeclareMathOperator{\nt}{Nt}% for ditto
 \DeclareMathOperator{\ab}{Ab}% for ditto - variable
 \DeclareMathOperator{\cd}{Cd}% for ditto - variable
+\DeclareMathOperator{\pre}{pre}% for log
+\DeclareMathOperator{\pst}{pst}% for log
+\DeclareMathOperator{\cpd}{cpd}% for log
 %
 %
 % general theorem styles
@@ -37,11 +40,15 @@
 \newtheorem{claim}{Claim}
 \theoremstyle{remark}% for appendix - testing
 \newtheorem*{note}{Note}
+\theoremstyle{definition}% for claim - testing
+\newtheorem*{claim*}{Claim}
+\theoremstyle{definition}% for defin - testing
+\newtheorem{gloss}{Gloss}
 %
 %
 % xcolor commands for darkmode - just for draft
-%\pagecolor{darkgray}
-%\color{white}
+\pagecolor{darkgray}
+\color{white}
 %
 %
 % offload tikz/pgfplots - got error when compiling
@@ -85,6 +92,72 @@
 %
 %
 %
+% s done
+\section{Dummy}
+\label{s:dummy}
+We present this paper's main claim here, and map out the support it will be given later on.
+%
+%
+% main claim
+\begin{claim*}[Main]
+\label{clm:main}
+\ref{map} and \ref{log} are a decent approach to work on the origins of Belize.% qualify 'up to isomorphism' ?
+%
+\begin{equation}
+\tag{Map}
+\label{map}
+\begin{tikzcd}[arrows=dash]
+\nt &\bc \rar \ar[rr,bend left] &\mt \rar &\id &\et
+\end{tikzcd}
+\end{equation}
+%
+For vertices as certain places in the Bay, and edges as a certain relation between them. The Bay is mapped from northwest to southeast, beginning in northern Yucatan (\(\nt\)), flowing down to northern Belize (\(\bc\)), then the mouth of the Bay (\(\mt\)), next the Bay Islands (\(\id\)), and finally eastern Honduras (\(\et\)). We say a place \(ab\) is connected to place \(\cd\) (\(\ab-\cd\)) if \(\ab\) is \mention{close} to \(\cd\), and not otherwise, ignoring trivial cases.\footnote{Eg where \(\ab=\cd\).} Primitively, spaces are close if they are geographically close.
+%
+\begin{equation}
+\tag{Log}
+\label{log}
+\begin{tikzcd}[sep=huge]
+t_{0} \rar["\pre" description] &t_{c} \rar["\cpd" description] &t_{d} \rar[bend left,"\pst_{0}" description] \rar["\pst_{1}" description] \rar[bend right,"\pst_{2}" description] &t_{1}
+\end{tikzcd}
+\end{equation}
+%
+For vertices as certain points in time, and arcs as certain series of events from one point to the other. The story relevant to Belize's origin is logged from start to finish, beginning at the earliest point (\(t_{0}\)), then a certain \mention{coupling} point (\(t_{c}\)), next an ensuing \mention{de}coupling point (\(t_{d}\)), and ending at the latest point in the story (\(t_{1}\)). These four points split our story into three parts, with a coupl\mention{ed} period (\(\cpd\)) in the middle, and a preceding \mention{pre}coupled period (\(\pre\)). The succeeding \mention{post}coupled period (\(\pst\)) is plotted as three series of events (\(\pst_{0}\), \(\pst_{1}\), \(\pst_{2}\)) rather than one, to account for three possibly distinct sequences of events. Basically, the coupling refers to the coincidence of piracy and logging in the Bay.
+\end{claim*}
+%
+%
+% map of support
+We bolster \nameref{clm:main} by spelling out what makes for a decent approach to the relevant work, and then demonstrating that \ref{map} and \ref{log} are jointly decent. So we first clarify \mention{decency} here.\footnote{These are a working gloss and claims, so taken for granted.}
+%
+\begin{gloss}[Decency]
+An approach to the relevant work is decent if its does not answer any \mention{thick} question and does at least one \mention{thin} one.% may add further eg 'in such a way as to only partially help answer at least one thick question', etc
+\end{gloss}
+%
+Where a narrow answer is granular, a thick question is interpretation heavy, and a thin question is less so. For work on the origins of Belize, we claim:
+%
+\begin{claim}[Thickness]% incl w/in gloss environ ?
+Thick questions are at least `When was Belize settled?' and `When was Belize founded?'
+\end{claim}
+%
+\begin{claim}[Thinness]
+Thin questions are at least `When was Belize used for piracy?' and `When was Belize used for logging?'
+\end{claim}
+%
+The general idea here is that a thick question is interpretation heavy, while a thin one is less so, so a maximally useful quide ought to be open to interpretation, it seems.
+
+We demonstrate both parts of decency jointly xx. % or take for granted first part, and only show 'answers a thin question' ?
+Towards this end, we first build both \ref{map} and \ref{log}, and then employ them jointly as required.\footnote{We assume either singly would not be decent.}
+
+by domonstrating the suitability of \ref{map} and \ref{log} as suitable guides to relevant work. Our workflow looks like so.
+1- spell out what makes a guide suitable ie split origin story into -founding vs settlement questions and subquestions,
+2. build map ground up to show internal qualities/suitability,
+3. apply map alone to show unsuitabilty as itself
+4. build log ground up as well,
+5. apply log alone to show unsuitable.
+6. apply together to show suitability.
+%
+%
+%
+%
 % s claims
 \section{Claim}% make claim
 \label{s:claim}
@@ -97,6 +170,7 @@ We build some preliminaries here so as to make this paper's claim.
 For any places \(\ab\) and \(\cd\), say \(\ab-\cd\) if \(\ab\) is close to \(\cd\) and vice versa. Then, for certain places in the Bay we have:
 %
 \begin{equation}
+\tag{Test}
 \label{}
 \begin{tikzcd}[arrows=dash,sep=large]
 \nt \rar[out=120,in=60,loop] &\bc \rar \rar[out=120,in=60,loop] \ar[rr,bend right] &\mt \rar \rar[out=120,in=60,loop] &\id \rar[out=120,in=60,loop] &\et \rar[out=120,in=60,loop]

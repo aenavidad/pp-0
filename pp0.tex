@@ -1,0 +1,233 @@
+\documentclass{amsart}
+%
+%
+% packages
+\usepackage{pgfplots}% for plots (loads tikz, wc itself loads xcolor, graphicx)
+\usepackage{tikz-cd}% for graphs - loads tikz too
+\usepackage{hyperref}% for links - load last-ish
+\usepackage{amsrefs}% for full cites - load last
+%
+%
+% new commands to avoid text formatting inline
+\newcommand{\code}[1]{\texttt{#1}}% for code
+\newcommand{\literature}[1]{\textit{#1}}% for book titles etc
+\newcommand{\ship}[1]{\textit{#1}}% for book titles etc
+\newcommand{\mention}[1]{\textit{#1}}% to mention (not use) terms
+\newcommand{\foreign}[1]{\textit{#1}}% for foreign words
+%
+%
+% new commands to avoid maths formatting inline
+\DeclareMathOperator{\ab}{Ab}% place variable
+\DeclareMathOperator{\cd}{Cd}% ^
+\DeclareMathOperator{\id}{Id}% place name
+\DeclareMathOperator{\mt}{Mt}% ^
+\DeclareMathOperator{\bc}{Bc}% ^
+\DeclareMathOperator{\et}{Et}% ^
+\DeclareMathOperator{\nt}{Nt}% ^
+\DeclareMathOperator{\pre}{pre}% time period name
+\DeclareMathOperator{\pst}{pst}% ^
+\DeclareMathOperator{\cpd}{cpd}% ^
+%
+%
+% amsthm styles where mainclm > minrclm = gloss > note = bodytext > footnote
+% plain style
+\newtheorem{mainclm}{Main Claim}% for main claims
+\newtheorem{minrclm}{Minor Claim}% for minor claims
+% definition style
+\theoremstyle{definition}
+\newtheorem{gloss}{Gloss}% for glosses
+% remark style
+\theoremstyle{remark}
+\newtheorem*{note}{Note}% for notes
+%
+%
+% tikz ie pgsplots, tikzcd commands
+\pgfplotsset{compat=1.18}
+%\tikzcdset{}% global graphs style
+%
+%
+% xcolor commands for darkmode - just for draft
+\pagecolor{darkgray}
+\color{white}
+%
+%
+\begin{document}
+%
+%
+% starting stuff
+\label{start}
+\title{pp0}
+\author{A Navidad}
+\address{Harvard College, Cambridge MA}
+\curraddr{Benque Viejo CY}
+\email{navidad@college.harvard.edu}
+\date{12 Feb 2025}
+\thanks{}% incl non-grant support per ams
+\begin{abstract}
+\end{abstract}
+\keywords{}
+\maketitle
+%
+%
+%
+% s claim
+\section{Claim}
+	\label{s:claim}
+	We present this paper's main claim here, and map out the support it will be given later on. Let the \mention{question*} be `What are Belize's origins?' As answers to question* are stories, call any existing and possible answers a \mention{story*}. Then,
+	%
+	% main claim
+	\begin{mainclm}
+	\label{mainclm:1}
+	\ref{mainclm:map} and \ref{mainclm:log} are a decent way of building a story*.\footnote{Qualified, eg up to similarity. Tools used jointly only, plus historical data.}
+	\end{mainclm}
+	%
+	\begin{equation}
+	\tag{Map}
+	\label{mainclm:map}
+		\begin{tikzcd}[arrows=dash]
+		\nt &\bc \rar \ar[rr,bend left] &\mt \rar &\id &\et
+		\end{tikzcd}
+	\end{equation}
+	%
+	For vertices as certain places in the Bay, and edges as a certain relation between them. The Bay is mapped from northwest to southeast, beginning in northern Yucatan (\(\nt\)), flowing down to northern Belize (\(\bc\)), then the mouth of the Bay (\(\mt\)), next the Bay Islands (\(\id\)), and finally eastern Honduras (\(\et\)). We say a place \(\ab\) is connected to place \(\cd\) (\(\ab-\cd\)) if \(\ab\) is \mention{close} to \(\cd\), and not otherwise.\footnote{Ignoring trivial cases eg where \(\ab=\cd\).} Primitively, spaces are close if they are geographically close.
+	%
+	\begin{equation}
+	\tag{Log}
+	\label{mainclm:log}
+		\begin{tikzcd}[sep=huge]
+		t_{0} \rar["\pre" description] &t_{c} \rar["\cpd" description] &t_{d} \rar[bend left,"\pst_{0}" description] \rar[bend right,"\pst_{1}" description] &t_{1}
+		\end{tikzcd}
+	\end{equation}
+	%
+	For vertices as certain points in time, and arcs as certain series of events from one point to the other. A story* is logged from start to finish, beginning at the earliest point (\(t_{0}\)), then a certain \mention{coupling} point (\(t_{c}\)), next an ensuing \mention{de}coupling point (\(t_{d}\)), and ending at the latest point in the story* (\(t_{1}\)). These four points split a story* into three parts, with a coupl\mention{ed} period (\(\cpd\)) in the middle, and a preceding \mention{pre}coupled period (\(\pre\)). The succeeding \mention{post}coupled period (\(\pst\)) is plotted as three series of events (\(\pst_{0}\), \(\pst_{1}\), \(\pst_{2}\)) rather than one, to account for three possibly distinct sequences of events. Basically, the coupling refers to the coincidence of piracy and logging in the Bay.
+	
+	%
+	% paper flow
+	We bolster \ref{mainclm:1} by spelling out what makes for a decent way of building a story*, and then demonstrating that \ref{mainclm:map} and \ref{mainclm:log} are decent. So we first gloss \mention{decency} here.
+	%
+	\begin{gloss}
+	\label{gloss:decency}
+		A way of building a story* is decent if the story* so built does \emph{not} answer any relevant \mention{thick} question and \emph{does} at least one relevant \mention{thin} one, where relevancy is to the question*, and thick questions are interpretation-heavy and thin ones less so.\footnote{The latter possibly in such a way as to only partially help answer at least one thick question. Might want further features too, eg is new, offers granular stories*, so on.}
+	\end{gloss}
+	%
+	The general idea being that a maximally useful way of building a story* ought to be open to iterpretation.
+	%
+	\begin{minrclm}
+	\label{minrclm:questions}
+	Relevant thick questions are only `When was Belize settled?' and `When was Belize founded?' Relevant thin ones are at least `When was Belize used for piracy?' and `When was Belize used for logging?'\footnote{Again for relevance to the question*. Up to similarity. Taken as granted, though support for \ref{mainclm:1} hinges on the first part here.}
+	\end{minrclm}
+	%
+	In \ref{s:support}, we first build \ref{mainclm:map} and \ref{mainclm:log}, then show they jointly answer neither thick question, and lastly show they do answer at least one thin one.
+%
+%
+%
+% s support
+\section{Support}
+	\label{s:support}
+	%
+	% ss:build
+	\subsection{Build}
+		\label{ss:build}
+		We build \ref{mainclm:map} and \ref{mainclm:log} from the ground up here.
+		
+		We start by noting that almost all existing stories* begin with piracy and end with logging, and noting that there is almost no consensus on the path charted from one to the other, nor on the time it took to traverse said path. Nonetheless, we now have thematic start and end points, call them \mention{first-theme} (piracy) and \mention{last-theme} (logging).
+		
+		Now we note that, while existing stories* are agreed on first-theme, there is yet no agreement on when nor where to begin, with values for the former ranging over three centuries, and for the latter spanning two landmasses.\footnote{Sixteenth to eighteenth cneturies, and Central America including Yucatan, plus the Greater Antilles.} But despite not having them, call them \mention{first-time} (when story* begins) and \mention{first-place} (where story* begins), and similarly for \mention{last-time} and \mention{last-place}.\footnote{These spatial and temporal points are for stories*, \emph{not} for the start/end of our themes ie phenomena ie piracy and logging.}
+		%
+		% sss:map
+		\subsubsection{Map}
+			\label{sss:map}
+			Now, to get first-places from existing stories*, we either stop and consider each proferred first-place individually, or else sort them into classes and consider each class instead. We do the latter here.
+		
+			First, group all first-places located within the Bay, and group all others.\footnote{Discard null and `Bay' first-places.} We now have the Bay Islands and Belize on the one hand, and Campeachy, Catoche, Jamaica, Mosquito Shore, Old Providence and Tortuga on the other.\footnote{Possibly ignoring minor/unreviewed first-places. For Belize, mostly north-central. For Campeachy, including Terminos and Tris. For Catoche, including Cozumel and Ascension, possibly. For Tortuga, including north-west Hispaniola. For Mosquito Shore, assuming/mostly south-central.}
+		
+			Before proceeding, we note that these first-places look, of course, like a list of pirate haunts in the greater vicinity of Belize, just as we would expect from first-theme. To have a comprehensive \ref{mainclm:map}, then, we would want a \emph{complete} list of pirate haunts in said vicinity.
+		
+			Now, before checking that we have a complete list of pirate haunts, we here note that nautical entry to the Bay is either through the north or the east, such that for first-places outside the Bay, regardless of their geographic location, the relevant agents would all enter the Bay through one of two points.\footnote{Counting north-east entrance via Caymans as east.} In which case, we might map the north (\(\nt\)) and east (\(\et\)) entrances, and take these as proxies for \emph{all} pirate haunts outside the Bay. So, \(\nt\) and \(\et\) give us a complete list of pirate haunts for the second group.
+		
+			We have no such shortcut for the first group of first-places (pirate haunts in the Bay) though, so this check is done by hand. This done, we find we might want to add one first-place to this group, namely, the mouth of the Bay (\(\mt\)), giving us three first-places (with the Bay Islands (\(\id\)) and Belize (\(\bc\))). We assume our hand check was thorough, and so conclude that \(\mt\), \(\id\), and \(\bc\) give us a complete list of pirate haunts for the first group.\footnote{This step to be supported later on ie that hand check was thorough, and that \(\mt\) was a pirate haunt (at least up to criteria used to say \(\bc\) was one.}
+		
+			So, we now have a list of five first-places which name all pirate haunts in the vicinity of Belize. As \ref{mainclm:map} charts only these, it too is complete in this respect.
+		
+			Lastly, as we would like to chart our first-places in some relevant manner, and not just list them, we look for relevant ways these pirate haunts were related. This is done by hand. This done, the first and most obvious relation is distance, of course. But in addition to this, we have cost, ie the difficulty of getting from one first-place to the other. And we find no further salient relations.\footnote{Ignoring non-salient/missed relations, but assume no others, or assume these are subsumed by cost. May want to exclude from or keep constant in cost the nautical knowledge/practice/expereience weight. Thoroughness of hand check supported later.}
+			
+			As cost subsumes distance, we consider only cost. As those were the only salient relations among our first-places, cost gives us \emph{all} the ways our first-places are related.\footnote{All ways we care about, assuming hand check was thorough.} So say some first-place is \mention{close} to another if it's \emph{not} costly to get from the one to the other and vice versa.\footnote{Giving us undirected closeness from directed cost, for simplicity, but could keep directed. By \mention{not costly} we mean for some cutoff of cost which we deem sufficiently cheap.} Then, we have that \(\bc\), \(\mt\), and \(\id\) are close to each other, while \(\nt\) and \(\et\) are close to none.\footnote{Ignoring self-closeness.}
+			
+			So, we now have one relation which subsumes all salient or relevant ways in which our first-places are related. As \ref{mainclm:map} charts only this relation, it too is complete in this respect.
+			
+			This fully gives us \ref{mainclm:map}, so our work here is done.
+		%
+		% sss:log
+		\subsubsection{Log}
+			\label{sss:log}
+			We start by noting that in existing stories* we have very many first-times and last-times (when stories* start and end). We further have two relevant phenomena, ie our first-theme and last-theme ie piracy and logging. Call their temporal start and end \mention{first-piracy}, \mention{last-piracy}, \mention{first-logging}, and \mention{last-logging}.
+			
+			Now, we note that none of these first-times pre-dates first-piracy, and none of these last-times post-dates last-piracy. So, first-theme is present at every point in time in existing stories*. We further note that \emph{only} some of these first-times pre-date first-logging, and none of these last-times post-dates last-logging. So last-theme is either present at every point, or else present only in later points in time in existing stories*.
+			
+			So, of the temporal points of first-theme and last-theme, \emph{none} show up in \emph{all} existing stories*.
+			
+			We salvage this sad state by looking at the stories* which \emph{do} include first-logging. In almost all of them, this point is not given prominence but rather minimised in favour of a second point, that when the incidence of last-theme reached some significant threshhold, call it \mention{first-significant-logging}.\footnote{There is a further \mention{first-significant-piracy} in some existing stories*, but not needed here.}
+			
+			If we now look for first-significant-logging in existing stories*, we do find it in all of them.
+			
+			Instead of plotting first-significant-logging, however, we take stock of \emph{why} first-logging is only in some stories*, and why first-significant-logging is favoured. The immediate answer is that we can't see the incidence of last-theme, of course.\footnote{No records on logging.} But additionally, we further presume that it was \emph{in}significant for some time after first-logging, and that it first reached significance only after first-significant-logging.\footnote{Significance regarding frequency of logging, or amount logged, or number of loggers, and so on.}
+			
+			So, all existing stories* presume that there was some non-null time between first-logging and first-significant-logging. Again, instead of plotting, we take stock of why this is.
+			
+			Here, we find that all such stories* presume that first-theme \emph{lead to} last-theme in a \emph{specific} way, namely, by pirates' logging a little bit from first-logging, then more and more, until logging a lot from first-significant-logging.\footnote{For some significance threshhold.} Which is to say, all existing stories* presume the increasing \emph{co}incidence of our first-theme and last-theme.
+			
+			This, finally, would make for a useful organising principle for \ref{mainclm:log}, due not just to existing consensus, but additionally to the greater insight we have into the incidence of first-theme.
+			
+			Now, we have \emph{strong} significant positive coincidence between first-theme and last-theme starting from first-significant-logging. But even \emph{weak} significant positive coincidence migtht be useful when using first-theme incidence as proxy for last-theme incidence.\footnote{For some value of storng or weak.}
+			
+			So, call the point in time when first-theme and last-theme first positively, significantly coincided \(t_{c}\), and add to \ref{mainclm:log}.
+			
+			Naturally, in the period from start-logging to \(t_{c}\), first-theme and last-theme did not significantly coincide at all.\footnote{No examples of significant negative coincidence in stories*.} For stories* with first-times at or after first-logging, this covers the entire period. For stories* with first-times pre-dating first-logging, there would still be no significant coincidence at all, given no incidence of last-theme. So call this period of insignifcant coincidence \(\pre\), and call first-times \(t_{0}\), and add both to \ref{mainclm:log}.
+			
+			Now, in the period after \(t_{c}\), first-theme and last-theme did significantly coincide at all points, but in all stories* this is only so up to a point.\footnote{Due to various reasons including fall of last-theme incidence below significance, fall of first-theme incidence below significance, so on.} This is, of course, what we would expect, given that last-theme outlived first-theme by a lot.
+			
+			So, at some point after \(t_{c}\), first-theme and last-theme first \emph{stopped} positively or significantly coinciding. Call it \(t_{d}\) and add to \ref{mainclm:log}. Furthermore, call the period between \(t_{c}\) and this point \(\cpd\), and likewise add to \ref{mainclm:log}.\footnote{Only one possible path between these points, ie significant coincidence all the time.}
+			
+			After \(t_{d}\), all stories* agree that the incidence of first-theme fell below some significance threshhold, while only some say as much of last-theme. Nonetheless, the first consensus is all we need to see all possible paths to all last-times.
+			
+			So, from \(t_{d}\) to last-time, the incidence of last-theme either was significant at all points, or it was not, while the coincidence of first-theme and last-theme was either insignificant at all points, or it was not.
+			%
+			% table
+			\begin{table}
+			\caption{Paths from \(t_{d}\) to last-time.}
+			\label{tab:pathsforlog}
+			\begin{tabular}{ccccc}
+			first-theme &last-theme &coinc &coinc direcn	&mod direcn\\
+			insig	&sig	&insig	&+ or --	&irlvt\\
+			insig	&sig	&sig		&+ or --	&--\\
+			insig	&insig	&insig	&+ or --	&irlvt\\
+			insig	&insig	&sig		&+ or --	&+
+			\end{tabular}
+			\end{table}
+			%
+			
+			Of the paths possible from \(t_{d}\) to last-time, we note that the direction of coincidence is irrelevant in the first and third paths in \ref{tab:pathsforlog}, given insignificant coincidence. For the second path, if we have little piracy and a lot of logging and significant coincidence, then its direction must be negative. For the fourth path, if we have little piracy and little logging and significant coincidencce, then its direction must be positive.
+			
+			For simplicity, we merge the first and third paths and call them \(\pst_{0}\), and merge the second and fourth call them \(\pst_{1}\), and call last-times \(t_{1}\), and add all to \ref{tab:pathsforlog}. 
+			
+			This fully gives us \ref{mainclm:log}, so our work here is done.
+	%
+	% ss:decency
+	\subsection{Decency}
+		\label{ss:decency}
+		We show \ref{mainclm:map} and \ref{mainclm:log} as built are decent here.
+		
+%
+%
+%
+% s references
+\begin{bibdiv}
+	\label{s:references}
+	\begin{biblist}
+	\bibselect{pprefs}
+	\end{biblist}
+\end{bibdiv}
+%
+%
+%
+\end{document}

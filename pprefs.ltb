@@ -19,6 +19,26 @@
 %
 % live refs already sorted ↓ - ~\cite{aaa00}*{pp} or ~\cites{aaa00, bbb00} (no pp) or ~\citelist{\cite{aaa00} \cite{bbb00}*{pp} \cite{ccc00}}
 %
+\bib{rds32}{article}{
+	author={},
+	date={1732-05-27},
+	title={Extract of a Letter from Campeche in the Province of Yucatan, Dated Nov. 24},
+	subtitle={},
+	journal={Read's Weekly Journal or British Gazetteer},
+	volume={},
+	number={375},
+	pages={3}}% https://link-gale-com.ezp-prod1.hul.harvard.edu/apps/doc/Z2001242711/BBCN?u=camb55135&sid=bookmark-BBCN&xid=1707dcf8
+%
+\bib{fen49}{article}{
+	author={},
+	date={1849-09-05},
+	title={Ojeada sobre el establecimiento británico de Belice y reflexiones sobre su futura influencia},
+	subtitle={},
+	journal={Fénix},
+	volume={},
+	number={62},
+	pages={3--4}}% http://www.hndm.unam.mx/consulta/publicacion/visualizar/558075be7d1e63c9fea1a284?intPagina=3&tipo=publicacion&anio=1849&mes=09&dia=05&butIr=Ir
+%
 \bib{app12}{article}{
 	author={Appleby, John},
 	date={2012},
@@ -40,6 +60,24 @@
 	volume={33},
 	number={132B},
 	pages={75--107}}% https://doi.org/10.24901/rehs.v33i132b.484 for bucc rise < 1620s, plus re Tris pir/log
+%
+\bib{cam03}{article}{
+	author={Campbell, Mavis C},
+	date={2003},
+	title={St George's Cay},
+	subtitle={Genesis of the British Settlement of Belize -- Anglo-Spanish Rivalry},
+	journal={Journal of Caribbean History},
+	volume={37},
+	number={2},
+	pages={171--203}}% https://www.proquest.com/openview/d4e7bdd07f31c4826be58cfe80f7f692
+%
+\bib{cam11}{book}{
+	author={Campbell, Mavis C},
+	date={2011},
+	title={Becoming Belize},
+	subtitle={A History of an Outpost of Empire Searching for Identity, 1528--1823},
+	publisher={University of the West Indies Press},
+	address={Kingston, Jamaica}}% https://lccn.loc.gov/2012505511
 %
 \bib{den13}{thesis}{
 	author={Dengler, Matthew P},
@@ -147,13 +185,15 @@
 	number={3},
 	pages={63--80}}% https://doi.org/10.62120/mch.v1i3.26
 %
-\bib{tor20}{book}{
-	author={de la O Torres, Rodrigo},
-	date={2020},
-	title={De corsarios, mares y costas},
-	subtitle={El corso en la construcción del espacio y experiencias marítimas en el Golfo-Caribe, 1527--1620},
-	publisher={UAA},
-	address={Aguascalientes, Ags}}% https://doi.org/10.33064/UAA/978-607-8714-67-4
+\bib{res19}{article}{
+	author={Restall, Matthew},
+	date={2019},
+	title={Creating `Belize'},
+	subtitle={The Mapping and Naming History of a Liminal Locale},
+	journal={Terrae Incognitae},
+	volume={51},
+	number={1},
+	pages={5--35}}% https://doi.org/10.1080%2F00822884.2019.1573962
 %
 \bib{sta11}{article}{
 	author={Starkey, David J},
@@ -164,6 +204,14 @@
 	volume={97},
 	number={1},
 	pages={127--147}}% http://dx.doi.org/10.1080/00253359.2011.10709036 for pir/bucc lit review incl WI 17th cent
+%
+\bib{tor20}{book}{
+	author={de la O Torres, Rodrigo},
+	date={2020},
+	title={De corsarios, mares y costas},
+	subtitle={El corso en la construcción del espacio y experiencias marítimas en el Golfo-Caribe, 1527--1620},
+	publisher={UAA},
+	address={Aguascalientes, Ags}}% https://doi.org/10.33064/UAA/978-607-8714-67-4
 %
 \end{biblist}
 \end{bibdiv}

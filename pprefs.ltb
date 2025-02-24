@@ -39,6 +39,15 @@
 	number={62},
 	pages={3--4}}% http://www.hndm.unam.mx/consulta/publicacion/visualizar/558075be7d1e63c9fea1a284?intPagina=3&tipo=publicacion&anio=1849&mes=09&dia=05&butIr=Ir
 %
+\bib{anc78}{book}{
+	author={Ancona, Eligio},
+	date={1878},
+	title={Historia de Yucatan desde la època mas remota hasta nuestros dias},
+	subtitle={},
+	volume={2},
+	publisher={Imprenta de M Heredia Argüelles},
+	address={Merida, Yuc}}% https://books.google.com/books?id=FDcCAAAAYAAJ
+%
 \bib{app12}{article}{
 	author={Appleby, John},
 	date={2012},
@@ -61,6 +70,17 @@
 	number={132B},
 	pages={75--107}}% https://doi.org/10.24901/rehs.v33i132b.484 for bucc rise < 1620s, plus re Tris pir/log
 %
+\bib{bul16}{article}{
+	author={Bulmer-Thomas, Barbara},
+	author={Bulmer-Thomas, Victor},
+	date={2016},
+	title={The Origins of the Belize Settlement},
+	subtitle={},
+	journal={Tempus},
+	volume={},
+	number={4},
+	pages={137--160}}% https://revistas.udea.edu.co/index.php/tempus/article/view/326161
+%
 \bib{cam03}{article}{
 	author={Campbell, Mavis C},
 	date={2003},
@@ -69,7 +89,17 @@
 	journal={Journal of Caribbean History},
 	volume={37},
 	number={2},
-	pages={171--203}}% https://www.proquest.com/openview/d4e7bdd07f31c4826be58cfe80f7f692
+	pages={171--203}}% https://www.proquest.com/scholarly-journals/st-georges-cay-genesis-british-settlement-belize/docview/211121556/se-2?accountid=196403
+%
+\bib{cam09}{article}{
+	author={Campbell, Mavis C},
+	date={2009},
+	title={Naming and History},
+	subtitle={Aspects of the Historiography of Belize},
+	journal={Journal of Caribbean History},
+	volume={43},
+	number={1},
+	pages={72--114}}% https://www.proquest.com/latinamericaiberian/scholarly-journals/naming-history-aspects-historiography-belize/docview/868339911/sem-2?accountid=196403
 %
 \bib{cam11}{book}{
 	author={Campbell, Mavis C},
@@ -78,6 +108,25 @@
 	subtitle={A History of an Outpost of Empire Searching for Identity, 1528--1823},
 	publisher={University of the West Indies Press},
 	address={Kingston, Jamaica}}% https://lccn.loc.gov/2012505511
+%
+\bib{car71}{book}{
+	author={Carrillo y Ancona, Crescencio},
+	date={1871},
+	title={Compendio de la historia de Yucatan, precedido del de su geografía y dispuesto en forma de lecciones},
+	subtitle={},
+	publisher={Imprenta JD Espinosa é hijos},
+	address={Mérida, Yuc}}% https://search.worldcat.org/oclc/13403072 and https://books.google.com/books?id=zZkPgqPHFQwC
+%
+\bib{car78}{article}{
+	author={Carrillo y Ancona, Crescencio},
+	date={1878},% -11-09
+	title={El orígen de Belice},
+	subtitle={},
+	journal={Boletín de la Sociedad Mexicana de Geografía y Estadística},
+	series={Tercera época}
+	volume={IV},
+	number={},
+	pages={254--264}}% https://hdl.handle.net/2027/mdp.39015008360342?urlappend=%3Bseq=268%3Bownerid=13510798895636614-272
 %
 \bib{den13}{thesis}{
 	author={Dengler, Matthew P},
@@ -184,6 +233,17 @@
 	volume={},
 	number={3},
 	pages={63--80}}% https://doi.org/10.62120/mch.v1i3.26
+%
+\bib{pen69}{article}{
+	author={Peniche, Manuel},
+	date={1869},
+	title={Historia de las relaciones de España y México con Inglaterra, sobre el establecimiento de Belice},
+	subtitle={Primera parte},
+	journal={Boletín de la Sociedad de Geografía y Estadística de la República Mexicana},
+	series={Segunda época}
+	volume={I},
+	number={},
+	pages={217--256, 377--403}}% https://books.google.com/books?id=lARGAQAAMAAJ and https://hdl.handle.net/2027/mdp.39015008360623
 %
 \bib{res19}{article}{
 	author={Restall, Matthew},

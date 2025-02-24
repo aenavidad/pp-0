@@ -310,6 +310,7 @@ pp-0 # ignore symlink
 
 # pdf of draft
 pp.pdf
+pp0.pdf
 
 # scrap odds and ends
 scrap.txt

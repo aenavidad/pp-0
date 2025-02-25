@@ -3,27 +3,27 @@
 % pgsplots code begins
 \begin{sideways}
 \begin{tikzpicture}
-\begin{axis}[
-	xmin=1601, xmax=1700,
-	xtick={1610,1620,1630,1640,1650,1660,1670,1680,1690},% to not display all yrs
-	xticklabel style={/pgf/number format/1000 sep=},% to not add comma
-	enlarge x limits=0.02,% to not cut off y bars
-	ymin=0, ymax=7,
-	ybar stacked,% use y bars and stack
-	bar width=0.6,% for thinner bars
-	width=1\textheight,height=1\textwidth,% expand sideways fig
-]
-\addplot [% plot for piracy incidents in bz
-	black,fill=black,% colour outline and fill
-	] table [x=yr,y=nobz] {ppfigpirdata.dat};
-\addplot [% plot for piracy incidents outside of bz
-	gray,fill=gray,% colour outline and fill
-	] table [x=yr,y=noall] {ppfigpirdata.dat};% check noall value *excludes* nobz value to stack
+	\begin{axis}[
+		xmin=1601, xmax=1700,
+		xtick={1610,1620,1630,1640,1650,1660,1670,1680,1690}, % to not display all yrs
+		xticklabel style={/pgf/number format/1000 sep=}, % to not add comma
+		enlarge x limits=0.02, % to not cut off y bars
+		ymin=0, ymax=8,
+		ybar stacked, % use y bars and stack
+		bar width=0.6, % for thinner bars
+		width=1\textheight,height=1\textwidth, % expand sideways fig
+		]
+	\addplot [ % plot for piracy incidents in bz
+		black,fill=black,% colour outline and fill
+		] table [x=yr,y=nobz] {ppfigpirdata.dat};
+	\addplot [ % plot for piracy incidents outside of bz
+		gray,fill=gray,% colour outline and fill
+		] table [x=yr,y=noall] {ppfigpirdata.dat}; % check noall value *excludes* nobz value to stack
 \end{axis}
 \end{tikzpicture}
 \end{sideways}
 % pgsplots code ends
 \caption{Piracy incidents in the Bay in the 17th cent (black in Bz).}
-\label{ppfigpir}
+\label{fig:piracyinbay}
 \end{figure}
 %

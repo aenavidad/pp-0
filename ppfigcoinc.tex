@@ -1,0 +1,180 @@
+% fig interference
+\begin{filecontents}{rand1.txt}
+x	y	z	w
+40	51	79	53
+64	96	45	4
+6	42	63	92
+87	34	25	97
+76	45	46	4
+76	44	44	75
+18	30	43	49
+58	77	56	10
+10	88	63	100
+20	92	91	77
+49	64	60	81
+31	82	57	49
+98	95	34	60
+40	21	20	56
+73	37	51	88
+29	55	44	44
+98	50	37	63
+31	46	87	61
+42	36	81	76
+90	69	19	30
+90	22	3	22
+26	93	60	18
+43	32	98	44
+22	93	2	26
+7	50	44	71
+44	46	65	3
+26	57	44	27
+57	16	75	25
+17	67	90	19
+32	52	8	5
+68	91	50	64
+66	88	39	7
+12	34	54	88
+97	50	39	75
+47	52	100	57
+23	30	73	100
+94	7	26	56
+20	98	3	62
+98	82	8	16
+19	63	91	96
+91	38	9	75
+84	62	90	9
+57	45	73	81
+79	50	9	71
+62	50	14	95
+35	23	32	71
+66	33	78	71
+3	57	44	5
+48	29	56	69
+31	60	89	61
+3	66	24	18
+30	19	61	63
+46	46	19	2
+27	85	100	96
+62	68	45	17
+28	39	84	80
+41	38	5	51
+54	84	51	34
+72	48	49	48
+48	20	31	59
+62	65	99	52
+37	98	49	3
+78	38	79	14
+76	80	32	29
+52	64	5	94
+69	74	57	46
+46	42	26	77
+6	7	55	14
+29	93	56	100
+33	6	97	76
+58	48	42	86
+39	59	80	22
+76	88	13	17
+66	57	52	85
+83	12	90	8
+92	93	34	38
+79	20	97	76
+65	13	11	95
+50	36	92	94
+18	14	63	72
+84	16	62	36
+66	32	28	70
+80	64	41	51
+39	10	28	22
+39	63	73	62
+84	4	69	99
+60	18	36	82
+10	24	1	4
+33	76	87	17
+62	47	12	100
+7	78	10	91
+82	54	52	20
+54	3	94	58
+64	98	61	3
+100	100	70	1
+33	77	51	46
+16	78	58	40
+42	85	81	3
+97	67	38	8
+40	28	69	67
+94	13	14	49
+83	68	82	96
+46	94	4	23
+11	23	34	14
+56	44	88	66
+39	15	61	51
+89	42	32	48
+63	27	4	28
+75	69	30	22
+4	95	54	69
+65	18	56	37
+28	14	93	9
+62	7	32	21
+94	43	18	11
+8	37	50	10
+100	69	57	76
+61	88	96	65
+19	42	72	45
+96	73	47	13
+93	86	23	56
+29	59	46	44
+49	3	10	12
+37	59	74	45
+3	27	64	65
+87	1	39	58
+50	93	60	80
+79	18	11	1
+10	61	29	11
+99	61	73	7
+86	72	92	40
+51	11	4	2
+61	75	31	32
+75	27	67	38
+62	11	44	22
+47	33	13	42
+4	82	21	19
+93	37	50	45
+81	86	43	4
+96	74	7	60
+8	23	44	94
+82	65	50	91
+96	60	91	60
+16	11	3	28
+73	21	6	23
+84	86	82	19
+32	7	76	18
+78	54	99	63
+23	27	26	28
+62	80	61	48
+28	17	42	99
+\end{filecontents}
+\begin{figure}
+% pgsplots code begins
+\tikzset{every mark/.append style={scale=2}}
+\begin{tikzpicture}
+	\begin{groupplot}[
+		group style={
+			group size=2 by 2,
+			every plot/.style={only marks,},
+			},
+		]
+		\nextgroupplot [small,xlabel=1,ylabel=,xtick=\empty,ytick=\empty,]
+			\addplot+ [green,mark=+,] table [x=x,y=y] {rand1.txt};
+			\addplot+ [red,mark=x,] table [x=x,y=y] {rand1.txt};
+		\nextgroupplot [small,xlabel=2,ylabel=,xtick=\empty,ytick=\empty,]
+			\addplot+ [green,mark=+,] table [x=x,y=y] {rand1.txt};
+			\addplot+ [red,mark=x,] table [x=y,y=x] {rand1.txt};
+		\nextgroupplot [small,xlabel=3,ylabel=,xtick=\empty,ytick=\empty,]
+			\addplot+ [green,mark=+,] table [x=x,y=z] {rand1.txt};
+			\addplot+ [red,mark=x,] table [x=y,y=w] {rand1.txt};
+	\end{groupplot}
+\end{tikzpicture}
+% pgsplots code ends
+\caption{Coincidence scenarios of piracy-fail* (red) and logging (green) across space.}
+\label{fig:naylogcoincidence}
+\end{figure}
+%

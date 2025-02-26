@@ -27,7 +27,7 @@
 	journal={Read's Weekly Journal or British Gazetteer},
 	volume={},
 	number={375},
-	pages={3}}% https://link-gale-com.ezp-prod1.hul.harvard.edu/apps/doc/Z2001242711/BBCN?u=camb55135&sid=bookmark-BBCN&xid=1707dcf8
+	pages={3}} % https://link-gale-com.ezp-prod1.hul.harvard.edu/apps/doc/Z2001242711/BBCN?u=camb55135&sid=bookmark-BBCN&xid=1707dcf8
 %
 \bib{fen49}{article}{
 	author={},
@@ -37,7 +37,7 @@
 	journal={Fénix},
 	volume={},
 	number={62},
-	pages={3--4}}% http://www.hndm.unam.mx/consulta/publicacion/visualizar/558075be7d1e63c9fea1a284?intPagina=3&tipo=publicacion&anio=1849&mes=09&dia=05&butIr=Ir
+	pages={3--4}} % http://www.hndm.unam.mx/consulta/publicacion/visualizar/558075be7d1e63c9fea1a284?intPagina=3&tipo=publicacion&anio=1849&mes=09&dia=05&butIr=Ir
 %
 \bib{anc78}{book}{
 	author={Ancona, Eligio},
@@ -46,7 +46,7 @@
 	subtitle={},
 	volume={2},
 	publisher={Imprenta de M Heredia Argüelles},
-	address={Merida, Yuc}}% https://books.google.com/books?id=FDcCAAAAYAAJ
+	address={Merida, Yuc}} % https://books.google.com/books?id=FDcCAAAAYAAJ
 %
 \bib{app12}{article}{
 	author={Appleby, John},
@@ -58,7 +58,7 @@
 	volume={},
 	pages={277--300},
 	publisher={Boydell Press},
-	address={Woodbridge, Suffolk}}% https://lccn.loc.gov/2011278345 re weakening ties to GB < 1620s
+	address={Woodbridge, Suffolk}} % https://lccn.loc.gov/2011278345 re weakening ties to GB < 1620s
 %
 \bib{ban12}{article}{
 	author={Baños Ramírez, Othón},
@@ -68,7 +68,7 @@
 	journal={Relaciones},
 	volume={33},
 	number={132B},
-	pages={75--107}}% https://doi.org/10.24901/rehs.v33i132b.484 for bucc rise < 1620s, plus re Tris pir/log
+	pages={75--107}} % https://doi.org/10.24901/rehs.v33i132b.484 for bucc rise < 1620s, plus re Tris pir/log
 %
 \bib{bul16}{article}{
 	author={Bulmer-Thomas, Barbara},
@@ -79,7 +79,7 @@
 	journal={Tempus},
 	volume={},
 	number={4},
-	pages={137--160}}% https://revistas.udea.edu.co/index.php/tempus/article/view/326161
+	pages={137--160}} % https://revistas.udea.edu.co/index.php/tempus/article/view/326161
 %
 \bib{cam03}{article}{
 	author={Campbell, Mavis C},
@@ -89,7 +89,7 @@
 	journal={Journal of Caribbean History},
 	volume={37},
 	number={2},
-	pages={171--203}}% https://www.proquest.com/scholarly-journals/st-georges-cay-genesis-british-settlement-belize/docview/211121556/se-2?accountid=196403
+	pages={171--203}} % https://www.proquest.com/scholarly-journals/st-georges-cay-genesis-british-settlement-belize/docview/211121556/se-2?accountid=196403
 %
 \bib{cam09}{article}{
 	author={Campbell, Mavis C},
@@ -99,7 +99,7 @@
 	journal={Journal of Caribbean History},
 	volume={43},
 	number={1},
-	pages={72--114}}% https://www.proquest.com/latinamericaiberian/scholarly-journals/naming-history-aspects-historiography-belize/docview/868339911/sem-2?accountid=196403
+	pages={72--114}} % https://www.proquest.com/latinamericaiberian/scholarly-journals/naming-history-aspects-historiography-belize/docview/868339911/sem-2?accountid=196403
 %
 \bib{cam11}{book}{
 	author={Campbell, Mavis C},
@@ -107,7 +107,7 @@
 	title={Becoming Belize},
 	subtitle={A History of an Outpost of Empire Searching for Identity, 1528--1823},
 	publisher={University of the West Indies Press},
-	address={Kingston, Jamaica}}% https://lccn.loc.gov/2012505511
+	address={Kingston, Jamaica}} % https://lccn.loc.gov/2012505511
 %
 \bib{car71}{book}{
 	author={Carrillo y Ancona, Crescencio},
@@ -115,7 +115,7 @@
 	title={Compendio de la historia de Yucatan, precedido del de su geografía y dispuesto en forma de lecciones},
 	subtitle={},
 	publisher={Imprenta JD Espinosa é hijos},
-	address={Mérida, Yuc}}% https://search.worldcat.org/oclc/13403072 and https://books.google.com/books?id=zZkPgqPHFQwC
+	address={Mérida, Yuc}} % https://search.worldcat.org/oclc/13403072 and https://books.google.com/books?id=zZkPgqPHFQwC
 %
 \bib{car78}{article}{
 	author={Carrillo y Ancona, Crescencio},
@@ -126,7 +126,7 @@
 	series={Tercera época}
 	volume={IV},
 	number={},
-	pages={254--264}}% https://hdl.handle.net/2027/mdp.39015008360342?urlappend=%3Bseq=268%3Bownerid=13510798895636614-272
+	pages={254--264}} % https://hdl.handle.net/2027/mdp.39015008360342?urlappend=%3Bseq=268%3Bownerid=13510798895636614-272
 %
 \bib{den13}{thesis}{
 	author={Dengler, Matthew P},
@@ -134,21 +134,21 @@
 	title={A Pirate's Life For Me},
 	subtitle={How Caribbean Pirates Developed an Egalitarian Order to Pursue a Life of Freedom and Indulgence in the 18th Century Atlantic World},
 	organization={Middlebury College},
-	type={BA Thesis}}% https://hdl.handle.net/10779/middlebury.21537744.v1 re buccaneer govt origin
+	type={BA Thesis}} % https://hdl.handle.net/10779/middlebury.21537744.v1 re buccaneer govt origin
 %
 \bib{han15}{book}{
 	author={Hanna, Mark},
 	date={2015},
 	title={Pirate Nests and the Rise of the British Empire, 1570--1740},
 	publisher={UNC Press},
-	address={Chapel Hill, NC}}% https://lccn.loc.gov/2015022645
+	address={Chapel Hill, NC}} % https://lccn.loc.gov/2015022645
 %
 \bib{har10}{book}{
 	author={Haring, CH},
 	date={1910},
 	title={The Buccaneers in the West Indies in the XVII Century},
 	publisher={Dutton \& Co},
-	address={New York}}% https://lccn.loc.gov/11001724
+	address={New York}} % https://lccn.loc.gov/11001724
 % 
 \bib{hub16}{article}{
 	author={Hubbard, Eleanor},
@@ -158,7 +158,7 @@
 	journal={History Compass},
 	volume={14},
 	number={8},
-	pages={348--358}}% https://doi.org/10.1111/hic3.12324 - re bucc identity
+	pages={348--358}} % https://doi.org/10.1111/hic3.12324 - re bucc identity
 %
 \bib{gal91}{thesis}{
 	author={Galvin, Peter},
@@ -167,7 +167,7 @@
 	subtitle={A Geography of Piracy and Pirates as Geographers in Colonial Spanish America, 1536--1718},
 	volume={I--II},
 	organization={LSU},
-	type={PhD Thesis}}% https://repository.lsu.edu/gradschool_disstheses/5233 - prolly not needed
+	type={PhD Thesis}} % https://repository.lsu.edu/gradschool_disstheses/5233 - prolly not needed
 %
 \bib{gal99}{book}{
 	author={Galvin, Peter},
@@ -175,7 +175,7 @@
 	title={Patterns of Pillage},
 	subtitle={A Geography of Caribbean-Based Piracy in Spanish America, 1536--1718},
 	publisher={Peter Lang},
-	address={New York}}% https://lccn.loc.gov/97042002
+	address={New York}} % https://lccn.loc.gov/97042002
 %
 \bib{jar80}{thesis}{
 	author={de Jármy Chapa, Martha},
@@ -183,7 +183,7 @@
 	title={Un eslabón perdido en la historia},
 	subtitle={Piratería en el Caribe, siglos XVI y XVII},
 	organization={UNAM},
-	type={Lic Thesis}}% https://hdl.handle.net/20.500.14330/TES01000024356
+	type={Lic Thesis}} % https://hdl.handle.net/20.500.14330/TES01000024356
 %
 \bib{lan19}{article}{
 	author={Lane, Kris},
@@ -196,7 +196,7 @@
 	volume={},
 	pages={338--354},
 	publisher={Brill},
-	address={Leiden, Netherlands}}%  https://doi.org/10.1163/9789004407671_015 re buccaneers rise > 1650
+	address={Leiden, Netherlands}} %  https://doi.org/10.1163/9789004407671_015 re buccaneers rise > 1650
 %
 \bib{lat09}{book}{
 	author={Latimer, Jon},
@@ -204,7 +204,7 @@
 	title={Buccaneers of the Caribbean},
 	subtitle={How Piracy Forged an Empire},
 	publisher={HUP},
-	address={Cambridge, MA}}% https://lccn.loc.gov/2009007389
+	address={Cambridge, MA}} % https://lccn.loc.gov/2009007389
 %
 \bib{lee07}{article}{
 	author={Leeson, Peter T},
@@ -214,7 +214,7 @@
 	journal={Journal of Political Economy},
 	volume={115},
 	number={6},
-	pages={1049--1094}}% https://www.journals.uchicago.edu/doi/abs/10.1086/526403 re buccaneer govt
+	pages={1049--1094}} % https://www.journals.uchicago.edu/doi/abs/10.1086/526403 re buccaneer govt
 %
 \bib{luc92}{book}{
 	author={Lucena Salmoral, Manuel},
@@ -222,7 +222,7 @@
 	title={Piratas, bucaneros, filibusteros y corsarios en América},
 	subtitle={Perros, mendigos y otros malditos del mar}
 	publisher={MAPFRE},
-	address={Madrid}}% http://www.larramendi.es/es/consulta/registro.do?id=9934
+	address={Madrid}} % http://www.larramendi.es/es/consulta/registro.do?id=9934
 %
 \bib{man22}{article}{	
 	author={Mancha Martínez, Erick},
@@ -232,7 +232,7 @@
 	journal={Macrohistoria},
 	volume={},
 	number={3},
-	pages={63--80}}% https://doi.org/10.62120/mch.v1i3.26
+	pages={63--80}} % https://doi.org/10.62120/mch.v1i3.26
 %
 \bib{pen69}{article}{
 	author={Peniche, Manuel},
@@ -243,7 +243,7 @@
 	series={Segunda época}
 	volume={I},
 	number={},
-	pages={217--256, 377--403}}% https://books.google.com/books?id=lARGAQAAMAAJ and https://hdl.handle.net/2027/mdp.39015008360623
+	pages={217--256, 377--403}} % https://books.google.com/books?id=lARGAQAAMAAJ and https://hdl.handle.net/2027/mdp.39015008360623
 %
 \bib{res19}{article}{
 	author={Restall, Matthew},
@@ -253,7 +253,7 @@
 	journal={Terrae Incognitae},
 	volume={51},
 	number={1},
-	pages={5--35}}% https://doi.org/10.1080%2F00822884.2019.1573962
+	pages={5--35}} % https://doi.org/10.1080%2F00822884.2019.1573962
 %
 \bib{sta11}{article}{
 	author={Starkey, David J},
@@ -263,7 +263,7 @@
 	journal={The Mariner's Mirror},
 	volume={97},
 	number={1},
-	pages={127--147}}% http://dx.doi.org/10.1080/00253359.2011.10709036 for pir/bucc lit review incl WI 17th cent
+	pages={127--147}} % http://dx.doi.org/10.1080/00253359.2011.10709036 for pir/bucc lit review incl WI 17th cent
 %
 \bib{tor20}{book}{
 	author={de la O Torres, Rodrigo},
@@ -271,7 +271,17 @@
 	title={De corsarios, mares y costas},
 	subtitle={El corso en la construcción del espacio y experiencias marítimas en el Golfo-Caribe, 1527--1620},
 	publisher={UAA},
-	address={Aguascalientes, Ags}}% https://doi.org/10.33064/UAA/978-607-8714-67-4
+	address={Aguascalientes, Ags}} % https://doi.org/10.33064/UAA/978-607-8714-67-4
+%
+\bib{wai20}{article}{
+	author={Wainwright, Joel},
+	date={2020},
+	title={The Colonial Origins of the State in Southern Belize},
+	subtitle={},
+	journal={Anuario de Estudios Centroamericanos},
+	volume={46},
+	number={},
+	pages={1--26}} % https://doi.org/10.15517/aeca.v46i0.45072
 %
 \end{biblist}
 \end{bibdiv}

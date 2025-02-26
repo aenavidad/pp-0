@@ -49,12 +49,14 @@
 %
 % tikz ie pgsplots, tikzcd commands
 \pgfplotsset{compat=1.18}
+\usepgfplotslibrary{groupplots} % to group plots
+\pgfmathdeclarefunction{gauss}{2}{\pgfmathparse{1/(#2*sqrt(2*pi))*exp(-((x-#1)^2)/(2*#2^2))}} % to use in \addplot
 %\tikzcdset{} % global graphs style
 %
 %
 % xcolor commands for darkmode - just for draft
-%\pagecolor{darkgray}
-%\color{white}
+\pagecolor{darkgray}
+\color{white}
 %
 %
 % hyperref commands
@@ -298,7 +300,7 @@
 		\label{sss:onnolog}
 		The first thing we note from reviewed stories* above is our having three \ref{eqn:namedlog} not complete.
 		
-		Now, we read all those stories* as presuming piracy lead to logging.\footnote{And as stories* not missing parts, which might not be the case for Section~\ref{sss:reads}, but we ignore that here.} This still seems correct on second thought. But per Section~\ref{sss:log}, we expect complete \ref{eqn:namedlog} from such stories*. So we probably erred somewhere in Section~\ref{sss:log}. We now review the steops in that section to find the error(s).
+		Now, we read all those stories* as presuming piracy lead to logging.\footnote{And as stories* not missing parts, which might not be the case for Read's in Section~\ref{ss:particular}, but we ignore that here.} This still seems correct on second thought. But per Section~\ref{sss:log}, we expect complete \ref{eqn:namedlog} from such stories*. So we probably erred somewhere in Section~\ref{sss:log}. We now review the steops in that section to find the error(s).
 		%
 		\begin{steps}[In Section~\ref{sss:log}]
 		We built \ref{eqn:namedlog} (up to \(t_c\)) like so:
@@ -313,95 +315,75 @@
 		\end{enumerate}
 		\end{steps}
 		%
-		We now find (1) still holds for all stories* in Section~\ref{ss:particular}, but (2) for all but Section~\ref{sss:fenix}. Now, Section~\ref{sss:fenix} is a land-and-settle story*, while the rest are squat-squat-settle ones.\footnote{Ref Campbells, `just grew'd' vs momentous/intentional landing and settling.} We ignore stories of the former ilk hereon.
+		We now find (1) still holds for all stories* in Section~\ref{ss:particular}, and find (2) holds for all but Fénix. Now, this is a temporally compressed land-and-settle story*, while the rest are drawn out squat-squat-settle ones.\footnote{Distinction first from \cite{cam11}*{pp 95--96}. The associated distinction (intentional vs accidental) is not imported here.} We ignore stories of the former ilk hereon.
 		
 		So both (1) and (2) hold for all our stories*. We further find (3) holds too, but the move to (4) is tricky, so we now spell it out more fully.
 		
-		First, let \mention{piracy-yay*} be \mention{successful piracy}, and \mention{piracy-nay*} be \mention{failed piracy}.\footnote{For simple or minimal \mention{success} eg where pirates surprised a ship or sacked a port, even if they got no/nil booty. And similar \mention{failure} eg where they found no ships nor came to port.} And let \mention{piracy*} be either.
+		First, let \mention{piracy-win*} be \mention{successful piracy}, and \mention{piracy-fail*} be \mention{failed piracy}.\footnote{For simple or minimal \mention{success} eg where pirates surprised a ship or sacked a port, even if they got no/nil booty. And similar \mention{failure} eg where they found no ships nor came to port.} And let \mention{piracy*} be either.
 		
-		That done, we now review step (4). We find that swapping in \mention{piracy-yay*} for \mention{piracy} does not work, whereas \mention{piracy-nay*} \emph{does}. That is, for the particular way of \mention{leading to} spelt out in (4), we want to say that all stories* presume piracy-nay* lead to logging, \emph{not} that piracy-yay* did so.
+		That done, we now review step (4). We find that swapping in \mention{piracy-win*} for \mention{piracy} does not work, whereas \mention{piracy-fail*} \emph{does}. That is, for the particular way of \mention{leading to} spelt out in (4), we want to say that all stories* presume piracy-fail* lead to logging, \emph{not} that piracy-win* did so.
 		
-		Now let (4a*) be `All stories* presume piracy-nay* lead to logging in \emph{some} way.' Then we find (4a*) holds for all our stories*, independently of (3), and ignore stories* where it doesn't hereon.\footnote{Eg where successful pirates discovered logging then afterwards intentionally/en-masse set out only to log ie sudden conversion. This might be the case eg in stories* where social/legal pressure forced successful pirates en masse to logging, but maybe only if pressures suddenly/rapidly not gradually materialise. So, we ignore stories* where pirates suddenly/en masse dropped piracy for logging.}
+		Now let (4a*) be `All stories* presume piracy-fail* lead to logging in \emph{some} way.' Then we find (4a*) holds for all our stories*, independently of (3), and ignore stories* where it doesn't hereon.\footnote{Eg where successful pirates discovered logging then afterwards intentionally/en-masse set out only to log ie sudden conversion. This might be the case eg in stories* where social/legal pressure forced successful pirates en masse to logging, but maybe only if pressures suddenly/rapidly not gradually materialise. So, we ignore stories* where pirates suddenly/en masse dropped piracy for logging.}
 		
-		At this point, it might be helpful to see how (the incidence of) piracy-yay* and piracy-nay* might look like plotted together. We first imagine a bell curve for piracy*.\footnote{Even if incidence of piracy* is distributed multimodally, the following still works.} Then, within or under the piracy* curve, piracy-yay* and piracy-nay* look like either 1 or 2 in Figure~\ref{fig:yaynayinterference}.\footnote{Figure~\ref{fig:yaynayinterference} presumes pirates were more successful than not (more piracy-yay* than piracy-nay* incidents), but even if otherwise, the following still works.} In the first case, we say they \emph{closely} tracked or \emph{positively} coincided, and say they loosely tracked or negatively coincided in the second case.
+		At this point, it might be helpful to see how (the incidence of) piracy-win* and piracy-fail* might look like plotted together. We first imagine a bell curve for piracy*.\footnote{Even if incidence of piracy* is distributed multimodally, the following still works.} Then, within or under the piracy* curve, piracy-win* and piracy-fail* look like either 1 or 2 in Figure~\ref{fig:yaynayinterference}.\footnote{Figure~\ref{fig:yaynayinterference} presumes pirates were more successful than not (more piracy-win* than piracy-fail* incidents), but even if otherwise, the following still works. Additionally, cases where piracy-fail* peak precedes piracy-win* peak is not shown, but their curves are just 1 and 2 in Figure~\ref{fig:yaynayinterference} flipped, so following still works.} In the first case, we say they \emph{closely} tracked or \emph{positively} coincided, and say they loosely tracked or negatively coincided in the second case.
 		% small fig 
-		\input{ppfiginter} % label ppfiginter
+		\input{ppfiginter} % \label{fig:yaynayinterference}
 		
-		Note, in Section~\ref{sss:log} we said we had a clearer picture of piracy than logging. While this still holds, we now say we have a clearer picture of piracy-yay* than logging, and further a clearer picture of piracy-yay* than of piracy-nay*.\footnote{Or possibly no picture of piracy-nay* at all, unless by proxy from piracy-yay*.}
+		Note, in Section~\ref{sss:log} we said we had a clearer picture of piracy than logging. While this still holds, we now say we have a clearer picture of piracy-win* than logging, and further a clearer picture of piracy-win* than of piracy-fail*.\footnote{Or possibly no picture of piracy-fail* at all, unless by proxy from piracy-win*.}
 		
-		Moving on though, let (4b*) be `All stories* presume piracy-nay* lead to logging in a \emph{particular} way,' 
-		%
-		%
-		%
-		%
-		%
-		%
-		%
-		%
-		%
-		% delete later
-		\subsubsection{Scrubber}
-		The most obvious thing to note above is our having only two completed \ref{eqn:namedlog}s after reviewing five stories*. Now, we read all stories* above as presuming that piracy lead to logging. And we further assume they are all complete stories*.\footnote{Probably not the case for \cite{rds32}.} So perhaps piracy lead to logging without coincidence. But coincidence is only a relation between phenomena. So perhaps piracy lead to logging without significant positive coincidence. Or perhaps it did so with sig pos coin, but not in Bay. Or it did so only via sig neg coin.
+		Moving on though, let (4b*) be `All stories* presume piracy-fail* lead to logging in a \emph{particular} way, namely, via increasingly-significant (positive) coincidence.'\footnote{Logging a little bit from first-logging, then more and more, until logging a lot from first-significant-logging, with all of this occurring almost only during piracy-fail* incidents. That is, logging and piracy-fail* coincide only a few times from first-logging, then more and more, until coinciding very many/almost at all times from first-significant-logging.} Then, the move from (4a*) to (4b*) is natural or likely, and so made.\footnote{Though (4b*) does not follow from (4a*), but cannot see how else (4a*) might obtain. May explore later.}
 		
-		When building \ref{eqn:namedlog}, we found `that all existing stories* presume that there was some non-null time between first-logging and first-significant-logging ... that all such stories* presume that piracy \emph{lead to} logging in a \emph{specific} way, namely, by pirates' logging a little bit from first-logging, then more and more, until logging a lot from first-significant logging' We went from this to `stories* presume the increasing (positive) \emph{co}incidence of piracy and logging' We now examine this step to see if valid.
+		This, of course, immediately gets us to (5*) and (6*) (steps (5) and (6) with \mention{piracy-fail*} swapped in for \mention{piracy}). But we now have a not-so-useful \ref{eqn:namedlog}.
 		
-		We here consider the above. The first step, from non-null time to first-significant-logging, looks good, assuming pirates/loggers did not start logging all at once (eg by intentional settlement).
+		At this point, it might be useful to get a clearer view of 2 in Figure~\ref{fig:yaynayinterference}. The possible orders of peaks are sketched in Figure~\ref{fig:yaynayorder}.\footnote{Also possible for 1 in Figure~\ref{fig:yaynayinterference}, with closer peaks, but irrelevant here.} That is, if piracy-win* and piracy-fail* only loosely track each other, rather than closely, then periods of heightened piracy-fail* incidence might precede, or succeed, or both precede and succeed periods of heightened piracy-win* incidence.
+		% small fig 
+		\input{ppfigorder} % \label{fig:yaynayorder}
 		
-		So, we flag two assumptions. Piracy lead to logging, and Bc just grew'd up like Humpty Dumpty ie via squattying ie not all at once but little by little.
+		So, if/when we have 1 in Figure~\ref{fig:yaynayinterference}, piracy-win* data from historical records might serve as a proxy picture for piracy-fail*, regardless of the order of their peaks. However, if/when we have 2 in Figure~\ref{fig:yaynayinterference}, then unless we know which of 1--3 in Figure~\ref{fig:yaynayorder} we have, piracy-win* data would \emph{not} make for good proxy for piracy-fail*.\footnote{With options 1 and 2 in Figure~\ref{fig:yaynayinterference} not exclusive, of course.}
 		
-		These two assumptions look good.
+		As that's the case, then \ref{eqn:namedlog} might be jointly decent with \ref{eqn:namedmap}, but it's not of much use as regards getting a picture of logging incidence.
 		
-		In that case, the move from non-null time to the start shape of logging still is a leap - we further need one more assumption.
+		But as regards our stories* in Section~\ref{ss:particular}, if the above is correct, then we ought to have gotten at least \(t_c\) (and therefore \(t_c^*\)) in Read's and Restall.\footnote{For \(t_c^*\) as the temporal point when piracy-fail* and logging first positively significantly coincided. Note Fénix was discarded above.} However, we get said point in neither. For Read's, we say the story* is abridged, and so supply a \(t_c^*\) ourselves. For Restall, the story* is \emph{not} abridged, so something else it at play.
 		
-		We thirdly assume that pirates did not drop piracy en masse to turn to logging at some single point in time, but rather slowly transitioned over many years, little by little, from piracy to logging (for all WI). Eg by doing a little bit of log-stealing in Elizabethan times, then turning to logging it themselves when booty dried up/legal pressures increased/etc ie at decoupling conditions.
-		
-		But if we make this third assumption, then we did not really \emph{find} it in existing stories*, but rather presupposed it. So we ought to establish at least this third assumption.
-		
-		Otherwise, we have to consider cases where pirates did drop piracy en masse, and cases where they didn't. 
-		
-		But first, say the third assumption holds. We have that piracy lead to logging, that Bc just grew'd, and that piracy was not dropped all at once but rather slowly. And we're at the non-null time from first-log to first-sig-log. If we move to piracy lead to logging in \emph{specific} way ie pirates logging little at first then more and more. 
-		
-		Here we have to count any foreigner as pirate, given that's the Sp view (except possibly Du after the treaty with them referred in cartas).
-		
-		But then if the Sp viewed any entrance of foreigners as piracy, then any notice of piracy from the Sp must subsume logging.
-		
-		Ahh maybe we need curves for piracy and logging. 
-		
-		Anyways, if we move from non-null time to lead-to-in-this way, we need third assumption to hold for Bay too, not just all WI. 
-		
-		So a fourth assumption - third assumption holds for Bay. So piracy was not dropped all at once in Bay. (Note by piracy we might mean `going out to pirate' ie the usual defn, but our data and that in historical records fm Sp only shows `\emph{successfully} pirated' -mostly, so we only see successful voyages in data, mostly).
-		
-		So two observations here - re whom the Sp call pirate, and re bias towards successful pirating only in Sp sources. Plus third observation - piracy might stop being notable after being normalised (eg even spotting a foreign ship might at first be an event recorded by Sp, but if too many ships spotted all the time/frequently, then Sp might stop recording every instance and just say generally `we spot them all the time').
-		
-		So by fourth assumption, piracy waxed and waned at least once, with gradual slopes, rather than steep ones. So periods of gradual waxing and waning. Or in bursts?
-		
-		And maybe we ought not even speak of Bz, but only Bay when looking at pir data, given they saw it all as one? Eg the `Inner Bay Triangle' after the Hond-Jam-Mosq triangle?
-		
-		Maybe call piracy-all = `going out to pirate' and piracy-yay = `successfully pirating'. Then Sp records (and maybe even non-Sp ones, given just general biases) show us almost exclusively piracy-yay only, and not piracy-all. 
-		
-		But our first and third (and fourth) asusmptions are for piracy-all. But we can't really get a picture of piracy-all! This is a problem here because piracy-yay prolly did not lead to logging, so rather say piracy-nay = `failed/poor pirating.' Then more accurately, piracy-\emph{nay} lead to logging, such that as piracy-nay increased, logging increased.
-		
-		So we almost for sure have increasing coincidence of logging and piracy-nay, but porlly not for piracy-all nor piracy-yay.!!
-		
-		Plus growing population of pirates would factor in here. But minus decreasing Hond commerse in Bay.
-		
-		So plot no pirates resident in west WI ie of buccaneers = near-linear trend up after 1620s
-		Plus Sp commerce in Bay - near-linear trend down after 1630/40s/50s
-		Plus piracy-yay incidence in Bay - NOT near-linear ie peaks and valleys
-		Plus piracy-nay incidence in Bay -  NOTSURE but prolly opposite but nonetheless following piracy-yay
-		have pir-yay and pir-nay stacked to - piracy st we can see genl piracy shape in bay - shape prolly should be non linear but basically slightly trend downwards
-		OH! pir-yay and pir-nay (when not stacked) prolly look like constructive interference.
-		prolly also want to plot societal pressures - legal troubles/going out of style/etc - social favourability - prolly start off constantly high/slightly trend up, then drops off in 60s/70s
-		
-		or do stacked plus UNstacked pir-yay an pir-nay plots
-		
-		xx
-		
-		All stories* above presume piracy lead to logging, but none support stories* from piracy incidence data. So either coincidence not presumed (eg `lead to' as in discovered Bc and used as pir have, left for some time, then came back to log mostly), or mistaken.
+		Diff in what is considered significant logging eg such that first-significant-logging = t_1? But that means/is functionally equivalent to t_c^* outside of the Bay. What else? Or could possy be an insta-pirates-to-loggers story*... 
 	%
 	% ss:general
 	\subsection{General}
 	\label{ss:general}
+		%
+		%
+		%
+		%
+		%
+		%
+		%
+		%
+		%
+% delete later
+\section{Scrubber}
+			ABOVE WE assume/conclude-
+			- piracy-fail* lead to logging (somehow) in all
+			- piracy-fail* lead to logging (via increasing coinc) in all
+			- 1/ first-logging not in all
+			- 2/ first-significant-logging yes in all but insta-settle stories* eg Fenix
+			- discard insta-settle stories
+			- 3/ insig logging from first-log to first-sig-log in all stories*
+			- clearer view of pir-win* than log and than pir-fail* in hist records
+			
+			NOT NOTED YET
+			- sig pos coinc = 1:1 pir:log incidents 'tied' (perfect coinc), or 2:1 (half coinc)
+			- sig neg coinc = 0:1 pir:log OR 0:1 pir:log incidents 'tied' (perfect coinc)
+			ie perfect coinc (pos) = every pir incid tied to a log incid AND viceversa
+			ie percet coinc (neg) = no pir incid tied to a log incid AND viceversa
+			NEED PLOT FOR THIS (eg showing rise of logging vs pir-fail*)
+
+			PREV OBSERV
+			- Sp view any foreigner as pir (so false positives in records?), and may have been desensitised over time (so less recording of pir)
+			- need assumptions to hold for Bay not just WI, whereas vars stories* speak of WI
+			- pir waxed-and-waned so peaks-and-valleys for pir-win*, and pir-fail*
+			- inner Bay triangle barely noted in stories* reviewed
+			- have not discussed/plotted: growing resident-pirates population in WI, decreasing Sp commerce in Bay, growing social/legal pressures against piracy in WI
+			- underuse of incidence data in stories, or coincidence not presumed eg 'lead to' as in 'discovered Bay, used as pir haven, left for greener pastures, then came back now as loggers'?
 %
 %
 %

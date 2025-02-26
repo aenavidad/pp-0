@@ -1,0 +1,27 @@
+% fig order of peaks
+\begin{figure}
+% pgsplots code begins
+\begin{tikzpicture}
+	\begin{groupplot}[
+		group style={
+			group size=2 by 2,
+			every plot/.style={domain=0:10,samples=100,},
+			},
+		]
+		\nextgroupplot [small,xlabel=1, ylabel=,xtick=\empty,ytick=\empty]
+			\addplot [red,] {gauss(2, 1.5)};
+			\addplot [blue,]{gauss(5, 1)};
+		\nextgroupplot [small,xlabel=2, ylabel=,xtick=\empty,ytick=\empty]
+			\addplot [red,] {gauss(8, 1.5)};
+			\addplot [blue,]{gauss(5, 1)};
+		\nextgroupplot [small,xlabel=3, ylabel=,xtick=\empty,ytick=\empty]
+			\addplot [red,] {gauss(2, 1.5)};
+			\addplot [red,] {gauss(8, 1.5)};
+			\addplot [blue,]{gauss(5, 1)};
+	\end{groupplot}
+\end{tikzpicture}
+% pgsplots code ends
+\caption{Possible order of peaks of piracy-win* (blue) and piracy-fail* (red) when they negatively coincide with/loosely track each other (as in 2 of Figure~\ref{fig:yaynayinterference}).}
+\label{fig:yaynayorder}
+\end{figure}
+%

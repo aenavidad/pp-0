@@ -11,10 +11,10 @@
 %
 % new commands to avoid text formatting inline
 \newcommand{\code}[1]{\texttt{#1}} % for code
-\newcommand{\literature}[1]{\textit{#1}} % for book titles etc
+\newcommand{\lit}[1]{\textit{#1}} % for book titles etc
 \newcommand{\ship}[1]{\textit{#1}} % for book titles etc
-\newcommand{\mention}[1]{\textit{#1}} % to mention (not use) terms
-\newcommand{\foreign}[1]{\textit{#1}} % for foreign words
+\newcommand{\ment}[1]{\textit{#1}} % to mention (not use) terms
+\newcommand{\forn}[1]{\textit{#1}} % for foreign words
 %
 %
 % new commands to avoid maths formatting inline
@@ -69,8 +69,8 @@
 % starting stuff
 \title{pp0}
 \author{A Navidad}
-\address{Harvard College, Cambridge MA}
-\curraddr{Benque Viejo CY}
+\address{Harvard College, Cambridge MA, US}
+\curraddr{Benque Viejo, Cayo, Belize}
 \email{navidad@college.harvard.edu}
 \date{12 Feb 2025}
 \thanks{} % incl non-grant support per ams
@@ -84,7 +84,7 @@
 % s claim
 \section{Claim}
 \label{s:claim}
-	We present this paper's main claim here, and map out the support it will be given later on. Let \mention{question*} be `What are Belize's origins?' And let \mention{stories*} be answers to question*.\footnote{Existing or possible, subject to some suitability criteria, eg are historical, are not flimsy, so on.} Then,
+	We present this paper's main claim here, and map out the support it will be given later on. Let \ment{question*} be `What are Belize's origins?' And let \ment{stories*} be answers to question*.\footnote{Existing or possible, subject to some suitability criteria, eg are historical, are not flimsy, so on.} Then,
 	%
 	% main claim
 	\begin{mainclm}
@@ -100,7 +100,7 @@
 		\end{tikzcd}
 	\end{equation}
 	%
-	For vertices as certain places in the Bay, and edges as a certain relation between them. The Bay is mapped from northwest to southeast, beginning in northern Yucatan (\(\nt\)), flowing down to northern Belize (\(\bc\)), then the mouth of the Bay (\(\mt\)), next the Bay Islands (\(\id\)), and finally eastern Honduras (\(\et\)). We say a place \(\ab\) is connected to place \(\cd\) (\(\ab-\cd\)) if \(\ab\) is \mention{close} to \(\cd\), and not otherwise.\footnote{Ignoring trivial cases eg where \(\ab=\cd\).} Basically, spaces are close if they are geographically close.
+	For vertices as certain places in the Bay, and edges as a certain relation between them. The Bay is mapped from northwest to southeast, beginning in northern Yucatan (\(\nt\)), flowing down to northern Belize (\(\bc\)), then the mouth of the Bay (\(\mt\)), next the Bay Islands (\(\id\)), and finally eastern Honduras (\(\et\)). We say a place \(\ab\) is connected to place \(\cd\) (\(\ab-\cd\)) if \(\ab\) is \ment{close} to \(\cd\), and not otherwise.\footnote{Ignoring trivial cases eg where \(\ab=\cd\).} Basically, spaces are close if they are geographically close.
 	%
 	\begin{equation}
 	\tag{Log}
@@ -110,15 +110,15 @@
 		\end{tikzcd}
 	\end{equation}
 	%
-	For vertices as certain points in time, and arcs as certain series of events from one point to the other. A story* is logged from start to finish, beginning at the earliest point (\(t_0\)), then a certain \mention{coupling} point (\(t_c\)), next an ensuing \mention{de}coupling point (\(t_d\)), and ending at the latest point in the story* (\(t_1\)). These four points split a story* into three parts, with a coupl\mention{ed} period (\(\cpd\)) in the middle, and a preceding \mention{pre}coupled period (\(\pre\)). The succeeding \mention{post}coupled period (\(\pst\)) is plotted as two series of events (\(\pst_0\) and \(\pst_1\)) rather than one, to account for two possibly distinct sequences of events. Basically, the coupling refers to the coincidence of piracy and logging in the Bay.
+	For vertices as certain points in time, and arcs as certain series of events from one point to the other. A story* is logged from start to finish, beginning at the earliest point (\(t_0\)), then a certain \ment{coupling} point (\(t_c\)), next an ensuing \ment{de}coupling point (\(t_d\)), and ending at the latest point in the story* (\(t_1\)). These four points split a story* into three parts, with a coupl\ment{ed} period (\(\cpd\)) in the middle, and a preceding \ment{pre}coupled period (\(\pre\)). The succeeding \ment{post}coupled period (\(\pst\)) is plotted as two series of events (\(\pst_0\) and \(\pst_1\)) rather than one, to account for two possibly distinct sequences of events. Basically, the coupling refers to the coincidence of piracy and logging in the Bay.
 	
 	%
 	% paper flow
-	We bolster Main Claim~\ref{clm:maindecency} by spelling out what makes for a decent way of building a story*, and then demonstrating that \ref{eqn:namedmap} and \ref{eqn:namedlog} are decent. So we first gloss \mention{decency} here.
+	We bolster Main Claim~\ref{clm:maindecency} by spelling out what makes for a decent way of building a story*, and then demonstrating that \ref{eqn:namedmap} and \ref{eqn:namedlog} are decent. So we first gloss \ment{decency} here.
 	%
 	\begin{gloss}
 	\label{gloss:decency}
-		A way of building a story* is decent if the story* so built does \emph{not} answer any relevant \mention{thick} question and \emph{does} at least one relevant \mention{thin} one, where relevancy is to the question*, and thick questions are interpretation-heavy and thin ones less so.\footnote{The latter possibly in such a way as to only partially help answer at least one thick question. Might want further features too, eg is new, offers granular stories*, so on.}
+		A way of building a story* is decent if the story* so built does \emph{not} answer any relevant \ment{thick} question and \emph{does} at least one relevant \ment{thin} one, where relevancy is to the question*, and thick questions are interpretation-heavy and thin ones less so.\footnote{The latter possibly in such a way as to only partially help answer at least one thick question. Might want further features too, eg is new, offers granular stories*, so on.}
 	\end{gloss}
 	%
 	The general idea being that a maximally useful way of building a story* ought to be open to iterpretation.
@@ -141,9 +141,9 @@
 	\label{ss:build}
 		We build \ref{eqn:namedmap} and \ref{eqn:namedlog} from the ground up here.
 		
-		We start by noting that almost all existing stories* begin with piracy and end with logging, and noting that there is almost no consensus on the path charted from one to the other, nor on the time it took to traverse said path. Nonetheless, we now have thematic start and end points, call them \mention{first-theme} (piracy) and \mention{last-theme} (logging).
+		We start by noting that almost all existing stories* begin with piracy and end with logging, and noting that there is almost no consensus on the path charted from one to the other, nor on the time it took to traverse said path. Nonetheless, we now have thematic start and end points, call them \ment{first-theme} (piracy) and \ment{last-theme} (logging).
 		
-		Now we note that, while existing stories* are agreed on first-theme, there is yet no agreement on when nor where to begin, with values for the former ranging over three centuries, and for the latter spanning two landmasses.\footnote{Sixteenth to eighteenth cneturies, and Central America including Yucatan, plus the Greater Antilles.} But despite not having them, call them \mention{first-time} (when story* begins) and \mention{first-place} (where story* begins), and similarly for \mention{last-time} and \mention{last-place}.\footnote{These spatial and temporal points are for stories*, \emph{not} for the start/end of our themes ie phenomena ie piracy and logging.}
+		Now we note that, while existing stories* are agreed on first-theme, there is yet no agreement on when nor where to begin, with values for the former ranging over three centuries, and for the latter spanning two landmasses.\footnote{Sixteenth to eighteenth cneturies, and Central America including Yucatan, plus the Greater Antilles.} But despite not having them, call them \ment{first-time} (when story* begins) and \ment{first-place} (where story* begins), and similarly for \ment{last-time} and \ment{last-place}.\footnote{These spatial and temporal points are for stories*, \emph{not} for the start/end of our themes ie phenomena ie piracy and logging.}
 		%
 		% sss:map
 		\subsubsection{Map}
@@ -162,7 +162,7 @@
 		
 			Lastly, as we would like to chart our first-places in some relevant manner, and not just list them, we look for relevant ways these pirate haunts were related. This is done by hand. This done, the first and most obvious relation is distance, of course. But in addition to this, we have cost, ie the difficulty of getting from one first-place to the other. And we find no further salient relations.\footnote{Ignoring non-salient/missed relations, but assume no others, or assume these are subsumed by cost. May want to exclude from or keep constant in cost the nautical knowledge/practice/expereience weight. Thoroughness of hand check supported later.}
 			
-			As cost subsumes distance, we consider only cost. As those were the only salient relations among our first-places, cost gives us \emph{all} the ways our first-places are related.\footnote{All ways we care about, assuming hand check was thorough.} So say some first-place is \mention{close} to another if it's \emph{not} costly to get from the one to the other and vice versa.\footnote{Giving us undirected closeness from directed cost, for simplicity, but could keep directed. By \mention{not costly} we mean for some cutoff of cost which we deem sufficiently cheap.} Then, we have that \(\bc\), \(\mt\), and \(\id\) are close to each other, while \(\nt\) and \(\et\) are close to none.\footnote{Ignoring self-closeness.}
+			As cost subsumes distance, we consider only cost. As those were the only salient relations among our first-places, cost gives us \emph{all} the ways our first-places are related.\footnote{All ways we care about, assuming hand check was thorough.} So say some first-place is \ment{close} to another if it's \emph{not} costly to get from the one to the other and vice versa.\footnote{Giving us undirected closeness from directed cost, for simplicity, but could keep directed. By \ment{not costly} we mean for some cutoff of cost which we deem sufficiently cheap.} Then, we have that \(\bc\), \(\mt\), and \(\id\) are close to each other, while \(\nt\) and \(\et\) are close to none.\footnote{Ignoring self-closeness.}
 			
 			So, we now have one relation which subsumes all salient or relevant ways in which our first-places are related. As \ref{eqn:namedmap} charts only this relation, it too is complete in this respect.
 			
@@ -171,13 +171,13 @@
 		% sss:log
 		\subsubsection{Log}
 		\label{sss:log}
-			We start by noting that in existing stories* we have very many first-times and last-times (when stories* start and end). We further have two relevant phenomena, ie our first-theme and last-theme ie piracy and logging. Call their temporal start and end \mention{first-piracy}, \mention{last-piracy}, \mention{first-logging}, and \mention{last-logging}.
+			We start by noting that in existing stories* we have very many first-times and last-times (when stories* start and end). We further have two relevant phenomena, ie our first-theme and last-theme ie piracy and logging. Call their temporal start and end \ment{first-piracy}, \ment{last-piracy}, \ment{first-logging}, and \ment{last-logging}.
 			
 			Now, we note that none of these first-times pre-dates first-piracy, and none of these last-times post-dates last-piracy. So, first-theme is present at every point in time in existing stories*. We further note that \emph{only} some of these first-times pre-date first-logging, and none of these last-times post-dates last-logging. So last-theme is either present at every point, or else present only in later points in time in existing stories*.
 			
 			So, of the temporal points of first-theme and last-theme, \emph{none} show up in \emph{all} existing stories*.
 			
-			We salvage this sad state by looking at the stories* which \emph{do} include first-logging. In almost all of them, this point is not given prominence but rather minimised in favour of a second point, that when the incidence of last-theme reached some significant threshhold, call it \mention{first-significant-logging}.\footnote{There is a further \mention{first-significant-piracy} in some existing stories*, but not needed here.}
+			We salvage this sad state by looking at the stories* which \emph{do} include first-logging. In almost all of them, this point is not given prominence but rather minimised in favour of a second point, that when the incidence of last-theme reached some significant threshhold, call it \ment{first-significant-logging}.\footnote{There is a further \ment{first-significant-piracy} in some existing stories*, but not needed here.}
 			
 			If we now look for first-significant-logging in existing stories*, we do find it in all of them.
 			
@@ -248,7 +248,7 @@
 		% sss:onstories
 		\subsubsection{On stories*}
 		\label{sss:onstories}
-		For Section~\ref{sss:log}, read \mention{existing} stories* as those reviewed in literature noted here.\footnote{List here.}
+		For Section~\ref{sss:log}, read \ment{existing} stories* as those reviewed in literature noted here.\footnote{List here.}
 %
 %
 %
@@ -271,13 +271,13 @@
 		% sss:campbell
 		\subsubsection{Campbell}
 		\label{sss:campbell}
-		Campbell offers a haven-camp-settlement story* set spatially in \(\bc\) only.\footnote{Loose pirate communities from probably mid 16th cent \cite{cam11}*{pp 95--96, 100 \foreign{pass}}, pirate haven on St George's and surrounding cayes from probably mid 1550s \cite{cam03}*{pp 176, 179}, buccaneer haven from 17th cent \cite{cam03}*{p 174}, buccaneer haven definitely from 1670s \citelist{\cite{cam11}*{pp 82--83} \cite{cam03}*{p 176, 178}}, partial Providencer presence from 1641 \cite{cam11}*{p 129}, first important settlement on St George's definitely from 1765 \citelist{\cite{cam11}*{pp 121--122, 129} \cite{cam03}*{pp 175, 179--180}}, and non-buccaneering ie sedentary ie logging settlement from mid 17th cent \cite{cam03}*{p 171}. The Providencer answer possibly a misreading.} They explicitly set \(t_0\) in mid 1550s, \(t_d\) in mid 17th century, and \(\pst\) via first path in \(\pst_0\) ie first in Table~\ref{tab:pathsforlog}.\footnote{Explicit in \cite{cam03}*{p 171}. Also implicit in \cite{cam11}*{pp 91--92, 104, 108}. But Campbell does not mean \emph{only} \foreign{H campech} by \mention{logwood} \cite{cam11}*{pp 104--105}, whereas we do, so a bit tricky to read.} % p91-92 = by 1708, p104 = by 1680s, p108 = by early 1670s
-		They do \emph{not} quite so explicitly set \(t_c\) nor \(t_1\), but we read early 17th and early 18th centuries for them.\footnote{That is, \(t_c\) implicitly set to Elizabethan era in \cite{cam11}*{pp 106--107}, and to prior to 1695 and 1697 and 1655 in \cite{cam11}*{pp 84, 91, 106}, respectively for latter. And \(t_1\) implicitly to 1708 in \cite{cam11}*{pp vii, 93}, and possibly more. Again, for \mention{logwood} meaning \mention{dyewood}.} This completes \ref{eqn:namedlog}.
-		% For Campbell, if our reading is right, then we get coincident piracy and logging from early to mid 17th century ie during \(\cpd\), with significant logging starting at some point therein.\footnote{And attendant significant piracy, given coincidence. Read \emph{significant} \emph{positive} coincidence for coincidence \foreign{simpliciter} hereon.} And as after \(t_d\) we take the first \(\pst_0\), we further get significant logging at all points to early 18th century.\footnote{Modulo interruptions, which Campbell tolerates.}
+		Campbell offers a haven-camp-settlement story* set spatially in \(\bc\) only.\footnote{Loose pirate communities from probably mid 16th cent \cite{cam11}*{pp 95--96, 100 \forn{pass}}, pirate haven on St George's and surrounding cayes from probably mid 1550s \cite{cam03}*{pp 176, 179}, buccaneer haven from 17th cent \cite{cam03}*{p 174}, buccaneer haven definitely from 1670s \citelist{\cite{cam11}*{pp 82--83} \cite{cam03}*{p 176, 178}}, partial Providencer presence from 1641 \cite{cam11}*{p 129}, first important settlement on St George's definitely from 1765 \citelist{\cite{cam11}*{pp 121--122, 129} \cite{cam03}*{pp 175, 179--180}}, and non-buccaneering ie sedentary ie logging settlement from mid 17th cent \cite{cam03}*{p 171}. The Providencer answer possibly a misreading.} They explicitly set \(t_0\) in mid 1550s, \(t_d\) in mid 17th century, and \(\pst\) via first path in \(\pst_0\) ie first in Table~\ref{tab:pathsforlog}.\footnote{Explicit in \cite{cam03}*{p 171}. Also implicit in \cite{cam11}*{pp 91--92, 104, 108}. But Campbell does not mean \emph{only} \forn{H campech} by \ment{logwood} \cite{cam11}*{pp 104--105}, whereas we do, so a bit tricky to read.} % p91-92 = by 1708, p104 = by 1680s, p108 = by early 1670s
+		They do \emph{not} quite so explicitly set \(t_c\) nor \(t_1\), but we read early 17th and early 18th centuries for them.\footnote{That is, \(t_c\) implicitly set to Elizabethan era in \cite{cam11}*{pp 106--107}, and to prior to 1695 and 1697 and 1655 in \cite{cam11}*{pp 84, 91, 106}, respectively for latter. And \(t_1\) implicitly to 1708 in \cite{cam11}*{pp vii, 93}, and possibly more. Again, for \ment{logwood} meaning \ment{dyewood}.} This completes \ref{eqn:namedlog}.
+		% For Campbell, if our reading is right, then we get coincident piracy and logging from early to mid 17th century ie during \(\cpd\), with significant logging starting at some point therein.\footnote{And attendant significant piracy, given coincidence. Read \emph{significant} \emph{positive} coincidence for coincidence \forn{simpliciter} hereon.} And as after \(t_d\) we take the first \(\pst_0\), we further get significant logging at all points to early 18th century.\footnote{Modulo interruptions, which Campbell tolerates.}
 		%
 		% sss:fenix
 		\subsubsection{Fénix}
-		\label{sss:fenix} Sierra O'Reilly offers a haven-settlement story* set spatially in \(\bc\) only, and temporally in mid 17th century for \(t_1\) only.\footnote{Pirates settle on Old from mid 17th cent \cite{fen49}*{p 3}. This is a Wallace story*. \citelist{\cite{cam09}*{pp 72--110} \cite{bul16}*{pp 137--151} \cite{res19}*{pp 19--24}} have thoroughly shown that \mention{Wallace} in such stories* is most likely apocryphal. This, however, is also a Meridian story*, that is, one from Merida built on or after the 18th cent, when that city was heavily focussed on the Bay. (\citelist{\cite{car71}*{pp 55, 210} \cite{car78}*{pp 260--261} \cite{anc78}*{pp 370--376} \cite{pen69}*{pp 217--219}} are also Meridian stories*.) By the former, these stories* are at least partly apocryphal. By the latter, these stories* are at least possibly better-sourced than some others, given the non-zero chance of unique primary sources in Merida in and after the 18th cent. So, we ignore most Wallace details here, and read \mention{one of the first Baymen} for \mention{Wallace}. Note this means we disregard the move by \cite{bul16}*{pp 137--138, 145, 151--156} from \mention{Wallace}'s being apocryphal to temporal restrictions on acceptable answers to question*, and further disregard charges of dishonesty in Wallace stories* in \citelist{\cite{bul16}*{pp 138, 140--141} \cite{cam09}*{pp 87--88, 105--106} \cite{res19}*{pp 23--24}}, as the former follows and the latter regards only \mention{Wallace} properly (not symbolically) read.}
+		\label{sss:fenix} Sierra O'Reilly offers a haven-settlement story* set spatially in \(\bc\) only, and temporally in mid 17th century for \(t_1\) only.\footnote{Pirates settle on Old from mid 17th cent \cite{fen49}*{p 3}. This is a Wallace story*. \citelist{\cite{cam09}*{pp 72--110} \cite{bul16}*{pp 137--151} \cite{res19}*{pp 19--24}} have thoroughly shown that \ment{Wallace} in such stories* is most likely apocryphal. This, however, is also a Meridian story*, that is, one from Merida built on or after the 18th cent, when that city was heavily focussed on the Bay. (\citelist{\cite{car71}*{pp 55, 210} \cite{car78}*{pp 260--261} \cite{anc78}*{pp 370--376} \cite{pen69}*{pp 217--219}} are also Meridian stories*.) By the former, these stories* are at least partly apocryphal. By the latter, these stories* are at least possibly better-sourced than some others, given the non-zero chance of unique primary sources in Merida in and after the 18th cent. So, we ignore most Wallace details here, and read \ment{one of the first Baymen} for \ment{Wallace}. Note this means we disregard the move by \cite{bul16}*{pp 137--138, 145, 151--156} from \ment{Wallace}'s being apocryphal to temporal restrictions on acceptable answers to question*, and further disregard charges of dishonesty in Wallace stories* in \citelist{\cite{bul16}*{pp 138, 140--141} \cite{cam09}*{pp 87--88, 105--106} \cite{res19}*{pp 23--24}}, as the former follows and the latter regards only \ment{Wallace} properly (not symbolically) read.}
 		We find nothing further, so do not complete \ref{eqn:namedlog}.
 		%
 		% sss:reads
@@ -319,21 +319,21 @@
 		
 		So both (1) and (2) hold for all our stories*. We further find (3) holds too, but the move to (4) is tricky, so we now spell it out more fully.
 		
-		First, let \mention{piracy-win*} be \mention{successful piracy}, and \mention{piracy-fail*} be \mention{failed piracy}.\footnote{For simple or minimal \mention{success} eg where pirates surprised a ship or sacked a port, even if they got no/nil booty. And similar \mention{failure} eg where they found no ships nor came to port.} And let \mention{piracy*} be either.
+		First, let \ment{piracy-win*} be \ment{successful piracy}, and \ment{piracy-fail*} be \ment{failed piracy}.\footnote{For simple or minimal \ment{success} eg where pirates surprised a ship or sacked a port, even if they got no/nil booty. And similar \ment{failure} eg where they found no ships nor came to port.} And let \ment{piracy*} be either.
 		
-		That done, we now review step (4). We find that swapping in \mention{piracy-win*} for \mention{piracy} does not work, whereas \mention{piracy-fail*} \emph{does}. That is, for the particular way of \mention{leading to} spelt out in (4), we want to say that all stories* presume piracy-fail* lead to logging, \emph{not} that piracy-win* did so.
+		That done, we now review step (4). We find that swapping in \ment{piracy-win*} for \ment{piracy} does not work, whereas \ment{piracy-fail*} \emph{does}. That is, for the particular way of \ment{leading to} spelt out in (4), we want to say that all stories* presume piracy-fail* lead to logging, \emph{not} that piracy-win* did so.
 		
 		Now let (4a*) be `All stories* presume piracy-fail* lead to logging in \emph{some} way.' Then we find (4a*) holds for all our stories*, independently of (3), and ignore stories* where it doesn't hereon.\footnote{Eg where successful pirates discovered logging then afterwards intentionally/en-masse set out only to log ie sudden conversion. This might be the case eg in stories* where social/legal pressure forced successful pirates en masse to logging, but maybe only if pressures suddenly/rapidly not gradually materialise. So, we ignore stories* where pirates suddenly/en masse dropped piracy for logging.}
 		
-		At this point, it might be helpful to see how (the incidence of) piracy-win* and piracy-fail* might look like plotted together. We first imagine a bell curve for piracy*.\footnote{Even if incidence of piracy* is distributed multimodally, the following still works.} Then, under the piracy* curve, piracy-win* and piracy-fail* look like either 1 or 2 in Figure~\ref{fig:yaynayinterference}.\footnote{Figure~\ref{fig:yaynayinterference} presumes pirates were more successful than not (more piracy-win* than piracy-fail* incidents), but even if otherwise, the following still works. Additionally, cases where piracy-fail* peak precedes piracy-win* peak are not shown, but their curves are just 1 and 2 in Figure~\ref{fig:yaynayinterference} flipped, so following still works.} In the first case, we say they \emph{closely} tracked or \emph{positively} coincided, and say they loosely tracked or negatively coincided in the second case.
+		At this point, it might be helpful to see how (the incidence of) piracy-win* and piracy-fail* might look like plotted together. We first imagine a bell curve for piracy*.\footnote{Note, we presume both piracy-win* and piracy-fail* incidence are multimodal distributions with various peaks and valleys, and so too piracy*. So the following is just a slice of these curves.} Then, under the piracy* curve, piracy-win* and piracy-fail* look like either 1 or 2 in Figure~\ref{fig:yaynayinterference}.\footnote{Figure~\ref{fig:yaynayinterference} presumes pirates were more successful than not (more piracy-win* than piracy-fail* incidents), but even if otherwise, the following still works. Additionally, cases where piracy-fail* peak precedes piracy-win* peak are not shown, but their curves are just 1 and 2 in Figure~\ref{fig:yaynayinterference} flipped, so following still works.} In the first case, we say they \emph{closely} tracked or \emph{positively} coincided, and say they loosely tracked or negatively coincided in the second case.
 		% small fig 
 		\input{ppfiginter} % \label{fig:yaynayinterference}
 		
-		Note, in Section~\ref{sss:log} we said we had a clearer picture of piracy than logging. While this still holds, we now say we have a clearer picture of piracy-win* than logging, and further a clearer picture of piracy-win* than of piracy-fail*.\footnote{Or possibly no picture of piracy-fail* at all, unless by proxy from piracy-win*. We further note our relative lack of non-Spanish records for piracy* in the Bay, and further, their tendency to label any foreigner \mention{pirate} (inflating piracy-win* incidence), and the (we think likely) chance of their being so overwhelmed or desentised over time to piracy* so as to stop recording/reporting individual piracy-win* incidents (especially minor ones, thereby deflating incidence).}
+		Note, in Section~\ref{sss:log} we said we had a clearer picture of piracy than logging. While this still holds, we now say we have a clearer picture of piracy-win* than logging, and further a clearer picture of piracy-win* than of piracy-fail*.\footnote{Or possibly no picture of piracy-fail* at all, unless by proxy from piracy-win*. We further note our relative lack of non-Spanish records for piracy* in the Bay, and further, their tendency to label any foreigner \ment{pirate} (inflating piracy-win* incidence), and the (we think likely) chance of their being so overwhelmed or desentised over time to piracy* so as to stop recording/reporting individual piracy-win* incidents (especially minor ones, thereby deflating incidence).}
 		
 		Moving on though, let (4b*) be `All stories* presume piracy-fail* lead to logging in a \emph{particular} way, namely, via increasingly-significant (positive) coincidence.'\footnote{Logging a little bit from first-logging, then more and more, until logging a lot from first-significant-logging, with all of this occurring almost only during piracy-fail* incidents. That is, logging and piracy-fail* coincide only a few times from first-logging, then more and more, until coinciding very many/almost at all times from first-significant-logging.} Then, the move from (4a*) to (4b*) is natural or likely, and so made.\footnote{Though (4b*) does not follow from (4a*), but cannot see how else (4a*) might obtain. May explore later.}
 		
-		This, of course, immediately gets us to (5*) and (6*) (steps (5) and (6) with \mention{piracy-fail*} swapped in for \mention{piracy}). But we now have a not-so-useful \ref{eqn:namedlog}.
+		This, of course, immediately gets us to (5*) and (6*) (steps (5) and (6) with \ment{piracy-fail*} swapped in for \ment{piracy}). But we now have a not-so-useful \ref{eqn:namedlog}.
 		
 		At this point, it might be useful to get a clearer view of 2 in Figure~\ref{fig:yaynayinterference}. The possible orders of peaks are sketched in Figure~\ref{fig:yaynayorder}.\footnote{Also possible for 1 in Figure~\ref{fig:yaynayinterference}, with closer peaks, but irrelevant here.} That is, if piracy-win* and piracy-fail* only loosely track each other, rather than closely, then periods of heightened piracy-fail* incidence might precede, or succeed, or both precede and succeed periods of heightened piracy-win* incidence.\footnote{Probably 2 in Figure~\ref{fig:yaynayorder} is likelier than the others eg pirates being successful lead to more pirates trying (in a delayed manner).}
 		% small fig 
@@ -347,15 +347,29 @@
 		
 		We consider three possibilities for Restall. 
 		
-		First, say some phenomenon \mention{leads} to another \mention{coarsely} if they (as a \emph{whole}) are appropriately related or \mention{tied}, and say it leads to another \mention{finely} if enough of their (\emph{individual}) incidents are appropriately related ie tied. Then one might presume that piracy coarsely lead to logging sans presuming one finely lead to the other, eg via an en masse/swift pirates-to-loggers conversion. For (4a*) we previously discarded all the swift conversion stories*. We now revise that, and say we discard all stories* that do \emph{not} presume piracy \emph{finely} lead to logging. We read Restall as presuming fine leading to, and so keep.
+		First, say some phenomenon \ment{leads} to another \ment{coarsely} if they (as a \emph{whole}) are appropriately related or \ment{tied}, and say it leads to another \ment{finely} if enough of their (\emph{individual}) incidents are appropriately related ie tied. Then one might presume that piracy coarsely lead to logging sans presuming one finely lead to the other, eg via an en masse/swift pirates-to-loggers conversion. For (4a*) we previously discarded all the swift conversion stories*. We now revise that, and say we discard all stories* that do \emph{not} presume piracy \emph{finely} lead to logging. We read Restall as presuming fine leading to, and so keep.
 		
-		Next, say piracy finely lead to logging, but with most of the tied incidents \emph{outside} the Bay. Now, this might follow simply from higher piracy incidence outside the Bay, or a stronger pirac-logging tie outside the Bay (or both). The second here might make coincidence location-sensitive (eg higher coincidence in Campeachy vs Bay).
+		Next, say piracy finely lead to logging, but with most of the tied incidents \emph{outside} the Bay. Now, this might follow simply from higher piracy incidence outside the Bay, or a stronger pirac-logging tie outside the Bay (or both).
 		
-		The first case (of higher piracy outside the Bay), all else equal, is granted, and its implications disregarded as causing us no toruble.\footnote{In this case, we would have lower logging incidence in Bay than outside, resulting possibly in insignificant logging only, and so in a delayed first-significant-logging. But the move to insignificant logging imports interpretation (how high one's standards for significant logging are, or use of relative vs absolute standards), and so not relevant here.}
+		The first case (of higher piracy outside the Bay), all else equal, is granted, and its implications disregarded as causing us no trouble.\footnote{In this case, we would have lower logging incidence in Bay than outside, resulting possibly in insignificant logging only, and so in a delayed first-significant-logging. But the move to insignificant logging imports interpretation (how high one's standards for significant logging are, or use of relative vs absolute standards), and so not relevant here.}
 		
-		The second case (of a stronger tie outside the Bay), all else equal, is \emph{not} granted. Depending on standards used, this might naturally lead to a too-weak-to-count tie in the Bay, and so to only-insignificant piracy-logging coincidence in Bay.
+		The second case (of a stronger tie outside the Bay), all else equal, is \emph{not} granted.\footnote{Though this is a live possibility in either direction, and in fact, we probably have either a location- and time-sensitive tie or coincidence between piracy and logging, eg stronger tie in Bay when pirates had less luck there, or stronger tie in Campeachy after Jamaica invaded, and so on.} Depending on standards used, this might naturally lead to a too-weak-to-count tie in the Bay, and so to only-insignificant piracy-logging coincidence in Bay. For now, all such stories* are discarded, giving us location insensitive tie and coincidence.\footnote{Possibly to review later.}
 		
-		The third case (both of the above) is xx granted.
+		The third case (both of the above) is not granted, as the second case is not.
+		
+		Of the three cases above, we read Restall as of the first variety. That is, we say they have high standards for logging significance, and interpret \(t_c^*=t_1\).
+		
+		In sum, \ref{eqn:namedlog} isn't of much use, and xx.\footnote{We further note coincidence defined \emph{only} spatiotemporally, vs coincidence as importing more than proximity of incidents, or else not including spatiotemporal proximity criteria at all, eg requiring additionally/only a tie/appropriate relation between them. It seems we might only need the minimal one in this paper. For minimal coincidence, we further distinguish undirected boolean (values \code{true} or \code{false} for `for any piracy incident, there is at least one logging incident nearby; and for any logging incident, there is at least one piracy incident nearby') from directed categorical (values of \(-1\) or \(0\) or \(1\) with \(1\) for boolean coincidence and \(-1\) for `for any piracy incident, there is no logging incident nearby; and for any logging incident, there is no piracy incident nearby' and \(0\) for `for any piracy incident, there may/may not be at least one logging incident nearby; or for any logging incident, there may/may not be at least one piracy incident nearby'). We can even further make the directed categorical into a graded/quantitative measure with vlaues in interval \([-1,1]\) by mapping coincident \ment{ratio} (eg `for any piracy incident in some given year, there are on average \(n\) logging incidents nearby'). So, coincidence gets very messy, and we might just discard and instead count logging as a strict subset of piracy-fail* incidents. So we might look at only eg pure-piracy-fail*, piracy-fail-et-log*, and pure-log incidence curves.} %\input{ppfigcoinc} % \label{fig:naylogcoincidence} - shows only perfect coinc rn - shows only minimal/ie only spatiotemporal coincidence rn
+		%
+		% sss:onmapclusters
+		\subsubsection{On \ref{eqn:namedmap} clustering}
+		\label{sss:onmapclusters}
+		We note the popularity of \(\bc\) as a setting in stories* in Section~\ref{ss:particular}, compared to the other places of the inner Bay, namely \(\id\) and \(\mt\). The former is used (minimally) only by Campbell, while the latter is used by none.
+		%
+		% sss:ontrendsuse
+		\subsubsection{On trends use}
+		\label{sss:ontrendsuse}
+		We further note the underuse of patterns in building stories* in Section~\ref{ss:particular}, with only Restall offering a story* so built (from cartographic patters, in their case) rather than one from single datapoints.\footnote{Missing patterns, in addition to piracy incidence, include dwindling Spanish commerce in the Bay (and its effect on piracy), a growing resident pirate population near Bay, and growing social/legal pressures against piracy, though this last trend \emph{is} generally noted.}
 	%
 	% ss:general
 	\subsection{General}
@@ -371,32 +385,6 @@
 		%
 % delete later
 \section{Scrubber}
-			ABOVE WE assume/conclude-
-			- piracy-fail* lead to logging (somehow) in all
-			- piracy-fail* lead to logging (via increasing coinc) in all
-			- 1/ first-logging not in all
-			- 2/ first-significant-logging yes in all but insta-settle stories* eg Fenix
-			- discard insta-settle stories
-			- 3/ insig logging from first-log to first-sig-log in all stories*
-			- clearer view of pir-win* than log and than pir-fail* in hist records
-			
-			NOT NOTED YET
-			- sig pos coinc = 1:1 pir:log incidents 'tied' (perfect coinc), or 2:1 or 1:2 (half coinc)
-			- sig neg coinc = 0:1 pir:log OR 0:1 pir:log incidents 'tied' (perfect coinc)
-			ie perfect coinc (pos) = every pir incid tied to a log incid AND viceversa
-			ie percet coinc (neg) = no pir incid tied to a log incid AND viceversa
-			NEED PLOT FOR THIS (eg showing rise of logging vs pir-fail*)
-			What of 'whereever we don't see log we see piracy and viceversa'? - this seems pretty impossible
-			%\input{ppfigcoinc} % \label{fig:naylogcoincidence} - shows only perfect coinc rn - interprets 'tie' as geographic only, which is wrong!
-			
-			Say an incident is \mention{tied} to another if they are appropriately related. For instance, we might say a particular pitacy incident is tied to a logging one if a pirate crew decides to log (and does or tries to do so) during their off time while on a pirating expedition. Or we might say they are tied if they are merely spatiotemporally close. The a \emph{granular} reading of lead to implies coincidence of individual incidents of two phenomena, while a \emph{coarse} reading only does for the phenomena as a whole eg where we piracy 'lead to' loggign sans coincidence of incidents eg via mass conversion.
-
-			PREV OBSERV NOT NOTED YET
-			- need assumptions to hold for Bay not just WI, whereas vars stories* speak of WI
-			- pir waxed-and-waned so peaks-and-valleys for pir-win*, and pir-fail*
-			- inner Bay triangle barely noted in stories* reviewed
-			- have not discussed/plotted: growing resident-pirates population in WI, decreasing Sp commerce in Bay, growing social/legal pressures against piracy in WI
-			- underuse of incidence data in stories, or coincidence not presumed eg 'lead to' as in 'discovered Bay, used as pir haven, left for greener pastures, then came back now as loggers'?
 %
 %
 %

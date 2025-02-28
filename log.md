@@ -455,9 +455,11 @@
 - [x] update `/citations` files as needed per above[^plus added `citations/s2318.json` with `via:null`]
 - [ ] fill in missg `/literature` values[^incl quotes on Tortuga/Mosq Shr/Bay Isl/Camp/E Yucn as lots of discordance in lit re these, and likely to need later on]
     - [ ] for original claims (as per live wiki)
-    - [ ] for original claims (per recollection)
-        - [ ] in Campbell aa
-        - [ ] in Restall
+    - [x] for original claims (per recollection)
+        - [x] in Campbell aa
+        - [x] in Campbell bb[^added as `citations/s2320` with `via:null`]
+        - [x] in Restall
+        - [x] plus missed Long (plus Restall rejection)
     - [ ] for others
 - [ ] cross check entered values above against source material to make sure they're accurate
 

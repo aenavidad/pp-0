@@ -46,7 +46,7 @@
 	subtitle={},
 	volume={2},
 	publisher={Imprenta de M Heredia Argüelles},
-	address={Merida, Yuc}} % https://books.google.com/books?id=FDcCAAAAYAAJ
+	address={Merida, Mexico}} % https://books.google.com/books?id=FDcCAAAAYAAJ
 %
 \bib{app12}{article}{
 	author={Appleby, John},
@@ -58,13 +58,13 @@
 	volume={},
 	pages={277--300},
 	publisher={Boydell Press},
-	address={Woodbridge, Suffolk}} % https://lccn.loc.gov/2011278345 re weakening ties to GB < 1620s
+	address={Woodbridge, England}} % https://lccn.loc.gov/2011278345 re weakening ties to GB < 1620s
 %
 \bib{ban12}{article}{
 	author={Baños Ramírez, Othón},
 	date={2012},
 	title={Piratería forestal y economía-mundo},
-	subtitle={El caso de la Laguna (1558-1717)},
+	subtitle={El caso de la Laguna (1558--1717)},
 	journal={Relaciones},
 	volume={33},
 	number={132B},
@@ -115,7 +115,7 @@
 	title={Compendio de la historia de Yucatan, precedido del de su geografía y dispuesto en forma de lecciones},
 	subtitle={},
 	publisher={Imprenta JD Espinosa é hijos},
-	address={Mérida, Yuc}} % https://search.worldcat.org/oclc/13403072 and https://books.google.com/books?id=zZkPgqPHFQwC
+	address={Merida, Mexico}} % https://search.worldcat.org/oclc/13403072 and https://books.google.com/books?id=zZkPgqPHFQwC
 %
 \bib{car78}{article}{
 	author={Carrillo y Ancona, Crescencio},
@@ -141,7 +141,7 @@
 	date={2015},
 	title={Pirate Nests and the Rise of the British Empire, 1570--1740},
 	publisher={UNC Press},
-	address={Chapel Hill, NC}} % https://lccn.loc.gov/2015022645
+	address={Chapel Hill, US}} % https://lccn.loc.gov/2015022645
 %
 \bib{har10}{book}{
 	author={Haring, CH},
@@ -204,7 +204,7 @@
 	title={Buccaneers of the Caribbean},
 	subtitle={How Piracy Forged an Empire},
 	publisher={HUP},
-	address={Cambridge, MA}} % https://lccn.loc.gov/2009007389
+	address={Cambridge, US}} % https://lccn.loc.gov/2009007389
 %
 \bib{lee07}{article}{
 	author={Leeson, Peter T},
@@ -233,6 +233,14 @@
 	volume={},
 	number={3},
 	pages={63--80}} % https://doi.org/10.62120/mch.v1i3.26
+%
+\bib{nay89}{book}{
+	author={Naylor, Robert},
+	date={1989},
+	title={Penny Ante Imperialism},
+	subtitle={The Mosquito Shore and the Bay of Honduras, 1600--1914: A Case Study in British Informal Empire},
+	publisher={Fairleigh Dickinson University Press},
+	address={Rutherford, US}} % https://lccn.loc.gov/87045735
 %
 \bib{pen69}{article}{
 	author={Peniche, Manuel},
@@ -271,7 +279,7 @@
 	title={De corsarios, mares y costas},
 	subtitle={El corso en la construcción del espacio y experiencias marítimas en el Golfo-Caribe, 1527--1620},
 	publisher={UAA},
-	address={Aguascalientes, Ags}} % https://doi.org/10.33064/UAA/978-607-8714-67-4
+	address={Aguascalientes, Mexico}} % https://doi.org/10.33064/UAA/978-607-8714-67-4
 %
 \bib{wai20}{article}{
 	author={Wainwright, Joel},

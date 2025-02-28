@@ -550,10 +550,10 @@ Data available in \code{json} at \href{http://github.com/aenavidad/pp-0}{github.
 ]
 \addplot [% plot for piracy incidents in bz
 	black,fill=black,% colour outline and fill
-	] table [x=yr,y=nobz] {ppfig1.dat};
+	] table [x=yr,y=nobz] {ppfigpirdata.dat};
 \addplot [% plot for piracy incidents outside of bz
 	gray,fill=gray,% colour outline and fill
-	] table [x=yr,y=noall] {ppfig1.dat};% check noall value *excludes* nobz value to stack
+	] table [x=yr,y=noall] {ppfigpirdata.dat};% check noall value *excludes* nobz value to stack
 \end{axis}
 \end{tikzpicture}
 \end{sideways}

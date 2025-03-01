@@ -256,6 +256,7 @@
 ### for pp
 - [x] start `pp.tex`[^structure copied from latest `tex` file ie in `historical-series-re-Belize/work/oct-23/`]
 - [x] continue pp[^input variables for dates/info relying on `incidents`  or `/literature` data, or estimate them for draft]
+- [ ] edit copy
 
 ### recoding cartas
 - [x] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`
@@ -454,13 +455,13 @@
     - [x] for all others[^no `quote` values, and no `in` values for some]
 - [x] update `/citations` files as needed per above[^plus added `citations/s2318.json` with `via:null`]
 - [ ] fill in missg `/literature` values[^incl quotes on Tortuga/Mosq Shr/Bay Isl/Camp/E Yucn as lots of discordance in lit re these, and likely to need later on]
-    - [ ] for original claims (as per live wiki)
+    - [x] for original claims (as per live wiki)
     - [x] for original claims (per recollection)
         - [x] in Campbell aa
         - [x] in Campbell bb[^added as `citations/s2320` with `via:null`]
         - [x] in Restall
-        - [x] plus missed Long (plus Restall rejection)
-    - [ ] for others
+        - [x] ~~plus missed Long (plus Restall rejection)~~
+    - [ ] for others[^incl eg Long and any missed eg in `work/dec-22/`]
 - [ ] cross check entered values above against source material to make sure they're accurate
 
 ## prior log

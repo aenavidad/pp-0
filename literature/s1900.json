@@ -8,13 +8,13 @@
       "in": "vol 2 p 331",
       "quote": "During a long period, no European nation intruded upon the Spaniards in those [Hon, Yuc] provinces, or attempted to obtain any share in this branch of trade. But after the conquest of Jamaica by the English, it soon appeared what a formidable rival was now seated in the neighbourhood of the Spanish territories. One of the first objects that tempted the English, was the great profit arising from the logwood trade, and the facility of wresting some portion of it from the Spaniards. Some adventurers from Jamaica made the first attempt at Cape Catoche, the southeast promontory of Yucatan, and by cutting logwood there, carried on a gainful traffic. When most of the trees near the coast in that place were felled, they removed to the island of Trist, in the Bay of Campeachy; and in latter times, their principal station has been in the Bay of Honduras. ",
       "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
-      "qualify": null,
+      "locn": "Hon",
+      "act": "Jamaicans log",
+      "accept": true,
+      "qualify": false,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "after Jam invasion / after Catoche and Camp logged",
       "note": null
     }
   ]

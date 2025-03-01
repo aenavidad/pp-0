@@ -305,12 +305,20 @@ TSWLatexianTemp*
 # option is specified. Footnotes are the stored in a file with suffix Notes.bib.
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
-pp-0 # ignore symlink
+
+# ignore symlink
+pp-0
+
+# DS_Store
 .DS_Store
 
-# pdf of draft
+# pdf of drafts
 pp.pdf
 pp0.pdf
+pp1.pdf
 
 # scrap odds and ends
 scrap.txt
+
+# data files for figures
+ppfig*data.dat

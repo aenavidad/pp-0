@@ -1,36 +1,179 @@
+% top stuff
 \input{pptop}
+% scrubber
+% ADD - recognition of Bay/Rattan/Tortuga by Prov may have encourage self-view as a polity-
 %
 %
 %
-%
+% sec intro
 \section{Introduction}
 \label{s:intro}
+	The origins of Belize have been an open problem in historical literature since at least the 18th century, and remain so today, with over two dozen theories proposed to date, and little consensus to boot.%
+	%
+	\footnote{In Table~\ref{tab:literature}. Belize is the only pirate settlement in the Caribbean, and only logwood settlement, to have survived past the 19th century. As such, it is the only country in the Commonwealth for which this problem is open. As a rule though, \emph{all} such settlements seem to have unclear origins, including at least the Bay Islands, Campeachy, Catoche, the Mosquito Shore, and Tortuga. We further note the uncertainty seems baked in, such that even if we had a \emph{complete} historical record of activity, we might nonetheless still have uncertain origins. The preceding uniqueness claim has previously been articulated for smaller comparison classes, but seems to apply for all the Commonwealth. Similarly for the preceding vagueness claim. For Table~\ref{tab:literature}, note this is not a systematic literature review, and further note we claim only that given readings are possible or acceptable. All data for this paper deposited at \url{https://github.com/aenavidad/pp-0/}.}
+	%
+	\input{pptablit} % \label{tab:literature}
+	
+	This paper seeks to either complicate or clarify matters by proposing a way of building such theories in Sections~\ref{s:claim} and \ref{s:support}, then building a number of them in Section~\ref{s:use}, and finally reviewing the exercise in Section~\ref{s:review}.%
+	%
+	\footnote{We end up \emph{not} recommending the proposed method. It nonetheless looks like a way of building \emph{minimal} theories (ones which presuppose as little as possible and so are maximally open to interpretation) might look something like that proposed in this paper. A minimal theory for this problem seems desireable, given its aforementioned vagueness, and current glut of maximal theories in literature.}
 %
 %
 %
-%
+% sec claim
 \section{Claim}
 \label{s:claim}
+	In this section, we present Claim~\ref{clm:maindecency}.
+	
+	Let \ment{question*} be `What are Belize's origins?' And let \ment{stories*} be answers to question*.\footnote{Existing or possible, subject to some suitability criteria, eg are historical, are not flimsy, so on.}
+	
+	% main claim
+	\begin{clm}
+	\label{clm:maindecency}
+		\ref{eqn:namedmap} and \ref{eqn:namedlog} are a decent way of building a story*.\footnote{Qualified, eg up to similarity, used jointly, with relevant historical data, so on.}
+	\end{clm}
+	
+	% main eqn map
+	\begin{equation}
+	\tag{Map}
+	\label{eqn:namedmap}
+		\begin{tikzcd}[arrows=dash]
+		\nt &\bc \rar \ar[rr,bend left] &\mt \rar &\id &\et
+		\end{tikzcd}
+	\end{equation}
+	
+	For vertices as certain places in the Bay (of Honduras), and edges as a certain relation between them. The Bay is mapped from northwest to southeast, beginning in northern Yucatan (\(\nt\)), flowing down to northern Belize (\(\bc\)), then the mouth of the Bay (\(\mt\)), next the Bay Islands (\(\id\)), and finally eastern Honduras (\(\et\)). We say a place \(\ab\) is connected to place \(\cd\) (\(\ab-\cd\)) if \(\ab\) is \ment{close} to \(\cd\), and not otherwise.\footnote{Ignoring trivial cases eg where \(\ab=\cd\).} Basically, spaces are close if they are geographically close.
+	
+	% main eqn log
+	\begin{equation}
+	\tag{Log}
+	\label{eqn:namedlog}
+		\begin{tikzcd}[sep=huge]
+		t_0 \rar["\pre" description] &t_c \rar["\cpd" description] &t_d \rar[bend left,"\pst_0" description] \rar[bend right,"\pst_1" description] &t_1
+		\end{tikzcd}
+	\end{equation}
+	
+	For vertices as certain points in time, and arcs as certain series of events from one point to the other. A story* is logged from start to finish, beginning at the earliest point (\(t_0\)), then a certain \ment{coupling} point (\(t_c\)), next an ensuing \ment{de}coupling point (\(t_d\)), and ending at the latest point in the story* (\(t_1\)). These four points split a story* into three parts, with a coupl\ment{ed} period (\(\cpd\)) in the middle, and a preceding \ment{pre}coupled period (\(\pre\)). The succeeding \ment{post}coupled period (\(\pst\)) is plotted as two series of events (\(\pst_0\) and \(\pst_1\)) rather than one, to account for two possibly distinct sequences of events. Basically, the coupling refers to the coincidence of piracy and logging.	
+	% main gloss
+	\begin{gloss}
+	\label{gloss:decency}
+		A way of building a story* is decent if the story* so built does \emph{not} answer question* nor `When was Belize settled?' nor `When was Belize founded?,' and \emph{does} answer at least `When was Belize used for piracy?' or `When was Belize used for logging?'\footnote{Qualified, eg up to similarity, so on. We might want further features here, eg stories* so built are novel, are granular, so on.}
+	\end{gloss}
+	
+	The general idea in Gloss~\ref{gloss:decency} being that, for inherently vague problems, we might want minimal theories which are maximally open to interpretation.
 %
 %
 %
-%
+% sec support
 \section{Support}
 \label{s:support}
+	In this section, we first build \ref{eqn:namedmap} and \ref{eqn:namedlog}, then show they are decent.
+	%
+	% subsec build
+	\subsection{Build}
+	\label{ss:build}
+		We start by noting that almost all existing stories* begin with piracy and end with logging, and noting that there is almost no consensus on the path charted from one to the other, nor on the time it took to traverse said path. Nonetheless, we now have thematic start and end points, call them \ment{first-theme} (piracy) and \ment{last-theme} (logging).
+		
+		Now we note that, while existing stories* are agreed on first-theme, there is yet no agreement on when nor where to begin, with values for the former ranging over three centuries, and for the latter spanning two landmasses.\footnote{Sixteenth to eighteenth cneturies, and Central America including Yucatan, plus the Greater Antilles.} But despite not having them, call them \ment{first-time} (when story* begins) and \ment{first-place} (where story* begins), and similarly for \ment{last-time} and \ment{last-place}.\footnote{These spatial and temporal points are for stories*, \emph{not} for the start/end of our themes ie phenomena ie piracy and logging.}
+		%
+		% subsubsec map
+		\subsubsection{Map}
+		\label{sss:map}
+			Now, to get first-places from existing stories*, we either stop and consider each proferred first-place individually, or else sort them into classes and consider each class instead. We do the latter here.
+		
+			First, sort all first-places located within the Bay into one class, and all others into another.\footnote{Discard null and \ment{Bay} first-places.} We now have the Bay Islands and Belize in the first class, and Campeachy, Catoche, Jamaica, the Mosquito Shore, (Old) Providence, and Tortuga in the other.\footnote{Possibly ignoring minor or overlooked first-places. \ment{Belize} meaning north-central Belize. \ment{Campeachy} including Terminos and Tris. \ment{Catoche} including Cozumel and possibly Ascension. \ment{Tortuga} including north-west Hispaniola. \ment{Mosquito Shore} meaning south-central Shore.}
+		
+			Before proceeding, we note that these first-places look, of course, like a list of pirate haunts in the greater vicinity of Belize, just as we would expect from first-theme. To have a comprehensive \ref{eqn:namedmap}, then, we would want a \emph{complete} list of pirate haunts in said vicinity.
+			
+			Now, before checking that we have a complete list of pirate haunts, we here note that maritime entry to the Bay is either through the north or the east, such that for first-places outside the Bay, regardless of their geographic location, the relevant agents would all enter the Bay through one of two points.\footnote{Counting a north-east entrance via the Caymans as an eastern one.} In which case, we might map the north (\(\nt\)) and east (\(\et\)) entrances, and take these as proxies for \emph{all} pirate haunts outside the Bay. So, \(\nt\) and \(\et\) give us a complete list of pirate haunts for the second class.
+		
+			We have no such shortcut for the first class of first-places (pirate haunts in the Bay) though, so this check is done by hand. This done, we find we might want to add one first-place to this group, namely, the mouth of the Bay (\(\mt\)), giving us three first-places (with the Bay Islands (\(\id\)) and Belize (\(\bc\))). We assume our hand check was thorough, and so conclude that \(\mt\), \(\id\), and \(\bc\) give us a complete list of pirate haunts in this class.%
+			%
+			\footnote{\(\mt\) is deemed a pirate haven, and thus haunt, due to the greater incidence of piracy there than in \(\bc\). As the latter is deemed a haunt, so ought the former. Strictly, though, we might not need incidence data to identify \(\mt\). For instance, if a \ment{haven} is `a place from which pirates spied on shipping lanes or ports,' and if there was at least one such for any major Spanish port, then \(\mt\) is required, it being the only place from which they might have spied on the major Spanish ports of the Bay. Incidence is plotted in Figure~\ref{fig:piracyinbay}, as gleaned from literature (for all years) and the Guatemala and Mexico series in the Archivo General de Indias (to 1669 inclusive). For Figure~\ref{fig:piracyinbay}, note the review process very likely missed some literature and records, and further note incidents do not seem consistently carved out, and further include some defence incidents, and ones of dubious piracy. The AGI data for Figure~\ref{fig:piracyinbay} further include a tally and partial calendar of defence related records.}
+			%
+			\input{ppfigpir} % \label{fig:piracyinbay}
+			
+			So, we now have a list of five first-places which name all pirate haunts in the vicinity of Belize. As \ref{eqn:namedmap} charts only these, it too is complete in this respect.
+		
+			Lastly, as we would like to chart our first-places in some relevant manner, and not just list them, we look for relevant ways these pirate haunts were related. This is done by hand. This done, the first and most obvious relation is distance, of course. But in addition to this, we have cost, that is, the difficulty of getting from one first-place to the other. And we find no further salient relations.\footnote{Ignoring non-salient or missed relations, but assume no others, or assume these are subsumed by cost. We may want to exclude from or keep constant in cost the weights of nautical knowledge/practice/expereience.}
+			
+			As cost subsumes distance, we consider only cost. As those were the only salient relations among our first-places, cost gives us \emph{all} the ways our first-places are related.\footnote{All relations we care about, assuming hand check was thorough.} So say some first-place is \ment{close} to another if it's \emph{not} costly to get from the one to the other and vice versa.\footnote{Giving us undirected closeness from directed cost, for simplicity, but we could keep cost directed. By \ment{not costly} we mean for some cutoff of cost which we deem sufficiently cheap.} Then, we have that \(\bc\), \(\mt\), and \(\id\) are all close to each other, while \(\nt\) and \(\et\) are close to none.\footnote{Ignoring self-closeness.}
+			
+			So, we now have one relation which subsumes all salient or relevant ways in which our first-places are related. As \ref{eqn:namedmap} charts only this relation, it too is complete in this respect.
+			
+			This fully gives us \ref{eqn:namedmap}, so our work here is done.
+		%
+		% subsubsec log
+		\subsubsection{Log}
+		\label{sss:log}
+			We start by noting that in existing stories* we have very many first-times and last-times (when stories* start and end). We further have two relevant phenomena, namely, our first-theme and last-theme ie piracy and logging. Call their temporal start and end \ment{first-piracy}, \ment{last-piracy}, \ment{first-logging}, and \ment{last-logging}.
+			
+			Now, we note that none of these first-times pre-dates first-piracy, and none of these last-times post-dates last-piracy. So, first-theme is present at every point in time in existing stories*. We further note that \emph{only} some of these first-times pre-date first-logging, and none of these last-times post-dates last-logging. So last-theme is either present at every point, or else present only in later points in time in existing stories*.
+			
+			So, of the temporal points of first-theme and last-theme, \emph{none} show up in \emph{all} existing stories*.
+			
+			We salvage this sad state by looking at the stories* which \emph{do} include first-logging. In almost all of them, this point is not given prominence but rather minimised in favour of a second point, that when the incidence of last-theme reached some significance threshhold, call it \ment{first-significant-logging}.\footnote{There is a further \ment{first-significant-piracy} in some existing stories*, but it's not needed here.}
+			
+			If we now look for first-significant-logging in existing stories*, we do find it in all of them.
+			
+			Instead of plotting first-significant-logging, however, we take stock of \emph{why} first-logging is only in some stories*, and why first-significant-logging is favoured. The immediate answer is that we can't see the incidence of last-theme, of course.\footnote{There being scant records on logging.} But additionally, we further presume that it was \emph{in}significant for some time after first-logging, and that it first reached significance only after first-significant-logging.\footnote{Significance regarding frequency of logging, or amount logged, or number of loggers, and so on.}
+			
+			So, all existing stories* presume that there was some non-null time between first-logging and first-significant-logging. Again, instead of plotting, we take stock of why this is.
+			
+			Here, we find that all such stories* presume that first-theme \emph{lead} to last-theme in a \emph{specific} way, namely, by pirates' logging a little bit from first-logging, then more and more, until logging a lot from first-significant-logging.\footnote{For some significance threshhold.} Which is to say, all existing stories* presume the increasing \emph{co}incidence of our first-theme and last-theme.
+			
+			This, finally, would make for a useful organising principle for \ref{eqn:namedlog}, due not just to existing consensus, but additionally to the greater insight we have into the incidence of first-theme.
+			
+			Now, we have \emph{strongly}-significant positive coincidence between first-theme and last-theme starting from first-significant-logging. But even \emph{weakly}-significant positive coincidence might be useful when using first-theme incidence as proxy for last-theme incidence.\footnote{For some significance value of \ment{strong} or \ment{weak}.}
+			
+			So, call the point in time when first-theme and last-theme first significantly positively coincided \(t_c\), and add to \ref{eqn:namedlog}.
+			
+			Naturally, in the period from start-logging to \(t_c\), first-theme and last-theme did not significantly coincide at all.\footnote{We have no examples of significant negative coincidence in existing stories*.} For stories* with first-times at or after first-logging, this covers the entire period. For stories* with first-times pre-dating first-logging, there would still be no significant coincidence at all, given no incidence of last-theme. So call this period of insignifcant coincidence \(\pre\), and call first-times \(t_0\), and add both to \ref{eqn:namedlog}.
+			
+			Now, in the period after \(t_c\), first-theme and last-theme did significantly coincide at all points, but in all stories* this is only so up to a point.\footnote{Due to various reasons, including fall of last-theme incidence below significance, fall of first-theme incidence below significance, so on.} This is, of course, what we would expect, given that last-theme outlived first-theme by a lot.
+			
+			So, at some point after \(t_c\), first-theme and last-theme first \emph{stopped} significantly or positively coinciding. Call it \(t_d\) and add to \ref{eqn:namedlog}. Furthermore, call the period between \(t_c\) and this point \(\cpd\), and likewise add to \ref{eqn:namedlog}.\footnote{Only one path is possible between these points, ie significant coincidence all the time.}
+			
+			After \(t_d\), all stories* agree that the incidence of first-theme fell below some significance threshhold, while only some say as much of last-theme. Nonetheless, the first consensus is all we need to see all possible paths to all last-times.
+			
+			So, from \(t_d\) to last-time, the incidence of last-theme either was significant at all points, or it was not, while the coincidence of first-theme and last-theme was either insignificant at all points, or it was not.
+			%
+			\input{pptabpaths} % \label{tab:pathsforlog}
+			
+			The paths possible from \(t_d\) to last-time are listed in Table~\ref{tab:pathsforlog}. We note that coincidence is insignificant at \emph{all} points in time in paths (1) and (3), while logging incidence is significant at \emph{all} points in (1) and (2).
+			
+			For simplicity, we merge paths (1) and (3) and call them \(\pst_0\), and merge paths (2) and (4) and call them \(\pst_1\), and call last-times \(t_1\), and add all to \ref{eqn:namedlog}. 
+			
+			This fully gives us \ref{eqn:namedlog}, so our work here is done.
+	%
+	% subsec decency
+	\subsection{Decency}
+	\label{ss:decency}
+		We first note that \ref{eqn:namedlog} requires at least all data on the incidence of piracy in the Bay, so say we have that. We must then (somehow) identify \(t_c\) and \(t_d\) in these data, and get a direct picture of piracy, and proxy one of logging, in the Bay from \(t_0\) to \(t_1\).\footnote{\(t_c\) and \(t_d\) are the only defined temporal points in \ref{eqn:namedlog}.} This straightforwardly falls short of answering any forbidden question, and yet directly answers the first required one, while at least partially answering the second required question.\footnote{Assuming good data.}
+		
+		So, \ref{eqn:namedmap} and \ref{eqn:namedlog} are decent.
 %
 %
 %
-%
+% sec use
 \section{Use}
 \label{s:use}
+	In this section, we xx
 %
 %
 %
+% sec review
+\section{Review}
+\label{s:review}
+	In this section, we xx
 %
+%
+%
+% sec concl
 \section{Conclusion}
 \label{s:concl}
 %
 %
 %
-%
+% end stuff
 \input{ppbot}

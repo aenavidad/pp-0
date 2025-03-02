@@ -256,7 +256,8 @@
 ### for pp
 - [x] start `pp.tex`[^structure copied from latest `tex` file ie in `historical-series-re-Belize/work/oct-23/`]
 - [x] continue pp[^input variables for dates/info relying on `incidents`  or `/literature` data, or estimate them for draft]
-- [ ] edit copy
+- [x] edit copy
+- [x] submit preprint[^`pp1` to SocArXiv on 2 mar 2025]
 
 ### recoding cartas
 - [x] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`

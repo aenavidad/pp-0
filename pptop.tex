@@ -30,10 +30,11 @@
 \DeclareMathOperator{\cpd}{cpd} % ^
 %
 %
-% amsthm styles where mainclm > minrclm = gloss > note = bodytext > footnote
+% amsthm styles where (i) mainclm > minrclm = gloss > note = bodytext > footnote, or (ii) clm >= gloss > etc
 % plain style
 \newtheorem{mainclm}{Main Claim} % for main claims
 \newtheorem{minrclm}{Minor Claim} % for minor claims
+\newtheorem{clm}{Claim} % for claims
 % definition style
 \theoremstyle{definition}
 \newtheorem{gloss}{Gloss} % for glosses
@@ -55,8 +56,8 @@
 %
 %
 % xcolor commands for darkmode - just for draft
-%\pagecolor{darkgray}
-%\color{white}
+\pagecolor{darkgray}
+\color{white}
 %
 %
 % hyperref commands

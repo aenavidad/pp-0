@@ -258,6 +258,8 @@
 - [x] continue pp[^input variables for dates/info relying on `incidents`  or `/literature` data, or estimate them for draft]
 - [x] edit copy
 - [x] submit preprint[^`pp1` to SocArXiv on 2 mar 2025, plus `pp-0` repo made public on GitHub]
+- [x] preprint pubbed[^in SocArXiv on 3 mar 2025]
+- [x] requested comments from am*tor@yahoo.com[^on 5 mar 2025, got them on 6 mar 2025]
 
 ### recoding cartas
 - [x] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`

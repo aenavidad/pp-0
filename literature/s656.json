@@ -8,13 +8,13 @@
       "in": "pp 87-88",
       "quote": "As early as 1638 British settlers appear to have developed logwood activities in present day Belize; and it is certain that between 1662 and 1670 this activity became regular.",
       "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
-      "qualify": null,
+      "locn": "Hon",
+      "act": "Brit develop then regularly log",
+      "accept": true,
+      "qualify": true,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "as early as 1638 / after 1662",
       "note": null
     }
   ]

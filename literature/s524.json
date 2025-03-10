@@ -8,14 +8,14 @@
       "in": "pp 575-576",
       "quote": "Belize, or, as it is still styled in official documents, 'Her Majesty's Settlement in the Bay of Honduras,' owes its origin to the logwood-cutters, who frequented the coasts of Yucatan, Honduras, and Nicaragua after the decline of piracy in the [start p 576] sea of the Antilles. Most of them had been free companions, and were well acquainted with the coast and its resources. The district was rich in dye-woods, and at once became a principal place of resort with the English cutters.",
       "quote_n": "A large part of the facts contained in this chapter [cap 26 re Belize] are drawn from an able paper 'On Belize, or British Honduras: its History, Trade, and natural resources,' ready by Chief Justice Temple, of Belize, before the Royal Society of Arts, January 1857, and published in the Journal of the Society, vol. v., No. 217. /v Squier p 575 fn sn\n Dampier, who visited the Bay of Honduras in the year 1674, gives some amusing sketches of the proceedings of those early settlers. /v Squier p 576 fn sn",
-      "locn": null,
-      "act": null,
-      "accept": null,
-      "qualify": null,
+      "locn": "Hon",
+      "act": "Eng cutters principally resort to",
+      "accept": true,
+      "qualify": false,
       "lbd": null,
       "upd": null,
-      "date": null,
-      "note": null
+      "date": "after decline of piracy",
+      "note": "follows Robertson or Temple"
     }
   ]
 }

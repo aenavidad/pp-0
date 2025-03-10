@@ -5,16 +5,16 @@
   "via": null,
   "quotes": [
     {
-      "in": null,
+      "in": "p 23",
       "quote": null,
       "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
+      "locn": "Mos S or Prov",
+      "act": "Pirates first use or camp",
+      "accept": true,
       "qualify": null,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "in 1600s or earlier",
       "note": null
     }
   ]

@@ -5,16 +5,16 @@
   "via": null,
   "quotes": [
     {
-      "in": null,
+      "in": "p 336",
       "quote": null,
       "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
+      "locn": "Mos S or Prov",
+      "act": "Pirates camp or use",
+      "accept": true,
       "qualify": null,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "by at least 1616",
       "note": null
     }
   ]

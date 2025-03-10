@@ -1,20 +1,20 @@
 {
   "id": "s418",
   "cite": "C Quijano",
-  "note": null,
+  "note": "has lit rev",
   "via": null,
   "quotes": [
     {
       "in": "pp 47-49",
       "quote": "Para nosotros, la más aproximada [fecha del establecimiento de Wallace en el Río Viejo] es la opinión de Molina Solís, quien dice que en Febrero de 1663 amenazaba a la Provincia de Yucatán un grave peligro '...con la ocupación permanente que habían hecho los filibusteros de la Isla de Términos y un punto de la costa oriental cercano a Honduras, que después se llamó Belize...'. Esto concuerda perfectamente con la noticia dada por Fancourt del primer corte de palo en Catoche en 1662, al cual siguieron los demás de la costa oriental. Pero además, y en corroboración de ello podemos aducir los numerosos testimonios documentales que prueban la existencia del establecimiento de Valis antes de 1670. En éstos no se especifica la fecha inicial—cosa no estraña, ya que se trataba de un uso furtivo y oculto—, pero se deja apuntada. Por todo ello, podemos afirmar sin gran temor, fué entre los años 1662 y 1670, cuando con una cierta regularidad quedó establecido el corte de palo en lo que hoy constituye Belice.",
       "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
-      "qualify": null,
+      "locn": "Old",
+      "act": "Wallace establecese con una cierta regularidad",
+      "accept": true,
+      "qualify": true,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "entre los años 1662 y 1670",
       "note": null
     },
     {
@@ -28,7 +28,7 @@
       "lbd": null,
       "upd": null,
       "date": null,
-      "note": null
+      "note": "follows Fenix"
     },
     {
       "in": "p 42 fn 37",

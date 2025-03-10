@@ -1,21 +1,21 @@
 {
   "id": "s532",
   "cite": "Temple",
-  "note": null,
+  "note": "FURTHER EVENTS TO ADD 20 JUL 2022",
   "via": "harv",
   "quotes": [
     {
       "in": "p 116",
       "quote": "At a very early period, as far back as the Protectorate, the various kays in the Bay of Honduras were the resorts of pirates and bucaniers; and many a wild adventure, many a midnight carouse, many a deed of blood, have those little isles been witness to, when Dampier and other free companions of the ocean committed their depredations in the Caribbean Sea. That celebrated navigator, who wrote an account of his voyage to the Bay of Honduras, in the year 1674, gives some amusing sketches of the proceedings of those early settlers. Speaking of the logwood trade, he says:—'This trade has its rise from the decay of privateers; for, after Jamaica was well settled by the English, and a peace established with Spain, the privateers, who had hitherto lived upon plundering the Spaniards, were put to their shifts, for they had prodigally spent whatever they got, and now, wanting subsistence, were forced either to go to Petit Guavas, where the privateer trade still continued, or into the Bay of Logwood. The more industrious of them came hither; yet even these, though they could work well enough if they pleased, yet they thought it dry business to toil at cutting wood. They were good marksmen, and so took more delight in hunting; but neither of those employments affected them so much as privateering; therefore, they often made sallies out in small parties amongst the nearest Indian towns, where they plundered and brought away the Indian women to serve them at their huts, and sent their husbands to be sold at Jamaica; besides, they had not their drinking bouts forgot, and would still spend £30 or £40 at a sitting aboard the ships that came hither from Jamaica, carousing, and firing off guns three or four days together, and though afterwards many sober men came into the bay to cut wood, yet by degrees the old standers so debauched them, that they could never settle themselves under any civil government, but continued in their wickedness till the Spaniards, encouraged by their careless rioting, fell upon them, and took most of them singly in their own huts, and carried them away prisoners to Campeachy or La Vera Cruz.'",
-      "quote_n": "FURTHER EVENTS TO ADD 20 JUL 2022",
-      "locn": null,
-      "act": null,
-      "accept": null,
-      "qualify": null,
+      "quote_n": null,
+      "locn": "Hon",
+      "act": "Pirates and buccaneers resort to",
+      "accept": true,
+      "qualify": false,
       "lbd": null,
       "upd": null,
-      "date": null,
-      "note": null
+      "date": "as far back as the Protectorate",
+      "note": "follows Hon Alm for 1826"
     }
   ]
 }

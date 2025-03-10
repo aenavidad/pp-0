@@ -8,13 +8,13 @@
       "in": "p 102",
       "quote": null,
       "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
+      "locn": "New R",
+      "act": "Eng pirates first log",
+      "accept": true,
       "qualify": null,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "by 1618",
       "note": null
     }
   ]

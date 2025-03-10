@@ -8,13 +8,13 @@
       "in": "p lxxxiii",
       "quote": null,
       "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
+      "locn": "Camp",
+      "act": "Jam pirates first log",
+      "accept": true,
       "qualify": null,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "by 1670",
       "note": null
     }
   ]

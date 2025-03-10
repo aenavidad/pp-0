@@ -260,6 +260,14 @@
 - [x] submit preprint[^`pp1` to SocArXiv on 2 mar 2025, plus `pp-0` repo made public on GitHub]
 - [x] preprint pubbed[^in SocArXiv on 3 mar 2025]
 - [x] requested comments from am*tor@yahoo.com[^on 5 mar 2025, got them on 6 mar 2025]
+- [ ] fix vars minor mistakes
+    - [ ] can name 'Tipu rebellion' sans capitals[^eg if event is unique to its class (ie no other rebellions in Tipu), and date markers stripped, and synonyms not accepted (eg 'Elizabethan era' properly names but 'Belizean independence' does not)]
+    - [ ] general do not recommend deferring to popular senses/meanings of historical concepts eg of *founding*, *settlement*[^maybe only licensed if the proper sense is disputed, or if examined action is of proper sort (eg social/constructed, like marriage or illegal moves in chess, or necessarily intentional, or complex/compound), or if truth value of relevant historical claism turn on sense used, so on, but *not* deference out of respect for agents]
+    - [ ] might fix loose definitions/glosses[^if vs only if, qualifiers, so on]
+    - [ ] note anachronistic use of term *Belize*[^plus maybe make use vs mention explicit, plus maybe note pp does not concern etymology, plus maybe note relevant periodisation (Sp to 1638, Precol to 1862)]
+    - [ ] add spaces to keywords in metadata
+    - [ ] note previous reviews/discussions on theories re Bz origins[^for Wallacian theories already noted, plus Bolland, Molina, Ancona, C Quijano, so on]
+- [ ] get pp into historical prose[^eg as sort of lit rev/historiographic discussion (maybe *only* build Map and modified Log as way of abstracting from vars [theories/models](https://plato.stanford.edu/entries/models-science/) in existing lit, to get at the *general* bare bones sans substantive interpretation)]
 
 ### recoding cartas
 - [x] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`
@@ -457,22 +465,24 @@
     - [x] for Ibarra[^missg actual quote]
     - [x] for all others[^no `quote` values, and no `in` values for some]
 - [x] update `/citations` files as needed per above[^plus added `citations/s2318.json` with `via:null`]
-- [ ] fill in missg `/literature` values[^incl quotes on Tortuga/Mosq Shr/Bay Isl/Camp/E Yucn as lots of discordance in lit re these, and likely to need later on]
+- [x] fill in missg `/literature` values[^incl quotes on Tortuga/Mosq Shr/Bay Isl/Camp/E Yucn as lots of discordance in lit re these, and likely to need later on]
     - [x] for original claims (as per live wiki)
+        - [x] incl for non-Hon stories, and incl non-quote values
     - [x] for original claims (per recollection)
         - [x] in Campbell aa
         - [x] in Campbell bb[^added as `citations/s2320` with `via:null`]
         - [x] in Restall
         - [x] ~~plus missed Long (plus Restall rejection)~~
-    - [ ] for others[^incl eg Long and any missed eg in `work/dec-22/`]
+    - [x] for others[^incl eg Long and any missed eg in `work/dec-22/`]
         - [x] added vars already in `/citations`, plus added some not in `/citations` yet[^ie added `s2322` with `via:null`]
-- [ ] cross check entered values above against source material to make sure they're accurate
+- [ ] cross check entered values above against source material to make sure they're accurate[^plus ensure thoroughness, and tag lit review/historiographic discussions of Bz origins]
     - [x] ~~for AMN~~[^is not print]
     - [ ] Aliphat
     - [ ] Amandala
     - [ ] Ancona
     - [ ] Asturias
     - [ ] Asturias aa
+- [x] tag literature review/historiographic sources in `note`
 
 ## prior log
 ### any cartas

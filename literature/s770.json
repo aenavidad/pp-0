@@ -1,9 +1,22 @@
 {
   "id": "s770",
   "cite": "Asturias",
-  "note": null,
+  "note": "sort of has lit rev",
   "via": "harv",
   "quotes": [
+    {
+      "in": "pp 8-9",
+      "quote": "[A]unque algunos creen que Wallace se instaló en Belice hasta el año 1617, es probable que esto haya ocurrido antes. Con el oro obtenido en Cadiz y, probablemente aumentado en otras correrías, Wallace compró seis buques que los tripuló con la gente mas desalmada de Londres y se dirigió a América el dia 14 de Mayo de 1603, cuarenta dias despues de la muerte de la reina Isabel. Sin tener ningun comprobante, me imagíno que es en esta expedición cuando él llaga a la desembocadura del RIO VIEJO, que desde entonces comienza a llamarse de Wallace o BELICE. Esta suposición la confirmo porque Wallace despues de fundar la ranchería de Belice, quedó como Jefe de ella; pero los aventureros que le habían acompañado eran de tan mala índole, que por la menor dificultad en el reparto del botin, reñían y se apuñalaban, no respetando la autoridad de Wallace. Este decepcionado, abandonó Belice dirigiéndose a Inglaterra, donde murió pocos años despues. Ahora bien: Wallace murió en 1621, pocos años despues de abandonar Belice lo que si resulta si Wallace abandonó Belice por el año de 1617; pero no es posible que ese mismo año lo hubiera fundado, que tan pronto hubiera tomado incremento al extremo de ya no respetar la autóridad de su fundador. Es pues mas verosimil que en su viaje a América, emprendido en 1603 haya llegado a la desembocadura del Rio Viejo, que la ranchería fué aumentando en población é importancia, debido al punto estratégio y a la tranquilidad en que vivían, con la ventaja de los grandes beneficios que les proporcionaba el comercio del palo de tinte o de Campeche. [new para] Con todo lo anterior queda demostrado que Belice fué fundada en los primeros años del siglo XVII y que Wallace murió en Ingla-[start p 9]terra en 1621.",
+      "quote_n": "Sources and clarifications offered in Asturias to Burdon, letter dated 19 Oct 1930, ie that Wallace sailed with six ships cf 'Defensa del Tratado de Límites entre Yucatán y Belice'. México: Imprenta de 'El Siglo Diez y Nueve' (Calle de Victorias, No 15.—1894.) by Ignacio Mariscal / ie that Wallace established Belize cf disclaimer 'SIN TENER NINGUN COMPROBANTE, ME IMAGINO QUE ES EN ESTA EXPEDICION' /v Asturias aa pp 14-15",
+      "locn": "Old R",
+      "act": "Wallace llega y funda ranchería",
+      "accept": true,
+      "qualify": true,
+      "lbd": "1603",
+      "upd": "1621",
+      "date": "en los primeros años del siglo XVII / despues de viaje a América de Wallace de 1603 / pocos años antes de muerte de Wallace de 1621",
+      "note": "deems likelier than 'Wallace se instaló en Belice hasta 1617' claim"
+    },
     {
       "in": "p 9",
       "quote": "Todos nuestros historiadores incurren en un grave error al indicar que la fundación de Belice se verificó por el año de 1717, es decir, casi cien años despues de la muerte de Wallace y casi todos hacen la narración en los términos siguientes: Enemistado Cromwell con España envió una escuadra al mando del Almirante Penn para ocupar Santo Domingo; rechazado se dirigió a Jamaica que ocupó en Mayo de 1655 despues de la muerte de su Gobernador. El Duque de Alburquerque, visrey de México, envió tropas y la escuadra de barlovento en auxilio de Jamaica, pero derrotados, no sirvieron mas que para consolidar la soberanía inglesa en Jamaica, que, convertida en colonia inglesa, fué el foco de piraterías que causaron inmenso daño al comercio peninsular, dominando todo el mar Caribe. A poco, se establecieron los ingleses en el cabo Catoche, que les ofrecía un magnífico fondeadero frente a la isla Contoy, donde se dedicaron al corte del palo campeche. De allí avanzaron en ambas direcciones, avances que toleró España por los tratados de 1667 y 1670. Siguiendo en sus avances llegaron a la isla de TRIS, de la cual se apoderaron en 1696. Don Baltazar de Zuñiga, marques de Valero, envió, en 1717, una expedición al mando de Alonso Felipe de Andrade para desalojar a los ingleses de Campeche y Yucatan, y aunque logró su objeto y recuperó la Isla de Tris, los ingleses se trasladaron al sur, y llegando a las márgenes del rio VIEJO, establecieron una ranchería que comenzó a llamarse de 'Wallis o Belice'. Se ve que esto es completamente falso, puesto que ya dijimos que Wallace murió en 1621, y despues de haber fundado la rancheria de BELICE.",
@@ -29,19 +42,6 @@
       "upd": null,
       "date": "después de reconocido el puerto de Santo Tomas en 1604 / por este tiempo [ca est de flotilla de Honduras] / antes de asalto holandés del conde Mauricio y ocho naves a Sto Tomas en 1607",
       "note": null
-    },
-    {
-      "in": "pp 8-9",
-      "quote": "[A]unque algunos creen que Wallace se instaló en Belice hasta el año 1617, es probable que esto haya ocurrido antes. Con el oro obtenido en Cadiz y, probablemente aumentado en otras correrías, Wallace compró seis buques que los tripuló con la gente mas desalmada de Londres y se dirigió a América el dia 14 de Mayo de 1603, cuarenta dias despues de la muerte de la reina Isabel. Sin tener ningun comprobante, me imagíno que es en esta expedición cuando él llaga a la desembocadura del RIO VIEJO, que desde entonces comienza a llamarse de Wallace o BELICE. Esta suposición la confirmo porque Wallace despues de fundar la ranchería de Belice, quedó como Jefe de ella; pero los aventureros que le habían acompañado eran de tan mala índole, que por la menor dificultad en el reparto del botin, reñían y se apuñalaban, no respetando la autoridad de Wallace. Este decepcionado, abandonó Belice dirigiéndose a Inglaterra, donde murió pocos años despues. Ahora bien: Wallace murió en 1621, pocos años despues de abandonar Belice lo que si resulta si Wallace abandonó Belice por el año de 1617; pero no es posible que ese mismo año lo hubiera fundado, que tan pronto hubiera tomado incremento al extremo de ya no respetar la autóridad de su fundador. Es pues mas verosimil que en su viaje a América, emprendido en 1603 haya llegado a la desembocadura del Rio Viejo, que la ranchería fué aumentando en población é importancia, debido al punto estratégio y a la tranquilidad en que vivían, con la ventaja de los grandes beneficios que les proporcionaba el comercio del palo de tinte o de Campeche. [new para] Con todo lo anterior queda demostrado que Belice fué fundada en los primeros años del siglo XVII y que Wallace murió en Ingla-[start p 9]terra en 1621.",
-      "quote_n": "Sources and clarifications offered in Asturias to Burdon, letter dated 19 Oct 1930, ie that Wallace sailed with six ships cf 'Defensa del Tratado de Límites entre Yucatán y Belice'. México: Imprenta de 'El Siglo Diez y Nueve' (Calle de Victorias, No 15.—1894.) by Ignacio Mariscal / ie that Wallace established Belize cf disclaimer 'SIN TENER NINGUN COMPROBANTE, ME IMAGINO QUE ES EN ESTA EXPEDICION' /v Asturias aa pp 14-15",
-      "locn": "Old R",
-      "act": "Wallace llega y funda ranchería",
-      "accept": true,
-      "qualify": true,
-      "lbd": "1603",
-      "upd": "1621",
-      "date": "en los primeros años del siglo XVII / despues de viaje a América de Wallace de 1603 / pocos años antes de muerte de Wallace de 1621",
-      "note": "deems likelier than 'Wallace se instaló en Belice hasta 1617' claim"
     }
   ]
 }

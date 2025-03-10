@@ -266,7 +266,7 @@
     - [ ] might fix loose definitions/glosses[^if vs only if, qualifiers, so on]
     - [ ] note anachronistic use of term *Belize*[^plus maybe make use vs mention explicit, plus maybe note pp does not concern etymology, plus maybe note relevant periodisation (Sp to 1638, Precol to 1862)]
     - [ ] add spaces to keywords in metadata
-    - [ ] note previous reviews/discussions on theories re Bz origins[^for Wallacian theories already noted, plus Bolland, Molina, Ancona, C Quijano, so on]
+    - [ ] note previous reviews/discussions on theories re Bz origins[^for Wallacian theories already noted, plus Bolland, Molina, Ancona, C Quijano, so on, plus maybe add first recognition of problem]
 - [ ] get pp into historical prose[^eg as sort of lit rev/historiographic discussion (maybe *only* build Map and modified Log as way of abstracting from vars [theories/models](https://plato.stanford.edu/entries/models-science/) in existing lit, to get at the *general* bare bones sans substantive interpretation)]
 
 ### recoding cartas
@@ -475,13 +475,15 @@
         - [x] ~~plus missed Long (plus Restall rejection)~~
     - [x] for others[^incl eg Long and any missed eg in `work/dec-22/`]
         - [x] added vars already in `/citations`, plus added some not in `/citations` yet[^ie added `s2322` with `via:null`]
-- [ ] cross check entered values above against source material to make sure they're accurate[^plus ensure thoroughness, and tag lit review/historiographic discussions of Bz origins]
+- [ ] cross check entered values above against source material to make sure they're accurate[^plus ensure thoroughness, and tag lit review/historiographic discussions of Bz origins, and order quotes for easier reading]
     - [x] ~~for AMN~~[^is not print]
-    - [ ] Aliphat
-    - [ ] Amandala
-    - [ ] Ancona
-    - [ ] Asturias
-    - [ ] Asturias aa
+    - [x] Aliphat
+    - [x] Amandala
+    - [x] Ancona
+    - [x] Asturias
+    - [x] ~~Asturias aa~~[^did not have copy]
+    - [x] Avery
+    - [x] Azpiroz
 - [x] tag literature review/historiographic sources in `note`
 
 ## prior log

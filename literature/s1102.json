@@ -5,17 +5,17 @@
   "via": null,
   "quotes": [
     {
-      "in": "pp 858-861",
-      "quote": null,
-      "quote_n": null,
-      "locn": "Camp",
-      "act": "Jam pirates first log",
+      "in": "pp 858-860",
+      "quote": "Un ejemplo importante de estos mapas esquemáticos (figura 3 [in p 859]) fue el que elaboró Francisco de Esquivel durante su travesía por tierra desde Veracruz a Yucatán para convertirse en gobernador de esa provincia: [new para] 'Su excelencia se sirvió de mandarme informar lo que encontré sobre talar o quemar el palo de Campeche para desistir al inglés de Jamaica la asistencia que tiene en la Laguna de Términos. Y desando hacerlo con acierto que debo, digo señor excelen- [end p 858, start p 860] tísimo que el mayor golpe de dicho palo produce y se cría en la costa que va desde la villa de San Francisco de Campeche hasta la Laguna de Términos. Y también en la tierra adentro sobre ella, como lo reconocerá vuestra excelencia por el breve diseño o bosquejo que con mi cortedad he formado de aquellas tierras y sus grandes y caudalosos ríos, que vi, atravesé y navegué (menos las tierras del Agiza [Ah Itzá] Taiza [Tah Itzá] y Lacandón) cuando de orden de su majestad fui el año de 1663 desde México (y por más de 450 leguas de tierra, por no haber embarcación en la Veracruz) a gobernar la provincia de Yucatán.[27]' [new para] Este personaje era fiscal de la Real Audiencia de México y tomó posesión del gobierno de Yucatán en 1663. El mapa esquemático que elaboró forma parte de un expediente sobre el corte de palo de Campeche que hacían los ingleses en la Laguna de Términos. En este sentido el mapa proporciona importante información sobre los sitios donde se encontraban estos árboles y por lo tanto dónde se localizaban los ingleses que los explotaban.",
+      "quote_n": "cites 27 - AGI, Indiferente General, 1601. Informe y mapa sobre el palo de Campeche firmado por don Francisco de Esquivel, 1676, sin lugar.",
+      "locn": "Terminos",
+      "act": "ingleses de Jamaica hacen corte de palo",
       "accept": true,
       "qualify": null,
       "lbd": null,
       "upd": null,
       "date": "by 1663",
-      "note": null
+      "note": "does not claim lower bound"
     }
   ]
 }

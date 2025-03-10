@@ -5,6 +5,19 @@
   "via": "harv",
   "quotes": [
     {
+      "in": "p 701",
+      "quote": "Despues de la conquista de México por las tropas españolas, aparecieron varias hordas de piratas, que se establecieron definitivamente en Honduras, desde donde se organizaban para hacer sus correrías sobre las costas del Golfo de México; fueron varias veces rechazados y perseguidos por las tropas españolas, y ya en el siglo diez y ocho sus instintos feroces comenzaron á rebajarse, y se limitaron á vivir pacíficamente en la colonia de que se trata, reconociendo al gobierno inglés como su soberano.",
+      "quote_n": "Estracto del expediente relativo á la colonia de Belice o Wallis /v Azpiroz pp 698, 701",
+      "locn": "Hon B",
+      "act": "vars hordas de piratas establecense definitivamente",
+      "accept": true,
+      "qualify": null,
+      "lbd": null,
+      "upd": "1701",
+      "date": "antes del siglo diez y ocho / antes de dichas hordas limitarse á vivir pacíficamente en colonia",
+      "note": null
+    },
+    {
       "in": "p 711",
       "quote": "La primera colonia de Belice es incierta: como los primeros visitadores fueron puramente cortadores de caoba y palo de tinte, sus residencias no eran mas que temporales. El primer establecimiento de los ingleses en este lugar se hizo poco despues del tratado con España en 1667. Los primeros pobladores fueron aventureros de Jamaica, que se establecieron en el Cabo Catoche, y gradualmente extendieron su localidad hasta Belice. Gran hostilidad fué promovida á esta colonia por los españoles que residian sobre los límites de Campeche, quienes formaron expediciones varias veces con el objeto de desterrar á nuestros compatriotas. Estas tentativas no surtieron buen efecto, sino al contrario, los colonos ingleses y marineros, en dos distintas ocasiones (en 1659 y 1678), atacaron y tomaron posesion de la ciudad de Campeche. Nuestro derecho para mantener una colonia en este lugar habiendo sido reconocido por la corona de España en un tratado concluido en Julio de 1670; los establecimientos aumentaron en gran escala, y en muy poco tiempo los residentes (todos libres y blancos), ascendieron á 1,700.",
       "quote_n": "From Mc.Culloch's geographical dictionary, article on Honduras (British). Apuntes historicos sobre Honduras Britanicas /v Azpiroz p 710 / Es copia de la que existe en este ministerio de relaciones. México, Marzo 22 de 1871.—Manuel Azpíroz, oficial mayor. /v Azpiroz p 712",
@@ -28,19 +41,6 @@
       "lbd": null,
       "upd": null,
       "date": "antes de tratado con España de 1670",
-      "note": null
-    },
-    {
-      "in": "p 701",
-      "quote": "Despues de la conquista de México por las tropas españolas, aparecieron varias hordas de piratas, que se establecieron definitivamente en Honduras, desde donde se organizaban para hacer sus correrías sobre las costas del Golfo de México; fueron varias veces rechazados y perseguidos por las tropas españolas, y ya en el siglo diez y ocho sus instintos feroces comenzaron á rebajarse, y se limitaron á vivir pacíficamente en la colonia de que se trata, reconociendo al gobierno inglés como su soberano.",
-      "quote_n": "Estracto del expediente relativo á la colonia de Belice o Wallis /v Azpiroz pp 698, 701",
-      "locn": "Hon B",
-      "act": "vars hordas de piratas establecense definitivamente",
-      "accept": true,
-      "qualify": null,
-      "lbd": null,
-      "upd": "1701",
-      "date": "antes del siglo diez y ocho / antes de dichas hordas limitarse á vivir pacíficamente en colonia",
       "note": null
     }
   ]

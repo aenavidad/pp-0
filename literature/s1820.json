@@ -1,21 +1,21 @@
 {
   "id": "s1820",
   "cite": "Asturias aa",
-  "note": null,
+  "note": "sort of has lit rev",
   "via": "harv",
   "quotes": [
     {
-      "in": "p 13",
-      "quote": "You say : 'The commonly accepted origin of British Honduras is that Belize was first settled by some shipwrecked Englishmen in 1638, and that Wallace, or Wallis, a buccaneer, established himself there about that date'. If there was a Wallace, this was the Scotchman Peter Wallace. who died in England in 1621, and it is impossible that he could establish himmself in 1638, 17 years after he died.",
+      "in": "pp 11-12",
+      "quote": "El 3 de abril de 1603 muere la reina Isabel y con esto pierde Raleigh su buena posición; sube al trono de Inglaterra Jacobo VI, hijo de Maria Estuardo, con el nombre de Jacobo I, procesa a Raleigh y lo condena a muerte el 19 de octubre, sentencia que no se llevó a cabo sino 15 años después. Con esto se retiró Wallace de su antiguo Jefe y Capitán y se dedicó a correrías por su cuenta. El 7 de marzo de 1604 fue reconocida la hermosa bahia de Santo Tomás de Castilla, que antes se llamaba de Atique o Amatique, y que se encuentra a poca distancia de lo que hoy llaman Puerto Barrios. Es indudable que este descubrimiento llamó la atención de los piratas, puesto que [start p 12] vemos que en 1607 ya fué robado e incendiado por ocho naves holandesas al mando del conde Mauricio, y aunque algunos creen que Wallace se instaló en Belice hasta el año 1617, es probable que esto haya ocurrido antes. Con el oro obtenido en Cádiz y, probablmente aumentado en otras correrías, Wallace compró seis buques que tripuló con la gente más desalmada de Londres, y se dirigió a América el día 14 de mayo de 1603, cuarenta días después de la muerte de la reina Isabel. Sin tener ningún comprobante, me imagino que es en esta expedición cuando él llega a la desembocadura del Río Viejo, que desde entonces comienza a llamarse de Wallace o BELICE. Esta suposición la confirmo porque Wallace después de fundar la ranchería de Belice, quedó como jefe de ella; pero los aventureros que le había acompañado eran de tan mala índole, que por la menor dificultad en el reparto del botín, reñían y se apuñalaban, no respetando la autoridad de Wallace. Este, decepcionado, abandonó Belice, disigiéndose a Inglaterra, donde murió pocos años después. Ahora bien : Wallace murió en 1621, pocos años después de abandonar Belice lo que sí resulta si Wallace abandonó Belice por el año de 1617; pero no es posible que ese mismo año lo hubiera fundado, que tan pronto hubiera tomado incremento al extremo de ya no respetar la autoridad de su fundador. Es pues más verosímil que en su viaja a América, emprendido en 1603 haya llegado a la desembocadura del Rio Viejo, que la ranchería fué aumentando en población e importancia, debido al punto estratégico y a la tranquilidad en que vivían, con la ventaja de los grandes beneficios que les proporcionaba el comercio del palo de tinte o de Campeche.",
       "quote_n": null,
       "locn": "Old R",
-      "act": "shipwrecked Englishmen settle or establish themselves",
-      "accept": null,
+      "act": "Wallace llega y funda ranchería",
+      "accept": true,
       "qualify": true,
-      "lbd": null,
-      "upd": null,
-      "date": "in or about 1638",
-      "note": "no attitude towards 'English settle' but rejects 'Wallace settled about 1638' - count 'commonly accepted' and 'about' and 'if there was' as qualifiers"
+      "lbd": "1603",
+      "upd": "1621",
+      "date": "despues de viaje a América de Wallace de 1603 / despues de reconocerse Sto Tomás de Castilla / antes de muerte de Wallace de 1621",
+      "note": "deems likelier than 'Wallace se instaló en Belice hasta 1617' claim"
     },
     {
       "in": "p 12",
@@ -32,6 +32,19 @@
     },
     {
       "in": "p 13",
+      "quote": "You say : 'The commonly accepted origin of British Honduras is that Belize was first settled by some shipwrecked Englishmen in 1638, and that Wallace, or Wallis, a buccaneer, established himself there about that date'. If there was a Wallace, this was the Scotchman Peter Wallace. who died in England in 1621, and it is impossible that he could establish himmself in 1638, 17 years after he died.",
+      "quote_n": null,
+      "locn": "Old R",
+      "act": "shipwrecked Englishmen settle or establish themselves",
+      "accept": null,
+      "qualify": true,
+      "lbd": null,
+      "upd": null,
+      "date": "in or about 1638",
+      "note": "no attitude towards 'English settle' but rejects 'Wallace settled about 1638' - count 'commonly accepted' and 'about' and 'if there was' as qualifiers"
+    },
+    {
+      "in": "p 13",
       "quote": "The commonly accepted origin of British Honduras is that Belize was first settled by some shipwrecked Englishmen in 1638, and that Wallace, or Wallis, a buccaneer, established himself there about that date.",
       "quote_n": "Quote in J. A. Burdon to F. Asturias, undated letter, received 4 Oct 1930 /v Asturias aa p 14",
       "locn": "Old R",
@@ -42,19 +55,6 @@
       "upd": null,
       "date": "in or about 1638",
       "note": "counting 'about' and 'commonly accepted' as qualifiers"
-    },
-    {
-      "in": "pp 11-12",
-      "quote": "El 3 de abril de 1603 muere la reina Isabel y con esto pierde Raleigh su buena posición; sube al trono de Inglaterra Jacobo VI, hijo de Maria Estuardo, con el nombre de Jacobo I, procesa a Raleigh y lo condena a muerte el 19 de octubre, sentencia que no se llevó a cabo sino 15 años después. Con esto se retiró Wallace de su antiguo Jefe y Capitán y se dedicó a correrías por su cuenta. El 7 de marzo de 1604 fue reconocida la hermosa bahia de Santo Tomás de Castilla, que antes se llamaba de Atique o Amatique, y que se encuentra a poca distancia de lo que hoy llaman Puerto Barrios. Es indudable que este descubrimiento llamó la atención de los piratas, puesto que [start p 12] vemos que en 1607 ya fué robado e incendiado por ocho naves holandesas al mando del conde Mauricio, y aunque algunos creen que Wallace se instaló en Belice hasta el año 1617, es probable que esto haya ocurrido antes. Con el oro obtenido en Cádiz y, probablmente aumentado en otras correrías, Wallace compró seis buques que tripuló con la gente más desalmada de Londres, y se dirigió a América el día 14 de mayo de 1603, cuarenta días después de la muerte de la reina Isabel. Sin tener ningún comprobante, me imagino que es en esta expedición cuando él llega a la desembocadura del Río Viejo, que desde entonces comienza a llamarse de Wallace o BELICE. Esta suposición la confirmo porque Wallace después de fundar la ranchería de Belice, quedó como jefe de ella; pero los aventureros que le había acompañado eran de tan mala índole, que por la menor dificultad en el reparto del botín, reñían y se apuñalaban, no respetando la autoridad de Wallace. Este, decepcionado, abandonó Belice, disigiéndose a Inglaterra, donde murió pocos años después. Ahora bien : Wallace murió en 1621, pocos años después de abandonar Belice lo que sí resulta si Wallace abandonó Belice por el año de 1617; pero no es posible que ese mismo año lo hubiera fundado, que tan pronto hubiera tomado incremento al extremo de ya no respetar la autoridad de su fundador. Es pues más verosímil que en su viaja a América, emprendido en 1603 haya llegado a la desembocadura del Rio Viejo, que la ranchería fué aumentando en población e importancia, debido al punto estratégico y a la tranquilidad en que vivían, con la ventaja de los grandes beneficios que les proporcionaba el comercio del palo de tinte o de Campeche.",
-      "quote_n": null,
-      "locn": "Old R",
-      "act": "Wallace llega y funda ranchería",
-      "accept": true,
-      "qualify": true,
-      "lbd": "1603",
-      "upd": "1621",
-      "date": "despues de viaje a América de Wallace de 1603 / despues de reconocerse Sto Tomás de Castilla / antes de muerte de Wallace de 1621",
-      "note": "deems likelier than 'Wallace se instaló en Belice hasta 1617' claim"
     },
     {
       "in": "p 15",

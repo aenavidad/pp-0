@@ -465,7 +465,14 @@
         - [x] in Restall
         - [x] ~~plus missed Long (plus Restall rejection)~~
     - [ ] for others[^incl eg Long and any missed eg in `work/dec-22/`]
+        - [x] added vars already in `/citations`, plus added some not in `/citations` yet[^ie added `s2322` with `via:null`]
 - [ ] cross check entered values above against source material to make sure they're accurate
+    - [x] ~~for AMN~~[^is not print]
+    - [ ] Aliphat
+    - [ ] Amandala
+    - [ ] Ancona
+    - [ ] Asturias
+    - [ ] Asturias aa
 
 ## prior log
 ### any cartas

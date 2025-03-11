@@ -5,16 +5,29 @@
   "via": null,
   "quotes": [
     {
-      "in": "pp 260-261",
-      "quote": null,
-      "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
-      "qualify": null,
+      "in": "p 260",
+      "quote": "A fines del siglo XVII, en el año de 1696, una horda de aquellos eternos enemigos de la Península entraron el dia 24 de Mayo á la Isla adyacente, entonces llamada de Tris en la Laguna de Términos, hecho que tuvo un carácter más especial sobre todos los otros, porque se apoderaron de aquella Isla con ánimo de fijarse en ella y hacerla el centro principal de sus correrías.",
+      "quote_n": "expelled 16 jul 1717 /v C Ancona aa p 260",
+      "locn": "Tris",
+      "act": "enemigos apoderaronse con animo de fijarse",
+      "accept": true,
+      "qualify": false,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "en 24 may 1696",
+      "note": "seems to claim this as first such act"
+    },
+    {
+      "in": "p 261",
+      "quote": "Pero apenas los ingleses fueron desalojados de la Isla del Cármen, que fueron á ocupar un extremo importante de la Península, penetrando hasta cerca de las márgenes de Rio-Hondo. Fijáronse allá, y comenzó á denominarse aquella localidad de su ranchería, WALIX ó BELICE, por el nombre del capitan de aquellos filibusteros Walasse.",
+      "quote_n": null,
+      "locn": "N Hon",
+      "act": "Wallace ocupo/fijose/penetro",
+      "accept": true,
+      "qualify": false,
+      "lbd": null,
+      "upd": null,
+      "date": "after 1717 Tris capture",
       "note": null
     }
   ]

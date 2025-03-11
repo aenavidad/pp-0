@@ -495,6 +495,7 @@
     - [x] Britannica
     - [x] Brockhaus
     - [x] ~~Burdon~~[^had no copy]
+    - [ ] `cite:C*` sources - 10 files[^added `s2324` to `/literature` and `/citations` with `via:null`]
 - [x] tag literature review/historiographic sources in `note`
 
 ## prior log

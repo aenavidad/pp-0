@@ -5,20 +5,7 @@
   "via": "harv",
   "quotes": [
     {
-      "in": "pp 210",
-      "quote": "Cuando los ingleses fueron desalojados de la laguna de Términos fueron á posesionarse del extremo meridional de la Península, mas allá del Rio Hondo, y que por el nombre del caudillo de aquellos filibusteros, Walasse, aquel lugar comenzó á llamarse Walix (Belice).",
-      "quote_n": null,
-      "locn": "Old to Hondo R",
-      "act": "ingleses filibusteros desalojados de Términos posesionanse del extremo meridional de Yuc mas allá de Hondo",
-      "accept": true,
-      "qualify": null,
-      "lbd": null,
-      "upd": null,
-      "date": "cuando ingleses fueron desalojados de L de Términos",
-      "note": null
-    },
-    {
-      "in": "pp 55",
+      "in": "p 55",
       "quote": "En la época del gobierno colonial, á principios del siglo pasado (1717) comenzó á formarse la poblacion ó colonia de súbditos de la corona de Inglaterra en un extremo de la parte meridional de la Península yucateca, con motivo del corte de palo de tinte.",
       "quote_n": null,
       "locn": "Hon",
@@ -31,7 +18,7 @@
       "note": null
     },
     {
-      "in": "pp 58",
+      "in": "p 58",
       "quote": "P. Cuál es el orígen de las posesiones extranjeras en Yucatan? [new para] R. Las posesiones extranjeras en Yucatan, esto es, los establecimientos ingleses de Belice, tomaron su origen de la concesion hecha á los súbditos de la Gran Bretaña, (1717) desde el tiempo del gobierno español, para el corte del palo de tinte.",
       "quote_n": null,
       "locn": "Hon",
@@ -41,6 +28,19 @@
       "lbd": "1717",
       "upd": "1717",
       "date": "despues de concesion hecha á los súbditos de la GB (1717) para corte de palo de tinte",
+      "note": null
+    },
+    {
+      "in": "p 210",
+      "quote": "Cuando los ingleses fueron desalojados de la laguna de Términos fueron á posesionarse del extremo meridional de la Península, mas allá del Rio Hondo, y que por el nombre del caudillo de aquellos filibusteros, Walasse, aquel lugar comenzó á llamarse Walix (Belice).",
+      "quote_n": null,
+      "locn": "Old to Hondo R",
+      "act": "ingleses filibusteros desalojados de Términos posesionanse del extremo meridional de Yuc mas allá de Hondo",
+      "accept": true,
+      "qualify": null,
+      "lbd": null,
+      "upd": null,
+      "date": "cuando ingleses fueron desalojados de L de Términos",
       "note": null
     }
   ]

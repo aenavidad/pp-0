@@ -5,29 +5,29 @@
   "via": "harv",
   "quotes": [
     {
+      "in": "vol 7 pp 44-46 sec 'Nov 1669' no 129 para 1",
+      "quote": "Governor Sir Thos. Modyford to the Duke of Albemarle. [..] Most of their privateers have turned merchants, trading with the Indians for hides, tallow, turtle-shell, and logwood; others hunt on Cuba for hog and beef; some of the best monied are turned planters; and some knaves endeavour to take the Spaniard, and by stealth land what they get in harbours out of command, which he will endeavour to prevent. None are yet gone to Tortuga, nor will he hopes, by reason they also are forbidden to grant Commissions, which in this juncture fell out very happy for us. If he is left to those moderate remedies which he has begun, is confident to reduce the most part of them, for their ships will wear out, and then they must stay on shore and plant or starve. 30th November 1669.",
+      "quote_n": null,
+      "locn": null,
+      "act": "most Jam privateers have turned merchants",
+      "accept": true,
+      "qualify": true,
+      "lbd": null,
+      "upd": null,
+      "date": "by 30 Nov 1669",
+      "note": "claims logwood trade but not cutting"
+    },
+    {
       "in": "vol 7 pp 424-440 sec 'Nov 1672' no 954 para 2",
-      "quote": "Depositions of William and John Coxen, Philip Osborne, John Mitchell, James Smith, and James Risby, all captains of ships, sworn before Sir Thomas Lynch, Governor of Jamaica. They have used the trade of logwood cutting for about 2 1/2 or 3 years on the coast of Yucatan, from Boca Couil to Cape Catoche, and thence to Cozumel, and during that time the English have had and now have huts and people to the number of 100 or 200 there resident; have never seen any Spaniards or Indians, nor heard of any Indians nearer than 12 or 14 leagues, or Spaniards nearer than Rio Lagartos, 18 leagues off, where there are guards or look-outs, and have never met with any interruption until the pirate Yallahs came about eight months since and took divers vessels. One has also cut wood at Beef Island and Sumasanta, 35 leagues to the westward of Campeachy; the proprietor of Beef Island, who comes there at certain seasons to make hides, has always given leave to the English to cut wood; and the Indians there resident are not subject to the Spaniards. Endorsed by Locke, 'William Coxen and others' depositions concerning cutting logwood 1672.' October 29th to 3rd November 1672.",
+      "quote": "Depositions of William and John Coxen, Philip Osborne, John Mitchell, James Smith, and James Risby, all captains of ships, sworn before Sir Thomas Lynch, Governor of Jamaica. They have used the trade of logwood cutting for about 2 1/2 or 3 years on the coast of Yucatan, from Boca Couil to Cape Catoche, and thence to Cozumel, and during that time the English have had and now have huts and people to the number of 100 or 200 there resident; have never seen any Spaniards or Indians, nor heard of any Indians nearer than 12 or 14 leagues, or Spaniards nearer than Rio Lagartos, 18 leagues off, where there are guards or look-outs, and have never met with any interruption until the pirate Yallahs came about eight months since and took divers vessels. One has also cut wood at Beef Island and Sumasanta, 35 leagues to the westward of Campeachy; the proprietor of Beef Island, who comes there at certain seasons to make hides, has always given leave to the English to cut wood; and the Indians there resident are not subject to the Spaniards. Endorsed by Locke, 'William Coxen and others' depositions concerning cutting logwood 1672. October 29th to 3rd November 1672.",
       "quote_n": null,
       "locn": "Catoche",
       "act": "the English have houses, huts, reside, and cut logwood",
-      "accept": null,
+      "accept": true,
       "qualify": false,
       "lbd": null,
       "upd": "1669",
       "date": "prior to about 2 1/2 or 3 years from affidavit of end Oct 1672",
-      "note": null
-    },
-    {
-      "in": "vol 7 pp [missg] sec 'Nov 1669' no 129 para [missg]",
-      "quote": null,
-      "quote_n": null,
-      "locn": "Camp / Catoche",
-      "act": "Jam pirates first log",
-      "accept": true,
-      "qualify": null,
-      "lbd": null,
-      "upd": null,
-      "date": "by 30 Nov 1669",
       "note": null
     }
   ]

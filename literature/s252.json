@@ -5,16 +5,42 @@
   "via": null,
   "quotes": [
     {
-      "in": null,
-      "quote": null,
+      "in": "p 9",
+      "quote": "Bajo esta perspectiva se elaboró el presente trabajo, [..], dirigido a un público no especializado y poco conocedor del pasado beliceño, con la finalidad de ofrecer al lector un panorama general de los procesos politicos y socioeconómicos que destacan en la historia de Belice, desde la fundación del asentamiento de cortadores a principios del siglo XVII, hasta su reciente independencia en el año 1981.",
       "quote_n": null,
-      "locn": null,
-      "act": null,
+      "locn": "Hon",
+      "act": "fundase asentamiento de cortadores",
+      "accept": true,
+      "qualify": false,
+      "lbd": null,
+      "upd": null,
+      "date": "a principios siglo 17",
+      "note": null
+    },
+    {
+      "in": "pp 22-23",
+      "quote": "En el origen del asentamiento de cortadores de madera en Belice (*the bay settlement*) destaca la figura de un bucanero escocés, Peter Wallace, jefe de un grupo de bucaneros franceses e ingleses que estuvieron el la isla Tortuga, de la cual fueron expulsados en 1640. Algunas fuentes sitúan el primer asentamiento en 1638, fecha en que un grupo de marinos británicos se asentaron cerca del río Belice después de un naufragio. Otros hablan de 1650 como el momento en que los ingleses llegaron a Belice por primera vez. [new para] Bancroft, en su *Historia de América Central*, afirma que el escocés Peter Wallace llegó a tierra en la desembocadura del río Belice con 80 marinos, siendo los primeros en establecerse. Señala tam- [start p 23] bién que su nombre se le dio al río y al asentamiento. En los *Annales de Jamaica* se habla del bucanero Willis como el primero que llegó y de ahi se deriva el nombre de Belice. Otro más, el historiador guatemalteco Asturias, plantea incluso que Wallace era el lugarteniente de sir Walter Raleigh y que visitó Belice antes de 1620.",
+      "quote_n": "in sec 'La leyenda de Wallace' /v Ribot p 22",
+      "locn": "Old",
+      "act": "Wallace settles",
       "accept": null,
+      "qualify": true,
+      "lbd": null,
+      "upd": null,
+      "date": "antes de 1620 o 1638 o 1640 o 1650",
+      "note": "deemed legend"
+    },
+    {
+      "in": "p 23",
+      "quote": "Originalmente, Belice no fue establecido formalmente como colonia por alguna autoridad británica. Más allá de leyendas y tradiciones, los corsarios y bucaneros que abandonaron la actividad pirática se establecieron paulatinamente en las bahías de Campeche y Honduras, y se dedicaron a la explotación del palo de tinte, [.. new para] Ya desde el año 1550, los españoles lo habían explotado en el golfo de Campeche y gozaban del monopolio en cuanto a su explotación y comercialización, llegando a venderlo a 100 libras esterlinas la tonelada. Esta situación se transformó el crearse --a lo largo del siglo XVII, especialmente en la segunda mitad-- una serie de asentamientos de cortadores de madera en las costas de la península de Yucatán. [new para] Para 1670, existían pequeños asentamientos de cortadores de madera en la laguna de Términos, Trist island, Beef island, bahía de Campeche y cabo Catoche. Se calcula que el número de cortadores ascendía entonces a 700 blancos y que todavía no se había introducido ningún negro. Años más tarde, cuando los ingleses fueron expulsados definitivamente de Campeche después de sucesivos intentos de desalojo, se trasladaron todos ellos a Belice, con lo cual se incrementó la importancia de este asentamiento.",
+      "quote_n": "in sec 'Los cortadores se establecen' /v Ribot p 23",
+      "locn": "Camp / Hon",
+      "act": "corsarios y bucaneros establecense paulatinamente",
+      "accept": true,
       "qualify": null,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "a lo largo siglo 17 esp en 2a mitad / para 1670 / despues de expulsados de Camp",
       "note": null
     }
   ]

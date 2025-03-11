@@ -5,19 +5,6 @@
   "via": null,
   "quotes": [
     {
-      "in": "pp 12-13, 17",
-      "quote": "There may have been occasional, small-scale logging incursions up the Belize River during the half-century of British logging in the Bay of Campeche and on the northern Yucatec coast (1662–1716), but its scant, circumstantial evidence simultaneously confirms that there was no settlement or permanent presence in the Belize region—and thus no detailed knowledge from which a mapmaker like Moll might have drawn. [.. begin p 13] Only then, in 1716, did British loggers begin regular logging activities on the Belize River, establishing themselves in seasonal logging camps and on the cays at the river’s mouth—primarily on Cocinas or Cayo Cosina (today’s St. George’s Caye)— to a degree that constituted a permanent settlement. [.. begin p 17] As this article asserts, possible periodic logging expeditions made to the Belize River mouth in the final decades of the seventeenth century, especially in seasons of intense Spanish campaigns against the Laguna de Términos settlements, did not transform the temporary camps on Cayo Cosina into a permanent settlement.",
-      "quote_n": null,
-      "locn": "Old",
-      "act": "British log",
-      "accept": true,
-      "qualify": false,
-      "lbd": null,
-      "upd": null,
-      "date": "after Campeachy capture in 1716",
-      "note": null
-    },
-    {
       "in": "pp 3-4",
       "quote": "Meanwhile, in the seventeenth century, according to British and Belizean historiographical tradition, loggers from the British Isles began to take dyewood from the banks of what would become the Belize River, and—again, according to modern sources—a Scottish buccaneer named Peter Wallace eponymously founded the settlement that would eventually evolve into a nation, the name Wallace becoming Belize. But—again, in practical terms, and as I argue—the place did not yet exist for the British, who had yet to settle there. [.. begin p 4] Before the eighteenth century, the place later called Belize did not yet exist. That is, I argue, buccaneers or pirates did not found a permanent settlement there in the seventeenth century; Peter Wallace is pure invention.",
       "quote_n": null,
@@ -29,6 +16,19 @@
       "upd": null,
       "date": "in 17th cent",
       "note": "reject all 17th cent logging theories"
+    },
+    {
+      "in": "pp 12-13, 17",
+      "quote": "There may have been occasional, small-scale logging incursions up the Belize River during the half-century of British logging in the Bay of Campeche and on the northern Yucatec coast (1662–1716), but its scant, circumstantial evidence simultaneously confirms that there was no settlement or permanent presence in the Belize region—and thus no detailed knowledge from which a mapmaker like Moll might have drawn. [.. begin p 13] Only then, in 1716, did British loggers begin regular logging activities on the Belize River, establishing themselves in seasonal logging camps and on the cays at the river’s mouth—primarily on Cocinas or Cayo Cosina (today’s St. George’s Caye)— to a degree that constituted a permanent settlement. [.. begin p 17] As this article asserts, possible periodic logging expeditions made to the Belize River mouth in the final decades of the seventeenth century, especially in seasons of intense Spanish campaigns against the Laguna de Términos settlements, did not transform the temporary camps on Cayo Cosina into a permanent settlement.",
+      "quote_n": null,
+      "locn": "Old",
+      "act": "British log",
+      "accept": true,
+      "qualify": false,
+      "lbd": null,
+      "upd": null,
+      "date": "after Campeachy capture in 1716",
+      "note": null
     },
     {
       "in": "p 17",

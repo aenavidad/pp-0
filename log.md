@@ -498,6 +498,12 @@
     - [x] ~~Burdon~~[^had no copy]
     - [x] `cite:C*` sources - 10 files[^added `s2324` to `/literature` and `/citations` with `via:null`]
     - [ ] `cite:D*` sources - 3 files
+    - [x] sources possy with lit rev
+        - [x] G Palaez
+        - [x] ~~Molina~~[^had no copy]
+        - [x] Peniche
+        - [x] Restall aa
+        - [x] Ribot
 - [x] tag literature review/historiographic sources in `note`
 
 ## prior log

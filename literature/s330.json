@@ -5,17 +5,43 @@
   "via": null,
   "quotes": [
     {
-      "in": null,
-      "quote": null,
-      "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
+      "in": "p 20",
+      "quote": "The first British settlers who arrived on the coast of Belize in about the middle of the seventeenth century left no record of any contact with the Maya for the first century of their occupation, though we know from the Spanish records that Maya did inhabit the interior in that period.",
+      "quote_n": "In the seventeenth and early eighteenth centuries the exploitation of logwood was the basis of a British settlement that consisted of small, more or less temporarv camps confined to the northem coastal strip. /v Bolland F p 2",
+      "locn": "N Hon",
+      "act": "Brit settlers first arrive",
+      "accept": true,
       "qualify": null,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "about mid 17th cent",
       "note": null
+    },
+    {
+      "in": "p 25",
+      "quote": "The origins of the British settlement in the Bay of Honduras are obscure. Some historians suggest that a settlement was founded on the Cockscombe Coast in the south during the early 1630s;[1] others claim it was founded about 1638 or 1640 by a Captain Wallice or Willis at the mouth of the Belize River.[2] The latter idea dates back at least to the Honduras Almanacks of 1827 and 1839,[3] though the 1829 Almanack states that the first British settlers came from Jamaica in 1638. Since Jamaica did not become British until 1655, that hypothesis has as little credibility as the others. Whatever the details, which will probably remain in doubt because of the paucity of early records, the purpose of British settlement was to export logwood, a tree from which a dye valued by the woolen industry was obtained.[4]",
+      "quote_n": "cites 1 - Winzerling pp 33-44; 2 - C Quijano pp 34, 46-49; 3 - Bridges vol 2 pp 134-137, and 'A Map of A Part of Yucatan ... By a Bay-Man' (London, 1787) which names the 'River Wallis or Balleze'; 4 - Craig pp 53-62",
+      "locn": "S Hon or Old",
+      "act": "Brit or Wallace or Jam settle",
+      "accept": false,
+      "qualify": true,
+      "lbd": null,
+      "upd": null,
+      "date": "early 1630s or about 1638 or 1640 or in 1638",
+      "note": null
+    },
+    {
+      "in": "p 25",
+      "quote": "By the middle of the seventeenth century, British buccaneers, who had previously plundered Spanish logwood ships, were engaged in cutting the tree themselves in various parts of the Yucatan peninsula, particularly in Campeche in the Gulf of Mexico. The suppression of privateering that occurred after the Treaty of Madrid in 1667 encouraged the shift from buccaneering and raiding to logwood cutting and settlement. In 1670, Govemor Modyford of Jamaica informed Lord Arlington that there were 'about a dozen logwood vessels formerly privateers, selling the wood at £25 and £50 a ton and making a great profit; and that they go to places uninhabited or inhabited only by Indians.'",
+      "quote_n": "quoting Burdon vol 1 p 50",
+      "locn": "Yuc",
+      "act": "Brit buccaneers log",
+      "accept": true,
+      "qualify": null,
+      "lbd": null,
+      "upd": null,
+      "date": "by mid 17th cent",
+      "note": "vars Yuc parts esp Camp"
     }
   ]
 }

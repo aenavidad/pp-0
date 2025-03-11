@@ -5,16 +5,16 @@
   "via": null,
   "quotes": [
     {
-      "in": "p 11",
-      "quote": null,
+      "in": "p 13",
+      "quote": "British settlements on Old Providence and Ruatan off the coasts of Nicaragua and Honduras, respectively, were expelled by the Spanish in 1641 and 1642. At about that time British buccaneers, possibly including some refugees from the other settlements, used the tricky coastline of Belize as a base from which to attack Spanish ships. Although the origins of the British settlement in Belize are still obscure, some of the buccaneers appear to have changed from plundering Spanish logwood ships to cutting the wood themselves in various parts of the Yucatan peninsula in the 1650s and 1660s. The dye obtained from logwood--much in demand in the European woolen industry--was the chief raison d'etre of British settlement in the Bay of Honduras for at least a century. The shift from buccaneering to logwood cutting and more permanent settlement was encouraged by the 1670 Treaty of Madrid, in which the great powers agreed to suppress piracy. ",
       "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
-      "qualify": null,
+      "locn": "Hon",
+      "act": "Brit buccaneers and possibly refugees use as haven",
+      "accept": true,
+      "qualify": true,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "about 1641 and 1642",
       "note": null
     }
   ]

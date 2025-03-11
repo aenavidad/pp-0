@@ -484,6 +484,17 @@
     - [x] ~~Asturias aa~~[^did not have copy]
     - [x] Avery
     - [x] Azpiroz
+    - [x] B-Thomas
+    - [x] BL EG
+    - [x] Bancroft
+    - [x] Bolland C
+    - [x] Bolland F
+    - [x] Bolland N
+    - [x] Breuer
+    - [x] Bridges
+    - [x] Britannica
+    - [x] Brockhaus
+    - [x] ~~Burdon~~[^had no copy]
 - [x] tag literature review/historiographic sources in `note`
 
 ## prior log

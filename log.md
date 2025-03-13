@@ -518,6 +518,9 @@
         - [x] Brockhaus
         - [x] Levy
         - [x] N Ortega
+    - [ ] more possy lit rev sources
+        - [ ] Ancona
+        - [ ] Gibbs
 - [x] tag literature review/historiographic sources in `note`
 
 ## prior log

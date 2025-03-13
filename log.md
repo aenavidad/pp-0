@@ -504,6 +504,20 @@
         - [x] Peniche
         - [x] Restall aa
         - [x] Ribot
+    - [x] vars early print sources[^earliest *implicit* notice of problem re Bz origins seems like Hon Alm for 1826 or 1829, and earliest *explicit* possy McCulloch or Fenix, and earliest lit rev seems like N Ortega]
+        - [x] Dampier
+        - [x] Sloane
+        - [x] ~~Reads~~[^no copy]
+        - [x] Long
+        - [x] Robertson
+        - [x] Henderson
+        - [x] Coxe
+        - [x] Hon Alm
+        - [x] Bridges
+        - [x] Temple aa
+        - [x] Brockhaus
+        - [x] Levy
+        - [x] N Ortega
 - [x] tag literature review/historiographic sources in `note`
 
 ## prior log

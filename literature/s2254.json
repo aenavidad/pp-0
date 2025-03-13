@@ -11,11 +11,11 @@
       "locn": "Hon",
       "act": "First settlement by Europeans",
       "accept": true,
-      "qualify": false,
+      "qualify": true,
       "lbd": null,
       "upd": "1670",
       "date": "prior to 1670 Treaty",
-      "note": "no qualifier to 'Hon was transferred' claim"
+      "note": "but no qualifier to 'Hon was transferred' claim"
     }
   ]
 }

@@ -8,13 +8,13 @@
       "in": "vol 25 no 759 for 11 Nov 1828 p 4",
       "quote": "The British Settlement of Honduras, of which Belize is the capital, cannot be traced to be of any greater antiquity than from the administration of Oliver Cromwell, in Great Britain, at which period it was, from its remote and secret situation, used by the English, rather as a place of refuge and concealment, from the dreadful and savage warfare then carried on by the Spaniards, not only against the British, but also agains the subjects of every other power, who at that time attempted any interference with the Trade tot he Western World, and which the Crown of Spain had determined, from political motives, to keep for its sole advantage. The English, however, driven to the this spot, by the savage ferocity of their enemy, the Spaniards, occasionally carried on the avocation of Logwood cutting, and not unfrequently sallied forth to seek revenge by committing depredations in the neighbouring seas, and contiguous shores, thus keeping up a warfare prompted by vindictive motives, in which they were mostly obliged to retreat, and seek protection amongst the adjacent keys, where the intricacies of the navigation prevented pursuit. ",
       "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
-      "qualify": null,
+      "locn": "Hon",
+      "act": "Eng use as place of refuge and concealment",
+      "accept": true,
+      "qualify": true,
       "lbd": null,
       "upd": null,
-      "date": null,
+      "date": "at least by Cromwell govt",
       "note": null
     }
   ]

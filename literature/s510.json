@@ -1,22 +1,9 @@
 {
   "id": "s510",
   "cite": "N Ortega",
-  "note": null,
+  "note": "has brief lit rev, but focussed on etymology",
   "via": "harv",
   "quotes": [
-    {
-      "in": "p 7",
-      "quote": "Casi todos los escritores mexicanos que se han ocupado del orígen de la palabra, no han hecho sino consignar con más ó ménos exactitud los datos conocidos del Señor Sierra; pero no así el Presbítero Carrillo, persona estudiosa, quein al hacer la reseña biográfica de Don Antonio de Figueroa y Silva, gobernador de Yucatan de 1726 á 1733, apoyándose en cierta publicacion hecha en el MUSEO YUCATECO [ie column Manuscritos inéditos in serial MUSEO YUCATECO], dice que el rio (Mopan) comenzó á llamarse Wallix despues de que los ingleses, desalojados de la Laguna de Términos, fueron á posesionarse de él, acaudillados por un filibustero llamado Wallace, y añade que esto acaeció en 1717.",
-      "quote_n": "cf Carrillo, Compendio de la historia de Yucatan, Merida, 1871, p 55",
-      "locn": "Old R",
-      "act": "Wallace e ingleses posesionaronse",
-      "accept": null,
-      "qualify": null,
-      "lbd": null,
-      "upd": null,
-      "date": "despues de desalojados de Términos / en 1717",
-      "note": null
-    },
     {
       "in": "pp 6-7",
       "quote": "Don Justo Sierra, distinguido literato mexicano, es el escri- [start p 7] tor que mas repite la opinion de que el nombre de Belice está ligado con el del aventurero Wallace. Sus datos están basados en la tradicion, y son los mas abundantes. El resúmen de ellos es: que Wallace se llamaba Peter, que era un famoso filibustero escocés, y que en union de unos ochenta compañeros se estableció en la costa oriental de Yucatan á mediado del siglo décimosétimo, construyendo una trinchera á orillas de un rio, al cual le dieron su nombre; nombre que primero degeneró en el de Wallix y por último en el de Belice.",
@@ -31,30 +18,17 @@
       "note": null
     },
     {
-      "in": "pp 7-8",
-      "quote": "Mac Culloch dice que la palabra Belice viene del nombre de un pirata inglés llamado Wallice, y que el primer Estable- [start p 8] cimiento de los ingleses se hizo poco despues del tratado con España en 1667.",
-      "quote_n": "cf McCulloch, Geographical dictionary, via article in Boletin Soc Mex Geog, 2a ép, tom IV, p 711",
-      "locn": "Old R",
-      "act": "Wallace e ingleses hacen establecimiento",
-      "accept": null,
-      "qualify": null,
-      "lbd": null,
-      "upd": null,
-      "date": "poco despues del tratado con España en 1667",
-      "note": "locn assumed from 'Belice'"
-    },
-    {
       "in": "p 7",
-      "quote": "Ungewitter, autor de un diccionario geográfico que goza de merecido aprecio, dice casi lo mismo que Wappäus; y Egli, en su excelente libre sobre nombres geográficos, trascribe sus palabras; pero miéntras que Ungewitter da la fecha 1640 como año de la fundacion, Egli calcula que dicho suceso aconteció hácia 1610, lo que constituye una diferencia de treinta años.",
-      "quote_n": "'Die Anfange der btitischen Niederlassungen reichen bis 1640 zurück, wo wahrscheinlich westindische Flibustier durch Schiffbruch an diese Küste getrieben wurden. Von einem derseiben, dem Schotten Wallace (Wallis, Willis) soll sich der Name Valize, Baliz (wie die Spanier schrieben) herleiten, den die Englänger in Belize umwandelten' /v Ungewitter's neueste erdbeschreibung und staatenkunde, V auflage, Dresden, 1872, vol II, p 693\n'Balize die jetzige haupstadt von Britisch-Honduras, benannt nach dem Schotten Wallace (Wallis) einem der abenteurer, welche (um 1610) auf eigne faust in dem (damals span.) lande sich festzusetzen versuchten. Die Spanier schrieben den namen Valice oder Balize' /v Egli, Nomina geographica, Leipzig, 1872, p [missg]",
+      "quote": "Casi todos los escritores mexicanos que se han ocupado del orígen de la palabra, no han hecho sino consignar con más ó ménos exactitud los datos conocidos del Señor Sierra; pero no así el Presbítero Carrillo, persona estudiosa, quein al hacer la reseña biográfica de Don Antonio de Figueroa y Silva, gobernador de Yucatan de 1726 á 1733, apoyándose en cierta publicacion hecha en el MUSEO YUCATECO [ie column Manuscritos inéditos in serial MUSEO YUCATECO], dice que el rio (Mopan) comenzó á llamarse Wallix despues de que los ingleses, desalojados de la Laguna de Términos, fueron á posesionarse de él, acaudillados por un filibustero llamado Wallace, y añade que esto acaeció en 1717.",
+      "quote_n": "cf Carrillo, Compendio de la historia de Yucatan, Merida, 1871, p 55",
       "locn": "Old R",
-      "act": "Scotsman Wallace and adventurers try to establish themselves",
+      "act": "Wallace e ingleses posesionaronse",
       "accept": null,
       "qualify": null,
       "lbd": null,
       "upd": null,
-      "date": "hacia 1610 / en 1640",
-      "note": "two dates from two authors for same act"
+      "date": "despues de desalojados de Términos / en 1717",
+      "note": null
     },
     {
       "in": "p 7",
@@ -70,17 +44,69 @@
       "note": null
     },
     {
+      "in": "p 7",
+      "quote": "Ungewitter, autor de un diccionario geográfico que goza de merecido aprecio, dice casi lo mismo que Wappäus; y Egli, en su excelente libre sobre nombres geográficos, trascribe sus palabras; pero miéntras que Ungewitter da la fecha 1640 como año de la fundacion, Egli calcula que dicho suceso aconteció hácia 1610, lo que constituye una diferencia de treinta años.",
+      "quote_n": "'Die Anfange der btitischen Niederlassungen reichen bis 1640 zurück, wo wahrscheinlich westindische Flibustier durch Schiffbruch an diese Küste getrieben wurden. Von einem derseiben, dem Schotten Wallace (Wallis, Willis) soll sich der Name Valize, Baliz (wie die Spanier schrieben) herleiten, den die Englänger in Belize umwandelten' /v Ungewitter's neueste erdbeschreibung und staatenkunde, V auflage, Dresden, 1872, vol II, p 693\n'Balize die jetzige haupstadt von Britisch-Honduras, benannt nach dem Schotten Wallace (Wallis) einem der abenteurer, welche (um 1610) auf eigne faust in dem (damals span.) lande sich festzusetzen versuchten. Die Spanier schrieben den namen Valice oder Balize' /v Egli, Nomina geographica, Leipzig, 1872, p [missg]",
+      "locn": "Old R",
+      "act": "Scotsman Wallace and adventurers try to establish themselves",
+      "accept": null,
+      "qualify": null,
+      "lbd": null,
+      "upd": null,
+      "date": "hacia 1610 / en 1640",
+      "note": "two dates from two authors for same act"
+    },
+    {
+      "in": "pp 7-8",
+      "quote": "Mac Culloch dice que la palabra Belice viene del nombre de un pirata inglés llamado Wallice, y que el primer Estable- [start p 8] cimiento de los ingleses se hizo poco despues del tratado con España en 1667.",
+      "quote_n": "cf McCulloch, Geographical dictionary, via article in Boletin Soc Mex Geog, 2a ép, tom IV, p 711",
+      "locn": "Old R",
+      "act": "Wallace e ingleses hacen establecimiento",
+      "accept": null,
+      "qualify": null,
+      "lbd": null,
+      "upd": null,
+      "date": "poco despues del tratado con España en 1667",
+      "note": "locn assumed from 'Belice'"
+    },
+    {
       "in": "pp 8-9",
       "quote": "Al comparar la esencia de los datos mexicanos, resulta que no concuerdan en la fecha de la existencia de Wallace, pero sí en cuanto á las particularidades del individuo y en cuanto al orígen del nombre de Belice; miéntras que de la comparacion de las noticias inglesas, americanas y alemanas, aparece una concordancia general en las fechas y en la existencia y carácter de Wallace; pero hay mayor diversion en la ortografía de este nombre. Concuerdan tambien en cuanto á la etimología, exceptuando á Squier, que prefiere el derivado de origen frances. [new para] Comenzando por el exámen del defecto de las autoridades mexicanas, á saber, el desarreglo cronológico, creemos poderlo corregir con la expresion de la confianza que inspiran los trabajos literarios del Señor Sierra. Este diligente escritor se hizo notable por su empeño en las investigaciones históricas, por su vasto conocimiento de los archivos yucatecos y por la prudencia de su crítica. No tenemos á la vista el periódico en que publicó su OJEADA HISTÓRICA SOBRE EL ESTABLECIMIENTO BRITÁNICO DE BELICE, pero entendemos que el estudio así intitulado, lo hizo por insinuacion del gobierno de la República, ó en todo caso, para que sirviera de guía en los conflictos diplomáticos que periódicamente se presentan entre México é Inglaterra con motivo de la conducta que observan los habitantes de Belize.[1] [new para] Para el Señor Sierra, la cuestion de Belice era una cuestion PRO DOMO, y su reconocido patriotismo nos ofrece una amplia base para asumir que agotó los veneros históricos más escondidos y olvidados. Que escribió ingénuamente, nos lo dice, por un lado el temor de comprometer su reputacion precisando una fecha y, por otro lado, su aceptacion de las pretensiones del Establecimiento á un orígen comparativamente remoto. Escritores menos hábiles han creido aumentar la fuerza de los derechos de México á la soberanía de Belice, [start p 9] ocultando la verdadera época de la fundacion del Establecimiento: esta conducta es pueril, y acaso sea tambien desfavorable para México. [nenw para] Consecuencia de lo que llevamos dicho es, pues, el considerar las palabras de Don Justo Sierra como resúmen de los mejores datos mexicanos,[2] reservando para otra ocasion el exámen de la cronología y las noticias del Señor Carrillo,[3] y desechando lo que dice el Señor Suarez Navarro por estar tergiversado é incompleto. Y como el Señor Sierra manifiesta que Wallace se presentó en la costa de Yucatan á mediados del siglo décimosétimo, es decir, hácia 1650, y como esa es la época que señalan los investigadores extranjeros al mismo acontecimiento, resulta que, generalmente hablando, hay cierta concordancia de tiempo entre las noticias mexicanas y las extranjeras.[4]",
       "quote_n": "[1] - re este trabajo de Sierra, dice Suarez Navarro: 'En el FÉNIX DE YUCATAN hállase impresa una Memoria que probablemente debe existir en el ministerio de relaciones, sobre el establecimiento de los súbditos británicos en una parte del Estado, escrita por el Señor Don Justo Sierra' /v Navarro, Revoluciones ocurridas en Yucatan, pp 32-33\n [2] - 'Para conjeturar cuál será la conducta de una person en un caso dado, es preciso conocer su inteligencia, su índole, carácter, moralidad, intereses y cuanto puede influir en su determinacion.' /v Balmes, Cuestiones de existencia, s 2 entitled Juicios sobre los actos humanos\n [3] - El respeto á que por tanto motivos es acreedor el Señor Carrillo, hace inútil toda explicacion de la nota re Balmes ie re Cuestiones de existencia, y creemos que sin hacer mella á su carácter, se puede decir que en el libro COMPENDIO DE LA HISTORIA DE YUCATAN, hay menos severidad que la que acostumbra la mas séria entre las 'ninfas del verde Pindo habitadoras.' Las noticias que el Señor Carrillo registra son, sin embargo, muy dignas de recuerdo y de estudio, y suplicamos al lector que las tenga presentes para contrastarlas con las conclusiones que hacemos en este escrito.\n [4] - Ya hemos dicho, repitiendo sus palabras, que el Señor Suarez Navarro escribia AD MANDATUM, y que no se daba el trabajo de buscar y comparar noticias. / Aparte de las autoridades citadas, nos es dado presentar la siguiente: '......y que el motibo de no hauer dado quenta de lo referido hauia sido el creer que estaua â cargo de hacerlo directam.te dho Gov.or (de Yucatan), y el saberse que de Ynmemorial tpo han tenido Yngleses las mismas rancherias en los contornos del rio de Valis'—Carta del Rey al Marqués de Casafuerte fechada el 22 dic 1725. THE STATESMAN'S YEAR BOOK (London 1875) pág. 274, contiene un cuadro cronológico de la adquisicion de las diversas colonias que forman el Imperio Británico, y en él figura Belice como ADQUIRIDO en 1670. En un apéndice histórico al opúsculo que con el título de LE DIFFÉREND AGLO MEXICAIN publicó en Marsella (1873) el Señor Don Manuel J. Cevallos, se lee lo siguiente: —'Charles II, Roi d'Angleterre avait demandé en 1672 á Sir Thomas Lynch, gouverneur de Jamaica, sous la protection duquel se trouvaient les anglais exploitant le bois de Campêche dans le Yucatan, un rapport detaillé sur les établissements anglais de la Belice et son commerce. Dans son rapport, Sir Thomas Lynch, constatant les efforts des colons anglais pour obtenir le droit de s'établir dans la Belice, efforts couronnés do succès par le traité de 1670, ajoutait. Quant au commerce, il est très important et peut procurer, à lui seul, autant de revenus à l'Etat que celui provenant de toutes les autres colonies anglaises.' No obstante estos antecedentes, la llamada colonia de Belice no figura aún como establecimiento inglés en la carta que formó Henry Popple con el título de A MAP OF THE BRITISH EMPIRE IN AMERICA WITH THE FRENCH SPANISH AND DUTCH SETTLEMENTS ADJACENT THERETO (London 1733) en la que sin embargo está marcada la Laguna de Términos como posesion inglesa. Tampoco aparece como posesion británica en la gran carta de B. Edwards Esq., corregida en Weimar. En esta carta, á la vez que Yucatan figura como país español, la costa de Bacalar lleva la inscripcion: GEGEND DER FARBENHOELZER y ya la bahía de Chetumal tiene el nombre de Hannover Bay.—CHARTE VON WEST INDIEN NACH DER GROSSEN CHARTE DES B EDWARDS ESQ NEU ENTWORSEN VON F L GRUSSEFELD (Weimar 1795). \n Suarez Navarro en su Informe sobre las frecuentes revoluciones ocurridas en Yucatan, Mexico, 1861, p 33, escribiendo oficialmente, cita de memoria, y comete errores tan notables como el de señalar los PRIMEROS AÑOS del siglo décimosexto como fecha de las incursiones piráticas en Yucatan. /v N Ortega p 18 no 17",
-      "locn": null,
-      "act": "Old R",
-      "accept": "Wallace se presentó",
-      "qualify": null,
+      "locn": "Old R",
+      "act": "Wallace se presentó",
+      "accept": true,
+      "qualify": true,
       "lbd": null,
       "upd": null,
       "date": "á mediados del siglo 17 ie hacia 1650",
       "note": "locn assumed as passage is re 'Belize' etymology"
+    },
+    {
+      "in": "pp 12-13",
+      "quote": "Consecutivamente hemos eliminado los obstáculos de cronología, morfología, fonética y prosodia que se presentaban, y nos encontramos en el último punto de la probanza. Si se conviene en lo que llegamos dicho, la existencia de Wallace no seria ya una tradicion más ó ménos fabulosa, sino un hecho que puede documentarse con la respetable autoridad de Charlevoix, el erudito autor de *L' Histoire de l' Isle Espagnole ou de Saint Domingue*, publicada en Paris en 1731, cuando todavía estaban frescas las noticias sobre las personas y los hechos de los filibusteros; pero si nuestros anteriores razonamientos han sido vanos, la dificultad queda en pié con todas sus asperezas, y entre éstas el problema de la existencia del famoso bucanero. La historia de la piratería no registra el nombre [start p 13] de Wallace, ni como célebre, ni como indiferente, pero sí consigna el de Willis. Un venturero inglés [34] de este nombre vivia en 1640, ó si se quiere, repitiendo las palabras de Don Justo Sierra, á mediados del siglo décimosétimo. Era un hombre de notoria energía, [.. new para] Esto alarmó á los franceses [de Tortuga], é hizo que se rebelaran contra Willis el año 1641, [36] obligando á éste á fugarse con los compañeros que le eran adictos. Perseguido por los españoles y tambien por los franceses, se puede suponer sin mucho esfuerzo que Willis buscara un refugio en la costa oriental de Yucatan, y que él sea el famoso Peter Wallace, fundador de la actual Belice.[37]",
+      "quote_n": "[34] - re Wallace as Eng vs Scottish eg 'Todas las autoridades que hemos citado, con excepcion de Mac Culloch, convienen en que Wallace era escocés, pero esta particularidad, que ciertamente es digna de nota, no altera las probabilidades de identidad con Willis, porque este pudo muy bien haber nacido en Escocia y haber tambien pasado por inglés, [..]' \n [36] - En Agosto de 1640, segun Oexmalin, *Hist. des Aventuriers Flibustiers* (Trevoux 1775) vol. I ch. III p. 24. \n [37] - cites Oexmalin vol I ch III p 21, Charlevoix vol II p 12",
+      "locn": "Old R",
+      "act": "Wallace busca refugio",
+      "accept": true,
+      "qualify": true,
+      "lbd": null,
+      "upd": null,
+      "date": "on/post expulsion from Tortuga in 1641",
+      "note": null
+    },
+    {
+      "in": "pp 13-14",
+      "quote": "La costa oriental de Yucatan estaba muy abandonada en aquella época, á causa de la sublevacion de los indios de todo el litoral desde el cabo de Gracias á Dios hasta la costa de Bacalar, [.. 38] Ningun otro punto podia ofrecer á Willis un asilo mas seguro contra sus perseguidores franceses y españo- [start p 14] les, pues favorecido por los indios, podia comunicarse por el interior de la península con los bucaneros ingleses de la Laguna de Términos, que en número considerable estaban [39] esparcidos por los esteros y corrientes que en ella desembocan; y por otro lado, remontando la costa de Yucatan, con los que estaban apostados en la isla de las Mujeres y en el cabo Catoche. [40]",
+      "quote_n": "[38] - cites Oexmalin vol I pp 213-214, Gage via *Nouvelle Relation, contenant les voyages de Thomas Gage* (Amsterdam 1694) tom II p 36, Dampier *Voyage á la Baye de Campeche* (Amsterdam 1714) p 144, informe hecho al Rey Felipe V en 1736 in *Revista Mexicana* vol I pp 403-412 \n [39] - cites 18th cent population figures for Camp and Hon in Rivera *Los gobernantes de México* vol I p 393, and *An account of the European Settlements in America*, 6th ed with improvements (London 1777) vol II p 75 \n [40] - cites Dampier via *Voyages de Guillaume Dampier* (Amsterdam 1714) vol III pp 16-17, and *Reales Cédulas* vol 14 fol 19",
+      "locn": "Terminos / Catoche",
+      "act": "bucaneros ingleses estaban esparcidos/apostados",
+      "accept": true,
+      "qualify": null,
+      "lbd": null,
+      "upd": null,
+      "date": "pre/post Wallace settlement",
+      "note": "may not be dated"
     }
   ]
 }

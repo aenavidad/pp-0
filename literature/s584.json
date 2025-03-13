@@ -5,17 +5,17 @@
   "via": null,
   "quotes": [
     {
-      "in": null,
-      "quote": null,
+      "in": "p 2",
+      "quote": "Previous to the treaty of Paris, in 1763, the English settlers had established themselves, with the friendly approval of the Indians, their immediate neighbours, on the east coast of Yucatan.",
       "quote_n": null,
-      "locn": null,
-      "act": null,
-      "accept": null,
+      "locn": "E Yuc",
+      "act": "Eng settlers establish themselves",
+      "accept": true,
       "qualify": null,
       "lbd": null,
       "upd": null,
-      "date": null,
-      "note": null
+      "date": "prior to Paris treaty",
+      "note": "not claimed as first/not really dated"
     }
   ]
 }

@@ -6,15 +6,15 @@
   "quotes": [
     {
       "in": "p 37",
-      "quote": null,
-      "quote_n": null,
-      "locn": "Mos S or Prov",
+      "quote": "Desde 1570, Centro-América se vió obligado á comerciar por el mar del Sur. Los piratas no dejaban salid nada por el mar del Norte, [..]. Pero, en 1579, penetraron tambien los piratas en el mar del Sur [..]. Las mercancías tuvieron entonces que pasar por el lago de Granada y el rio San Juan. [..] Granada adquirió así una supremacia extraordinaria en los negocios interiores de Centro-América; pero tambien los piratas, para vigilar este tráfico, se establecieron en toda esta costa de la Tologalpa, que se llamaba costa de las Perlas. Instalaron una madriguera en la laguna de Perlas y otra en la de Blewfields, en 1589, siendo entonces gobernador D. Cárlos de Arellano, sucesor de Chirinos (1).",
+      "quote_n": "note 1 - Edwards Bryan: *History of the West Indies*, tomo v.-- *Account of the British settlement on the Mosquito shore*.-- London, 1773.",
+      "locn": "Mos S",
       "act": "Pirates first use or camp",
       "accept": true,
       "qualify": null,
       "lbd": null,
       "upd": null,
-      "date": "in 1600s or earlier",
+      "date": "in/by 1589",
       "note": null
     }
   ]

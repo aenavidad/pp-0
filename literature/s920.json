@@ -5,16 +5,16 @@
   "via": null,
   "quotes": [
     {
-      "in": "p lxxxiii",
-      "quote": null,
+      "in": "vol 1 pp lxxxii-lxxxiii",
+      "quote": "Several Persons who used the Logwood Trade, or who were imploy'd in cutting that Wood, otherwise call'd *Campeche*-Wood, used by Dyers, inform'd me, that at about. fifteen Leagues from the Town of *Campeche*, are two Creeks, the Easter and Northern, in which last they cut Logwood. This is call'd the *Logwood* River, the Inhabitants live in Huts on each side of this narrow Creek, near Two hundred *English*, [.. start p lxxxiii] The *English*, who have lived there many years, Cut and Sell it to the Sloops for [..] The *Indians* of this place us'd formerly to Trade with them, but the *English* not keeping ther Faith, but taking and selling them, they are retired up into the Country several Leagues. [..] They [English] have been cut off several times by the *Spaniards* in this place, and yet have settled here again. This usage of the *Spaniards* is somewhat harsh, if what Sir *Henry Morgan* has often told me be true, that this Logwood River was in the Possession of the *English* at the time of the Treaties being sign'd at *Madrid* concerning the *West-Indies*.",
       "quote_n": null,
       "locn": "Camp",
-      "act": "Jam pirates first log",
+      "act": "Jam pirates possess",
       "accept": true,
-      "qualify": null,
+      "qualify": true,
       "lbd": null,
       "upd": null,
-      "date": "by 1670",
+      "date": "before Madrid treaties",
       "note": null
     }
   ]

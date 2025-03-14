@@ -519,8 +519,15 @@
         - [x] Levy
         - [x] N Ortega
     - [ ] more possy lit rev sources
-        - [ ] Ancona
-        - [ ] Gibbs
+        - [x] ~~Ancona~~[^done]
+        - [x] Gibbs
+        - [x] ~~Hon Hnd~~[^no 1925 copy]
+        - [x] ~~Pavia~~
+        - [x] Runio B
+        - [x] ~~Molina~~[^no copy]
+        - [ ] Donohoe
+        - [ ] Winzerling
+        - [ ] Curry
 - [x] tag literature review/historiographic sources in `note`
 
 ## prior log

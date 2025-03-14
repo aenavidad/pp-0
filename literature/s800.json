@@ -6,29 +6,55 @@
   "quotes": [
     {
       "in": "pp 33-34",
-      "quote": null,
-      "quote_n": null,
-      "locn": "Old",
-      "act": "Brit wreck",
-      "accept": null,
+      "quote": "Para no tener qué volver á Europa, muchos de los piratas que salían de sus costas buscaron algunos lugares poco frecuentados por las velas españolas en dónde guarnecerse, [..]. En mil seiscientos veinte y cinco ocuparon la isla de San Cristóbal. Después se apoderaron de una parte de Santo Domingo, y en mil seiscientos treinta y ocho invadieron la costa Sur Este de Yucatán y establecieron su guarida más segura y favorecida en la desembocadura del río que ahora llamamos Belice, (1) y en las islas de [start p 34] Roatan y de Bonaca. La primera de estas parece que llegó á ser floreciente, desde principios del siglo XVIII. En mil setecientos cuarenta y uno, Jorge 2o, sin noticia de la corona de España, ordenó que Roberto Hodgson y Willian Pitt, asumiesen el carácter de jueces de la población inglesa de esta parte del mundo, y, para ejercer sus funciones, fijaron los nombrados su residencia en Roatan, (2) que era tenida como el principal establecimiento inglés en la bahía de Honduras. No se atrevían los aventureros á ocupar de una manera permanente la costa de Yucatán, y preferían estar en las islas nombradas los más de ellos. Antes del año de mil setecientos sesenta y tres, Belice probablemente no era otra cosa que lo que había sido desde que la fundaron los piratas en mil seiscientos treinta y ocho, una agrupación de chozas circunvaladas de una especia de empalizada ó ruda fortaleza.",
+      "quote_n": "cites 1, 2 - Almanaque de Belice de 1888 á 1889",
+      "locn": "Old and Bay Isl",
+      "act": "piratas invaden y establecen guaridas",
+      "accept": true,
       "qualify": null,
       "lbd": null,
       "upd": null,
-      "date": "in 1638",
-      "note": "follows Hon Alm for 1829"
+      "date": "en 1638 / desde principios siglo 18 / post-1763",
+      "note": "Rattan guarida flourishes from early 18th cent / Old guarida prolly only post-1763 / first claim not qualified, but later ones yes"
     },
     {
       "in": "p 34",
-      "quote": null,
-      "quote_n": null,
+      "quote": "Así [una agrupación de chozas circunvaladas] describe D. Justo Sierra (3) la población formada por un bucanero escocés llamado Peter Vallace, á mediados del siglo XVII en el lugar indicado. La época que asigna el escritor yucateco á la fundación de Wallace, Walix ó Belice, como decimos ahora, no está muy lejana del año señalado en el citado almanaque de Belice á la llegada de los primeros colonos de tierra firme, y no hay inconveniente, á nuestro juicio, en referir las dos noticias á un solo hecho, que es el de la primitiva elección del asiento de Belice. Debemos, sí, advertir, que el autor de aquel almanaque no dice que fueron piratas los que desembarcaron sino indica solamente que eran hombres venidos de Jamaica. Otro escritor (4) asegura que el referido año de mil seiscientos treinta y ocho, algunos náufragos ingleses aportaron á la costa de Yucatán y se establecieron en ella. Aunque con alguna variación en la fecha, se observa que hay conformidad en la época de la fundación del primer establecimiento inglés en Yucatán.",
+      "quote_n": "cites 3 - Fenix 'Ojeada' / 4 - Gibbs cap III",
       "locn": "Old",
       "act": "Wallace settles",
-      "accept": null,
+      "accept": true,
+      "qualify": true,
+      "lbd": null,
+      "upd": null,
+      "date": "mid 17th cent / in 1638",
+      "note": null
+    },
+    {
+      "in": "pp 34-35",
+      "quote": "Hácia el año de mil seiscientos sesenta y dos, según dice un historiador, que fué por muchos años superintendente de Be- [start p 35] lice, (5) se establecieron unos cortadores de madera en el Cabo Catoche. Eran de origen inglés y procedentes de Jamaica. (6) [..] De la toma de Jamaica á la invasión del Cabo Catoche, solo median siete años. Muy explicable es esta prontidud, dada la propensión antigua de los ingleses á formar establecimientos en remotos paises y el pingüe beneficio que obtenían los españoles de la explotación de los bosques de palo de tinte que cubren la península de Yucatán y gran parte de la América Central. ",
+      "quote_n": "cites 5 - Fancourt via Eligio Ancona, Historia, lib V cap I / 6 - Robertson, Historia, lib VII",
+      "locn": "Catoche",
+      "act": "Jam establecense",
+      "accept": true,
+      "qualify": true,
+      "lbd": null,
+      "upd": null,
+      "date": "en 1662",
+      "note": null
+    },
+    {
+      "in": "pp 35-36",
+      "quote": "La toma de Jamaica hizo á los ingleses ver la posibilidad de privar á los españoles de una parte del lucro que obtenían de la explotación del palo de tinte, cortándolo como ellos en los bosques del continente, y no tardaron en invadir la solitaria costa del Cabo Catoche, para lograr su propósito. Cuando agotaron los bosques cercanos al mar, se dirigieron á la Isla de Tris, en el golfo de México, de [start p 36] donde fueron desalojados el diez y seis de Julio de mil setecientos diez y siete, dia de la fiesta [..]. Después de esta derrota, pasaron á Belice á reforzar las filas de los antiguos piratas refugiados allí, y se dedicaron al corte del codiciado palo que abundaba también en aquella región.",
+      "quote_n": null,
+      "locn": "Tris",
+      "act": "Jam se dirigen a",
+      "accept": true,
       "qualify": null,
       "lbd": null,
       "upd": null,
-      "date": "mid 17th cent",
-      "note": "follows Fenix"
+      "date": "cuando agotaron Catoche",
+      "note": null
     }
   ]
 }

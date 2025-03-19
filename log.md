@@ -528,6 +528,7 @@
         - [ ] Donohoe
         - [ ] Winzerling
         - [ ] Curry
+        - [x] Krushus[^added `s2326` to `/literature` and `/citations` with `via:null`]
 - [x] tag literature review/historiographic sources in `note`
 
 ## prior log

@@ -1,7 +1,8 @@
-\documentclass[draft]{amsart}
+\documentclass[draft]{amsart} % w draft option
 %
 %
 % packages
+\usepackage{draftwatermark} % to flag draft - or prelim2e - just for draft
 \usepackage{pgfplots} % for plots - loads tikz, wc itself loads xcolor, graphicx
 \usepackage{tikz-cd} % for graphs - loads tikz too
 \usepackage[figuresright]{rotating} % to rotate table w LHS at bottom
@@ -63,8 +64,24 @@
 %\color{white}
 %
 %
+% draftwatermark commands - just for draft
+\DraftwatermarkOptions{
+	angle=0,
+	fontsize=10pt,
+	vpos=0.1\paperheight,
+	text={\textsc{prelim/draft ver 2 -- 21 mar 2025}}
+	}
+%
+%
 % hyperref commands
-\hypersetup{pdfauthor={Angel E Navidad},pdftitle={On the Origins of Belize},pdfsubject={Belize--History--17th century},pdfkeywords={17th century, Belize, historiography, Honduras, logging, logwood, piracy}} % pdf metadata
+\hypersetup{
+	final, % show links in draft - just for draft
+	hidelinks, % hide link borders
+	pdfauthor={Angel E Navidad}, % pdf metadata
+	pdftitle={On the Origins of Belize},
+	pdfsubject={Belize--History--17th century},
+	pdfkeywords={17th century, Belize, historiography, Honduras, logging, logwood, piracy}
+	}
 %
 %
 \begin{document}
@@ -75,7 +92,7 @@
 \author{A Navidad}
 \address{Harvard College, Cambridge, Mass, USA}
 \curraddr{Benque Viejo, Cayo, Belize}
-\email{navidad@college.harvard.edu}
+\email{\href{mailto:navidad@college.harvard.edu}{navidad@college.harvard.edu}}
 \date{12 Feb 2025}
 \thanks{No grant received for this paper. We would like to kindly thank Sarahy Benavídez Merlos, Ruben Navidad, Alec Shannon, Laura Chivers, and the Dudley Coop for their support; Harvard Library, the Archivo General de Indias, and the National Heritage Library for their holdings; Angel Cal for their comments. This paper was inspired by \citelist{\cite{lee07} \cite{bul16} \cite{res19}}.} % incl non-grant support per ams
 \begin{abstract}

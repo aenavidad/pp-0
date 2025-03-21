@@ -29,6 +29,14 @@
 	number={375},
 	pages={3}} % https://link-gale-com.ezp-prod1.hul.harvard.edu/apps/doc/Z2001242711/BBCN?u=camb55135&sid=bookmark-BBCN&xid=1707dcf8
 %
+\bib{alm26}{book}{
+	author={},
+	date={1826},
+	title={The Honduras Almanack, for the Year of our Lord 1826},
+	subtitle={},
+	publisher={Published by Authority of the Magistrates},
+	address={Belize, Belize}} % s860
+%
 \bib{fen49}{article}{
 	author={},
 	date={1849-09-05},
@@ -241,6 +249,14 @@
 	subtitle={The Mosquito Shore and the Bay of Honduras, 1600--1914: A Case Study in British Informal Empire},
 	publisher={Fairleigh Dickinson University Press},
 	address={Rutherford, US}} % https://lccn.loc.gov/87045735
+%
+\bib{nun77}{book}{
+	author={Núñez Ortega, Ángel},
+	date={1877},
+	title={Belice},
+	subtitle={Estudio sobre el origen de ese nombre},
+	publisher={Imprenta de Gonzalo A Esteva},
+	address={Mexico, Mexico}} % https://hdl.handle.net/2027/nnc1.cu01563777
 %
 \bib{pen69}{article}{
 	author={Peniche, Manuel},

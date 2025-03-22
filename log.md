@@ -267,7 +267,7 @@
     - [x] note anachronistic use of term *Belize*[^plus maybe make use vs mention explicit, plus maybe note pp does not concern etymology, plus maybe note relevant periodisation (Sp to 1638, Precol to 1862)]
     - [x] add spaces to keywords in metadata
     - [x] note previous reviews/discussions on theories re Bz origins[^for Wallacian theories already noted, plus Bolland, Molina, Ancona, C Quijano, so on, plus maybe add first recognition of problem]
-    - [ ] note explicitly why Wallace ought to be read symbolically[^ie why we ought not discard all Wallace theories esp archival ones (eg historian with sources \\(x\\) and \\(y\\) saying 'there was piratical activity near Old in 1630s onwards' and 'Wallace settled Old in 1638' might give a Wallace theory, but if \\(y\\) is apocryphal, but \\(x\\) is not, historian might still sustain a similar theory on \\(x\\) alone)]
+    - [x] note explicitly why Wallace ought to be read symbolically[^ie why we ought not discard all Wallace theories esp archival ones (eg historian with sources \\(x\\) and \\(y\\) saying 'there was piratical activity near Old in 1630s onwards' and 'Wallace settled Old in 1638' might give a Wallace theory, but if \\(y\\) is apocryphal, but \\(x\\) is not, historian might still sustain a similar theory on \\(x\\) alone)]
     - [x] add `draft` doc class option
     - [x] ~~fix dates~~[^too tricky]
 - [ ] get pp into historical prose in `pp2`[^eg as sort of lit rev/historiographic discussion (maybe *only* build Map and modified Log as way of abstracting from vars [theories/models](https://plato.stanford.edu/entries/models-science/) in existing lit, to get at the *general* bare bones sans substantive interpretation)]

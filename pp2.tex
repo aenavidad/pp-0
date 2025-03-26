@@ -43,7 +43,7 @@
 		Then we say the problem at hand is vague.%
 		\footnote{Further, say the problem's vagueness is \ment{artificial} if the non-extant historical record would dissolve the vagueness, and say it is \ment{inherent} if it would not. Then we say the problem might even be \emph{inherently} vague. We note the problem seems to be vague and possibly inherently so for all pirate or logwood settlements. The preceding vagueness claim has previously been made in literature for at least some of these polities.}
 		Further, let a \ment{minimal} theory be one which does \emph{not} presuppose or fix particular senses of the required concepts.\footnote{Appropriately qualified, eg has no trivial answers, so on.} Then we say we currently have very few minimal theories for the problem at hand.%
-		\footnote{These might be desireable, given the current glut of maximal theories in literature, ie of theories which \emph{do} presuppose or fix particular senses of the required concepts. Arguably though, the historian's job \emph{is} to provide such maximal theories and say `these are the senses we ought to use for this problem.' In which case, we might at least want \emph{transparent} theories, eg ones which flag the senses in use, give us reasons to accept their proffered senses, to reject competing ones, or at least which note competing senses exist. Then we say we do not seem to have very many transparent theories in literature either.}
+		\footnote{These might be desireable, given the current glut of maximal theories in literature, ie of theories which \emph{do} presuppose or fix particular senses of the required concepts. Arguably though, the historian's job \emph{is} to provide such maximal theories and say `these are the senses we ought to use for this problem.' In which case, we might at least want \emph{transparent} theories, eg ones which flag the senses in use, give us reasons to accept their proffered senses, to reject competing ones, or at least which note competing senses exist. Then we say we do not seem to have very many transparent theories in literature either.} % may note bul16/etc comments re state of non-specialist works (cf Notes)
 %
 %
 %
@@ -106,15 +106,15 @@
 	\label{ss:temporal}
 		We seem to need a few temporal models, namely, \ref{eqn:logs}.%
 		\footnote{For space restricted to in and about the Bay, per \ref{eqn:map}. For vertices as points in time, and arcs as series of happenings or events through time (allowing loops for \(t_i\leq t_j\) where \(t_i=t_j\)). Labelled arcs represent a certain series of events, while unlabelled ones represent any such series. \ref{eqn:logs} are a bit trickier than \ref{eqn:map}.}
-		% eqn logs
+		% eqn logs - may number logs
 		\begin{equation}
 		\tag{Logs}
 		\label{eqn:logs}
 		\begin{tikzcd}[row sep=tiny]
-		(1) &t_0 \rar &t_{\og} \rar &t_1\\
-		(2) &t_0 \rar &t_{\buc} \rar &t_{\ct} \rar &t_1\\
-		(3) &t_0 \rar &t_{\ct} \rar &t_{\buc} \rar &t_1\\
-		(4) &t_i \rar \ar[rr,bend right,"a_j"] &t_{\ct} \rar &t_k
+		t_0 \rar &t_{\og} \rar &t_1\\
+		t_0 \rar &t_{\buc} \rar &t_{\ct} \rar &t_1\\
+		t_0 \rar &t_{\ct} \rar &t_{\buc} \rar &t_1\\
+		t_i \rar \ar[rr,bend right,"a_k"] &t_{\ct} \rar &t_j
 		\end{tikzcd}
 		\end{equation}
 		
@@ -144,27 +144,70 @@
 		And lastly distinguish \ment{gainful} from \ment{lossy} buccaneering.%
 		\footnote{For some appropriate profitable-unprofitable theshold, eg as determined by agents vs empirically, gross vs net, so on. We need this to split buccaneering into disjoint subphenomena. If we set a minimal empirical threshold (eg \ment{gainful} if buccaneers got at least one penny's worth of booty, else \ment{lossy}), then we note that the historical record almost exclusively offers a picture of gainful buccaneering only (strictly speaking), this being especially so for buccaneering in the Bay (given our near complete reliance on Spanish sources for it). Loosely speaking, we would have a proxy picture of lossy buccaneering for some given period if it tightly tracked gainful buccaneerring therein (straightforwardly) and if they loosely tracked (given their temporal order and distance). For Spanish records, we note their tendency to label any foreigner \ment{pirate} (inflating gainful buccaneering incidence), and the likely or possible chance of their missing certain gainful buccaneering incidents (deflating incidence) eg later or minor ones (by victims' being desensitised), ones during heightened buccaneering activity (being overwhelmed), so on, where the inflation is easy to correct, but the deflation not so much.}
 		Then for buccaneering and cutting \emph{in} the Bay, lossy buccaneering either did or did not finely lead to cutting, and either did or did not tightly track gainful buccaneering near or about \(t_{\ct}\).%
-		\footnote{We restrict paths to the Bay as \(t_{\ct}\) was so restricted. For buccaneering and cutting in or out of the Bay, both gainful buccaneering's finely leading to cutting and its not tightly nor loosely tracking lossy buccaneering (in some appropriate period) do not seem viable. A notable class of theories which do not represent lossy buccaneering in the Bay as finely leading to cutting in the Bay are those where only too few of the early cutting incidents were buccaneering ones too, or where most were but only outside the Bay.} % may not need to note order of peaks for tight/loose tracking - may note gain bucc is multimodal distrib and we imagine loss bucc is so too - may note reasons for unviability claims
-		So we fix four paths near or about \(t_{\ct}\), and plot in \ref{eqn:logs} as \(a_k\). % may fix a_fl for finely lead (yes/no) and a_tt for tightly track (yes/no)
+		\footnote{We say \ment{earlier} incidents in \ment{finely leading to} cutting are near or about \(t_{\ct}\), and so restrict all paths to the Bay as \(t_{\ct}\) was so restricted. For buccaneering and cutting in or out of the Bay, both gainful buccaneering's finely leading to cutting and its not tightly nor loosely tracking lossy buccaneering (in some appropriate period) do not seem viable. A notable class of theories which do not represent lossy buccaneering in the Bay as finely leading to cutting in the Bay are those where only too few of the early cutting incidents were buccaneering ones too, or where most were but only outside the Bay.} % may not need to note order of peaks for tight/loose tracking - may note gain bucc is multimodal distrib and we imagine loss bucc is so too - may note reasons for unviability claims
+		So we fix four paths near or about \(t_{\ct}\), and plot in \ref{eqn:logs} as \(a_k\). % may add a_fl for finely lead (yes/no) and a_tt for tightly track (yes/no)
 %
 %
 %
 % sec theories
 \section{Theories}
 \label{s:theories}
-	In this section, we xx
+	In this section, we review theries (existing ones in Section~\ref{ss:existing}, and possible ones in Section~\ref{ss:possible}) to see which carvings of the problem and models of the record they hold for.
 	%
 	%
 	% subsec existing theories
 	\subsection{Existing}
 	\label{ss:existing}
+		xx.%
+		\footnote{Literature haphazardly chosen from Table~\ref{tab:literature}. Qualify all claims regarding literature as being \emph{for} a possible or at least slightly acceptable (not an intended nor accurate nor most acceptable) reading.}
+		
+		% use buccan/cuttg only - sx as work says what-where-when-how, so need this carving/this model for theory
+		\subsubsection{Bulmer-Thomases}
+		Honduras was a haunt- or stand- and settlement-state in Belize established or founded in 1642--1669 (possibly) or by the 1670s (likely) or by 1705 (definitely) when the British settled for buccaneering or cutting.%
+		\footnote{In \cite{bul16}*{pp~137--138, 145, 149, 151--156}. Honduras founded \emph{before} establishment of logwood cutting as main economic activity [p~138], and after capture of Providence [p~145], and only after Mulato sacking of Bacalar [pp~151--152]. Honduras founded only in cayes if established pre-1670 [p~154--155], else in coastal mainland too [pp~155--156]. Cutting occured surely by 1680 [p~154], and was picked up in favour of buccaneering by most settlers after 1670 [pp~154, 156], and intensified likely in 1670s on arrival of Catoche cutters [p~156].}
+		For this theory to hold, we do not seem to need a carving more realised than the one in Section~\ref{ss:carving}.%
+		\footnote{The Bulmer-Thomases seem to speak in terms of a collective, intentional, continuous state, but \emph{for} the model used here, we can imagine competing senses giving us this same theory.} % note their model is clearer to see than their carving
+		% copy re their carving ↓
+		% state emerges if a more than transitory settlement is established [p~137], or if agents make some place their home [p~154]
+		We \emph{do} seem to need very particular spatial and temporal models for the same effect, though.%
+		\footnote{Spatially, we need to isolate Belize's cayes from the Bay Islands, else we may get \(t_{\og}\) in 1638 per [p~155]. Temporally, we need certain specific military and legal pressures to have so strongly discouraged buccaneering so as to essentially have rendered other pressures moot, else we may get earlier possible and likely \(t_{\og}\). Similarly, for 1642--1669 in the Bay, we need gainful and lossy buccaneering to have tightly tracked, and a demographically tight \(t_{\ct}\) (lots of cutters), else we may get this \(t_{\og}\) as the likely one. And so on.} % do we get these new t_og for sec 2.1 carving or bul-thom intended carving ?
+		% more re temporal ↓
+		% bucc = by non-Sp res of Caribb - cutt = of logwood by bucc
+		% pressures = mil by Sp vs bucc/cutt (to 1642) + mil by Maya vs cutt (to when there were enough cutters ie 1670s) + legal by Jam vs bucc for cutt (in/post 1670s)
+		% bounds = tight t_buc (lots of bucc) - tight t_ct (lots of cutters) - for t_buc close to t_ct in 1670s
+		% finely led to = no
+		
+		\subsubsection{Campbell}
+		Honduras was a haunt- and stand- and settlement-state in Bacalar which emerged probably in the 1550s (a little) and xx (a bit more) and xx (more) and xx (fully) as the British went from frequenting to squatting to settling for buccaneering or cutting.%
+		\footnote{In \citelist{\cite{cam03}*{pp~171, 174--176, 178--180} \cite{cam11}*{pp~vii, 82--84, 91--93, 95--96, 100, 104--108, 121--122, 129}}. Honduras emerged as xx. Cutting xx.}
+		For this theory to hold, we xx carving.%
+		\footnote{xx}
+		xx models.%
+		\footnote{xx}
+		
+		\subsubsection{Fénix}
+		Honduras was a haunt- and settlement-state in Bacalar founded in the mid 17th century when Wallace settled for buccaneering.%
+		\footnote{In \cite{fen49}*{p~3}. \ment{Wallace} read symbolically.}
+		
+		\subsubsection{Read's} % note bul16 pp~151-152 say 1642 Mulato Bacl sack may have been more than piratical (to force Sp to withdraw)
+		Honduras was a stand- and settlement-state in Bacalar founded by 1648 or by 1652 when the English settled for cutting.%
+		\footnote{In \cite{rds32}*{p~3}. One of the earliest theories in print (at least), and one of a few to claim later Bacalar sackings were not only piratical (possibly). The unsigned letter, dated Campeachy, 24 Nov 1731, reads in part:\begin{quote}As to the State of the Bay of Honduras, I shall give it you as briefly as possible. The ancient City of Bacalar, situate in that Part of the Province of Yucatan, which lies on the Bay of Honduras, was twice sack'd, and at last totally ruined by the English many Years ago; on which the Logwood-Cutters of that Nation, who had settled on the River of Valis, possessed themselves of the New River and that of the Hondo; which last is distant from the Ruins of Bacalar about five Leagues. Here they built a great many Houses and Hutts, and employ'd Multitudes of Negroes in cutting Logwood, which was transported to Jamaica and Europe by Numbers of Vessels trading from thence to the Bay.\end{quote} \cite{res19}*{pp~13, 16} notes a similar theory by Pitt in 1734 (that cutting stands on Old `had been possessed by the English for more than a hundred years,' in AGI Mexico 3099 ff~5--10), but deems it `a politically motivated rhetorical exaggeration.' We agree that this Bayman and Pitt were likely politically biased, but can see carvings for which their theories hold. Bacalar-in-Pacha and -in-Chunhuhub were also sacked, but this Bayman does not really seem to be referring to those, nor to earlier Bacalar sackings.} % may need to verify chunhuhub sacking
+		
+		\subsubsection{Restall}
 		xx
 	%
 	%
 	% subsec possible theories
 	\subsection{Possible}
 	\label{ss:possible}
-		xx
+		xx.%
+		\footnote{Theories haphazardly chosen. These seem to be at least as viable as existing theories.} % may note no ordered viability claim - may note does not exhaust viable theories
+		
+		\subsubsection{First}
+		Honduras was an xx polity in Bacalar and the Bay Islands which emerged in the 1630s when xx.
+		
+		\subsubsection{Second}
+		Honduras was xx
 %
 %
 %

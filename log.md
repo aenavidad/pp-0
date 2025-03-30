@@ -260,17 +260,18 @@
 - [x] submit preprint[^`pp1` to SocArXiv on 2 mar 2025, plus `pp-0` repo made public on GitHub]
 - [x] preprint pubbed[^in SocArXiv on 3 mar 2025]
 - [x] requested comments from am*tor@yahoo.com[^on 5 mar 2025, got them on 6 mar 2025]
-- [ ] fix vars minor mistakes
-    - [ ] can name 'Tipu rebellion' sans capitals[^eg if event is unique to its class (ie no other rebellions in Tipu), and date markers stripped, and synonyms not accepted (eg 'Elizabethan era' properly names but 'Belizean independence' does not)]
-    - [ ] general do not recommend deferring to popular senses/meanings of historical concepts eg of *founding*, *settlement*[^maybe only licensed if the proper sense is disputed, or if examined action is of proper sort (eg social/constructed, like marriage or illegal moves in chess, or necessarily intentional, or complex/compound), or if truth value of relevant historical claism turn on sense used, so on, but *not* deference out of respect for agents]
-    - [ ] might fix loose definitions/glosses[^if vs only if, qualifiers, so on]
+- [x] fix vars minor mistakes
+    - [x] ~~an name 'Tipu rebellion' sans capitals[^eg if event is unique to its class (ie no other rebellions in Tipu), and date markers stripped, and synonyms not accepted (eg 'Elizabethan era' properly names but 'Belizean independence' does not) -- note excluded]~~
+    - [x] general do not recommend deferring to popular senses/meanings of historical concepts eg of *founding*, *settlement*[^maybe only licensed if the proper sense is disputed, or if examined action is of proper sort (eg social/constructed, like marriage or illegal moves in chess, or necessarily intentional, or complex/compound), or if truth value of relevant historical claism turn on sense used, so on, but *not* deference out of respect for agents]
+    - [x] might fix loose definitions/glosses[^if vs only if, qualifiers, so on — sort of fixed]
     - [x] note anachronistic use of term *Belize*[^plus maybe make use vs mention explicit, plus maybe note pp does not concern etymology, plus maybe note relevant periodisation (Sp to 1638, Precol to 1862)]
     - [x] add spaces to keywords in metadata
     - [x] note previous reviews/discussions on theories re Bz origins[^for Wallacian theories already noted, plus Bolland, Molina, Ancona, C Quijano, so on, plus maybe add first recognition of problem]
     - [x] note explicitly why Wallace ought to be read symbolically[^ie why we ought not discard all Wallace theories esp archival ones (eg historian with sources \\(x\\) and \\(y\\) saying 'there was piratical activity near Old in 1630s onwards' and 'Wallace settled Old in 1638' might give a Wallace theory, but if \\(y\\) is apocryphal, but \\(x\\) is not, historian might still sustain a similar theory on \\(x\\) alone)]
     - [x] add `draft` doc class option
     - [x] ~~fix dates~~[^too tricky]
-- [ ] get pp into historical prose in `pp2`[^eg as sort of lit rev/historiographic discussion (maybe *only* build Map and modified Log as way of abstracting from vars [theories/models](https://plato.stanford.edu/entries/models-science/) in existing lit, to get at the *general* bare bones sans substantive interpretation)]
+- [x] get pp into historical prose in `pp2`[^eg as sort of lit rev/historiographic discussion (maybe *only* build Map and modified Log as way of abstracting from vars [theories/models](https://plato.stanford.edu/entries/models-science/) in existing lit, to get at the *general* bare bones sans substantive interpretation)]
+- [ ] copy edit/finish `pp2`
 
 ### recoding cartas
 - [x] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`

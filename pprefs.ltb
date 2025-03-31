@@ -232,6 +232,14 @@
 	publisher={MAPFRE},
 	address={Madrid}} % http://www.larramendi.es/es/consulta/registro.do?id=9934
 %
+\bib{luk50}{book}{
+	author={Luke, Henry},
+	date={1950},
+	title={Caribbean Circuit},
+	subtitle={},
+	publisher={Nicholson \& Watson},
+	address={London}} % http://ufdc.ufl.edu/AA00030209/00001
+%
 \bib{man22}{article}{	
 	author={Mancha Martínez, Erick},
 	date={2022},

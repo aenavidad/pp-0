@@ -271,7 +271,10 @@
     - [x] add `draft` doc class option
     - [x] ~~fix dates~~[^too tricky]
 - [x] get pp into historical prose in `pp2`[^eg as sort of lit rev/historiographic discussion (maybe *only* build Map and modified Log as way of abstracting from vars [theories/models](https://plato.stanford.edu/entries/models-science/) in existing lit, to get at the *general* bare bones sans substantive interpretation)]
-- [ ] copy edit/finish `pp2`
+- [x] copy edit/finish `pp2`
+- [ ] submit `pp2` preprint
+- [ ] update preprint metadata stuff
+- [ ] ask for comments
 
 ### recoding cartas
 - [x] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`

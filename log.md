@@ -272,9 +272,12 @@
     - [x] ~~fix dates~~[^too tricky]
 - [x] get pp into historical prose in `pp2`[^eg as sort of lit rev/historiographic discussion (maybe *only* build Map and modified Log as way of abstracting from vars [theories/models](https://plato.stanford.edu/entries/models-science/) in existing lit, to get at the *general* bare bones sans substantive interpretation)]
 - [x] copy edit/finish `pp2`
-- [ ] submit `pp2` preprint
+- [x] submit `pp2` preprint[^on 2 apr 2025]
 - [ ] update preprint metadata stuff
-- [ ] ask for comments
+- [x] ask for comments[^fm res, gom, bul, bia, macp on 2 apr 2025]
+- [ ] incorporate missing papers
+    - [ ] [Gomez pp](https://jobr.ub.edu.bz/index.php/ubrj/article/view/61)
+    - [ ] those wc might deny vagueness for some log/pir settlements
 
 ### recoding cartas
 - [x] for all `cod!=null` cartas, ensure `pir` and `def` values accurately reflect criteria as newly specified in `cartas/readme.md`

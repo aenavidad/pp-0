@@ -272,8 +272,8 @@
     - [x] ~~fix dates~~[^too tricky]
 - [x] get pp into historical prose in `pp2`[^eg as sort of lit rev/historiographic discussion (maybe *only* build Map and modified Log as way of abstracting from vars [theories/models](https://plato.stanford.edu/entries/models-science/) in existing lit, to get at the *general* bare bones sans substantive interpretation)]
 - [x] copy edit/finish `pp2`
-- [x] submit `pp2` preprint[^on 2 apr 2025]
-- [ ] update preprint metadata stuff
+- [x] submit `pp2` preprint[^on 2 apr 2025, pub 4 apr 2025]
+- [x] update preprint metadata stuff
 - [x] ask for comments[^fm res, gom, bul, bia, macp on 2 apr 2025]
 - [ ] incorporate missing papers
     - [ ] [Gomez pp](https://jobr.ub.edu.bz/index.php/ubrj/article/view/61)

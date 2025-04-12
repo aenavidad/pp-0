@@ -539,6 +539,7 @@
         - [ ] Curry
         - [x] Krushus[^added `s2326` to `/literature` and `/citations` with `via:null`]
 - [x] tag literature review/historiographic sources in `note`
+- [ ] add missing sources eg Caiger (s1334), Dobson, so on
 
 ## prior log
 ### any cartas

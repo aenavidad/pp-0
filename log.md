@@ -274,7 +274,7 @@
 - [x] copy edit/finish `pp2`
 - [x] submit `pp2` preprint[^on 2 apr 2025, pub 4 apr 2025]
 - [x] update preprint metadata stuff
-- [x] ask for comments[^fm res, gom, bul, bia, macp on 2 apr 2025]
+- [x] ask for comments[^fm res, gom, bul, bia, macp on 2 apr 2025 - got res comments on 3 apr 2025, got gom 'yes' on 3 apr 2025 - fm j burg (text) on 15 apr 2025 - got j burg comments (text) on 16 apr 2025]
 - [ ] incorporate missing papers
     - [ ] [Gomez pp](https://jobr.ub.edu.bz/index.php/ubrj/article/view/61)
     - [ ] those wc might deny vagueness for some log/pir settlements
